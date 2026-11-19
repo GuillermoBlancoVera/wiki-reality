@@ -1,0 +1,643 @@
+{
+  "_doc": "Fotos candidatas de Openverse pendientes de revisar. Generado por scripts/update-photo-candidates.mjs.",
+  "checked": {
+    "mercedes-mila": "2026-11-19",
+    "jesus-vazquez": "2026-11-19",
+    "carlos-sobera": "2026-11-19",
+    "asraf-beno": "2026-11-19",
+    "kiko-jimenez": "2026-11-19",
+    "terelu-campos": "2026-11-19",
+    "antonio-tejado": "2026-11-19",
+    "aurah-ruiz": "2026-11-19",
+    "laura-matamoros": "2026-11-19",
+    "alejandro-nieto": "2026-11-19",
+    "rosa-benito": "2026-11-19",
+    "tony-spina": "2026-11-19",
+    "jessica-bueno": "2026-11-19",
+    "jose-antonio-aviles": "2026-11-19",
+    "alvaro-munoz-escassi": "2026-11-19",
+    "roberto-leal": "2026-11-19",
+    "julian-iantzi": "2026-11-19",
+    "maria-jesus-ruiz": "2026-11-19",
+    "alejandro-albala": "2026-11-19",
+    "juan-miguel-martinez": "2026-11-19",
+    "carolina-sobe": "2026-11-19",
+    "ylenia-padilla": "2026-11-19",
+    "fede-rebecchi": "2026-11-19",
+    "manuel-gonzalez": "2026-11-19",
+    "elena-rodriguez": "2026-11-19",
+    "ana-maria-aldon": "2026-11-19",
+    "ivana-icardi": "2026-11-19",
+    "marieta-diaz": "2026-11-19",
+    "alex-ghita": "2026-11-19",
+    "daniel-santos": "2026-11-19",
+    "ivonne-armant": "2026-11-19",
+    "laura-cuevas": "2026-11-19",
+    "jose-salazar": "2026-11-19",
+    "juan-salazar": "2026-11-19",
+    "miriam-saavedra": "2026-11-19",
+    "suso-alvarez": "2026-11-19",
+    "monica-hoyos": "2026-11-19",
+    "makoke-giaever": "2026-11-19",
+    "isa-pantoja": "2026-11-19",
+    "mila-ximenez": "2026-11-19",
+    "maestro-joao": "2026-11-19",
+    "jaime-nava": "2026-11-19",
+    "alex-adrover": "2026-11-19",
+    "el-sevilla": "2026-11-19",
+    "cristina-cifuentes": "2026-11-19",
+    "toni-moreno": "2026-11-19",
+    "pelayo-diaz": "2026-11-19",
+    "nagore-robles": "2026-11-19",
+    "suhaila-jad": "2026-11-19",
+    "raquel-mosquera": "2026-11-19",
+    "adrian-rodriguez": "2026-11-19",
+    "toni-salazar": "2026-11-19",
+    "vicky-larraz": "2026-11-19",
+    "omar-sanchez": "2026-11-19"
+  },
+  "people": {
+    "jesus-vazquez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Manuel_Jes%C3%BAs_V%C3%A1zquez_%28Chuli%29_futbolista_2013.jpg",
+        "thumb": "https://api.openverse.org/v1/images/3290aa8e-c1bd-4118-85e3-d36cd6892379/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=27712572",
+        "title": "Manuel Jesús Vázquez (Chuli) futbolista 2013",
+        "author": "Anual",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/JES%C3%9AS_V%C3%81ZQUEZ_2021.jpg",
+        "thumb": "https://api.openverse.org/v1/images/ec37d731-7e67-4a12-a549-766eee3a87b5/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=108531884",
+        "title": "JESÚS VÁZQUEZ 2021",
+        "author": "Valencia CF",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jes%C3%BAs_V%C3%A1zquez_Abad.png",
+        "thumb": "https://api.openverse.org/v1/images/d2e980dd-0d1c-4218-90c6-d35facaee98b/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=101291710",
+        "title": "Jesús Vázquez Abad",
+        "author": "JulioLN",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "terelu-campos": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Terelu_Campos_en_2022.jpg",
+        "thumb": "https://api.openverse.org/v1/images/dbbb51c2-19c7-4c29-9345-2bbe05620b9e/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=149643501",
+        "title": "Terelu Campos en 2022",
+        "author": "Quickero005",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Marengo_de_Oro%2C_Terelu_Campos.jpg",
+        "thumb": "https://api.openverse.org/v1/images/99132cd8-fdf4-4bed-bd2b-3f4c45ea14bf/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=129790523",
+        "title": "Marengo de Oro, Terelu Campos",
+        "author": "Daniel Capilla",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "alejandro-nieto": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Alejandro_Nieto_Garc%C3%ADa.jpg",
+        "thumb": "https://api.openverse.org/v1/images/0a31f348-2373-4133-afa9-8704d6a33ee8/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=138437105",
+        "title": "Alejandro Nieto García",
+        "author": "unknown",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Rodrigo_Alejandro_Nieto_Enr%C3%ADquez.jpg",
+        "thumb": "https://api.openverse.org/v1/images/b011bff5-9b5e-4300-a7c8-8079b7b76514/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=25295410",
+        "title": "File:Rodrigo Alejandro Nieto Enríquez.jpg",
+        "author": "Díaz de León Bec",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "rosa-benito": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Rosa_Benito.jpg",
+        "thumb": "https://api.openverse.org/v1/images/b986e28b-b5ac-477e-9fce-e1d7d2cd849a/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=193322354",
+        "title": "Rosa Benito",
+        "author": "Galeanojav",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "roberto-leal": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Roberto_Leal.jpg",
+        "thumb": "https://api.openverse.org/v1/images/1b0ba93e-9d26-4a1b-a7ad-f264e6296b0c/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=12200315",
+        "title": "Roberto Leal",
+        "author": "Braswiki",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Show_de_Roberto_Leal_em_comemora%C3%A7%C3%A3o_ao_centen%C3%A1rio_da_Portuguesa_Santista_%2837948973334%29_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/7a2b2c32-a432-4642-94b4-fdf3b24389f0/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=82219370",
+        "title": "Show de Roberto Leal em comemoração ao centenário da Portuguesa Santista (37948973334) (cropped)",
+        "author": "Agência Briosa from Santos, Brasil",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/4548/37948967474_7e14d568e8.jpg",
+        "thumb": "https://api.openverse.org/v1/images/88c62178-485e-460d-b46f-d9ac759cccb0/thumb/",
+        "page": "https://www.flickr.com/photos/152983294@N04/37948967474",
+        "title": "Show de Roberto Leal em comemoração ao centenário da Portuguesa Santista",
+        "author": "Portuguesa Santista",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "julian-iantzi": [
+      {
+        "src": "https://live.staticflickr.com/382/20255761032_bbf3955188.jpg",
+        "thumb": "https://api.openverse.org/v1/images/b8e0ed3b-c46d-4470-aa8e-bd9b7cb7367b/thumb/",
+        "page": "https://www.flickr.com/photos/11737625@N00/20255761032",
+        "title": "Unai Rementeria y Julian Iantzi en Boise",
+        "author": "jamoral",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "maria-jesus-ruiz": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mar%C3%ADa_Jes%C3%BAs_Ruiz_Garz%C3%B3n_-_IMG_20211207_143135.jpg",
+        "thumb": "https://api.openverse.org/v1/images/1f47be04-ab7d-4a01-a98d-752f73c42342/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=113171837",
+        "title": "María Jesús Ruiz Garzón - IMG 20211207 143135",
+        "author": "El Pantera",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Maria-jesus-ruiz.jpg",
+        "thumb": "https://api.openverse.org/v1/images/aad99a3c-a140-4730-8fd0-fdbcbafec2c8/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=96957090",
+        "title": "File:Maria-jesus-ruiz.jpg",
+        "author": "Antonioomatas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/M-hopital-cruz-roja-maria-jesus-ruiz-capillas-del-castillo-torrelavega-2025-a.jpg",
+        "thumb": "https://api.openverse.org/v1/images/0412f5df-e0a3-4148-9be0-b6453047d46f/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=175588299",
+        "title": "M-hopital-cruz-roja-maria-jesus-ruiz-capillas-del-castillo-torrelavega-2025-a",
+        "author": "MottaW",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "juan-miguel-martinez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Josu%C3%A9_Naim_Fern%C3%A1ndez_Matamoros._Juan_Miguel_Mart%C3%ADnez_Ram%C3%ADrez._Atlas_de_la_imposibilidad.jpg",
+        "thumb": "https://api.openverse.org/v1/images/a49b70ef-3316-4bb2-8835-0438d3bf4949/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=50092939",
+        "title": "Josué Naim Fernández Matamoros. Juan Miguel Martínez Ramírez. Atlas de la imposibilidad",
+        "author": "Unamlen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "carolina-sobe": [
+      {
+        "src": "https://live.staticflickr.com/508/32658874195_b2c59e7a69_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/473302f4-b1a5-4fb2-877a-64e83aeb8473/thumb/",
+        "page": "https://www.flickr.com/photos/67314964@N04/32658874195",
+        "title": "FITUR GAY (LGBT) 2017 WORLD PRIDE EDITION - Dña. Carolina Sobe - Cantante",
+        "author": "Diversity Consulting International",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": "flickr"
+      }
+    ],
+    "ylenia-padilla": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Padilla_Santana_Ylenia.jpg",
+        "thumb": "https://api.openverse.org/v1/images/0599f236-0a16-4a52-a734-964e67d661f6/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=89862385",
+        "title": "File:Padilla Santana Ylenia.jpg",
+        "author": "La Careta de Dalí",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "manuel-gonzalez": [
+      {
+        "src": "https://live.staticflickr.com/5218/5528538685_52c57a9477_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/11666af1-bf52-4c5e-b020-01ff963d7650/thumb/",
+        "page": "https://www.flickr.com/photos/47615096@N05/5528538685",
+        "title": "Ángel Manuel González, candidato a la alcaldía de Muros del Nalón",
+        "author": "Izquierda Xunida",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/5294/5528538255_f0aec3028b_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/f75a32bc-0ed7-443a-acf8-4149c3c57fc3/thumb/",
+        "page": "https://www.flickr.com/photos/47615096@N05/5528538255",
+        "title": "Ángel Manuel González, candidato a la alcaldía de Muros del Nalón",
+        "author": "Izquierda Xunida",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Jos%C3%A9_Manuel_Gonz%C3%A1lez-P%C3%A1ramo_2013_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/94eedb86-a59b-4315-976c-e0f32ed859a1/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=56539893",
+        "title": "José Manuel González-Páramo 2013 (cropped)",
+        "author": "CreditAndorra (youtube)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "elena-rodriguez": [
+      {
+        "src": "https://live.staticflickr.com/8250/8554077729_f8ac574be9_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/54419ccb-64a1-49cf-8e36-568facb2a642/thumb/",
+        "page": "https://www.flickr.com/photos/52253723@N04/8554077729",
+        "title": "Elena Rodríguez, Presidente de Charrosfera presenta a Pep Gómez",
+        "author": "Camara Salamanca",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Rub%C3%AD_Elena_Rodr%C3%ADguez_Moreno_MFO_2010.jpg",
+        "thumb": "https://api.openverse.org/v1/images/314d1b6f-1a93-41b3-a2ae-6c3e93e4ad99/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=81988883",
+        "title": "Rubí Elena Rodríguez Moreno MFO 2010",
+        "author": "Greuel, Gert-Martin",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Mar%C3%ADa_Elena_Rodr%C3%ADguez_Oz%C3%A1n.jpg",
+        "thumb": "https://api.openverse.org/v1/images/614a46d1-b27c-4c1c-86fc-caa6dad63a9c/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=57345567",
+        "title": "María Elena Rodríguez Ozán",
+        "author": "Carolinamawe",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "daniel-santos": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Daniel_Santos_%282007%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/6c98f1da-71c2-4b6e-a0a1-dac2ab07ec38/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=95104075",
+        "title": "Daniel Santos (2007)",
+        "author": "Charlie",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dr._Daniel_Santos.jpg",
+        "thumb": "https://api.openverse.org/v1/images/ddd7663c-1661-4556-abf9-a9f786421239/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=81297971",
+        "title": "Dr. Daniel Santos",
+        "author": "Perfil oficial do deputado Daniel Santos no Flickr",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/6036/6279732161_1395909f81.jpg",
+        "thumb": "https://api.openverse.org/v1/images/6f6c3732-2e96-4c90-b65f-5a66cd84eda7/thumb/",
+        "page": "https://www.flickr.com/photos/49703787@N05/6279732161",
+        "title": "James Hackman, Ricardo Paes de Barros, Daniel Santos e Rodrigo Pinto discutem as competências não cognitivas na escola no #educaçãoséc21",
+        "author": "Instituto Ayrton Senna",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "laura-cuevas": [
+      {
+        "src": "https://live.staticflickr.com/7844/47493524591_e1aff9a1fa_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/d0b38cb1-fb78-4091-976d-d7c1584418b4/thumb/",
+        "page": "https://www.flickr.com/photos/53344249@N02/47493524591",
+        "title": "Laura cuevas y Sara Hormaza en su pacto con el agua",
+        "author": "Universidad EAFIT",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "jose-salazar": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cardenal_Jos%C3%A9_Salazar_L%C3%B3pez.jpg",
+        "thumb": "https://api.openverse.org/v1/images/33fcc926-4674-462d-8df4-e835fcaef6de/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=52206480",
+        "title": "Cardenal José Salazar López",
+        "author": "Conferencia del Episcopado Mexicano",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jos%C3%A9_Salazar_Ilarrequi.jpg",
+        "thumb": "https://api.openverse.org/v1/images/35f3125b-1cba-46be-aafe-3dae6ac802dd/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=76096876",
+        "title": "José Salazar Ilarrequi",
+        "author": "Unidentified photographer",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Juan_Jos%C3%A9_Salazar.png",
+        "thumb": "https://api.openverse.org/v1/images/91ae22fe-116c-4d98-b0d7-fc2486062102/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=88016888",
+        "title": "Juan José Salazar",
+        "author": "Pedrorobertopizano",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "juan-salazar": [
+      {
+        "src": "https://live.staticflickr.com/36/106051115_4c0faae38b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/9c8e495a-5ba9-4ef3-9110-79d7356d1864/thumb/",
+        "page": "https://www.flickr.com/photos/87533529@N00/106051115",
+        "title": "Juan Salazar",
+        "author": "mwlguide",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Juan_Salazar_Sparks.jpg",
+        "thumb": "https://api.openverse.org/v1/images/94d4c8f2-a797-4fc4-969d-85658fe382ef/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=26833510",
+        "title": "Juan Salazar Sparks",
+        "author": "Consejo de la Unión Europea - http://www.consilium.europa.eu/toolbar/copyright?lang=en",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Juan_Salazar_L%C3%B3pez.jpg",
+        "thumb": "https://api.openverse.org/v1/images/8794fd9f-5131-4b9f-a009-428ebb496176/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=124243455",
+        "title": "Juan Salazar López",
+        "author": "Asamblea Nacional del Ecuador",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "mila-ximenez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mila_Xim%C3%A9nez_2020.jpg",
+        "thumb": "https://api.openverse.org/v1/images/3ee95dec-cb0a-4e5e-9e8a-881d5c437212/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=136081718",
+        "title": "Mila Ximénez 2020",
+        "author": "Ederim",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "maestro-joao": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Orgao_Maestro_Joao_Antonio_Romao.jpg",
+        "thumb": "https://api.openverse.org/v1/images/f375132a-e3c0-4635-8e2a-94e1fdf437a9/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=41472285",
+        "title": "Orgao Maestro Joao Antonio Romao",
+        "author": "Paulo Castagna",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Maestro_Joao_C._Rocha.jpg",
+        "thumb": "https://api.openverse.org/v1/images/17ad4b9e-20fa-4365-9c9e-505c65a74ea3/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=116382685",
+        "title": "Maestro Joao C. Rocha",
+        "author": "Nocolae Pop",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Maestro-joao-baila-puedas.jpg",
+        "thumb": "https://api.openverse.org/v1/images/6996fb89-02f2-427a-8708-03e34b3b3b35/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=146544134",
+        "title": "Maestro-joao-baila-puedas",
+        "author": "Unknown authorUnknown author",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      }
+    ],
+    "jaime-nava": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Jaime_Nava_Rugby.jpg",
+        "thumb": "https://api.openverse.org/v1/images/8db8596d-b752-42f7-9390-7b721639c858/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=148051041",
+        "title": "Jaime Nava Rugby",
+        "author": "Unknown authorUnknown author",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "el-sevilla": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/El_Sevilla.jpg",
+        "thumb": "https://api.openverse.org/v1/images/8a60a3ec-3dbe-4571-a389-0722185dc52f/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=10110105",
+        "title": "El Sevilla",
+        "author": "Gochy5",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/204/457659435_5e1f909793_m.jpg",
+        "thumb": "https://api.openverse.org/v1/images/f5c63c35-e9b2-4541-aa1a-56bcd80f3c00/thumb/",
+        "page": "https://www.flickr.com/photos/72448202@N00/457659435",
+        "title": "El Puto y el Sevilla",
+        "author": "oseillo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/253/457653711_dd91210358_m.jpg",
+        "thumb": "https://api.openverse.org/v1/images/2a0e5cd0-e1c9-4915-b1f3-54e4cc1c7e8f/thumb/",
+        "page": "https://www.flickr.com/photos/72448202@N00/457653711",
+        "title": "El Sevilla(3)",
+        "author": "oseillo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "cristina-cifuentes": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cristina_Cifuentes_2018c_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/1f8ae3b9-96b7-4030-baf8-4f94eefd7d2a/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=68618408",
+        "title": "Cristina Cifuentes 2018c (cropped)",
+        "author": "Cristina Cifuentes",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cristina_Cifuentes_2015g_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/b92cee53-d9a2-4c43-bff3-c63225897eef/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=39851129",
+        "title": "Cristina Cifuentes 2015g (cropped)",
+        "author": "Cristina Cifuentes",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Cristina_Cifuentes._Convenci%C3%B3n_Nacional_PP._14CA8E56-D89B-49CB-8E0A-07509B2EF27B_%2839490198020%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/62f24081-d1da-4a95-ae12-f187c08fa112/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=68153933",
+        "title": "Cristina Cifuentes. Convención Nacional PP. 14CA8E56-D89B-49CB-8E0A-07509B2EF27B (39490198020)",
+        "author": "PP Comunidad de Madrid",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "pelayo-diaz": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Pelayo_D%C3%ADaz_Zapico_at_82nd_Venice_International_Film_Festival-1.jpg",
+        "thumb": "https://api.openverse.org/v1/images/59a4b820-a976-4c35-983f-078f4f6a55ed/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=174606184",
+        "title": "Pelayo Díaz Zapico at 82nd Venice International Film Festival-1",
+        "author": "LucaFazPhoto",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/4188/34718164426_b14c575f70.jpg",
+        "thumb": "https://api.openverse.org/v1/images/abec3c93-2803-4f33-95ae-5e20d96dccd2/thumb/",
+        "page": "https://www.flickr.com/photos/148980001@N04/34718164426",
+        "title": "Frank Cuesta ''abre los ojos'' a Pelayo Díaz sobre las pieles: ''He sido un ignorante'' - Ecoteuve.es",
+        "author": "Leales.org • tu guía animable",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": "flickr"
+      }
+    ],
+    "adrian-rodriguez": [
+      {
+        "src": "https://live.staticflickr.com/406/20249374822_c565d18bea_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/d9d10b9d-dcc7-410c-ab3f-422dbeaaf63d/thumb/",
+        "page": "https://www.flickr.com/photos/97630434@N07/20249374822",
+        "title": "Exposición a cargo del Ec. Adrián Rodríguez del Iecom",
+        "author": "miemuruguay",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Adri%C3%A1n_Rodr%C3%ADguez_%28skeleton%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/d78fac61-f982-4557-bc46-7c98bc137b7c/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=189212100",
+        "title": "Adrián Rodríguez (skeleton)",
+        "author": "Adrirodriguezskeleton",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Adrian_rodriguez_gregorio.jpg",
+        "thumb": "https://api.openverse.org/v1/images/4896f617-8fb4-4ff5-a6b2-9c66aa8a4f82/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=5509091",
+        "title": "Adrian rodriguez gregorio",
+        "author": "No machine-readable author provided. Carlos Martin Hernandez assumed (based on copyright claims).",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "toni-salazar": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/To%C3%B1i_Salazar.jpg",
+        "thumb": "https://api.openverse.org/v1/images/fff6c576-2d18-4194-9e5f-2e83714b9fa0/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=130460841",
+        "title": "Toñi Salazar",
+        "author": "Richardcerre",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "vicky-larraz": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Vicky_Larraz.jpg",
+        "thumb": "https://api.openverse.org/v1/images/be184960-6b1d-4d9d-a9a2-8f82b2ac1ad8/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=168212037",
+        "title": "Vicky Larraz",
+        "author": "Tulio Cañadas García",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "omar-sanchez": [
+      {
+        "src": "https://live.staticflickr.com/397/31836741093_74bba385e7_m.jpg",
+        "thumb": "https://api.openverse.org/v1/images/de833211-09fc-4ce2-a058-6c0d611b1dc3/thumb/",
+        "page": "https://www.flickr.com/photos/147929464@N06/31836741093",
+        "title": "Rubén Omar Sánchez-Boca Juniors Buenos Aires",
+        "author": "probability1986",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "flickr"
+      }
+    ]
+  }
+}
