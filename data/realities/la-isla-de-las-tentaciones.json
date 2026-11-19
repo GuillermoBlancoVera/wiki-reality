@@ -1,0 +1,45 @@
+{
+  "id": "la-isla-de-las-tentaciones",
+  "name": "La isla de las tentaciones",
+  "short": "La Isla",
+  "tagline": "Parejas, tentadores y hogueras en el paraíso",
+  "description": "Reality de parejas en el que varias parejas conviven por separado con un grupo de solteros y solteras (tentadores y tentadoras) para poner a prueba su relación. Al final, cada pareja decide en la hoguera si sale junta, por separado o con otra persona.",
+  "channel": "Telecinco / Cuatro",
+  "since": 2020,
+  "theme": "isla",
+  "newsQuery": "\"La isla de las tentaciones\"",
+  "sources": ["https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones"],
+  "editions": [
+    {
+      "number": 1, "title": "1.ª edición", "year": 2020,
+      "dates": "9 ene – 13 feb 2020", "channel": "Cuatro y Telecinco",
+      "presenter": "Mónica Naranjo (programas) y Sandra Barneda (debates)",
+      "couples": [
+        { "a": "alex-bueno", "b": "fiama-rodriguez" },
+        { "a": "gonzalo-montoya", "b": "susana-molina" },
+        { "a": "fani-carbajo", "b": "christofer-guzman" },
+        { "a": "andrea-gasca", "b": "oscar-ruiz" },
+        { "a": "jose-sanchez", "b": "adelina-seres" }
+      ],
+      "notes": "Resultado de cada hoguera pendiente de completar."
+    },
+    {
+      "number": 2, "title": "2.ª edición", "year": 2020,
+      "dates": "23 sep – 1 nov 2020", "channel": "Telecinco",
+      "presenter": "Sandra Barneda (debates con Carlos Sobera)",
+      "couples": [
+        { "a": "melyssa-pinto", "b": "tom-brusse" }
+      ],
+      "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros. Resto de parejas pendiente de completar."
+    },
+    { "number": 3, "title": "3.ª edición", "year": 2021, "dates": "21 ene – 31 mar 2021", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Isaac Torres «Lobo» participó como tentador. Parejas pendientes de completar." },
+    { "number": 4, "title": "4.ª edición", "year": 2021, "dates": "10 nov 2021 – 25 ene 2022", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
+    { "number": 5, "title": "5.ª edición", "year": 2022, "dates": "21 sep 2022 – 1 ene 2023", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
+    { "number": 6, "title": "6.ª edición", "year": 2023, "dates": "23 ene – 8 may 2023", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
+    { "number": 7, "title": "7.ª edición", "year": 2024, "dates": "9 ene – 10 abr 2024", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
+    { "number": 8, "title": "8.ª edición", "year": 2025, "dates": "6 ene – 19 mar 2025", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." }
+  ],
+  "spinoffs": [
+    { "title": "La última tentación", "year": 2021, "dates": "15 sep – 8 nov 2021", "presenter": "Sandra Barneda" }
+  ]
+}

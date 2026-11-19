@@ -1,0 +1,274 @@
+{
+  "_doc": "Fichas de persona. Solo hechos públicos sobre su paso por los programas. Campos opcionales: bio, origin, now (solo lo que la persona cuenta en sus redes públicas), socials {instagram, tiktok, x}, extraAppearances.",
+  "people": {
+    "alex-bueno": {
+      "name": "Álex Bueno"
+    },
+    "fiama-rodriguez": {
+      "name": "Fiama Rodríguez",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "3.ª edición (2021)",
+          "role": "Participante"
+        }
+      ]
+    },
+    "gonzalo-montoya": {
+      "name": "Gonzalo Montoya",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "La última tentación (2021)",
+          "role": "Participante"
+        }
+      ]
+    },
+    "susana-molina": {
+      "name": "Susana Molina"
+    },
+    "fani-carbajo": {
+      "name": "Fani Carbajo",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "La última tentación (2021)",
+          "role": "Participante"
+        }
+      ]
+    },
+    "christofer-guzman": {
+      "name": "Christofer Guzmán",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "La última tentación (2021)",
+          "role": "Participante"
+        }
+      ]
+    },
+    "andrea-gasca": {
+      "name": "Andrea Gasca",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "2.ª edición (2020)",
+          "role": "Soltera"
+        }
+      ]
+    },
+    "oscar-ruiz": {
+      "name": "Óscar Ruiz",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "2.ª edición (2020)",
+          "role": "Soltero"
+        },
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "La última tentación (2021)",
+          "role": "Participante"
+        }
+      ]
+    },
+    "jose-sanchez": {
+      "name": "José Sánchez"
+    },
+    "adelina-seres": {
+      "name": "Adelina Seres"
+    },
+    "melyssa-pinto": {
+      "name": "Melyssa Pinto"
+    },
+    "tom-brusse": {
+      "name": "Tom Brusse"
+    },
+    "isaac-torres": {
+      "name": "Isaac Torres «Lobo»",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "3.ª edición (2021)",
+          "role": "Tentador"
+        },
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "La última tentación (2021)",
+          "role": "Participante"
+        }
+      ]
+    },
+    "ismael-beiro": {
+      "name": "Ismael Beiro"
+    },
+    "ania-iglesias": {
+      "name": "Ania Iglesias"
+    },
+    "ivan-armesto": {
+      "name": "Iván Armesto"
+    },
+    "sabrina-mahi": {
+      "name": "Sabrina Mahí"
+    },
+    "fran-garcia": {
+      "name": "Fran García"
+    },
+    "mari-arrabal": {
+      "name": "Mari Arrabal"
+    },
+    "javito-garcia": {
+      "name": "Javito García"
+    },
+    "patricia-ledesma": {
+      "name": "Patricia Ledesma"
+    },
+    "kiko-hernandez": {
+      "name": "Kiko Hernández"
+    },
+    "pedro-oliva": {
+      "name": "Pedro Oliva"
+    },
+    "desiree-albertalli": {
+      "name": "Désirée Albertalli"
+    },
+    "rafa-lopez": {
+      "name": "Rafa López"
+    },
+    "nuria-yanez": {
+      "name": "Nuria Yáñez"
+    },
+    "david-gallardo": {
+      "name": "David Gallardo"
+    },
+    "julian-mejias": {
+      "name": "Julián Mejías"
+    },
+    "juanjo-mateo": {
+      "name": "Juanjo Mateo"
+    },
+    "conrad-chase": {
+      "name": "Conrad Chase"
+    },
+    "natacha-jaitt": {
+      "name": "Natacha Jaitt"
+    },
+    "pepe-herrero": {
+      "name": "Pepe Herrero"
+    },
+    "javier-varela": {
+      "name": "Javier Varela"
+    },
+    "raquel-abad": {
+      "name": "Raquel Abad"
+    },
+    "naiala-melo": {
+      "name": "Naiala Melo"
+    },
+    "laura-fernandez": {
+      "name": "Laura Fernández"
+    },
+    "miriam-constanti": {
+      "name": "Miriam Constantí"
+    },
+    "judit-iglesias": {
+      "name": "Judit Iglesias"
+    },
+    "conchi-y-pamela-de-los-santos": {
+      "name": "Conchi y Pamela de los Santos"
+    },
+    "rodrigo-urbina": {
+      "name": "Rodrigo Urbina"
+    },
+    "ivan-madrazo": {
+      "name": "Iván Madrazo"
+    },
+    "orlando-breyner": {
+      "name": "Orlando Breyner"
+    },
+    "almudena-martinez": {
+      "name": "Almudena Martínez"
+    },
+    "angel-munoz": {
+      "name": "Ángel Muñoz"
+    },
+    "saray-pereira": {
+      "name": "Saray Pereira"
+    },
+    "pilarita-gomez": {
+      "name": "Pilarita Gómez"
+    },
+    "laura-campos": {
+      "name": "Laura Campos"
+    },
+    "yago-hermida": {
+      "name": "Yago Hermida"
+    },
+    "marcelo-ciriaco": {
+      "name": "Marcelo Ciriaco"
+    },
+    "pepe-flores": {
+      "name": "Pepe Flores"
+    },
+    "daniel-santos": {
+      "name": "Daniel Santos"
+    },
+    "xavier-monjonell": {
+      "name": "Xavier Monjonell"
+    },
+    "alfredo-cortina": {
+      "name": "Alfredo Cortina"
+    },
+    "carmen-russo": {
+      "name": "Carmen Russo"
+    },
+    "nilo-manrique": {
+      "name": "Nilo Manrique"
+    },
+    "miriam-sanchez": {
+      "name": "Miriam Sánchez"
+    },
+    "maite-zuniga": {
+      "name": "Maite Zúñiga"
+    },
+    "maria-jose-fernandez": {
+      "name": "María José Fernández"
+    },
+    "rosa-benito": {
+      "name": "Rosa Benito"
+    },
+    "abraham-garcia": {
+      "name": "Abraham García"
+    },
+    "christopher-mateo": {
+      "name": "Christopher Mateo"
+    },
+    "jorge-diaz": {
+      "name": "Jorge Díaz"
+    },
+    "jose-luis-losa": {
+      "name": "José Luis Losa"
+    },
+    "sofia-suescun": {
+      "name": "Sofía Suescun"
+    },
+    "omar-montes": {
+      "name": "Omar Montes"
+    },
+    "jorge-perez": {
+      "name": "Jorge Pérez"
+    },
+    "olga-moreno": {
+      "name": "Olga Moreno"
+    },
+    "alejandro-nieto": {
+      "name": "Alejandro Nieto"
+    },
+    "bosco-martinez-bordiu": {
+      "name": "Bosco Martínez-Bordiú"
+    },
+    "pedro-garcia-aguado": {
+      "name": "Pedro García Aguado"
+    }
+  }
+}

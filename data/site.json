@@ -1,0 +1,7 @@
+{
+  "name": "Wiki Reality",
+  "tagline": "La enciclopedia de los realities de España",
+  "description": "Ediciones, concursantes, ganadores, parejas y el recorrido de cada persona por los realities de la televisión española.",
+  "contactEmail": "",
+  "realitiesOrder": ["la-isla-de-las-tentaciones", "gran-hermano", "supervivientes"]
+}

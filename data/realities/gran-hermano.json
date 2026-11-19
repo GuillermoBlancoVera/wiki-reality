@@ -1,0 +1,28 @@
+{
+  "id": "gran-hermano",
+  "name": "Gran Hermano",
+  "short": "GH",
+  "tagline": "La casa más vigilada de España desde el año 2000",
+  "description": "Concursantes aislados en una casa vigilada por cámaras las 24 horas. Cada semana se nomina y la audiencia decide quién es expulsado, hasta que en la final se elige al ganador.",
+  "channel": "Telecinco",
+  "since": 2000,
+  "theme": "gh",
+  "newsQuery": "\"Gran Hermano\" Telecinco",
+  "sources": ["https://es.wikipedia.org/wiki/Gran_Hermano_(Espa%C3%B1a)"],
+  "editions": [
+    { "number": 1, "title": "Gran Hermano 1", "year": 2000, "days": 89, "presenter": "Mercedes Milá", "winner": "ismael-beiro", "finalists": ["ania-iglesias", "ivan-armesto"] },
+    { "number": 2, "title": "Gran Hermano 2", "year": 2001, "days": 101, "presenter": "Mercedes Milá", "winner": "sabrina-mahi", "finalists": ["fran-garcia", "mari-arrabal"] },
+    { "number": 3, "title": "Gran Hermano 3", "year": 2002, "days": 101, "winner": "javito-garcia", "finalists": ["patricia-ledesma", "kiko-hernandez"] },
+    { "number": 4, "title": "Gran Hermano 4", "year": 2002, "days": 102, "winner": "pedro-oliva", "finalists": ["desiree-albertalli", "rafa-lopez"] },
+    { "number": 5, "title": "Gran Hermano 5", "year": 2003, "days": 112, "winner": "nuria-yanez", "finalists": ["david-gallardo", "julian-mejias"] },
+    { "number": 6, "title": "Gran Hermano 6", "year": 2004, "days": 109, "winner": "juanjo-mateo", "finalists": ["conrad-chase", "natacha-jaitt"] },
+    { "number": 7, "title": "Gran Hermano 7", "year": 2005, "days": 108, "winner": "pepe-herrero", "finalists": ["javier-varela", "raquel-abad"] },
+    { "number": 8, "title": "Gran Hermano 8", "year": 2006, "days": 105, "winner": "naiala-melo", "finalists": ["laura-fernandez", "miriam-constanti"] },
+    { "number": 9, "title": "Gran Hermano 9", "year": 2007, "days": 98, "presenter": "Mercedes Milá", "winner": "judit-iglesias", "finalists": ["conchi-y-pamela-de-los-santos", "rodrigo-urbina"] },
+    { "number": 10, "title": "Gran Hermano 10", "year": 2008, "days": 123, "presenter": "Mercedes Milá", "winner": "ivan-madrazo", "finalists": ["orlando-breyner", "almudena-martinez"] },
+    { "number": 11, "title": "Gran Hermano 11", "year": 2009, "days": 143, "presenter": "Mercedes Milá", "winner": "angel-munoz", "finalists": ["saray-pereira", "pilarita-gomez"] },
+    { "number": 12, "title": "Gran Hermano 12", "year": 2010, "days": 144, "presenter": "Mercedes Milá", "winner": "laura-campos", "finalists": ["yago-hermida", "marcelo-ciriaco"] },
+    { "number": 13, "title": "Gran Hermano 12+1", "year": 2012, "days": 130, "presenter": "Mercedes Milá", "winner": "pepe-flores", "finalists": ["daniel-santos"] }
+  ],
+  "notes": "Ediciones posteriores (GH 14 en adelante, VIP, Dúo, Revolution…) pendientes de completar."
+}

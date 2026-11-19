@@ -1,0 +1,10 @@
+{
+  "name": "wiki-reality",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "news": "node scripts/update-news.mjs",
+    "dev": "BASE_PATH= node scripts/build.mjs && npx --yes serve dist"
+  }
+}
