@@ -1,1 +1,104 @@
-{"_doc":"Generado por scripts/update-socials.mjs desde Wikidata. No editar a mano: usa socials en people.json.","people":{}}
+{
+  "_doc": "Generado por scripts/update-socials.mjs desde Wikidata. No editar a mano: usa socials en people.json.",
+  "people": {
+    "susana-molina": {
+      "instagram": "https://www.instagram.com/susana_bicho/",
+      "tiktok": "https://www.tiktok.com/@susana_bicho90",
+      "x": "https://x.com/Susana_bicho",
+      "source": "http://www.wikidata.org/entity/Q106709909"
+    },
+    "kiko-hernandez": {
+      "instagram": "https://www.instagram.com/kikohernandeztv/",
+      "x": "https://x.com/Kiko_Hernandez",
+      "source": "http://www.wikidata.org/entity/Q11929856"
+    },
+    "natacha-jaitt": {
+      "x": "https://x.com/NatachaJaitt",
+      "source": "http://www.wikidata.org/entity/Q6038407"
+    },
+    "sofia-suescun": {
+      "instagram": "https://www.instagram.com/sofia_suescun/",
+      "tiktok": "https://www.tiktok.com/@sofiasuescungaldeano",
+      "x": "https://x.com/sofiasuescun",
+      "source": "http://www.wikidata.org/entity/Q106315099"
+    },
+    "omar-montes": {
+      "instagram": "https://www.instagram.com/omarmontesofficial/",
+      "youtube": "https://www.youtube.com/channel/UC-1BnbAPgInTpJiEi3z2d4A",
+      "source": "http://www.wikidata.org/entity/Q88664635"
+    },
+    "alejandro-nieto": {
+      "instagram": "https://www.instagram.com/alejandro_nieto8/",
+      "source": "http://www.wikidata.org/entity/Q111596687"
+    },
+    "pedro-garcia-aguado": {
+      "x": "https://x.com/pgaguado",
+      "source": "http://www.wikidata.org/entity/Q1608634"
+    },
+    "marlene-mourreau": {
+      "instagram": "https://www.instagram.com/marlene_mourreau/",
+      "x": "https://x.com/MMourreau",
+      "source": "http://www.wikidata.org/entity/Q3294484"
+    },
+    "belen-esteban": {
+      "instagram": "https://www.instagram.com/belenestebanmenendez/",
+      "x": "https://x.com/BelenEstebanM",
+      "source": "http://www.wikidata.org/entity/Q2895223"
+    },
+    "alyson-eckmann": {
+      "instagram": "https://www.instagram.com/alyeckmann/",
+      "source": "http://www.wikidata.org/entity/Q16298940"
+    },
+    "miriam-saavedra": {
+      "instagram": "https://www.instagram.com/miriamsaavdra/",
+      "x": "https://x.com/miriamsaavdra",
+      "source": "http://www.wikidata.org/entity/Q60148089"
+    },
+    "carlos-lozano": {
+      "instagram": "https://www.instagram.com/carloslozanovip/",
+      "x": "https://x.com/_CarlosLozano",
+      "source": "http://www.wikidata.org/entity/Q5750748"
+    },
+    "yola-berrocal": {
+      "instagram": "https://www.instagram.com/yolaberrocal/",
+      "x": "https://x.com/YolaBerrocal",
+      "source": "http://www.wikidata.org/entity/Q6170200"
+    },
+    "gianmarco-onestini": {
+      "instagram": "https://www.instagram.com/gianmarco.onestini/",
+      "tiktok": "https://www.tiktok.com/@gianmarcoonestini",
+      "x": "https://x.com/GOnestini",
+      "source": "http://www.wikidata.org/entity/Q138656253"
+    },
+    "carmen-alcayde": {
+      "x": "https://x.com/CarmenAlcayde",
+      "source": "http://www.wikidata.org/entity/Q5043419"
+    },
+    "gala-caldirola": {
+      "instagram": "https://www.instagram.com/galadrielcaldirola/",
+      "source": "http://www.wikidata.org/entity/Q133308247"
+    },
+    "angela-ponce": {
+      "instagram": "https://www.instagram.com/angelaponceofficial/",
+      "source": "http://www.wikidata.org/entity/Q55267251"
+    },
+    "terelu-campos": {
+      "instagram": "https://www.instagram.com/terelubcampos/",
+      "x": "https://x.com/terelu_campos",
+      "source": "http://www.wikidata.org/entity/Q6142486"
+    },
+    "beatriz-rico": {
+      "instagram": "https://www.instagram.com/beatriz_rico_oficial/",
+      "x": "https://x.com/bearicoactriz",
+      "source": "http://www.wikidata.org/entity/Q2893026"
+    },
+    "miri-perez-cabrero": {
+      "instagram": "https://www.instagram.com/miriperezc/",
+      "source": "http://www.wikidata.org/entity/Q108287573"
+    },
+    "omar-sanchez": {
+      "x": "https://x.com/BENAVIDESBAND",
+      "source": "http://www.wikidata.org/entity/Q6050551"
+    }
+  }
+}
