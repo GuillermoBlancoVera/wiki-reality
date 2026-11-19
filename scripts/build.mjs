@@ -17,6 +17,8 @@ const { people } = readJson(join(DATA, 'people.json'));
 const news = readJson(join(DATA, 'news.json'));
 let autoSocials = {};
 try { autoSocials = readJson(join(DATA, 'socials.json')).people ?? {}; } catch {}
+let getty = {};
+try { getty = readJson(join(DATA, 'getty.json')).people ?? {}; } catch {}
 let photos = {};
 try { photos = readJson(join(DATA, 'photos.json')).people ?? {}; } catch {}
 const realityFiles = readdirSync(join(DATA, 'realities')).filter((f) => f.endsWith('.json'));
@@ -115,6 +117,8 @@ function autoDescription(id) {
 
 // ---------- redes sociales ----------
 const SOCIAL_LABELS = { instagram: 'Instagram', youtube: 'YouTube', tiktok: 'TikTok', x: 'X (Twitter)', facebook: 'Facebook', twitch: 'Twitch', web: 'Web' };
+// Instagram: una publicación concreta (igPost en people.json) o, si no, el perfil
+const igOf = (id) => people[id].igPost || socialsOf(id).instagram;
 const photoCredit = (ph) => `Foto: ${ph.author} · ${ph.license} · Wikimedia Commons`;
 // Avatar: foto con licencia libre si la hay; si no, iniciales
 const avatar = (id, cls = 'avatar', tag = 'span') => {
@@ -342,9 +346,12 @@ for (const id of allIds) {
   <ul class="timeline">${apps.map((a) => `<li><span class="tl-reality">${esc(a.realityName)}</span> ${a.href ? `<a href="${a.href}">${esc(a.label)}</a>` : esc(a.label)}${a.year ? ` (${a.year})` : ''} · <span class="muted">${esc(a.role)}</span></li>`).join('')}</ul>
 </section>
 ${(coupleOf[id] ?? []).length ? `<section class="block"><h2>Su historia en pareja</h2><div class="couples">${coupleOf[id].map(({ r, e, c }) => coupleBlock(c, `<div class="person-sub"><a href="${url(`${r.id}/${editionSlug(e)}/`)}">${esc(r.name)} · ${esc(e.title)}</a></div>`)).join('')}</div></section>` : ''}
-${socialsOf(id).instagram ? `<section class="block"><h2>Instagram</h2><div class="ig-embed" data-ig="${esc(socialsOf(id).instagram)}">
-  <div class="ig-consent">Para ver aquí su perfil oficial de Instagram se cargará contenido de Instagram (Meta), que puede usar cookies.
-  <br><button class="btn" type="button" data-ig-load>Ver perfil de Instagram</button> <a class="btn ghost" href="${esc(socialsOf(id).instagram)}" rel="noopener nofollow" target="_blank">Abrir en Instagram</a></div>
+${getty[id] ? `<section class="block"><h2>Foto</h2><figure class="getty-embed" style="max-width:${getty[id].width}px">
+  <div class="getty-frame" style="aspect-ratio:${getty[id].width}/${getty[id].height}"><iframe src="${esc(getty[id].src)}" title="${esc(getty[id].title || p.name)}" loading="lazy" scrolling="no" frameborder="0"></iframe></div>
+  <figcaption>Imagen incrustada desde <a href="https://www.gettyimages.es/detail/${esc(getty[id].id)}" rel="noopener nofollow" target="_blank">Getty Images</a></figcaption></figure></section>` : ''}
+${igOf(id) ? `<section class="block"><h2>Instagram</h2><div class="ig-embed">
+  <blockquote class="instagram-media" data-instgrm-permalink="${esc(igOf(id))}?utm_source=ig_embed" data-instgrm-version="14" style="max-width:420px;width:100%;margin:0"><a href="${esc(igOf(id))}" rel="noopener nofollow" target="_blank">Ver en Instagram</a></blockquote>
+  <script async src="https://www.instagram.com/embed.js"></script>
 </div></section>` : ''}
 ${p.now ? `<section class="block"><h2>En la actualidad</h2><p>${esc(p.now)}</p><p class="muted">Según sus redes públicas.</p></section>` : ''}
 ${rel.length ? `<section class="block"><h2>Personas relacionadas</h2><div class="related">${rel.map(([oid, texts]) => `

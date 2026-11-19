@@ -170,7 +170,6 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .related-card .avatar { width: 44px; height: 44px; font-size: .9rem; margin: 0; flex: 0 0 auto; }
 .related-card small { display: block; color: var(--muted); font-size: .78rem; }
 .ig-embed { max-width: 420px; }
-.ig-embed .ig-consent { background: var(--surface); border: 1px dashed var(--border); border-radius: var(--radius); padding: 1rem; font-size: .88rem; color: var(--muted); }
 
 /* Selector de paletas */
 .palettes { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
@@ -213,3 +212,10 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .profile-photo figcaption { font-size: .65rem; color: var(--muted); margin-top: .4rem; line-height: 1.3; }
 .profile-photo figcaption a { color: var(--muted); }
 .credits { font-size: .9rem; line-height: 1.7; }
+
+/* Visor oficial de Getty Images */
+.getty-embed { margin: 0; width: 100%; }
+.getty-frame { width: 100%; background: var(--surface-2); border-radius: var(--radius); overflow: hidden; }
+.getty-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
+.getty-embed figcaption { font-size: .72rem; color: var(--muted); margin-top: .35rem; }
+.getty-embed figcaption a { color: var(--muted); }

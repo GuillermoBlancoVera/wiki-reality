@@ -57,14 +57,3 @@
   document.addEventListener('click', (e) => { if (!e.target.closest('.search')) close(); });
   input.addEventListener('focus', () => { if (input.value.trim().length >= MIN) input.dispatchEvent(new Event('input')); });
 })();
-
-// Perfil de Instagram: embed oficial, solo si la persona usuaria lo pide (sin cookies de terceros por defecto)
-document.addEventListener('click', (e) => {
-  const btn = e.target.closest('[data-ig-load]');
-  if (!btn) return;
-  const box = btn.closest('.ig-embed');
-  const link = box.dataset.ig;
-  box.innerHTML = `<blockquote class="instagram-media" data-instgrm-permalink="${link}?utm_source=ig_embed" data-instgrm-version="14" style="max-width:420px;width:100%;margin:0"><a href="${link}" target="_blank" rel="noopener nofollow">Ver en Instagram</a></blockquote>`;
-  if (window.instgrm) window.instgrm.Embeds.process();
-  else { const s = document.createElement('script'); s.async = true; s.src = 'https://www.instagram.com/embed.js'; document.body.append(s); }
-});
