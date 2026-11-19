@@ -20,9 +20,14 @@ for (const [id, p] of Object.entries(people)) {
     const res = await fetch(`https://embed.gettyimages.com/oembed?url=${encodeURIComponent(`http://gty.im/${gid}`)}&caller=wiki-reality`, { headers: { 'User-Agent': 'wiki-reality-bot/1.0' } });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const o = await res.json();
-    const src = o.html?.match(/src=["']([^"']+)["']/)?.[1];
-    if (!src || !/^(https?:)?\/\/embed\.gettyimages\.com\//.test(src)) throw new Error('sin visor');
-    out[id] = { id: gid, src: src.replace(/^\/\//, 'https://').replace(/&amp;/g, '&'), width: o.width ?? 594, height: o.height ?? 400, title: o.title ?? '' };
+    const html = o.html ?? '';
+    // Formato clásico (iframe) o actual (widget con id + sig)
+    let src = html.match(/<iframe[^>]+src=["']([^"']+)["']/)?.[1];
+    const f = (k) => html.match(new RegExp(`${k}\\s*:\\s*'([^']*)'`))?.[1];
+    if (!src && f('sig') && f('id')) src = `https://embed.gettyimages.com/embed/${gid}?et=${encodeURIComponent(f('id'))}&tld=${f('tld') ?? 'com'}&sig=${encodeURIComponent(f('sig'))}&caption=true&ver=2`;
+    if (!src || !/^(https?:)?\/\/embed\.gettyimages\.com\//.test(src)) { console.warn(`Respuesta: ${JSON.stringify(o).slice(0, 700)}`); throw new Error('sin visor'); }
+    const px = (v, d) => parseInt(v ?? '', 10) || d;
+    out[id] = { id: gid, src: src.replace(/^\/\//, 'https://').replace(/&amp;/g, '&'), width: px(f('w'), o.width ?? 594), height: px(f('h'), o.height ?? 400), title: o.title ?? '' };
     console.log(`OK ${id}: ${o.title ?? gid}`);
   } catch (e) {
     console.warn(`Aviso ${id} (${gid}): ${e.message}`);
