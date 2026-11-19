@@ -425,7 +425,7 @@
       "name": "Álvaro"
     },
     "bayan-isla-8": {
-      "name": "Bayan",
+      "name": "Bayan Al Masri",
       "related": [
         {
           "id": "ruben-torres",
@@ -434,10 +434,10 @@
       ]
     },
     "eros-isla-8": {
-      "name": "Eros"
+      "name": "Eros Vidal"
     },
     "alba-isla-8": {
-      "name": "Alba"
+      "name": "Alba Rodríguez"
     },
     "alba-isla-10": {
       "name": "Alba"
@@ -585,16 +585,16 @@
       }
     },
     "sthefany-isla-8": {
-      "name": "Sthefany"
+      "name": "Sthefany Pérez"
     },
     "tadeo-isla-8": {
-      "name": "Tadeo"
+      "name": "Tadeo Corrales"
     },
     "andrea-isla-8": {
-      "name": "Andrea"
+      "name": "Andrea Arpal"
     },
     "joel-isla-8": {
-      "name": "Joel"
+      "name": "Joel Benedicto"
     },
     "sandra-barrios": {
       "name": "Sandra Barrios",
@@ -2736,10 +2736,10 @@
       }
     },
     "gerard-isla-8": {
-      "name": "Gerard"
+      "name": "Gerard Arias"
     },
     "ana-isla-8": {
-      "name": "Ana"
+      "name": "Ana Luiza"
     },
     "fran-isla-8": {
       "name": "Fran"
@@ -5216,6 +5216,18 @@
     },
     "christian-galvez": {
       "name": "Christian Gálvez"
+    },
+    "alba-garcia-isla-8": {
+      "name": "Alba García"
+    },
+    "gabriella-soltera-isla-8": {
+      "name": "Gabriella"
+    },
+    "simone-soltero-isla-8": {
+      "name": "Simone"
+    },
+    "joy-soltero-isla-1": {
+      "name": "Joy"
     }
   }
 }

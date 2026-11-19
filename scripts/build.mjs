@@ -101,6 +101,8 @@ for (const r of realities) {
         for (const x of [c.a, c.b]) { relate(x, t, `Tentador/a en ${r.short} · ${ed}`); relate(t, x, `Participó como tentador/a en su edición (${ed})`); }
       }
     }
+    // Relaciones entre concursantes con pareja y solteros/solteras (hechos del programa, con fuente)
+    for (const l of e.links ?? []) { relate(l.who, l.with, `${l.text} · ${r.short} ${ed}`); relate(l.with, l.who, `${l.text} · ${r.short} ${ed}`); }
     const top = [e.winner, ...(e.finalists ?? [])].filter(Boolean);
     for (const a of top) for (const b of top) if (a !== b) relate(a, b, `Finalistas de ${e.title}`);
   }
@@ -347,6 +349,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 </section>` : '';
     const singlesBlock = (re, title) => { const l = (e.singles ?? []).filter((x) => re.test(x.role)); return l.length ? `<h3>${title}</h3><div class="grid-people">${l.map((x) => personCard(x.id, /VIP/.test(x.role) ? 'VIP' : '')).join('')}</div>` : ''; };
     const singles = e.singles?.length ? `<section class="block"><h2>Tentadoras y tentadores</h2>${singlesBlock(/^Soltera/, 'Solteras')}${singlesBlock(/^Soltero/, 'Solteros')}${srcLink(e.singlesSource)}</section>` : '';
+    const links = e.links?.length ? `<section class="block"><h2>Relaciones entre parejas y solteros</h2><ul class="links-list">${e.links.map((l) => `<li>${personLink(l.who)} y ${personLink(l.with)}: ${esc(l.text.charAt(0).toLowerCase() + l.text.slice(1))}.${l.source ? ` <a class="src" href="${esc(l.source)}" rel="noopener nofollow" target="_blank">Fuente</a>` : ''}</li>`).join('')}</ul></section>` : '';
     page(`${r.id}/${editionSlug(e)}/`, layout({
       title: `${e.title} · ${r.name}`, theme: r.theme, path: `${r.id}/${editionSlug(e)}/`,
       description: `${r.name} ${e.title} (${e.year}): ${e.winner ? `ganador/a ${person(e.winner).name}, ` : ''}${e.couples?.length ? 'parejas, ' : ''}concursantes y datos de la edición.`,
@@ -354,7 +357,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 <nav class="crumbs"><a href="${url(`${r.id}/`)}">${esc(r.name)}</a> › ${esc(e.title)}</nav>
 <section class="reality-hero small"><div><p class="eyebrow">${esc(r.name)}</p><h1 class="reality-title">${esc(e.title)}</h1></div></section>
 <section class="block"><dl class="facts">${facts}</dl>${e.notes ? `<p class="muted">${esc(e.notes)}</p>` : ''}</section>
-${podium}${couples}${singles}${participants}`,
+${podium}${couples}${links}${singles}${participants}`,
     }));
   }
 }

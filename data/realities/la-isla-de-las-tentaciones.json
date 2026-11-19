@@ -49,9 +49,6 @@
         {
           "a": "fani-carbajo",
           "b": "christofer-guzman",
-          "tempters": [
-            "ruben-sanchez"
-          ],
           "outcome": "Salieron por separado",
           "story": "Durante la experiencia Fani se acercó al tentador Rubén Sánchez, una de las historias más comentadas de la primera edición. Christofer abandonó la hoguera final sin ella.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
@@ -75,6 +72,42 @@
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Se conocieron en First Dates y llevaban unos dos años juntos. Los celos de él eran el principal problema de la pareja.",
           "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/"
+        }
+      ],
+      "singles": [
+        {
+          "id": "joy-soltero-isla-1",
+          "role": "Soltero"
+        },
+        {
+          "id": "oscar-ruiz-isla",
+          "role": "Soltero"
+        },
+        {
+          "id": "ruben-sanchez",
+          "role": "Soltero"
+        }
+      ],
+      "singlesSource": "https://www.espinof.com/listas/que-ha-sido-parejas-primera-edicion-isla-tentaciones",
+      "notes": "Lista de solteros incompleta: solo figuran los que aparecen en las relaciones.",
+      "links": [
+        {
+          "who": "fiama-rodriguez",
+          "with": "joy-soltero-isla-1",
+          "text": "Tras el programa inició una relación con él",
+          "source": "https://www.espinof.com/listas/que-ha-sido-parejas-primera-edicion-isla-tentaciones"
+        },
+        {
+          "who": "fani-carbajo",
+          "with": "ruben-sanchez",
+          "text": "Cayó en la tentación con él durante el programa",
+          "source": "https://www.merca2.es/2020/02/29/asi-han-acabado-parejas-solteros-la-isla-de-las-tentaciones-275726/"
+        },
+        {
+          "who": "andrea-gasca",
+          "with": "oscar-ruiz-isla",
+          "text": "Salió de la isla con él",
+          "source": "https://www.espinof.com/listas/que-ha-sido-parejas-primera-edicion-isla-tentaciones"
         }
       ]
     },
@@ -811,6 +844,13 @@
           "b": "fran-isla-8",
           "background": "Son de Vigo y llevaban año y medio juntos. Los celos marcaban la relación y entraron para que ella confiara plenamente en él.",
           "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8"
+        },
+        {
+          "a": "alba-garcia-isla-8",
+          "b": "alvaro-rubio",
+          "outcome": "Abandonaron el programa cada uno por su lado",
+          "story": "Ambos cayeron en la tentación durante el programa y abandonaron por separado. Álvaro llegó al reencuentro con Mayeli Díaz, con quien entró como pareja en la edición siguiente.",
+          "storySource": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
         }
       ],
       "notes": "Montoya volvió a la isla en la 10.ª edición como invitado. Gabriella Barbu y Manuel González (3.ª edición) se reincorporaron como solteros.",
@@ -882,9 +922,87 @@
         {
           "id": "aida-soltera-isla-8",
           "role": "Soltera"
+        },
+        {
+          "id": "gabriella-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "simone-soltero-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "ruben-torres",
+          "role": "Soltero VIP"
+        },
+        {
+          "id": "manuel-gonzalez",
+          "role": "Soltero VIP"
         }
       ],
-      "singlesSource": "https://www.espinof.com/listas/telecinco-se-adelanta-al-estreno-isla-tentaciones-revela-a-tentadores-tentadoras-su-nueva-temporada"
+      "singlesSource": "https://www.espinof.com/listas/telecinco-se-adelanta-al-estreno-isla-tentaciones-revela-a-tentadores-tentadoras-su-nueva-temporada",
+      "links": [
+        {
+          "who": "eros-isla-8",
+          "with": "erika-soltera-isla-8",
+          "text": "Cayó en la tentación con ella",
+          "source": "https://theobjective.com/medios/television/2025-03-10/parejas-juntas-no-edicion-isla-tentaciones/"
+        },
+        {
+          "who": "alvaro-rubio",
+          "with": "erika-soltera-isla-8",
+          "text": "Cayó en la tentación con ella",
+          "source": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
+        },
+        {
+          "who": "alvaro-rubio",
+          "with": "mayeli-diaz",
+          "text": "Llegaron juntos al reencuentro",
+          "source": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
+        },
+        {
+          "who": "bayan-isla-8",
+          "with": "ruben-torres",
+          "text": "Salió del programa con él",
+          "source": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
+        },
+        {
+          "who": "alba-garcia-isla-8",
+          "with": "borja-gomez",
+          "text": "Cayó en la tentación con él",
+          "source": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
+        },
+        {
+          "who": "fran-isla-8",
+          "with": "gabriella-soltera-isla-8",
+          "text": "Tuvo una breve relación con ella tras el programa",
+          "source": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
+        },
+        {
+          "who": "joel-isla-8",
+          "with": "nataly-nunez",
+          "text": "Cayó en la tentación con ella",
+          "source": "https://theobjective.com/medios/television/2025-03-10/parejas-juntas-no-edicion-isla-tentaciones/"
+        },
+        {
+          "who": "anita-williams",
+          "with": "manuel-gonzalez",
+          "text": "Cayó en la tentación con él",
+          "source": "https://theobjective.com/medios/television/2025-03-10/parejas-juntas-no-edicion-isla-tentaciones/"
+        },
+        {
+          "who": "jose-carlos-montoya",
+          "with": "gabriella-soltera-isla-8",
+          "text": "Se dejó llevar con ella durante el programa",
+          "source": "https://theobjective.com/medios/television/2025-03-10/parejas-juntas-no-edicion-isla-tentaciones/"
+        },
+        {
+          "who": "sthefany-isla-8",
+          "with": "simone-soltero-isla-8",
+          "text": "Cayó en la tentación con él",
+          "source": "https://theobjective.com/medios/television/2025-03-10/parejas-juntas-no-edicion-isla-tentaciones/"
+        }
+      ]
     },
     {
       "number": 9,
@@ -1169,7 +1287,15 @@
           "role": "Soltero VIP"
         }
       ],
-      "singlesSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html"
+      "singlesSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
+      "links": [
+        {
+          "who": "leila-isla-10",
+          "with": "david-vaquero",
+          "text": "Tras separarse de su pareja, mantiene una relación con él",
+          "source": "https://www.mediasetinfinity.es/noticias/la-isla-de-las-tentaciones/asi-estan-parejas-isla-de-las-tentaciones-10-situacion-actual_MS000000112673_t7cviJzXZzHCQ5CzlQ85EdP"
+        }
+      ]
     },
     {
       "number": 11,

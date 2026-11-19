@@ -264,3 +264,6 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .poster-costura .poster-title { text-shadow: none; }
 .poster-meta { opacity: .92; font-weight: 600; }
 @media (max-width: 600px) { .poster-grid { grid-template-columns: repeat(2, 1fr); gap: .8rem; } }
+
+.links-list { line-height: 1.8; padding-left: 1.1rem; }
+.links-list .src { font-size: .75rem; color: var(--muted); }
