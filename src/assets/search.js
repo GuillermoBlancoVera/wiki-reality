@@ -93,3 +93,16 @@
   eSel.addEventListener('change', apply);
   apply();
 })();
+
+// Botón de compartir: menú nativo del móvil o, si no existe, copia el enlace
+document.addEventListener('click', async (e) => {
+  const btn = e.target.closest('[data-share]');
+  if (!btn) return;
+  const data = { title: `${btn.dataset.share} · ${document.title.split(' · ').pop()}`, url: location.href.split('#')[0] };
+  const label = btn.querySelector('.share-label');
+  try {
+    if (navigator.share) { await navigator.share(data); return; }
+    await navigator.clipboard.writeText(data.url);
+    if (label) { label.textContent = 'Enlace copiado'; setTimeout(() => { label.textContent = 'Compartir'; }, 2000); }
+  } catch {}
+});

@@ -42,6 +42,12 @@ const person = (id) => {
 const personLink = (id) => `<a class="person-link" href="${url(`personas/${id}/`)}">${esc(person(id).name)}</a>`;
 const fmtDate = (iso) => new Date(iso).toLocaleDateString('es-ES', { day: 'numeric', month: 'short', year: 'numeric' });
 
+// Presentadoras y presentadores: se sacan del texto "presenter" de cada edición y tienen ficha propia
+const slugify = (t) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const presenterNames = (e) => (e.presenter ?? '').replace(/\([^)]*\)/g, '').split(/\s+y\s+|,\s*/).map((n) => n.trim()).filter(Boolean);
+const presenterIds = (e) => presenterNames(e).map(slugify).filter((id) => people[id]);
+const presenterHtml = (e) => presenterNames(e).reduce((h, n) => people[slugify(n)] ? h.replace(esc(n), `<a class="person-link" href="${url(`personas/${slugify(n)}/`)}">${esc(n)}</a>`) : h, esc(e.presenter ?? ''));
+
 // ---------- recorrido de cada persona (cruce entre realities) ----------
 const appearances = {}; // id -> [{reality, edition, label, role, href}]
 const addApp = (id, r, e, role) => {
@@ -60,6 +66,7 @@ for (const r of realities) {
       addApp(c.b, r, e, `Pareja de ${person(c.a).name}`);
       for (const t of c.tempters ?? []) addApp(t, r, e, `Tentador/a de ${person(c.a).name} y ${person(c.b).name}`);
     }
+    for (const pid of presenterIds(e)) addApp(pid, r, e, 'Presentación');
     for (const p of e.participants ?? []) addApp(p.id, r, e, p.role ?? 'Concursante');
     for (const p of e.singles ?? []) addApp(p.id, r, e, /^Soltera/.test(p.role) ? `Tentadora${/VIP/.test(p.role) ? ' VIP' : ''}` : `Tentador${/VIP/.test(p.role) ? ' VIP' : ''}`);
   }
@@ -108,7 +115,11 @@ function autoDescription(id) {
   const podium = apps.filter((a) => /puesto$/.test(a.role)).map((a) => `${a.role.replace(' puesto', '')} en ${a.label}`);
   const couples = apps.filter((a) => a.role.startsWith('Pareja de ')).map((a) => `con ${a.role.slice(10)} en la ${a.label}`);
   const tempter = apps.filter((a) => /^Tentador/.test(a.role)).map((a) => a.label);
-  const parts = [`${p.name} ha participado en ${listJoin(realityNames)}${apps.length > 1 ? ` (${apps.length} apariciones)` : ''}.`];
+  const pres = apps.filter((a) => a.role === 'Presentación');
+  const rest = apps.filter((a) => a.role !== 'Presentación');
+  const restNames = [...new Set(rest.map((a) => a.realityName))];
+  const parts = rest.length ? [`${p.name} ha participado en ${listJoin(restNames)}${rest.length > 1 ? ` (${rest.length} apariciones)` : ''}.`] : [];
+  if (pres.length) parts.push(`${rest.length ? 'Además, ha' : `${p.name} ha`} presentado ${pres.length === 1 ? `${pres[0].realityName}: ${pres[0].label}` : `${pres.length} ediciones de ${listJoin([...new Set(pres.map((a) => a.realityName))])}`}.`);
   if (wins.length) parts.push(`Ganó ${listJoin(wins)}.`);
   if (podium.length) parts.push(`Quedó ${listJoin(podium)}.`);
   if (couples.length) parts.push(`${realityNames.length > 1 ? 'En La isla de las tentaciones entró' : 'Entró'} ${listJoin(couples)}.`);
@@ -136,8 +147,10 @@ const photoCredit = (ph) => `Foto: ${ph.author} · ${ph.license} · Wikimedia Co
 // Avatar: foto con licencia libre si la hay; si no, iniciales
 const avatar = (id, cls = 'avatar', tag = 'span') => {
   const ph = photos[id];
-  return ph ? `<${tag} class="${cls} has-photo"><img src="${esc(ph.src)}" alt="${esc(person(id).name)}" title="${esc(photoCredit(ph))}" loading="lazy" referrerpolicy="no-referrer"></${tag}>`
-    : `<${tag} class="${cls}" aria-hidden="true">${esc(initials(person(id).name))}</${tag}>`;
+  if (ph) return `<${tag} class="${cls} has-photo"><img src="${esc(ph.src)}" alt="${esc(person(id).name)}" title="${esc(photoCredit(ph))}" loading="lazy" referrerpolicy="no-referrer"></${tag}>`;
+  if (igCode(id)) return `<${tag} class="${cls} has-photo av-ig"><iframe src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></${tag}>`;
+  if (getty[id]) return `<${tag} class="${cls} has-photo av-getty"><iframe src="${esc(getty[id].src)}" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></${tag}>`;
+  return `<${tag} class="${cls}" aria-hidden="true">${esc(initials(person(id).name))}</${tag}>`;
 };
 // Avatar pequeño para el buscador: foto libre, publicación de Instagram, visor de Getty o iniciales
 const miniAvatar = (id) => photos[id] ? `<span class="mini-avatar"><img src="${esc(photos[id].src)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`
@@ -314,8 +327,8 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 
   for (const e of r.editions) {
     const facts = [
-      ['Año', e.year], ['Fechas', e.dates], ['Canal', e.channel ?? r.channel], ['Presentación', e.presenter], ['Días', e.days],
-    ].filter(([, v]) => v).map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join('');
+      ['Año', e.year], ['Fechas', e.dates], ['Canal', e.channel ?? r.channel], ['Presentación', e.presenter ? { html: presenterHtml(e) } : null], ['Días', e.days],
+    ].filter(([, v]) => v).map(([k, v]) => `<div><dt>${k}</dt><dd>${v.html ?? esc(v)}</dd></div>`).join('');
     const podium = e.winner ? `
 <section class="block"><h2>Ganador/a y finalistas</h2>
   <div class="podium">${personCard(e.winner, 'Ganador/a')}${(e.finalists ?? []).map((f, i) => personCard(f, `${i + 2}.º puesto`)).join('')}</div>
@@ -360,7 +373,7 @@ for (const id of allIds) {
 <section class="profile">
   ${igCode(id) ? `<figure class="profile-photo"><div class="avatar big has-photo ig-circle"><iframe src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></div><figcaption>Foto: <a href="https://www.instagram.com/p/${esc(igCode(id))}/" rel="noopener nofollow" target="_blank">su Instagram</a></figcaption></figure>` : !photos[id] && getty[id] ? `<figure class="profile-photo"><div class="avatar big has-photo getty-circle"><iframe src="${esc(getty[id].src)}" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></div><figcaption>Foto: <a href="https://www.gettyimages.es/detail/${esc(getty[id].id)}" rel="noopener nofollow" target="_blank">Getty Images</a></figcaption></figure>` : `<figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>`}
   <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}
-  ${socials ? `<ul class="socials">${socials}</ul>` : ''}</div>
+  <ul class="socials">${socials}<li><button class="social share-btn" type="button" data-share="${esc(p.name)}" title="Compartir" aria-label="Compartir la ficha de ${esc(p.name)}">${ICON('<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 10.500l6.800-4M8.600 13.500l6.800 4"/>')}<span class="share-label">Compartir</span></button></li></ul></div>
 </section>
 <section class="block"><h2>Paso por los realities</h2>
   <ul class="timeline">${apps.map((a) => `<li><span class="tl-reality">${esc(a.realityName)}</span> ${a.href ? `<a href="${a.href}">${esc(a.label)}</a>` : esc(a.label)}${a.year ? ` (${a.year})` : ''} · <span class="muted">${esc(a.role)}</span></li>`).join('')}</ul>

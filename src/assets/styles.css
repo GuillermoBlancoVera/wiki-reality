@@ -243,3 +243,17 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .filters select { flex: 1 1 200px; max-width: 100%; }
 .filters select:disabled { opacity: .5; }
 @media (max-width: 600px) { .filters input, .filters select { flex-basis: 100%; } }
+
+/* Avatares con publicación de Instagram o visor de Getty (listas, parejas, relacionadas) */
+.avatar { --s: 60; }
+.couple-head .avatars .avatar { --s: 52; }
+.related-card .avatar { --s: 44; }
+.avatar.av-ig, .avatar.av-getty { position: relative; display: block; overflow: hidden; }
+.avatar.av-ig iframe, .avatar.av-getty iframe { position: absolute; top: 0; border: 0; pointer-events: none; }
+.avatar.av-ig iframe { left: 0; width: 326px; height: 520px; transform-origin: 0 0; transform: scale(calc(var(--s) / 326)) translateY(-54px); }
+.avatar.av-getty iframe { left: 50%; width: 135%; transform: translateX(-50%); }
+.avatar.big.av-ig { --s: 140; width: 140px; height: 140px; }
+.avatar.big.av-getty { width: 140px; height: 140px; }
+/* Compartir */
+.share-btn { width: auto; padding: 0 .9rem; gap: .4rem; display: inline-flex; align-items: center; height: 42px; border-radius: 999px; font: inherit; font-weight: 600; font-size: .85rem; cursor: pointer; }
+.share-btn:hover { border-color: var(--accent); color: var(--accent); }
