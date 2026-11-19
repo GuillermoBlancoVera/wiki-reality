@@ -8,38 +8,391 @@
   "since": 2020,
   "theme": "isla",
   "newsQuery": "\"La isla de las tentaciones\"",
-  "sources": ["https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones"],
+  "sources": [
+    "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+    "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
+    "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
+    "https://www.sensacine.com/television/noticias/noticia-1000132089.html",
+    "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/",
+    "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
+  ],
   "editions": [
     {
-      "number": 1, "title": "1.ª edición", "year": 2020,
-      "dates": "9 ene – 13 feb 2020", "channel": "Cuatro y Telecinco",
+      "number": 1,
+      "title": "1.ª edición",
+      "year": 2020,
+      "dates": "9 ene – 13 feb 2020",
+      "channel": "Cuatro y Telecinco",
       "presenter": "Mónica Naranjo (programas) y Sandra Barneda (debates)",
       "couples": [
-        { "a": "alex-bueno", "b": "fiama-rodriguez" },
-        { "a": "gonzalo-montoya", "b": "susana-molina" },
-        { "a": "fani-carbajo", "b": "christofer-guzman" },
-        { "a": "andrea-gasca", "b": "oscar-ruiz" },
-        { "a": "jose-sanchez", "b": "adelina-seres" }
-      ],
-      "notes": "Resultado de cada hoguera pendiente de completar."
+        {
+          "a": "alex-bueno",
+          "b": "fiama-rodriguez",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "jose-sanchez",
+          "b": "adelina-seres",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "fani-carbajo",
+          "b": "christofer-guzman",
+          "tempters": [
+            "ruben-sanchez"
+          ],
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "susana-molina",
+          "b": "gonzalo-montoya",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "andrea-gasca",
+          "b": "ismael-isla-1",
+          "outcome": "Salieron por separado"
+        }
+      ]
     },
     {
-      "number": 2, "title": "2.ª edición", "year": 2020,
-      "dates": "23 sep – 1 nov 2020", "channel": "Telecinco",
+      "number": 2,
+      "title": "2.ª edición",
+      "year": 2020,
+      "dates": "23 sep – 1 nov 2020",
+      "channel": "Telecinco",
       "presenter": "Sandra Barneda (debates con Carlos Sobera)",
       "couples": [
-        { "a": "melyssa-pinto", "b": "tom-brusse" }
+        {
+          "a": "angel-isla-2",
+          "b": "inma-isla-2",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "patri-perez",
+          "b": "alessandro-livi",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "melyssa-pinto",
+          "b": "tom-brusse",
+          "outcome": "Salieron por separado (en la hoguera de confrontación)"
+        },
+        {
+          "a": "melodie-isla-2",
+          "b": "cristian-isla-2",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "pablo-moya",
+          "b": "mayka-rivera",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "marta-penate",
+          "b": "lester-duque",
+          "outcome": "Salieron por separado"
+        }
       ],
-      "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros. Resto de parejas pendiente de completar."
+      "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros."
     },
-    { "number": 3, "title": "3.ª edición", "year": 2021, "dates": "21 ene – 31 mar 2021", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Isaac Torres «Lobo» participó como tentador. Parejas pendientes de completar." },
-    { "number": 4, "title": "4.ª edición", "year": 2021, "dates": "10 nov 2021 – 25 ene 2022", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
-    { "number": 5, "title": "5.ª edición", "year": 2022, "dates": "21 sep 2022 – 1 ene 2023", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
-    { "number": 6, "title": "6.ª edición", "year": 2023, "dates": "23 ene – 8 may 2023", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
-    { "number": 7, "title": "7.ª edición", "year": 2024, "dates": "9 ene – 10 abr 2024", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." },
-    { "number": 8, "title": "8.ª edición", "year": 2025, "dates": "6 ene – 19 mar 2025", "channel": "Telecinco", "presenter": "Sandra Barneda", "couples": [], "notes": "Parejas pendientes de completar." }
+    {
+      "number": 3,
+      "title": "3.ª edición",
+      "year": 2021,
+      "dates": "21 ene – 31 mar 2021",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "claudia-isla-3",
+          "b": "raul-isla-3",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "lara-isla-3",
+          "b": "hugo-isla-3",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "marina-garcia",
+          "b": "jesus-sanchez",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "lola-isla-3",
+          "b": "diego-isla-3",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "lucia-sanchez",
+          "b": "manuel-gonzalez",
+          "outcome": "Salieron por separado"
+        }
+      ],
+      "notes": "Isaac Torres «Lobo» participó como tentador."
+    },
+    {
+      "number": 4,
+      "title": "4.ª edición",
+      "year": 2021,
+      "dates": "10 nov 2021 – 25 ene 2022",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "sandra-ferriz",
+          "b": "dario-isla-4",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "rosario-isla-4",
+          "b": "alvaro-isla-4",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "gal-la-isla-4",
+          "b": "nico-isla-4",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "zoe-mba",
+          "b": "josue-bernal"
+        },
+        {
+          "a": "tania-isla-4",
+          "b": "alejandro-isla-4"
+        }
+      ],
+      "notes": "Resultado de algunas parejas pendiente de verificar."
+    },
+    {
+      "number": 5,
+      "title": "5.ª edición",
+      "year": 2022,
+      "dates": "21 sep 2022 – 1 ene 2023",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "claudia-isla-5",
+          "b": "javi-isla-5",
+          "tempters": [
+            "alvaro-boix"
+          ],
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "paola-isla-5",
+          "b": "andreu-isla-5",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "sara-isla-5",
+          "b": "manu-isla-5",
+          "outcome": "Salieron juntos (abandonaron antes de las hogueras finales)"
+        },
+        {
+          "a": "tania-isla-5",
+          "b": "samuel-isla-5",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "ana-isla-5",
+          "b": "cristian-isla-5",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "laura-isla-5",
+          "b": "mario-isla-5",
+          "outcome": "Salieron por separado"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "6.ª edición",
+      "year": 2023,
+      "dates": "23 ene – 8 may 2023",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "lydia-isla-6",
+          "b": "manuel-isla-6"
+        },
+        {
+          "a": "marina-isla-6",
+          "b": "alex-isla-6"
+        },
+        {
+          "a": "naomi-isla-6",
+          "b": "adrian-isla-6"
+        },
+        {
+          "a": "laura-isla-6",
+          "b": "alejandro-isla-6"
+        },
+        {
+          "a": "elena-isla-6",
+          "b": "david-isla-6"
+        }
+      ],
+      "notes": "Decisiones de las hogueras finales pendientes de verificar."
+    },
+    {
+      "number": 7,
+      "title": "7.ª edición",
+      "year": 2024,
+      "dates": "9 ene – 10 abr 2024",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "marieta-isla-7",
+          "b": "alex-girona",
+          "outcome": "Salieron por separado: Álex se fue con la tentadora Gabriela"
+        },
+        {
+          "a": "mariona-isla-7",
+          "b": "adrian-isla-7",
+          "outcome": "Salieron por separado: Mariona decidió irse sola"
+        },
+        {
+          "a": "maria-aguilar",
+          "b": "david-vaquero",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "ana-isla-7",
+          "b": "borja-isla-7",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "ruth-isla-7",
+          "b": "niko-isla-7",
+          "outcome": "Abandonaron al inicio de la edición"
+        },
+        {
+          "a": "alba-casillas",
+          "b": "roberto-isla-7",
+          "outcome": "Abandonaron al inicio de la edición"
+        },
+        {
+          "a": "andrea-isla-7",
+          "b": "alvaro-isla-7",
+          "outcome": "Abandonaron al inicio de la edición"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "8.ª edición",
+      "year": 2025,
+      "dates": "6 ene – 19 mar 2025",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "bayan-isla-8",
+          "b": "eros-isla-8",
+          "outcome": "Salieron por separado: Bayan se fue con Rubén Torres"
+        },
+        {
+          "a": "alba-isla-8",
+          "b": "alvaro-isla-8",
+          "outcome": "Salieron por separado: Alba decidió irse sola"
+        }
+      ],
+      "notes": "Resto de parejas (entre ellas Montoya y Anita) pendiente de completar."
+    },
+    {
+      "number": 9,
+      "title": "9.ª edición",
+      "year": 2025,
+      "dates": "nov 2025 – ene 2026",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [],
+      "notes": "Parejas pendientes de completar."
+    },
+    {
+      "number": 10,
+      "title": "10.ª edición",
+      "year": 2026,
+      "dates": "2026 (hogueras finales: 8 jun 2026)",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "alba-isla-10",
+          "b": "david-isla-10",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "yuli-isla-10",
+          "b": "lucas-isla-10",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "bayan-isla-10",
+          "b": "miguel-isla-10",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "leila-isla-10",
+          "b": "ataman-isla-10",
+          "outcome": "Salieron por separado: Leila se fue con David"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "11.ª edición",
+      "year": 2026,
+      "dates": "2026 (hogueras finales: 10 y 11 nov 2026)",
+      "channel": "Telecinco",
+      "presenter": "Sandra Barneda",
+      "couples": [
+        {
+          "a": "gema-isla-11",
+          "b": "ruben-isla-11",
+          "outcome": "Salieron por separado: Gema decidió irse sola"
+        },
+        {
+          "a": "paola-isla-11",
+          "b": "sergio-isla-11",
+          "outcome": "Salieron por separado: Sergio decidió terminar"
+        },
+        {
+          "a": "nayades-isla-11",
+          "b": "nacho-de-borbon",
+          "outcome": "Salieron por separado: Náyades se fue con Andrea"
+        },
+        {
+          "a": "paula-isla-11",
+          "b": "kico-isla-11",
+          "outcome": "Salieron por separado: Paula decidió irse sola"
+        },
+        {
+          "a": "isa-isla-11",
+          "b": "nando-isla-11",
+          "outcome": "Se marcharon juntos al poco de empezar"
+        },
+        {
+          "a": "mara-isla-11",
+          "b": "miguel-isla-11",
+          "outcome": "Salieron por separado antes de las hogueras finales"
+        }
+      ]
+    }
   ],
   "spinoffs": [
-    { "title": "La última tentación", "year": 2021, "dates": "15 sep – 8 nov 2021", "presenter": "Sandra Barneda" }
+    {
+      "title": "La última tentación",
+      "year": 2021,
+      "dates": "15 sep – 8 nov 2021",
+      "presenter": "Sandra Barneda"
+    }
   ]
 }
