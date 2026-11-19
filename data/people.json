@@ -405,38 +405,11 @@
     "mario-isla-5": {
       "name": "Mario"
     },
-    "lydia-isla-6": {
-      "name": "Lydia"
-    },
-    "manuel-isla-6": {
-      "name": "Manuel"
-    },
-    "marina-isla-6": {
-      "name": "Marina"
-    },
-    "alex-isla-6": {
-      "name": "Álex"
-    },
-    "naomi-isla-6": {
-      "name": "Naomi"
-    },
-    "adrian-isla-6": {
-      "name": "Adrián"
-    },
-    "laura-isla-6": {
-      "name": "Laura"
-    },
-    "alejandro-isla-6": {
-      "name": "Alejandro"
-    },
     "elena-isla-6": {
       "name": "Elena"
     },
     "david-isla-6": {
       "name": "David"
-    },
-    "marieta-isla-7": {
-      "name": "Marieta"
     },
     "alex-girona": {
       "name": "Álex Girona"
@@ -548,6 +521,235 @@
     },
     "miguel-isla-11": {
       "name": "Miguel"
+    },
+    "lydia-perez": {
+      "name": "Lydia Pérez"
+    },
+    "manuel-villena": {
+      "name": "Manuel Villena"
+    },
+    "marina-lopez": {
+      "name": "Marina López"
+    },
+    "alex-sanchez": {
+      "name": "Álex Sánchez"
+    },
+    "naomi-asensi": {
+      "name": "Naomi Asensi"
+    },
+    "adrian-blanch": {
+      "name": "Adrián Blanch"
+    },
+    "laura-boado": {
+      "name": "Laura Boado"
+    },
+    "alejandro-perez": {
+      "name": "Alejandro Pérez"
+    },
+    "anita-williams": {
+      "name": "Anita Williams"
+    },
+    "jose-carlos-montoya": {
+      "name": "José Carlos Montoya"
+    },
+    "sthefany-isla-8": {
+      "name": "Sthefany"
+    },
+    "tadeo-isla-8": {
+      "name": "Tadeo"
+    },
+    "andrea-isla-8": {
+      "name": "Andrea"
+    },
+    "joel-isla-8": {
+      "name": "Joel"
+    },
+    "sandra-barrios": {
+      "name": "Sandra Barrios"
+    },
+    "juanpi-vega": {
+      "name": "Juanpi Vega"
+    },
+    "nieves-tristan": {
+      "name": "Nieves Tristán"
+    },
+    "lorenzo-ayala": {
+      "name": "Lorenzo Ayala"
+    },
+    "helena-arauz": {
+      "name": "Helena Arauz"
+    },
+    "rodri-lopez": {
+      "name": "Rodri López"
+    },
+    "claudia-chacon": {
+      "name": "Claudia Chacón"
+    },
+    "gilbert-mina": {
+      "name": "Gilbert Mina"
+    },
+    "almudena-porras": {
+      "name": "Almudena Porras"
+    },
+    "dario-linero": {
+      "name": "Darío Linero"
+    },
+    "mayeli-diaz": {
+      "name": "Mayeli Díaz"
+    },
+    "alvaro-rubio": {
+      "name": "Álvaro Rubio"
+    },
+    "andrea-canel": {
+      "name": "Andrea Canel"
+    },
+    "enrique-cofino": {
+      "name": "Enrique Cofiño"
+    },
+    "marieta-sola": {
+      "name": "Marieta Sola"
+    },
+    "ruben-torres": {
+      "name": "Rubén Torres",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "8.ª edición (2025)",
+          "role": "Tentador"
+        }
+      ]
+    },
+    "paula-gonzalez": {
+      "name": "Paula González"
+    },
+    "beatriz-retamal": {
+      "name": "Beatriz Retamal"
+    },
+    "hugo-sierra": {
+      "name": "Hugo Sierra"
+    },
+    "juan-luis-quintana": {
+      "name": "Juan Luis Quintana"
+    },
+    "rocio-gallardo": {
+      "name": "Rocío Gallardo"
+    },
+    "marlene-mourreau": {
+      "name": "Marlène Mourreau"
+    },
+    "ivonne-armant": {
+      "name": "Ivonne Armant"
+    },
+    "belen-esteban": {
+      "name": "Belén Esteban"
+    },
+    "laura-matamoros": {
+      "name": "Laura Matamoros"
+    },
+    "alyson-eckmann": {
+      "name": "Alyson Eckmann"
+    },
+    "miriam-saavedra": {
+      "name": "Miriam Saavedra"
+    },
+    "adara-molinero": {
+      "name": "Adara Molinero"
+    },
+    "maria-jesus-ruiz": {
+      "name": "María Jesús Ruiz"
+    },
+    "carlos-lozano": {
+      "name": "Carlos Lozano"
+    },
+    "raquel-lopez": {
+      "name": "Raquel López"
+    },
+    "juan-miguel-martinez": {
+      "name": "Juan Miguel Martínez"
+    },
+    "yola-berrocal": {
+      "name": "Yola Berrocal"
+    },
+    "gianmarco-onestini": {
+      "name": "Gianmarco Onestini"
+    },
+    "joon-choi": {
+      "name": "Joon Choi"
+    },
+    "borja-gonzalez": {
+      "name": "Borja González"
+    },
+    "alvaro-munoz-escassi": {
+      "name": "Álvaro Muñoz Escassi"
+    },
+    "damian-quintero": {
+      "name": "Damián Quintero"
+    },
+    "makoke-giaever": {
+      "name": "Makoke Giaever"
+    },
+    "pelayo-diaz": {
+      "name": "Pelayo Díaz"
+    },
+    "alex-adrover": {
+      "name": "Álex Adrover"
+    },
+    "carmen-alcayde": {
+      "name": "Carmen Alcayde"
+    },
+    "joshua-velazquez": {
+      "name": "Joshua Velázquez"
+    },
+    "nieves-bolos": {
+      "name": "Nieves Bolós"
+    },
+    "koldo-royo": {
+      "name": "Koldo Royo"
+    },
+    "laura-cuevas": {
+      "name": "Laura Cuevas"
+    },
+    "almacor": {
+      "name": "Almácor"
+    },
+    "gala-caldirola": {
+      "name": "Gala Caldirola"
+    },
+    "angela-ponce": {
+      "name": "Ángela Ponce"
+    },
+    "rosario-matew": {
+      "name": "Rosario Matew"
+    },
+    "samya-aghbalou": {
+      "name": "Samya Aghbalou"
+    },
+    "terelu-campos": {
+      "name": "Terelu Campos"
+    },
+    "beatriz-rico": {
+      "name": "Beatriz Rico"
+    },
+    "maica-benedicto": {
+      "name": "Maica Benedicto"
+    },
+    "jessica-bueno": {
+      "name": "Jessica Bueno"
+    },
+    "miri-perez-cabrero": {
+      "name": "Miri Pérez-Cabrero"
+    },
+    "tony-spina": {
+      "name": "Tony Spina"
+    },
+    "asraf-beno": {
+      "name": "Asraf Beno"
+    },
+    "victor-janeiro": {
+      "name": "Víctor Janeiro"
+    },
+    "omar-sanchez": {
+      "name": "Omar Sánchez"
     }
   }
 }

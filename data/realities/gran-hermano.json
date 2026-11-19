@@ -8,21 +8,429 @@
   "since": 2000,
   "theme": "gh",
   "newsQuery": "\"Gran Hermano\" Telecinco",
-  "sources": ["https://es.wikipedia.org/wiki/Gran_Hermano_(Espa%C3%B1a)"],
-  "editions": [
-    { "number": 1, "title": "Gran Hermano 1", "year": 2000, "days": 89, "presenter": "Mercedes Milá", "winner": "ismael-beiro", "finalists": ["ania-iglesias", "ivan-armesto"] },
-    { "number": 2, "title": "Gran Hermano 2", "year": 2001, "days": 101, "presenter": "Mercedes Milá", "winner": "sabrina-mahi", "finalists": ["fran-garcia", "mari-arrabal"] },
-    { "number": 3, "title": "Gran Hermano 3", "year": 2002, "days": 101, "winner": "javito-garcia", "finalists": ["patricia-ledesma", "kiko-hernandez"] },
-    { "number": 4, "title": "Gran Hermano 4", "year": 2002, "days": 102, "winner": "pedro-oliva", "finalists": ["desiree-albertalli", "rafa-lopez"] },
-    { "number": 5, "title": "Gran Hermano 5", "year": 2003, "days": 112, "winner": "nuria-yanez", "finalists": ["david-gallardo", "julian-mejias"] },
-    { "number": 6, "title": "Gran Hermano 6", "year": 2004, "days": 109, "winner": "juanjo-mateo", "finalists": ["conrad-chase", "natacha-jaitt"] },
-    { "number": 7, "title": "Gran Hermano 7", "year": 2005, "days": 108, "winner": "pepe-herrero", "finalists": ["javier-varela", "raquel-abad"] },
-    { "number": 8, "title": "Gran Hermano 8", "year": 2006, "days": 105, "winner": "naiala-melo", "finalists": ["laura-fernandez", "miriam-constanti"] },
-    { "number": 9, "title": "Gran Hermano 9", "year": 2007, "days": 98, "presenter": "Mercedes Milá", "winner": "judit-iglesias", "finalists": ["conchi-y-pamela-de-los-santos", "rodrigo-urbina"] },
-    { "number": 10, "title": "Gran Hermano 10", "year": 2008, "days": 123, "presenter": "Mercedes Milá", "winner": "ivan-madrazo", "finalists": ["orlando-breyner", "almudena-martinez"] },
-    { "number": 11, "title": "Gran Hermano 11", "year": 2009, "days": 143, "presenter": "Mercedes Milá", "winner": "angel-munoz", "finalists": ["saray-pereira", "pilarita-gomez"] },
-    { "number": 12, "title": "Gran Hermano 12", "year": 2010, "days": 144, "presenter": "Mercedes Milá", "winner": "laura-campos", "finalists": ["yago-hermida", "marcelo-ciriaco"] },
-    { "number": 13, "title": "Gran Hermano 12+1", "year": 2012, "days": 130, "presenter": "Mercedes Milá", "winner": "pepe-flores", "finalists": ["daniel-santos"] }
+  "sources": [
+    "https://es.wikipedia.org/wiki/Gran_Hermano_(Espa%C3%B1a)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_TV_series)"
   ],
-  "notes": "Ediciones posteriores (GH 14 en adelante, VIP, Dúo, Revolution…) pendientes de completar."
+  "editions": [
+    {
+      "number": 1,
+      "title": "Gran Hermano 1",
+      "year": 2000,
+      "days": 89,
+      "presenter": "Mercedes Milá",
+      "winner": "ismael-beiro",
+      "finalists": [
+        "ania-iglesias",
+        "ivan-armesto"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Gran Hermano 2",
+      "year": 2001,
+      "days": 101,
+      "presenter": "Mercedes Milá",
+      "winner": "sabrina-mahi",
+      "finalists": [
+        "fran-garcia",
+        "mari-arrabal"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Gran Hermano 3",
+      "year": 2002,
+      "days": 101,
+      "winner": "javito-garcia",
+      "finalists": [
+        "patricia-ledesma",
+        "kiko-hernandez"
+      ],
+      "presenter": "Pepe Navarro"
+    },
+    {
+      "number": 4,
+      "title": "Gran Hermano 4",
+      "year": 2002,
+      "days": 102,
+      "winner": "pedro-oliva",
+      "finalists": [
+        "desiree-albertalli",
+        "rafa-lopez"
+      ],
+      "presenter": "Mercedes Milá"
+    },
+    {
+      "number": 5,
+      "title": "Gran Hermano 5",
+      "year": 2003,
+      "days": 112,
+      "winner": "nuria-yanez",
+      "finalists": [
+        "david-gallardo",
+        "julian-mejias"
+      ],
+      "presenter": "Mercedes Milá"
+    },
+    {
+      "number": 6,
+      "title": "Gran Hermano 6",
+      "year": 2004,
+      "days": 109,
+      "winner": "juanjo-mateo",
+      "finalists": [
+        "conrad-chase",
+        "natacha-jaitt"
+      ],
+      "presenter": "Mercedes Milá"
+    },
+    {
+      "number": 7,
+      "title": "Gran Hermano 7",
+      "year": 2005,
+      "days": 108,
+      "winner": "pepe-herrero",
+      "finalists": [
+        "javier-varela",
+        "raquel-abad"
+      ],
+      "presenter": "Mercedes Milá"
+    },
+    {
+      "number": 8,
+      "title": "Gran Hermano 8",
+      "year": 2006,
+      "days": 105,
+      "winner": "naiala-melo",
+      "finalists": [
+        "laura-fernandez",
+        "miriam-constanti"
+      ],
+      "presenter": "Mercedes Milá"
+    },
+    {
+      "number": 9,
+      "title": "Gran Hermano 9",
+      "year": 2007,
+      "days": 98,
+      "presenter": "Mercedes Milá",
+      "winner": "judit-iglesias",
+      "finalists": [
+        "conchi-y-pamela-de-los-santos",
+        "rodrigo-urbina"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Gran Hermano 10",
+      "year": 2008,
+      "days": 123,
+      "presenter": "Mercedes Milá",
+      "winner": "ivan-madrazo",
+      "finalists": [
+        "orlando-breyner",
+        "almudena-martinez"
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Gran Hermano 11",
+      "year": 2009,
+      "days": 143,
+      "presenter": "Mercedes Milá",
+      "winner": "angel-munoz",
+      "finalists": [
+        "saray-pereira",
+        "pilarita-gomez"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Gran Hermano 12",
+      "year": 2010,
+      "days": 144,
+      "presenter": "Mercedes Milá",
+      "winner": "laura-campos",
+      "finalists": [
+        "yago-hermida",
+        "marcelo-ciriaco"
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Gran Hermano 12+1",
+      "year": 2012,
+      "days": 130,
+      "presenter": "Mercedes Milá",
+      "winner": "pepe-flores",
+      "finalists": [
+        "daniel-santos"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Gran Hermano 14",
+      "year": 2013,
+      "days": 128,
+      "presenter": "Mercedes Milá",
+      "winner": "susana-molina"
+    },
+    {
+      "number": 15,
+      "title": "Gran Hermano 15",
+      "year": 2014,
+      "days": 92,
+      "presenter": "Mercedes Milá",
+      "winner": "paula-gonzalez"
+    },
+    {
+      "number": 16,
+      "title": "Gran Hermano 16",
+      "year": 2015,
+      "days": 102,
+      "presenter": "Mercedes Milá",
+      "winner": "sofia-suescun"
+    },
+    {
+      "number": 17,
+      "title": "Gran Hermano 17",
+      "year": 2016,
+      "days": 106,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "beatriz-retamal"
+    },
+    {
+      "number": 18,
+      "title": "Gran Hermano Revolution",
+      "year": 2017,
+      "days": 89,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "hugo-sierra"
+    },
+    {
+      "number": 19,
+      "title": "Gran Hermano 19",
+      "year": 2024,
+      "days": 106,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "juan-luis-quintana"
+    },
+    {
+      "number": 20,
+      "title": "Gran Hermano 20",
+      "year": 2025,
+      "days": 42,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "rocio-gallardo",
+      "notes": "La edición más corta de la historia del formato en Telecinco."
+    },
+    {
+      "number": 1,
+      "slug": "vip-1",
+      "badge": "VIP 1",
+      "title": "Gran Hermano El Desafío (VIP 1)",
+      "year": 2004,
+      "days": 69,
+      "presenter": "Jesús Vázquez",
+      "winner": "marlene-mourreau",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 2,
+      "slug": "vip-2",
+      "badge": "VIP 2",
+      "title": "Gran Hermano VIP 2",
+      "year": 2005,
+      "days": 71,
+      "presenter": "Jesús Vázquez",
+      "winner": "ivonne-armant",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 3,
+      "slug": "vip-3",
+      "badge": "VIP 3",
+      "title": "Gran Hermano VIP 3",
+      "year": 2015,
+      "days": 75,
+      "presenter": "Jordi González",
+      "winner": "belen-esteban",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 4,
+      "slug": "vip-4",
+      "badge": "VIP 4",
+      "title": "Gran Hermano VIP 4",
+      "year": 2016,
+      "days": 99,
+      "presenter": "Jordi González",
+      "winner": "laura-matamoros",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 5,
+      "slug": "vip-5",
+      "badge": "VIP 5",
+      "title": "Gran Hermano VIP 5",
+      "year": 2017,
+      "days": 96,
+      "presenter": "Jordi González",
+      "winner": "alyson-eckmann",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 6,
+      "slug": "vip-6",
+      "badge": "VIP 6",
+      "title": "Gran Hermano VIP 6",
+      "year": 2018,
+      "days": 99,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "miriam-saavedra",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 7,
+      "slug": "vip-7",
+      "badge": "VIP 7",
+      "title": "Gran Hermano VIP 7",
+      "year": 2019,
+      "days": 100,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "adara-molinero",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 8,
+      "slug": "vip-8",
+      "badge": "VIP 8",
+      "title": "Gran Hermano VIP 8",
+      "year": 2023,
+      "days": 99,
+      "presenter": "Marta Flich",
+      "winner": "naomi-asensi",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 9,
+      "slug": "vip-9",
+      "badge": "VIP 9",
+      "title": "Gran Hermano VIP 9",
+      "year": 2026,
+      "presenter": "Jorge Javier Vázquez",
+      "notes": "Edición en emisión.",
+      "group": "Gran Hermano VIP"
+    },
+    {
+      "number": 1,
+      "slug": "duo-1",
+      "badge": "Dúo 1",
+      "title": "Gran Hermano Dúo 1",
+      "year": 2019,
+      "days": 94,
+      "presenter": "Jorge Javier Vázquez y Jordi González",
+      "winner": "maria-jesus-ruiz",
+      "group": "Gran Hermano Dúo"
+    },
+    {
+      "number": 2,
+      "slug": "duo-2",
+      "badge": "Dúo 2",
+      "title": "Gran Hermano Dúo 2",
+      "year": 2024,
+      "days": 53,
+      "presenter": "Marta Flich",
+      "winner": "lucia-sanchez",
+      "group": "Gran Hermano Dúo"
+    },
+    {
+      "number": 3,
+      "slug": "duo-3",
+      "badge": "Dúo 3",
+      "title": "Gran Hermano Dúo 3",
+      "year": 2025,
+      "days": 62,
+      "presenter": "Carlos Sobera",
+      "winner": "marieta-sola",
+      "group": "Gran Hermano Dúo"
+    },
+    {
+      "number": 4,
+      "slug": "duo-4",
+      "badge": "Dúo 4",
+      "title": "Gran Hermano Dúo 4",
+      "year": 2026,
+      "days": 55,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "carlos-lozano",
+      "group": "Gran Hermano Dúo"
+    },
+    {
+      "number": 0,
+      "slug": "reencuentro",
+      "badge": "★",
+      "title": "Gran Hermano: El Reencuentro",
+      "year": 2010,
+      "days": 56,
+      "winner": "pepe-herrero",
+      "participants": [
+        {
+          "id": "raquel-lopez",
+          "role": "Ganadora (en pareja)"
+        }
+      ],
+      "notes": "Ganadores en pareja.",
+      "group": "Especiales"
+    },
+    {
+      "number": 0,
+      "slug": "reencuentro-10",
+      "badge": "★",
+      "title": "El Reencuentro: 10 años después",
+      "year": 2011,
+      "days": 47,
+      "winner": "juan-miguel-martinez",
+      "participants": [
+        {
+          "id": "yola-berrocal",
+          "role": "Ganadora (en pareja)"
+        }
+      ],
+      "notes": "Ganadores en pareja.",
+      "group": "Especiales"
+    },
+    {
+      "number": 0,
+      "slug": "la-re-vuelta",
+      "badge": "★",
+      "title": "Gran Hermano: La Re-vuelta",
+      "year": 2012,
+      "days": 15,
+      "winner": "alessandro-livi",
+      "group": "Especiales"
+    },
+    {
+      "number": 0,
+      "slug": "tiempo-del-descuento",
+      "badge": "★",
+      "title": "El tiempo del descuento",
+      "year": 2020,
+      "days": 36,
+      "winner": "gianmarco-onestini",
+      "group": "Especiales"
+    },
+    {
+      "number": 0,
+      "slug": "uno-de-gh20",
+      "badge": "★",
+      "title": "Uno de GH20",
+      "year": 2025,
+      "days": 38,
+      "winner": "joon-choi",
+      "group": "Especiales"
+    }
+  ],
+  "notes": "Finalistas de GH 14 en adelante, concursantes y orden de expulsiones pendientes de completar."
 }

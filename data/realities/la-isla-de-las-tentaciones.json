@@ -14,7 +14,10 @@
     "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
     "https://www.sensacine.com/television/noticias/noticia-1000132089.html",
     "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/",
-    "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
+    "https://www.sensacine.com/television/noticias/noticia-1000231896.html",
+    "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
+    "https://www.elindependiente.com/?p=2932850",
+    "https://www.espinof.com/reality/isla-tentaciones-8-pone-fin-a-agonia-montoya-anita-queda-reencuentro-3-meses-despues"
   ],
   "editions": [
     {
@@ -218,27 +221,30 @@
       "presenter": "Sandra Barneda",
       "couples": [
         {
-          "a": "lydia-isla-6",
-          "b": "manuel-isla-6"
+          "a": "lydia-perez",
+          "b": "manuel-villena",
+          "outcome": "Salieron juntos"
         },
         {
-          "a": "marina-isla-6",
-          "b": "alex-isla-6"
+          "a": "marina-lopez",
+          "b": "alex-sanchez",
+          "outcome": "Salieron por separado: Álex se fue con la tentadora Yaiza"
         },
         {
-          "a": "naomi-isla-6",
-          "b": "adrian-isla-6"
+          "a": "naomi-asensi",
+          "b": "adrian-blanch",
+          "outcome": "Salieron por separado"
         },
         {
-          "a": "laura-isla-6",
-          "b": "alejandro-isla-6"
+          "a": "laura-boado",
+          "b": "alejandro-perez",
+          "outcome": "Salieron por separado"
         },
         {
           "a": "elena-isla-6",
           "b": "david-isla-6"
         }
-      ],
-      "notes": "Decisiones de las hogueras finales pendientes de verificar."
+      ]
     },
     {
       "number": 7,
@@ -249,7 +255,7 @@
       "presenter": "Sandra Barneda",
       "couples": [
         {
-          "a": "marieta-isla-7",
+          "a": "marieta-sola",
           "b": "alex-girona",
           "outcome": "Salieron por separado: Álex se fue con la tentadora Gabriela"
         },
@@ -296,25 +302,74 @@
         {
           "a": "bayan-isla-8",
           "b": "eros-isla-8",
-          "outcome": "Salieron por separado: Bayan se fue con Rubén Torres"
+          "outcome": "Salieron por separado: Bayan se fue con el tentador Rubén Torres"
         },
         {
           "a": "alba-isla-8",
           "b": "alvaro-isla-8",
           "outcome": "Salieron por separado: Alba decidió irse sola"
+        },
+        {
+          "a": "anita-williams",
+          "b": "jose-carlos-montoya",
+          "outcome": "Salieron por separado"
+        },
+        {
+          "a": "sthefany-isla-8",
+          "b": "tadeo-isla-8",
+          "outcome": "Salieron juntos"
+        },
+        {
+          "a": "andrea-isla-8",
+          "b": "joel-isla-8",
+          "outcome": "Salieron juntos"
         }
       ],
-      "notes": "Resto de parejas (entre ellas Montoya y Anita) pendiente de completar."
+      "notes": "Montoya volvió a la isla en la 10.ª edición como invitado. Gabriella Barbu y Manuel González (3.ª edición) se reincorporaron como solteros."
     },
     {
       "number": 9,
       "title": "9.ª edición",
       "year": 2025,
-      "dates": "nov 2025 – ene 2026",
+      "dates": "3 nov 2025 – 14 ene 2026",
       "channel": "Telecinco",
       "presenter": "Sandra Barneda",
-      "couples": [],
-      "notes": "Parejas pendientes de completar."
+      "couples": [
+        {
+          "a": "sandra-barrios",
+          "b": "juanpi-vega",
+          "outcome": "Salieron por separado: Sandra se fue con Andrea Canel"
+        },
+        {
+          "a": "nieves-tristan",
+          "b": "lorenzo-ayala",
+          "outcome": "Expulsados como pareja; salieron juntos"
+        },
+        {
+          "a": "helena-arauz",
+          "b": "rodri-lopez",
+          "outcome": "Helena eligió al tentador Albert Barranco; Rodri se fue solo"
+        },
+        {
+          "a": "claudia-chacon",
+          "b": "gilbert-mina"
+        },
+        {
+          "a": "almudena-porras",
+          "b": "dario-linero"
+        },
+        {
+          "a": "mayeli-diaz",
+          "b": "alvaro-rubio",
+          "outcome": "Entraron con la edición empezada"
+        },
+        {
+          "a": "andrea-canel",
+          "b": "enrique-cofino",
+          "outcome": "Entraron con la edición empezada; Andrea se fue con Sandra Barrios"
+        }
+      ],
+      "notes": "Resultado de algunas parejas pendiente de verificar."
     },
     {
       "number": 10,

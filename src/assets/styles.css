@@ -162,3 +162,4 @@ main { min-height: 70vh; }
   .reality-hero-art { width: 110px; }
   .poster, .row-posters .poster { width: 160px; }
 }
+.edition-num.long { font-size: 1.3rem; white-space: nowrap; }

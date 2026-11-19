@@ -27,7 +27,7 @@ const realities = [
 // ---------- utilidades ----------
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const url = (p = '') => `${BASE}/${p}`.replace(/\/+/g, '/');
-const editionSlug = (e) => `edicion-${e.number}`;
+const editionSlug = (e) => e.slug ?? `edicion-${e.number}`;
 const initials = (name) => name.replace(/[«»"]/g, '').split(/\s+/).filter(Boolean).slice(0, 2).map((w) => w[0]).join('').toUpperCase();
 const person = (id) => {
   if (!people[id]) throw new Error(`Persona desconocida en los datos: "${id}". Añádela a data/people.json`);
@@ -178,12 +178,15 @@ ${row('Últimos ganadores', winnersRow)}
 // Páginas por reality y edición
 for (const r of realities) {
   const rNews = news.items.filter((n) => n.reality === r.id);
-  const editionCards = r.editions.slice().reverse().map((e) => `
+  const editionCard = (e) => `
     <a class="edition-card" href="${url(`${r.id}/${editionSlug(e)}/`)}">
-      <div class="edition-num">${e.number}</div>
+      <div class="edition-num${String(e.badge ?? e.number).length > 2 ? ' long' : ''}">${esc(e.badge ?? e.number)}</div>
       <div><div class="edition-title">${esc(e.title)}</div>
       <div class="person-sub">${e.year}${e.winner ? ` · Ganador/a: ${esc(person(e.winner).name)}` : ''}${e.couples?.length ? ` · ${e.couples.length} pareja${e.couples.length > 1 ? 's' : ''}` : ''}</div></div>
-    </a>`).join('');
+    </a>`;
+  const groups = new Map();
+  for (const e of r.editions) { const g = e.group ?? 'Ediciones'; if (!groups.has(g)) groups.set(g, []); groups.get(g).push(e); }
+  const editionCards = [...groups].map(([g, eds]) => `<h2>${esc(g)}</h2><div class="edition-grid">${eds.slice().reverse().map(editionCard).join('')}</div>`).join('');
   const spinoffs = (r.spinoffs ?? []).map((s) => `<li><strong>${esc(s.title)}</strong> (${s.year}) · ${esc(s.dates ?? '')} · ${esc(s.presenter ?? '')}</li>`).join('');
   page(`${r.id}/`, layout({
     title: r.name, theme: r.theme, path: `${r.id}/`,
@@ -197,7 +200,7 @@ for (const r of realities) {
     <p class="hero-text">${esc(r.description)}</p>
   </div>
 </section>
-<section class="block"><h2>Ediciones</h2><div class="edition-grid">${editionCards}</div>
+<section class="block">${editionCards}
 ${r.notes ? `<p class="muted">${esc(r.notes)}</p>` : ''}</section>
 ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></section>` : ''}
 <section class="block"><h2>Noticias</h2>${newsList(rNews.slice(0, 12))}</section>
@@ -260,7 +263,7 @@ for (const id of allIds) {
 </section>
 ${p.now ? `<section class="block"><h2>En la actualidad</h2><p>${esc(p.now)}</p><p class="muted">Según sus redes públicas.</p></section>` : ''}
 ${socials ? `<section class="block"><h2>Redes</h2><ul class="socials">${socials}</ul></section>` : ''}
-<p class="muted small">¿Eres esta persona y quieres corregir o retirar datos? <a href="${url('aviso-legal/')}">Escríbenos</a>.</p>`,
+<p class="block muted small">¿Eres esta persona y quieres corregir o retirar datos? <a href="${url('aviso-legal/')}">Escríbenos</a>.</p>`,
   }));
 }
 

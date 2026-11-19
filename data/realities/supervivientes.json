@@ -8,28 +8,296 @@
   "since": 2000,
   "theme": "superv",
   "newsQuery": "Supervivientes Telecinco",
-  "sources": ["https://es.wikipedia.org/wiki/Supervivientes"],
-  "editions": [
-    { "number": 1, "title": "1.ª edición", "year": 2000, "winner": "xavier-monjonell" },
-    { "number": 2, "title": "2.ª edición", "year": 2001, "winner": "alfredo-cortina" },
-    { "number": 3, "title": "Supervivientes 2006", "year": 2006, "winner": "carmen-russo" },
-    { "number": 4, "title": "Supervivientes 2007", "year": 2007, "winner": "nilo-manrique" },
-    { "number": 5, "title": "Supervivientes 2008", "year": 2008, "winner": "miriam-sanchez" },
-    { "number": 6, "title": "Supervivientes 2009", "year": 2009, "winner": "maite-zuniga" },
-    { "number": 7, "title": "Supervivientes 2010", "year": 2010, "winner": "maria-jose-fernandez" },
-    { "number": 8, "title": "Supervivientes 2011", "year": 2011, "winner": "rosa-benito" },
-    { "number": 9, "title": "Supervivientes 2014", "year": 2014, "winner": "abraham-garcia" },
-    { "number": 10, "title": "Supervivientes 2015", "year": 2015, "winner": "christopher-mateo" },
-    { "number": 11, "title": "Supervivientes 2016", "year": 2016, "winner": "jorge-diaz" },
-    { "number": 12, "title": "Supervivientes 2017", "year": 2017, "winner": "jose-luis-losa" },
-    { "number": 13, "title": "Supervivientes 2018", "year": 2018, "winner": "sofia-suescun" },
-    { "number": 14, "title": "Supervivientes 2019", "year": 2019, "winner": "omar-montes" },
-    { "number": 15, "title": "Supervivientes 2020", "year": 2020, "winner": "jorge-perez" },
-    { "number": 16, "title": "Supervivientes 2021", "year": 2021, "winner": "olga-moreno" },
-    { "number": 17, "title": "Supervivientes 2022", "year": 2022, "winner": "alejandro-nieto" },
-    { "number": 18, "title": "Supervivientes 2023", "year": 2023, "winner": "bosco-martinez-bordiu" },
-    { "number": 19, "title": "Supervivientes 2024", "year": 2024, "winner": "pedro-garcia-aguado" },
-    { "number": 20, "title": "Supervivientes 2025", "year": 2025 }
+  "sources": [
+    "https://es.wikipedia.org/wiki/Supervivientes",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2025)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_All_Stars",
+    "https://www.telecinco.es/reality/20251031/final-supervivientes-all-stars-2025-asi-fue-desde-dentro_18_017423603.html",
+    "https://www.telecinco.es/television/20261113/supervivientes-all-stars-mejores-momentos-final-asraf-beno-rosa-benito-belen-esteban_18_020702897.html",
+    "https://www.menorca.info/vips/television/2026/06/12/2648617/maica-benedicto-gana-supervivientes-2026.html"
   ],
-  "notes": "Finalistas, concursantes y orden de expulsiones pendientes de completar."
+  "editions": [
+    {
+      "number": 1,
+      "title": "1.ª edición",
+      "year": 2000,
+      "winner": "xavier-monjonell"
+    },
+    {
+      "number": 2,
+      "title": "2.ª edición",
+      "year": 2001,
+      "winner": "alfredo-cortina"
+    },
+    {
+      "number": 3,
+      "title": "Supervivientes 2006",
+      "year": 2006,
+      "winner": "carmen-russo"
+    },
+    {
+      "number": 4,
+      "title": "Supervivientes 2007",
+      "year": 2007,
+      "winner": "nilo-manrique"
+    },
+    {
+      "number": 5,
+      "title": "Supervivientes 2008",
+      "year": 2008,
+      "winner": "miriam-sanchez"
+    },
+    {
+      "number": 6,
+      "title": "Supervivientes 2009",
+      "year": 2009,
+      "winner": "maite-zuniga"
+    },
+    {
+      "number": 7,
+      "title": "Supervivientes 2010",
+      "year": 2010,
+      "winner": "maria-jose-fernandez"
+    },
+    {
+      "number": 8,
+      "title": "Supervivientes 2011",
+      "year": 2011,
+      "winner": "rosa-benito"
+    },
+    {
+      "number": 9,
+      "title": "Supervivientes 2014",
+      "year": 2014,
+      "winner": "abraham-garcia"
+    },
+    {
+      "number": 10,
+      "title": "Supervivientes 2015",
+      "year": 2015,
+      "winner": "christopher-mateo"
+    },
+    {
+      "number": 11,
+      "title": "Supervivientes 2016",
+      "year": 2016,
+      "winner": "jorge-diaz"
+    },
+    {
+      "number": 12,
+      "title": "Supervivientes 2017",
+      "year": 2017,
+      "winner": "jose-luis-losa"
+    },
+    {
+      "number": 13,
+      "title": "Supervivientes 2018",
+      "year": 2018,
+      "winner": "sofia-suescun"
+    },
+    {
+      "number": 14,
+      "title": "Supervivientes 2019",
+      "year": 2019,
+      "winner": "omar-montes"
+    },
+    {
+      "number": 15,
+      "title": "Supervivientes 2020",
+      "year": 2020,
+      "winner": "jorge-perez"
+    },
+    {
+      "number": 16,
+      "title": "Supervivientes 2021",
+      "year": 2021,
+      "winner": "olga-moreno"
+    },
+    {
+      "number": 17,
+      "title": "Supervivientes 2022",
+      "year": 2022,
+      "winner": "alejandro-nieto"
+    },
+    {
+      "number": 18,
+      "title": "Supervivientes 2023",
+      "year": 2023,
+      "winner": "bosco-martinez-bordiu"
+    },
+    {
+      "number": 19,
+      "title": "Supervivientes 2024",
+      "year": 2024,
+      "winner": "pedro-garcia-aguado"
+    },
+    {
+      "number": 20,
+      "title": "Supervivientes 2025",
+      "year": 2025,
+      "winner": "borja-gonzalez",
+      "finalists": [
+        "alvaro-munoz-escassi",
+        "jose-carlos-montoya"
+      ],
+      "dates": "6 mar – 17 jun 2025",
+      "presenter": "Jorge Javier Vázquez y Laura Madrueño",
+      "days": 104,
+      "location": "Cayos Cochinos, Honduras",
+      "participants": [
+        {
+          "id": "anita-williams",
+          "role": "Expulsada (día 104)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "damian-quintero",
+          "role": "Expulsado (día 99)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "makoke-giaever",
+          "role": "Expulsada (día 95)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "pelayo-diaz",
+          "role": "Expulsado (día 92)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "alex-adrover",
+          "role": "Evacuado (día 90)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "carmen-alcayde",
+          "role": "Expulsada (día 85)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "joshua-velazquez",
+          "role": "Expulsado (día 78)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "nieves-bolos",
+          "role": "Expulsada (día 71)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "manuel-gonzalez",
+          "role": "Expulsado (día 64)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "koldo-royo",
+          "role": "Expulsado (día 57)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "laura-cuevas",
+          "role": "Expulsada (día 53)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "almacor",
+          "role": "Evacuado (día 41)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "gala-caldirola",
+          "role": "Expulsada (día 39)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "angela-ponce",
+          "role": "Expulsada (día 32)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "rosario-matew",
+          "role": "Abandonó (día 25)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "samya-aghbalou",
+          "role": "Expulsada (día 25)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "terelu-campos",
+          "role": "Abandonó (día 18)",
+          "eliminatedOrder": 20
+        },
+        {
+          "id": "beatriz-rico",
+          "role": "Abandonó (día 4)",
+          "eliminatedOrder": 21
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Supervivientes 2026",
+      "year": 2026,
+      "winner": "maica-benedicto",
+      "notes": "Finalistas: Alba, Soto y Alvar (pendiente de completar apellidos y orden)."
+    },
+    {
+      "number": 1,
+      "slug": "all-stars-2024",
+      "badge": "AS 1",
+      "title": "Supervivientes All Stars 2024",
+      "year": 2024,
+      "presenter": "Jorge Javier Vázquez y Laura Madrueño",
+      "winner": "marta-penate",
+      "finalists": [
+        "alejandro-nieto",
+        "sofia-suescun"
+      ],
+      "group": "All Stars"
+    },
+    {
+      "number": 2,
+      "slug": "all-stars-2025",
+      "badge": "AS 2",
+      "title": "Supervivientes All Stars 2025",
+      "year": 2025,
+      "dates": "Final: 30 oct 2025",
+      "winner": "ruben-torres",
+      "finalists": [
+        "jessica-bueno",
+        "miri-perez-cabrero"
+      ],
+      "participants": [
+        {
+          "id": "tony-spina",
+          "role": "4.º puesto"
+        }
+      ],
+      "group": "All Stars"
+    },
+    {
+      "number": 3,
+      "slug": "all-stars-2026",
+      "badge": "AS 3",
+      "title": "Supervivientes All Stars 2026",
+      "year": 2026,
+      "dates": "Final: nov 2026",
+      "winner": "asraf-beno",
+      "finalists": [
+        "yola-berrocal",
+        "victor-janeiro"
+      ],
+      "participants": [
+        {
+          "id": "omar-sanchez",
+          "role": "4.º puesto"
+        }
+      ],
+      "group": "All Stars"
+    }
+  ],
+  "notes": "Finalistas de las ediciones anteriores a 2025 y orden de expulsiones pendientes de completar."
 }
