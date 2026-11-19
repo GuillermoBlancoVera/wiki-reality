@@ -14,7 +14,24 @@
     "https://en.wikipedia.org/wiki/Supervivientes:_All_Stars",
     "https://www.telecinco.es/reality/20251031/final-supervivientes-all-stars-2025-asi-fue-desde-dentro_18_017423603.html",
     "https://www.telecinco.es/television/20261113/supervivientes-all-stars-mejores-momentos-final-asraf-beno-rosa-benito-belen-esteban_18_020702897.html",
-    "https://www.menorca.info/vips/television/2026/06/12/2648617/maica-benedicto-gana-supervivientes-2026.html"
+    "https://www.menorca.info/vips/television/2026/06/12/2648617/maica-benedicto-gana-supervivientes-2026.html",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2023)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2022)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2021)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2020)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2019)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2018)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2024)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2017)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2016)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2015)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2014)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2011)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2009)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2008)",
+    "https://en.wikipedia.org/wiki/Supervivientes:_Perdidos_en_Honduras_(2007)",
+    "https://www.sensacine.com/television/noticias/noticia-1000208418.html",
+    "https://www.hola.com/actualidad/20260217884275/supervivientes-concursantes-confirmados/"
   ],
   "editions": [
     {
@@ -39,19 +56,200 @@
       "number": 4,
       "title": "Supervivientes 2007",
       "year": 2007,
-      "winner": "nilo-manrique"
+      "winner": "nilo-manrique",
+      "dates": "19 abr – 28 jun 2007",
+      "finalists": [
+        "juanito-oiarzabal",
+        "rebecca-loos"
+      ],
+      "participants": [
+        {
+          "id": "javian-anton",
+          "role": "Expulsado/a (día 63)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "raquel-bollo",
+          "role": "Expulsado/a (día 56)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "carlo-constanzia",
+          "role": "Expulsado/a (día 49)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "teresa-martin",
+          "role": "Expulsado/a (día 42)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "valerio-pino",
+          "role": "Expulsado/a (día 35)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "sofia-cristo",
+          "role": "Expulsado/a (día 28)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "elizabeth-thompson",
+          "role": "Expulsado/a (día 21)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "pedro-oliva",
+          "role": "Expulsado/a (día 14)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "chiqui-marti",
+          "role": "Expulsado/a (día 7)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "angela-bustillo",
+          "role": "Evacuado/a (día 7)",
+          "eliminatedOrder": 13
+        }
+      ]
     },
     {
       "number": 5,
       "title": "Supervivientes 2008",
       "year": 2008,
-      "winner": "miriam-sanchez"
+      "winner": "miriam-sanchez",
+      "dates": "17 ene – 27 mar 2008",
+      "finalists": [
+        "leo-segarra",
+        "lely-cespedes"
+      ],
+      "participants": [
+        {
+          "id": "nekal-haidari",
+          "role": "Expulsado/a (día 63)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "michel-olivares",
+          "role": "Expulsado/a (día 56)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "patxi-salinas",
+          "role": "Expulsado/a (día 49)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "karmele-marchante",
+          "role": "Expulsado/a (día 42)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ojani-noa",
+          "role": "Expulsado/a (día 35)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "felisa-gomez",
+          "role": "Expulsado/a (día 28)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "ivonne-armant",
+          "role": "Expulsado/a (día 21)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "joselito",
+          "role": "Expulsado/a (día 14)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "miguel-such",
+          "role": "Expulsado/a (día 7)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "estela-gimenez",
+          "role": "Abandonó (día 5)",
+          "eliminatedOrder": 13
+        }
+      ]
     },
     {
       "number": 6,
       "title": "Supervivientes 2009",
       "year": 2009,
-      "winner": "maite-zuniga"
+      "winner": "maite-zuniga",
+      "dates": "19 mar – 11 jun 2009",
+      "finalists": [
+        "matias-fernandez",
+        "ivonne-orsini"
+      ],
+      "participants": [
+        {
+          "id": "yolanda-jimenez",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "santi-abad",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "daniela-blume",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "alvaro-munoz-escassi",
+          "role": "Evacuado/a (día 57)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "cuca-garcia-de-vinuesa",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "juan-diaz-el-golosina",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "wilma-gonzalez",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "begona-alonso",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "olfo-bose",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "ivan-santos",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "roberto-liano",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "michel-gurfi",
+          "role": "Abandonó (día 0)",
+          "eliminatedOrder": 15
+        }
+      ]
     },
     {
       "number": 7,
@@ -63,73 +261,1042 @@
       "number": 8,
       "title": "Supervivientes 2011",
       "year": 2011,
-      "winner": "rosa-benito"
+      "winner": "rosa-benito",
+      "dates": "5 may – 28 jul 2011",
+      "finalists": [
+        "rosi-arcas",
+        "tatiana-delgado"
+      ],
+      "participants": [
+        {
+          "id": "sonia-monroy",
+          "role": "Expulsado/a (día 84)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "jeyko-vigil",
+          "role": "Expulsado/a (día 77)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "jessica-bueno",
+          "role": "Expulsado/a (día 77)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "toni-genil",
+          "role": "Expulsado/a (día 70)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "arturo-requejo",
+          "role": "Expulsado/a (día 63)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "carolina-cordoba",
+          "role": "Expulsado/a (día 56)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "emma-diaz",
+          "role": "Expulsado/a (día 49)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "alberto-garcia",
+          "role": "Expulsado/a (día 49)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "montalvo",
+          "role": "Expulsado/a (día 42)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "tamara-gorro",
+          "role": "Abandonó (día 35)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "kiko-rivera",
+          "role": "Abandonó (día 35)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "xexu-lopez",
+          "role": "Expulsado/a (día 35)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "diego-duran",
+          "role": "Expulsado/a (día 32)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "reyes-estevez",
+          "role": "Expulsado/a (día 32)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "jacobo-ostos",
+          "role": "Expulsado/a (día 21)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "aida-nizar",
+          "role": "Expulsado/a (día 14)",
+          "eliminatedOrder": 19
+        }
+      ]
     },
     {
       "number": 9,
       "title": "Supervivientes 2014",
       "year": 2014,
-      "winner": "abraham-garcia"
+      "winner": "abraham-garcia",
+      "dates": "17 mar – 27 may 2014",
+      "finalists": [
+        "rafa-lomana",
+        "yong-li"
+      ],
+      "participants": [
+        {
+          "id": "nacho-montes",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "carolina-sobe",
+          "role": "Expulsado/a (día 65)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "chiqui-martinez",
+          "role": "Expulsado/a (día 65)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "amador-mohedano",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "rebeca-pous",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "katia-aveiro",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "viviana-figueredo",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "tony-spina",
+          "role": "Evacuado/a (día 50)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "diego-matamoros",
+          "role": "Evacuado/a (día 46)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "leo-margets",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "bibiana-fernandez",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "aran-aznar",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "suhaila-jad",
+          "role": "Abandonó (día 22)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "pascual-fernandez",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "anabel-pantoja",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "antonio-tejado",
+          "role": "Evacuado/a (día 10)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "la-pelopony",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 20
+        },
+        {
+          "id": "alberto-santana",
+          "role": "Evacuado/a (día 8)",
+          "eliminatedOrder": 21
+        },
+        {
+          "id": "oriana-marzoli",
+          "role": "Abandonó (día 5)",
+          "eliminatedOrder": 22
+        }
+      ]
     },
     {
       "number": 10,
       "title": "Supervivientes 2015",
       "year": 2015,
-      "winner": "christopher-mateo"
+      "winner": "christopher-mateo",
+      "dates": "16 abr – 16 jul 2015",
+      "finalists": [
+        "nacho-vidal",
+        "ruben-lopez"
+      ],
+      "participants": [
+        {
+          "id": "rafi-camino",
+          "role": "Expulsado/a (día 88)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "isa-pantoja",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "fortu",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "lola-ortiz",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "lucia-parreno",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "suhaila-jad",
+          "role": "Expulsado/a (día 55)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "elisa-de-panicis",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "carmen-lomana",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "noel-bayarri",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "isabel-rabago",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "arantxa-bustos",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "jose-labrador",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "carmen-gahona",
+          "role": "Evacuado/a (día 8)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "rasel-abad",
+          "role": "Abandonó (día 0)",
+          "eliminatedOrder": 17
+        }
+      ]
     },
     {
       "number": 11,
       "title": "Supervivientes 2016",
       "year": 2016,
-      "winner": "jorge-diaz"
+      "winner": "jorge-diaz",
+      "dates": "21 abr – 12 jul 2016",
+      "finalists": [
+        "yola-berrocal",
+        "mila-ximenez"
+      ],
+      "participants": [
+        {
+          "id": "suso-alvarez",
+          "role": "Expulsado/a (día 83)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "steisy",
+          "role": "Expulsado/a (día 76)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "paco-de-benito",
+          "role": "Expulsado/a (día 69)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "carla-barber",
+          "role": "Expulsado/a (día 69)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "yurena",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "dulce-delapiedra",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "victor-sandoval",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "miriam-saavedra",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "mario-d-amico",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "cristian-nieto",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "mari-carmen-torrecillas",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "el-dioni",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "antonio-tejado",
+          "role": "Evacuado/a (día 15)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 12,
       "title": "Supervivientes 2017",
       "year": 2017,
-      "winner": "jose-luis-losa"
+      "winner": "jose-luis-losa",
+      "dates": "20 abr – 20 jul 2017",
+      "finalists": [
+        "alba-carrillo",
+        "laura-matamoros"
+      ],
+      "participants": [
+        {
+          "id": "ivan-gonzalez",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "kiko-jimenez",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "alejandro-caracuel",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "juan-miguel-martinez",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "paola-caruso",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "gloria-camila",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "bigote-arrocet",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "leticia-sabater",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "janet-capdevila",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "raquel-rodriguez",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "bibi-rodriguez",
+          "role": "Abandonó (día 25)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "eliad-cohen",
+          "role": "Evacuado/a (día 18)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "lucia-pariente",
+          "role": "Abandonó (día 15)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 13,
       "title": "Supervivientes 2018",
       "year": 2018,
-      "winner": "sofia-suescun"
+      "winner": "sofia-suescun",
+      "dates": "15 mar – 14 jun 2018",
+      "finalists": [
+        "logan-sampedro",
+        "raquel-mosquera"
+      ],
+      "participants": [
+        {
+          "id": "sergio-carvajal",
+          "role": "Expulsado/a (día 91)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "maestro-joao",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "hugo-paz",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "maria-jesus-ruiz",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "francisco-sv-13",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "romina-malaspina",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "alberto-isla",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "melissa-vargas",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "isabel-castell",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "mayte-zaldivar",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "fernando-marcos",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "maria-lapiedra",
+          "role": "Abandonó (día 25)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "saray-montoya",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "adrian-rodriguez",
+          "role": "Abandonó (día 18)",
+          "eliminatedOrder": 17
+        }
+      ]
     },
     {
       "number": 14,
       "title": "Supervivientes 2019",
       "year": 2019,
-      "winner": "omar-montes"
+      "winner": "omar-montes",
+      "dates": "25 abr – 18 jul 2019",
+      "finalists": [
+        "albert-alvarez",
+        "fabio-colloricchio"
+      ],
+      "participants": [
+        {
+          "id": "mahi-masegosa",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "monica-hoyos",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "isabel-pantoja",
+          "role": "Evacuado/a (día 74)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "chelo-garcia-cortes",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "dakota-tarraga",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "colate-vallejo-nagera",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "violeta-mangrinan",
+          "role": "Evacuado/a (día 55)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "oto-vans",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "carlos-lozano",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "lidia-santos",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "jonathan-piqueras",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "aneth-acosta",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "toni-salazar",
+          "role": "Abandonó (día 18)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "encarna-salazar",
+          "role": "Abandonó (día 18)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "loly-alvarez",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 18
+        }
+      ]
     },
     {
       "number": 15,
       "title": "Supervivientes 2020",
       "year": 2020,
-      "winner": "jorge-perez"
+      "winner": "jorge-perez",
+      "dates": "20 feb – 4 jun 2020",
+      "finalists": [
+        "ana-maria-aldon",
+        "rocio-flores"
+      ],
+      "participants": [
+        {
+          "id": "hugo-sierra",
+          "role": "Expulsado/a (día 106)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "albert-barranco",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "elena-rodriguez",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "ivana-icardi",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "yiya-del-guillen",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "jose-antonio-aviles",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "nyno-vargas",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "fani-carbajo",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "ferre",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "antonio-pavon",
+          "role": "Evacuado/a (día 43)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "cristian-suescun",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "vicky-larraz",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "alejandro-reyes",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "beatriz-retamal",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 17
+        }
+      ]
     },
     {
       "number": 16,
       "title": "Supervivientes 2021",
       "year": 2021,
-      "winner": "olga-moreno"
+      "winner": "olga-moreno",
+      "dates": "8 abr – 23 jul 2021",
+      "finalists": [
+        "gianmarco-onestini",
+        "melyssa-pinto"
+      ],
+      "participants": [
+        {
+          "id": "lola-mencia",
+          "role": "Expulsado/a (día 107)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "tom-brusse",
+          "role": "Expulsado/a (día 105)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "alejandro-albala",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "lara-sajen",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "omar-sanchez",
+          "role": "Expulsado/a (día 81)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "palito-dominguin",
+          "role": "Expulsado/a (día 76)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "carlos-alba",
+          "role": "Expulsado/a (día 63)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "sylvia-pantoja",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "valeria-marini",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "agustin-bravo",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "alexia-rivas",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "marta-lopez",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "antonio-canales",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 17,
       "title": "Supervivientes 2022",
       "year": 2022,
-      "winner": "alejandro-nieto"
+      "winner": "alejandro-nieto",
+      "dates": "21 abr – 28 jul 2022",
+      "finalists": [
+        "marta-penate",
+        "nacho-palau"
+      ],
+      "participants": [
+        {
+          "id": "ignacio-de-borbon",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "anabel-pantoja",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "ana-luque",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "yulen-pereira",
+          "role": "Expulsado/a (día 81)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "kiko-matamoros",
+          "role": "Expulsado/a (día 74)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "mariana-rodriguez",
+          "role": "Expulsado/a (día 67)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "anuar-beno",
+          "role": "Expulsado/a (día 60)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "tania-medina",
+          "role": "Expulsado/a (día 53)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "desiree-rodriguez",
+          "role": "Expulsado/a (día 46)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "juan-munoz",
+          "role": "Abandonó (día 39)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "ainhoa-cantalapiedra",
+          "role": "Expulsado/a (día 32)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "ruben-sanchez-montesinos",
+          "role": "Expulsado/a (día 25)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "charo-vega",
+          "role": "Expulsado/a (día 18)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 18,
       "title": "Supervivientes 2023",
       "year": 2023,
-      "winner": "bosco-martinez-bordiu"
+      "winner": "bosco-martinez-bordiu",
+      "dates": "2 mar – 29 jun 2023",
+      "finalists": [
+        "adara-molinero",
+        "jonan-wiergo"
+      ],
+      "participants": [
+        {
+          "id": "asraf-beno",
+          "role": "Expulsado/a (día 120)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "artur-dainese",
+          "role": "Expulsado/a (día 113)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "alma-cortes-bollo",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "raquel-arias",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "manuel-cortes-bollo",
+          "role": "Evacuado/a (día 88)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "jaime-nava",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "gines-correguela",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "diego-perez",
+          "role": "Expulsado/a (día 67)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "yaiza-martin",
+          "role": "Expulsado/a por la organización (día 57)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "arelys-ramos",
+          "role": "Expulsado/a (día 53)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "katerina-safarova",
+          "role": "Expulsado/a (día 46)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "raquel-mosquera",
+          "role": "Expulsado/a (día 39)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "gabriela-arrocet",
+          "role": "Expulsado/a (día 32)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "gema-aldon",
+          "role": "Evacuado/a (día 29)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "sergio-garrido",
+          "role": "Expulsado/a (día 25)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "patricia-donoso",
+          "role": "Abandonó (día 8)",
+          "eliminatedOrder": 19
+        }
+      ]
     },
     {
       "number": 19,
       "title": "Supervivientes 2024",
       "year": 2024,
-      "winner": "pedro-garcia-aguado"
+      "winner": "pedro-garcia-aguado",
+      "dates": "7 mar – 18 jun 2024",
+      "finalists": [
+        "ruben-torres",
+        "marieta-diaz"
+      ],
+      "participants": [
+        {
+          "id": "arkano",
+          "role": "Expulsado/a (día 104)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "gorka-ibarguren",
+          "role": "Expulsado/a (día 102)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "blanca-manchon",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "miri-perez-cabrero",
+          "role": "Expulsado/a (día 95)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "aurah-ruiz",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "kiko-jimenez",
+          "role": "Expulsado/a (día 88)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "angel-cristo-jr",
+          "role": "Expulsado/a (día 76)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "javier-ungria",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "laura-matamoros",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "arantxa-del-sol",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "claudia-martinez",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "mario-gonzalez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "kike-calleja",
+          "role": "Expulsado/a (día 32)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "lorena-morlote",
+          "role": "Expulsado/a (día 25)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "carmen-borrego",
+          "role": "Abandonó (día 22)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "rocio-madrid",
+          "role": "Expulsado/a (día 18)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "zayra-gutierrez",
+          "role": "Evacuado/a (día 11)",
+          "eliminatedOrder": 20
+        }
+      ]
     },
     {
       "number": 20,
@@ -242,7 +1409,74 @@
       "title": "Supervivientes 2026",
       "year": 2026,
       "winner": "maica-benedicto",
-      "notes": "Finalistas: Alba, Soto y Alvar (pendiente de completar apellidos y orden)."
+      "notes": "Orden de expulsión del resto de concursantes pendiente de completar.",
+      "finalists": [
+        "alba-paul",
+        "alvar-segui"
+      ],
+      "participants": [
+        {
+          "id": "jose-manuel-soto",
+          "role": "4.º puesto",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "teresa-seco",
+          "role": "Concursante"
+        },
+        {
+          "id": "alex-ghita",
+          "role": "Concursante"
+        },
+        {
+          "id": "jaime-astrain",
+          "role": "Concursante"
+        },
+        {
+          "id": "toni-elias",
+          "role": "Concursante"
+        },
+        {
+          "id": "aratz-lakuntza",
+          "role": "Concursante"
+        },
+        {
+          "id": "ingrid-betancor",
+          "role": "Concursante"
+        },
+        {
+          "id": "ivonne-reyes",
+          "role": "Concursante"
+        },
+        {
+          "id": "marisa-jara",
+          "role": "Concursante"
+        },
+        {
+          "id": "gerard-arias",
+          "role": "Concursante"
+        },
+        {
+          "id": "paola-olmedo",
+          "role": "Concursante"
+        },
+        {
+          "id": "gabriela-guillen",
+          "role": "Concursante"
+        },
+        {
+          "id": "alberto-avila",
+          "role": "Concursante"
+        },
+        {
+          "id": "claudia-chacon",
+          "role": "Concursante"
+        },
+        {
+          "id": "alex-de-la-croix",
+          "role": "Concursante"
+        }
+      ]
     },
     {
       "number": 1,

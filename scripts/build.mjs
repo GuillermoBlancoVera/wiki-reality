@@ -277,7 +277,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
     </div>`).join('')}</div>
 </section>` : '';
     const participants = e.participants?.length ? `
-<section class="block"><h2>Concursantes${e.participants.some((p) => p.eliminatedOrder) ? ' y orden de expulsión' : ''}</h2>
+<section class="block"><h2>${e.participants.some((p) => p.eliminatedOrder) ? 'Resto de concursantes, del último en salir al primero' : 'Concursantes'}</h2>
   <ol class="participants">${e.participants.slice().sort((a, b) => (a.eliminatedOrder ?? 999) - (b.eliminatedOrder ?? 999))
     .map((p) => `<li>${personLink(p.id)}${p.role ? ` <span class="person-sub">${esc(p.role)}</span>` : ''}</li>`).join('')}</ol>
 </section>` : '';

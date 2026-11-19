@@ -10,7 +10,35 @@
   "newsQuery": "\"Gran Hermano\" Telecinco",
   "sources": [
     "https://es.wikipedia.org/wiki/Gran_Hermano_(Espa%C3%B1a)",
-    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_TV_series)"
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_TV_series)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_1)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_2)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_3)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_4)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_5)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_6)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_7)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_14)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_15)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_16)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_17)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_18)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_19)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_8)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_9)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_10)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_11)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_12)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_13)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_3",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_4",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_Spain_(VIP_Season_5)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_6",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_7",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_8",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo_2",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo_3"
   ],
   "editions": [
     {
@@ -23,6 +51,64 @@
       "finalists": [
         "ania-iglesias",
         "ivan-armesto"
+      ],
+      "dates": "23 abr – 21 jul 2000",
+      "participants": [
+        {
+          "id": "koldo-gh-1",
+          "role": "Expulsado/a (día 88)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "mabel-gh-1",
+          "role": "Expulsado/a (día 81)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "inigo-gh-1",
+          "role": "Expulsado/a (día 67)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "marina-gh-1",
+          "role": "Expulsado/a (día 53)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "monica-gh-1",
+          "role": "Abandonó (día 44)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "vanessa-gh-1",
+          "role": "Expulsado/a (día 39)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "jorge-gh-1",
+          "role": "Abandonó (día 29)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "nacho-gh-1",
+          "role": "Abandonó (día 27)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "silvia-gh-1",
+          "role": "Abandonó (día 25)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "israel-gh-1",
+          "role": "Expulsado/a (día 25)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "maria-jose",
+          "role": "Expulsado/a (día 11)",
+          "eliminatedOrder": 14
+        }
       ]
     },
     {
@@ -35,6 +121,59 @@
       "finalists": [
         "fran-garcia",
         "mari-arrabal"
+      ],
+      "dates": "18 mar – 27 jun 2001",
+      "participants": [
+        {
+          "id": "angel-gh-2",
+          "role": "Expulsado/a (día 100)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "kaiet-gh-2",
+          "role": "Expulsado/a (día 95)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "alonso-gh-2",
+          "role": "Expulsado/a (día 88)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "eva-gh-2",
+          "role": "Expulsado/a (día 81)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "emilio-gh-2",
+          "role": "Expulsado/a (día 67)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "karola-gh-2",
+          "role": "Expulsado/a (día 53)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "roberto-gh-2",
+          "role": "Expulsado/a (día 39)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "fayna-gh-2",
+          "role": "Expulsado/a (día 25)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "carlos-gh-2",
+          "role": "Expulsado/a por la organización (día 19)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "marta-gh-2",
+          "role": "Expulsado/a (día 11)",
+          "eliminatedOrder": 13
+        }
       ]
     },
     {
@@ -47,7 +186,65 @@
         "patricia-ledesma",
         "kiko-hernandez"
       ],
-      "presenter": "Pepe Navarro"
+      "presenter": "Pepe Navarro",
+      "dates": "4 abr – 14 jul 2002",
+      "participants": [
+        {
+          "id": "javier-gh-3",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "carolina-gh-3",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "candi-gh-3",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "oscar-gh-3",
+          "role": "Abandonó (día 83)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "jorge-gh-3",
+          "role": "Expulsado/a (día 76)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "elba-gh-3",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "ness-gh-3",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "raquel-gh-3",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "jacinto-gh-3",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "noemi-gh-3",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "andres-gh-3",
+          "role": "Expulsado/a",
+          "eliminatedOrder": 14
+        }
+      ]
     },
     {
       "number": 4,
@@ -59,7 +256,60 @@
         "desiree-albertalli",
         "rafa-lopez"
       ],
-      "presenter": "Mercedes Milá"
+      "presenter": "Mercedes Milá",
+      "dates": "6 oct 2002 – 16 ene 2003",
+      "participants": [
+        {
+          "id": "nacho-utrera",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "matias-fernandez",
+          "role": "Expulsado/a (día 96)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "inma-gonzalez",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "rocio-rodriguez",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "gustavo-fernandez",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "judith-andreu",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "anna-franco",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "mario-artiaga",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "sonia-arenas",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "maria-moratilla",
+          "role": "Abandonó (día 5)",
+          "eliminatedOrder": 13
+        }
+      ]
     },
     {
       "number": 5,
@@ -71,7 +321,60 @@
         "david-gallardo",
         "julian-mejias"
       ],
-      "presenter": "Mercedes Milá"
+      "presenter": "Mercedes Milá",
+      "dates": "21 sep 2003 – 11 ene 2004",
+      "participants": [
+        {
+          "id": "ainhoa-pareja",
+          "role": "Expulsado/a (día 110)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "denis-castellon",
+          "role": "Expulsado/a (día 103)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "laura-urena",
+          "role": "Expulsado/a (día 96)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "nico-di-matteo",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ramon-yanez",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "vanessa-galindo",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "beatriz-cardenas",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "carla-pinto",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "luhay-hamido",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "aida-nizar",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 13
+        }
+      ]
     },
     {
       "number": 6,
@@ -83,7 +386,75 @@
         "conrad-chase",
         "natacha-jaitt"
       ],
-      "presenter": "Mercedes Milá"
+      "presenter": "Mercedes Milá",
+      "dates": "5 sep – 23 dic 2004",
+      "participants": [
+        {
+          "id": "diana-gh-6",
+          "role": "Expulsado/a (día 106)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "jani-gh-6",
+          "role": "Expulsado/a (día 103)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "eva-gh-6",
+          "role": "Expulsado/a (día 96)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "jonathan-gh-6",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "nicky-gh-6",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "beatriz-gonzalez-rico",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "miguel-gh-6",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "sandra-gh-6",
+          "role": "Abandonó (día 40)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "cristal-gh-6",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "eloisa-gh-6",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "angel-gh-6",
+          "role": "Abandonó (día 16)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "salva-gh-6",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "mercedes-gh-6",
+          "role": "Abandonó (día 1)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 7,
@@ -95,7 +466,65 @@
         "javier-varela",
         "raquel-abad"
       ],
-      "presenter": "Mercedes Milá"
+      "presenter": "Mercedes Milá",
+      "dates": "20 oct 2005 – 5 feb 2006",
+      "participants": [
+        {
+          "id": "dayron-gh-7",
+          "role": "Expulsado/a (día 106)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "raquel-lopez",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "jesus-gh-7",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "sara-gh-7",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "arturo-gh-7",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "tono-gh-7",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "saray-gh-7",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "maite-gh-7",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "inma-gh-7",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "beatriz-gh-7",
+          "role": "Abandonó (día 20)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "estrella-gh-7",
+          "role": "Expulsado/a (día 16)",
+          "eliminatedOrder": 14
+        }
+      ]
     },
     {
       "number": 8,
@@ -107,7 +536,65 @@
         "laura-fernandez",
         "miriam-constanti"
       ],
-      "presenter": "Mercedes Milá"
+      "presenter": "Mercedes Milá",
+      "dates": "7 sep – 21 dic 2006",
+      "participants": [
+        {
+          "id": "miguel-angel-pulpillo",
+          "role": "Expulsado/a (día 105)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "mahme-garrido",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "daniel-lopez",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "daniel-rubio",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "kiran-wolbeek",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "javier-robles",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "greta-de-anta",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "marusky-perdomo",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "kiko-rodriguez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "gemma-guzman",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "laura-sevillano",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 14
+        }
+      ]
     },
     {
       "number": 9,
@@ -119,6 +606,79 @@
       "finalists": [
         "conchi-y-pamela-de-los-santos",
         "rodrigo-urbina"
+      ],
+      "dates": "9 sep – 27 dic 2007",
+      "participants": [
+        {
+          "id": "oliver-perez",
+          "role": "4.º puesto",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "angela-linares",
+          "role": "Expulsado/a (día 103)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "eneko-van-horenbeke",
+          "role": "Expulsado/a (día 96)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "andalla-mbengue",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "melania-querol",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "amor-romeira",
+          "role": "Abandonó (día 69)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "piero-righetto",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "karen-delgado",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "paula-perez",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "lucy-gomez",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "dadi-mehad",
+          "role": "Abandonó (día 46)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "david-corsin-fleky",
+          "role": "Abandonó (día 18)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "rebeca-franco",
+          "role": "Abandonó (día 7)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "maite-franco",
+          "role": "Abandonó (día 4)",
+          "eliminatedOrder": 17
+        }
       ]
     },
     {
@@ -131,6 +691,84 @@
       "finalists": [
         "orlando-breyner",
         "almudena-martinez"
+      ],
+      "dates": "21 sep 2008 – 22 ene 2009",
+      "participants": [
+        {
+          "id": "liz-gh-10",
+          "role": "Expulsado/a (día 117)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "julio-gh-10",
+          "role": "Expulsado/a (día 109)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "javier-palomares",
+          "role": "Expulsado/a (día 101)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "ana-toro",
+          "role": "Expulsado/a por la organización (día 101)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "mirentxu-gh-10",
+          "role": "Expulsado/a (día 94)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "gema-gh-10",
+          "role": "Expulsado/a (día 94)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "eva-gh-10",
+          "role": "Expulsado/a (día 94)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "carlos-fernandez",
+          "role": "Expulsado/a (día 87)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "gisela-gh-10",
+          "role": "Expulsado/a (día 80)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "estefania-gh-10",
+          "role": "Expulsado/a (día 73)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "loli-gh-10",
+          "role": "Expulsado/a (día 66)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "carlos-hoya",
+          "role": "Expulsado/a (día 59)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "jie-li",
+          "role": "Expulsado/a (día 31)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "raquel-gh-10",
+          "role": "Expulsado/a (día 17)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "german-gh-10",
+          "role": "Expulsado/a (día 3)",
+          "eliminatedOrder": 18
+        }
       ]
     },
     {
@@ -143,6 +781,94 @@
       "finalists": [
         "saray-pereira",
         "pilarita-gomez"
+      ],
+      "dates": "6 sep 2009 – 27 ene 2010",
+      "participants": [
+        {
+          "id": "gerardo-gh-11",
+          "role": "Expulsado/a (día 134)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "tatiana-gh-11",
+          "role": "Expulsado/a (día 131)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "arturo-gh-11",
+          "role": "Expulsado/a (día 124)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "siscu-gh-11",
+          "role": "Expulsado/a (día 120)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "laura-gh-11",
+          "role": "Expulsado/a (día 113)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "carol-gh-11",
+          "role": "Expulsado/a (día 103)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "toscano-gh-11",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "indhira-gh-11",
+          "role": "Expulsado/a por la organización (día 83)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "carolina-gh-11",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "melanie-gh-11",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "juan-gh-11",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "rebeca-gh-11",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "nagore-gh-11",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "hans-gh-11",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "lis-gh-11",
+          "role": "Abandonó (día 13)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "angela-gh-11",
+          "role": "Expulsado/a por la organización (día 12)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "gonzalo-gh-11",
+          "role": "Expulsado/a por la organización (día 12)",
+          "eliminatedOrder": 20
+        }
       ]
     },
     {
@@ -155,6 +881,104 @@
       "finalists": [
         "yago-hermida",
         "marcelo-ciriaco"
+      ],
+      "dates": "17 oct 2010 – 10 mar 2011",
+      "participants": [
+        {
+          "id": "marta-lopez",
+          "role": "Expulsado/a (día 138)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "damaso-angulo",
+          "role": "Expulsado/a (día 131)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "lydia-navarro",
+          "role": "Expulsado/a (día 124)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "ruben-estevez",
+          "role": "Expulsado/a por segunda vez (día 117)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "terry-willis-perez",
+          "role": "Expulsado/a (día 110)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "cathaysa-mogollon",
+          "role": "Expulsado/a (día 103)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "patricia-hurtado",
+          "role": "Expulsado/a (día 96)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "jose-ramon-garcia",
+          "role": "Expulsado/a por segunda vez (día 89)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "chari-lojo",
+          "role": "Expulsado/a por segunda vez (día 89)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "mireia-carrillo",
+          "role": "Expulsado/a por segunda vez (día 89)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "oscar-casado",
+          "role": "Expulsado/a por segunda vez (día 89)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "anup-naraim",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "arturo-garcia",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "pepa-beltran",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "joaquin-sanz",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "eduardo-palomino",
+          "role": "Expulsado/a (día 33)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "julia-valverde",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 20
+        },
+        {
+          "id": "florencia-lujan",
+          "role": "Expulsado/a por la organización (día 19)",
+          "eliminatedOrder": 21
+        },
+        {
+          "id": "julio-granado",
+          "role": "Expulsado/a por la organización (día 19)",
+          "eliminatedOrder": 22
+        }
       ]
     },
     {
@@ -165,7 +989,106 @@
       "presenter": "Mercedes Milá",
       "winner": "pepe-flores",
       "finalists": [
-        "daniel-santos"
+        "daniel-santos",
+        "daniel-gh-13"
+      ],
+      "dates": "19 ene – 18 may 2012",
+      "participants": [
+        {
+          "id": "alessandro-livi",
+          "role": "4.º puesto",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "noemi-gh-13",
+          "role": "Ganador/a de la fase «+1»",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "sindia-gh-13",
+          "role": "2.º puesto de la fase «+1»",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "ariadna-gh-13",
+          "role": "3.er puesto de la fase «+1»",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "marta-gh-13",
+          "role": "4.º puesto de la fase «+1»",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "hugo-gh-13",
+          "role": "Expulsado/a (día 120)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "cristian-gh-13",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "sergio-gh-13",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "juan-gh-13",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "berta-gh-13",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "paolo-gh-13",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "michael-gh-13",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "ochoa-gh-13",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "veronica-gh-13",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "mary-joy",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "david-gh-13",
+          "role": "Abandonó (día 23)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "aris-gh-13",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 20
+        },
+        {
+          "id": "azucena-gh-13",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 21
+        },
+        {
+          "id": "zulema-gh-13",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 22
+        }
       ]
     },
     {
@@ -174,7 +1097,129 @@
       "year": 2013,
       "days": 128,
       "presenter": "Mercedes Milá",
-      "winner": "susana-molina"
+      "winner": "susana-molina",
+      "dates": "11 feb – 18 jun 2013",
+      "finalists": [
+        "igor-basurko",
+        "desiree-rodriguez"
+      ],
+      "participants": [
+        {
+          "id": "raquel-martin-raki",
+          "role": "Expulsado/a (día 128)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "alvaro-vargas",
+          "role": "Expulsado/a (día 123)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "nacho-lopez",
+          "role": "Expulsado/a (día 123)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "juan-carlos-sanchez",
+          "role": "Expulsado/a (día 123)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "kristian-gomez",
+          "role": "Expulsado/a (día 116)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "gonzalo-montoya",
+          "role": "Expulsado/a (día 109) (junto a su hermano Carlos)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "carlos-montoya",
+          "role": "Expulsado/a (día 109) (junto a su hermano Gonzalo)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "sonia-walls",
+          "role": "Expulsado/a (día 106)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "saray-roldan",
+          "role": "Expulsado/a (día 102)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "yessica-piqueras",
+          "role": "Expulsado/a (día 95)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "ivan-paniego",
+          "role": "Expulsado/a (día 88)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "argi-gastaka",
+          "role": "Expulsado/a por la organización (día 81)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "adrian-lopez",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "anabel-cascales",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "miriam-cuesta",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "noelia-fernandez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "ivan-gonzalo",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 20
+        },
+        {
+          "id": "danny-padilla",
+          "role": "Expulsado/a por la organización (día 36)",
+          "eliminatedOrder": 21
+        },
+        {
+          "id": "leticia-serrano",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 22
+        },
+        {
+          "id": "eva-guijarro",
+          "role": "Expulsado/a por la organización (día 25)",
+          "eliminatedOrder": 23
+        },
+        {
+          "id": "edoardo-boscolo",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 24
+        },
+        {
+          "id": "lorena-edo",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 25
+        },
+        {
+          "id": "giulia-tortella",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 26
+        }
+      ]
     },
     {
       "number": 15,
@@ -182,7 +1227,89 @@
       "year": 2014,
       "days": 92,
       "presenter": "Mercedes Milá",
-      "winner": "paula-gonzalez"
+      "winner": "paula-gonzalez",
+      "dates": "18 sep – 18 dic 2014",
+      "finalists": [
+        "alejandra-gonzalez",
+        "yolanda-claramonte"
+      ],
+      "participants": [
+        {
+          "id": "azahara-luque",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "hugo-perez",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "jonathan-perez",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "juanma-fario",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "luis-de-ramirez",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "fran-jimenez",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "omar-suarez",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "vitin-aguado",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "loli-pozo",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "shaima-al-lal",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "alfredo-munoz",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "lucia-parreno",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "mayca-pozo",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "paco-carmona",
+          "role": "Expulsado/a (día 11)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "jose-casacuberta",
+          "role": "Abandonó (día 8)",
+          "eliminatedOrder": 18
+        }
+      ]
     },
     {
       "number": 16,
@@ -190,7 +1317,88 @@
       "year": 2015,
       "days": 102,
       "presenter": "Mercedes Milá",
-      "winner": "sofia-suescun"
+      "winner": "sofia-suescun",
+      "dates": "13 sep – 23 dic 2015",
+      "finalists": [
+        "aritz-castro"
+      ],
+      "participants": [
+        {
+          "id": "niedziela-raluy",
+          "role": "Expulsado/a (día 101)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "han-wang",
+          "role": "Expulsado/a (día 96)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "marta-penate",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "carlos-rengel",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "dani-vera",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ricky-natalicchio",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "marina-landaluce",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "suso-alvarez",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "raquel-martin",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "amanda-rodriguez",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "carolina-vico",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "maite-galdeano",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "enrique-ramos",
+          "role": "Expulsado/a (día 45)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "muti-orellana",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "tania-mauleon",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 17
+        }
+      ]
     },
     {
       "number": 17,
@@ -198,7 +1406,99 @@
       "year": 2016,
       "days": 106,
       "presenter": "Jorge Javier Vázquez",
-      "winner": "beatriz-retamal"
+      "winner": "beatriz-retamal",
+      "dates": "8 sep – 22 dic 2016",
+      "finalists": [
+        "meritxell-gh-17",
+        "rodrigo-gh-17"
+      ],
+      "participants": [
+        {
+          "id": "miguel-gh-17",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "alain-gh-17",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "adara-molinero",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "simona-gh-17",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "clara-gh-17",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "noelia-gh-17",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "fernando-gh-17",
+          "role": "Expulsado/a por la organización (día 60)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "barbara-gh-17",
+          "role": "Abandonó (día 59)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "pol-gh-17",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "candelas-gh-17",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "pablo-gh-17",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "montse-gh-17",
+          "role": "Expulsado/a (día 53)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "rebeca-gh-17",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "michelle-gh-17",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "alvaro-gh-17",
+          "role": "Expulsado/a por la organización (día 15)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "cris-gh-17",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "laura-gh-17",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 20
+        }
+      ]
     },
     {
       "number": 18,
@@ -206,7 +1506,104 @@
       "year": 2017,
       "days": 89,
       "presenter": "Jorge Javier Vázquez",
-      "winner": "hugo-sierra"
+      "winner": "hugo-sierra",
+      "dates": "19 sep – 14 dic 2017",
+      "finalists": [
+        "ruben-gh-18",
+        "christian-gh-18"
+      ],
+      "participants": [
+        {
+          "id": "yangyang-gh-18",
+          "role": "4.º puesto",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "pilar-gh-18",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "miriam-gh-18",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "carlos-gh-18",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "maico-gh-18",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "lorena-gh-18",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "carlota-prado",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "mina-gh-18",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "laura-gh-18",
+          "role": "Abandonó (día 59)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "miguel-gh-18",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "cristian-gh-18",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "daniel-sanchez",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "jose-maria-lopez",
+          "role": "Expulsado/a por la organización (día 49)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "juan-gh-18",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "petra-gh-18",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "javier-gh-18",
+          "role": "Expulsado/a (día 33)",
+          "eliminatedOrder": 19
+        },
+        {
+          "id": "yolanda-gh-18",
+          "role": "Expulsado/a (día 19)",
+          "eliminatedOrder": 20
+        },
+        {
+          "id": "nerea-gh-18",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 21
+        }
+      ]
     },
     {
       "number": 19,
@@ -214,7 +1611,94 @@
       "year": 2024,
       "days": 106,
       "presenter": "Jorge Javier Vázquez",
-      "winner": "juan-luis-quintana"
+      "winner": "juan-luis-quintana",
+      "dates": "5 sep – 19 dic 2024",
+      "finalists": [
+        "oscar-gh-19",
+        "ruvens-gh-19"
+      ],
+      "participants": [
+        {
+          "id": "violeta-gh-19",
+          "role": "Expulsado/a (día 104)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "edi-gh-19",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "nerea-gh-19",
+          "role": "Expulsado/a (día 99)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "jorge-gh-19",
+          "role": "Expulsado/a (día 97)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "maica-benedicto",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "adrian-gh-19",
+          "role": "Expulsado/a por la organización (día 92)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "daniela-gh-19",
+          "role": "Expulsado/a (día 90)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "luis-gh-19",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "laura-gh-19",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "manu-gh-19",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "lucia-gh-19",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "elsa-gh-19",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "vanessa-gh-19",
+          "role": "Expulsado/a (día 76)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "javier-gh-19",
+          "role": "Abandonó (día 50)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "silvia-gh-19",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "maite-gh-19",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 19
+        }
+      ]
     },
     {
       "number": 20,
@@ -256,7 +1740,79 @@
       "days": 75,
       "presenter": "Jordi González",
       "winner": "belen-esteban",
-      "group": "Gran Hermano VIP"
+      "group": "Gran Hermano VIP",
+      "dates": "11 ene – 26 mar 2015",
+      "finalists": [
+        "aguasantas-vilches",
+        "coman-mitogo"
+      ],
+      "participants": [
+        {
+          "id": "fede-rebecchi",
+          "role": "Expulsado/a (día 74)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "angela-portero",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "chari-lojo",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "ylenia-padilla",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ares-teixido",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "israel-lancho",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "victor-sandoval",
+          "role": "Expulsado/a (día 33)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "laura-cuevas",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "kiko-rivera",
+          "role": "Abandonó (día 21)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "sandro-rey",
+          "role": "Expulsado/a (día 19)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "olvido-hormigos",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "jose-salazar",
+          "role": "Expulsado/a por la organización (día 5)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "juan-salazar",
+          "role": "Expulsado/a por la organización (día 5)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 4,
@@ -267,7 +1823,93 @@
       "days": 99,
       "presenter": "Jordi González",
       "winner": "laura-matamoros",
-      "group": "Gran Hermano VIP"
+      "group": "Gran Hermano VIP",
+      "dates": "7 ene – 14 abr 2016",
+      "finalists": [
+        "carlos-lozano"
+      ],
+      "participants": [
+        {
+          "id": "rappel",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "laura-campos",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "daniel-santos",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "alejandro-nieto",
+          "role": "Abandonó (día 83)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "francisco-nicolas",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "raquel-bollo",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "charlotte-caniggia",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "sema-garcia",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "belen-roca",
+          "role": "Abandonó (día 56)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "julian-contreras",
+          "role": "Abandonó (día 53)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "rosa-benito",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "liz-emiliano",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "javier-tudela",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "lucia-hoyos",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "julius-bienert",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "carmen-lopez",
+          "role": "Abandonó (día 9)",
+          "eliminatedOrder": 18
+        }
+      ]
     },
     {
       "number": 5,
@@ -278,7 +1920,78 @@
       "days": 96,
       "presenter": "Jordi González",
       "winner": "alyson-eckmann",
-      "group": "Gran Hermano VIP"
+      "group": "Gran Hermano VIP",
+      "dates": "8 ene – 13 abr 2017",
+      "finalists": [
+        "daniela-vip-5"
+      ],
+      "participants": [
+        {
+          "id": "irma-vip-5",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "elettra-vip-5",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "emma-vip-5",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "marco-vip-5",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "aylen-vip-5",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "aida-vip-5",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "ivonne-vip-5",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "sergio-vip-5",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "alejandro-vip-5",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "aless-vip-5",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "alonso-vip-5",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "tutto-vip-5",
+          "role": "Expulsado/a (día 19)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "tono-vip-5",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 15
+        }
+      ]
     },
     {
       "number": 6,
@@ -289,7 +2002,79 @@
       "days": 99,
       "presenter": "Jorge Javier Vázquez",
       "winner": "miriam-saavedra",
-      "group": "Gran Hermano VIP"
+      "group": "Gran Hermano VIP",
+      "dates": "13 sep – 20 dic 2018",
+      "finalists": [
+        "suso-alvarez",
+        "el-koala"
+      ],
+      "participants": [
+        {
+          "id": "asraf-beno",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "monica-hoyos",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "tony-spina",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "aurah-ruiz",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "makoke-giaever",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "angel-garo",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "verdeliss",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "darek-dabrowski",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "techi-cabrera",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "omar-montes",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "aramis-fuster",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "isa-pantoja",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "oriana-marzoli",
+          "role": "Abandonó (día 3)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 7,
@@ -300,7 +2085,79 @@
       "days": 100,
       "presenter": "Jorge Javier Vázquez",
       "winner": "adara-molinero",
-      "group": "Gran Hermano VIP"
+      "group": "Gran Hermano VIP",
+      "dates": "11 sep – 19 dic 2019",
+      "finalists": [
+        "alba-carrillo",
+        "mila-ximenez"
+      ],
+      "participants": [
+        {
+          "id": "noemi-salazar",
+          "role": "Expulsado/a (día 93)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "estela-grande",
+          "role": "Expulsado/a (día 86)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "antonio-david-flores",
+          "role": "Expulsado/a (día 79)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "hugo-castejon",
+          "role": "Expulsado/a (día 72)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "maestro-joao",
+          "role": "Expulsado/a (día 65)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "gianmarco-onestini",
+          "role": "Expulsado/a (día 58)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "pol-badia",
+          "role": "Expulsado/a (día 51)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "el-cejas",
+          "role": "Expulsado/a (día 51)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "kiko-jimenez",
+          "role": "Expulsado/a (día 49)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "irene-junquera",
+          "role": "Expulsado/a (día 37)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "dinio-garcia",
+          "role": "Expulsado/a (día 23)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "nuria-martinez",
+          "role": "Abandonó (día 14)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "anabel-pantoja",
+          "role": "Expulsado/a (día 9)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 8,
@@ -311,7 +2168,94 @@
       "days": 99,
       "presenter": "Marta Flich",
       "winner": "naomi-asensi",
-      "group": "Gran Hermano VIP"
+      "group": "Gran Hermano VIP",
+      "dates": "14 sep – 21 dic 2023",
+      "finalists": [
+        "luitingo",
+        "albert-infante"
+      ],
+      "participants": [
+        {
+          "id": "laura-bozzo",
+          "role": "Expulsado/a (día 98)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "michael-terlizzi",
+          "role": "Expulsado/a (día 95)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "carmen-alcayde",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "pilar-llori",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "jessica-bueno",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "zeus-montiel",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "susana-bianca",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "jose-antonio-aviles",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "marta-castro",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "alex-caniggia",
+          "role": "Expulsado/a por la organización (día 49)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "gustavo-guillermo",
+          "role": "Expulsado/a por la organización (día 49)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "javier-fernandez",
+          "role": "Abandonó (día 49)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "karina-vip-8",
+          "role": "Abandonó (día 25)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "sol-macaluso",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "oriana-marzoli",
+          "role": "Abandonó (día 16)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "luca-dazi",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 19
+        }
+      ]
     },
     {
       "number": 9,
@@ -332,7 +2276,83 @@
       "days": 94,
       "presenter": "Jorge Javier Vázquez y Jordi González",
       "winner": "maria-jesus-ruiz",
-      "group": "Gran Hermano Dúo"
+      "group": "Gran Hermano Dúo",
+      "dates": "8 ene – 11 abr 2019",
+      "finalists": [
+        "kiko-rivera"
+      ],
+      "participants": [
+        {
+          "id": "alejandro-albala",
+          "role": "Expulsado/a (día 93)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "juan-miguel-martinez",
+          "role": "Expulsado/a (día 93)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "irene-rosales",
+          "role": "Expulsado/a (día 87)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "sofia-suescun",
+          "role": "Expulsado/a por segunda vez (día 80)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "carolina-sobe",
+          "role": "Expulsado/a (día 73)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "antonio-tejado",
+          "role": "Expulsado/a (día 66)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "ylenia-padilla",
+          "role": "Expulsado/a (día 59)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "raquel-martin",
+          "role": "Expulsado/a (día 52)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "candela-acevedo",
+          "role": "Expulsado/a por segunda vez (día 52)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "fede-rebecchi",
+          "role": "Expulsado/a por segunda vez (día 50)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "yoli-saez",
+          "role": "Expulsado/a (día 45)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "fortu",
+          "role": "Expulsado/a (día 38)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "julio-ruz",
+          "role": "Expulsado/a por la organización (día 27)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "yurena",
+          "role": "Expulsado/a (día 17)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 2,
@@ -343,7 +2363,64 @@
       "days": 53,
       "presenter": "Marta Flich",
       "winner": "lucia-sanchez",
-      "group": "Gran Hermano Dúo"
+      "group": "Gran Hermano Dúo",
+      "dates": "11 ene – 3 mar 2024",
+      "finalists": [
+        "asraf-beno",
+        "manuel-gonzalez"
+      ],
+      "participants": [
+        {
+          "id": "elena-rodriguez",
+          "role": "Expulsado/a (día 48)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "mayka-rivera",
+          "role": "Expulsado/a (día 46)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "marta-lopez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "keroseno",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ana-maria-aldon",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "ivana-icardi",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "efren-reyero",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "marc-florensa",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "finito",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "luca-onestini",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 13
+        }
+      ]
     },
     {
       "number": 3,
@@ -353,8 +2430,80 @@
       "year": 2025,
       "days": 62,
       "presenter": "Carlos Sobera",
-      "winner": "marieta-sola",
-      "group": "Gran Hermano Dúo"
+      "winner": "marieta-diaz",
+      "group": "Gran Hermano Dúo",
+      "dates": "2 ene – 4 mar 2025",
+      "finalists": [
+        "maica-benedicto",
+        "oscar-landa"
+      ],
+      "participants": [
+        {
+          "id": "sergio-aguilera",
+          "role": "4.º puesto",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "romina-malaspina",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "jose-maria-almoguera",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "alex-ghita",
+          "role": "Expulsado/a (día 55)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "miguel-frigenti",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "maria-sanchez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "daniel-santos",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "manuel-cortes",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "jeimy-baez",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "javier-mouzo",
+          "role": "Abandonó (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "ana-herminia-illas",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "vanessa-bouza",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "aurah-ruiz",
+          "role": "Expulsado/a por la organización (día 8)",
+          "eliminatedOrder": 16
+        }
+      ]
     },
     {
       "number": 4,
