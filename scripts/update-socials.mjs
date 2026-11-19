@@ -17,12 +17,12 @@ const candidates = Object.entries(people)
 
 const lit = (s) => `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"@es`;
 async function query(batch) {
-  const sparql = `SELECT ?name ?item ?desc ?ig ?yt ?tt ?x WHERE {
+  const sparql = `SELECT ?name ?item ?desc ?ig ?yt ?tt ?x ?img WHERE {
     VALUES ?name { ${batch.map((c) => lit(c.name)).join(' ')} }
     ?item rdfs:label ?name; wdt:P31 wd:Q5.
     OPTIONAL { ?item schema:description ?desc FILTER(LANG(?desc) = "es") }
     OPTIONAL { ?item wdt:P2003 ?ig } OPTIONAL { ?item wdt:P2397 ?yt }
-    OPTIONAL { ?item wdt:P7085 ?tt } OPTIONAL { ?item wdt:P2002 ?x }
+    OPTIONAL { ?item wdt:P7085 ?tt } OPTIONAL { ?item wdt:P2002 ?x } OPTIONAL { ?item wdt:P18 ?img }
   }`;
   const res = await fetch('https://query.wikidata.org/sparql?format=json&query=' + encodeURIComponent(sparql), {
     headers: { 'User-Agent': 'wiki-reality-bot/1.0', Accept: 'application/sparql-results+json' },
@@ -32,6 +32,7 @@ async function query(batch) {
 }
 
 const out = {};
+const images = {}; // id -> nombre de archivo en Commons (P18 de la misma ficha de Wikidata)
 for (let i = 0; i < candidates.length; i += 60) {
   const batch = candidates.slice(i, i + 60);
   let rows = [];
@@ -45,9 +46,11 @@ for (let i = 0; i < candidates.length; i += 60) {
       if (r.yt) it.s.youtube = `https://www.youtube.com/channel/${r.yt.value}`;
       if (r.tt) it.s.tiktok = `https://www.tiktok.com/@${r.tt.value}`;
       if (r.x) it.s.x = `https://x.com/${r.x.value}`;
+      if (r.img && !it.img) it.img = decodeURIComponent(r.img.value.split('/Special:FilePath/')[1] ?? '').replace(/_/g, ' ');
       items.set(r.item.value, it);
     }
     const ok = [...items.values()].filter((it) => MATCH.test(it.desc));
+    if (ok.length === 1 && ok[0].img) images[c.id] = { file: ok[0].img, wikidata: [...items.keys()].find((k) => items.get(k) === ok[0]) };
     if (ok.length === 1 && Object.keys(ok[0].s).length) out[c.id] = { ...ok[0].s, source: [...items.keys()].find((k) => items.get(k) === ok[0]) };
   }
 }
@@ -59,3 +62,42 @@ try { old = JSON.parse(readFileSync(path, 'utf8')).people ?? {}; } catch {}
 const merged = Object.fromEntries(Object.entries({ ...old, ...out }).filter(([id]) => people[id] && people[id].socialsAuto !== false));
 writeFileSync(path, JSON.stringify({ _doc: 'Generado por scripts/update-socials.mjs desde Wikidata. No editar a mano: usa socials en people.json.', people: merged }, null, 2) + '\n');
 console.log(`Redes encontradas para ${Object.keys(out).length} de ${candidates.length} personas`);
+
+// ---------- Fotos con licencia libre (Wikimedia Commons) ----------
+// Solo se aceptan licencias que permiten uso comercial (la web lleva publicidad): CC0, dominio
+// público, CC BY y CC BY-SA. Se guardan autor, licencia y enlace para la atribución obligatoria.
+const FREE = /^(cc0|public domain|pd\b|cc[ -]by(-sa)?[ -]\d)/i;
+const strip = (h = '') => h.replace(/<[^>]*>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/\s+/g, ' ').trim();
+const photos = {};
+const ids = Object.keys(images);
+for (let i = 0; i < ids.length; i += 40) {
+  const batch = ids.slice(i, i + 40);
+  const titles = batch.map((id) => `File:${images[id].file}`).join('|');
+  try {
+    const res = await fetch('https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=320&titles=' + encodeURIComponent(titles), { headers: { 'User-Agent': 'wiki-reality-bot/1.0' } });
+    if (!res.ok) throw new Error(`Commons HTTP ${res.status}`);
+    const data = await res.json();
+    const norm = Object.fromEntries((data.query.normalized ?? []).map((n) => [n.to, n.from]));
+    for (const pg of data.query.pages ?? []) {
+      const info = pg.imageinfo?.[0];
+      if (!info) continue;
+      const m = info.extmetadata ?? {};
+      const license = strip(m.LicenseShortName?.value);
+      if (!FREE.test(license) || /\b(nc|nd)\b/i.test(license) || m.NonFree?.value === 'true') continue;
+      const title = norm[pg.title] ?? pg.title;
+      for (const id of batch.filter((id) => `File:${images[id].file}` === title || `File:${images[id].file}` === pg.title)) {
+        photos[id] = {
+          src: info.thumburl, page: info.descriptionurl, license,
+          licenseUrl: m.LicenseUrl?.value ?? '', author: strip(m.Artist?.value) || 'Autor desconocido',
+          wikidata: images[id].wikidata,
+        };
+      }
+    }
+  } catch (e) { console.warn(`Aviso: ${e.message}`); }
+}
+const photosPath = join(DATA, 'photos.json');
+let oldPhotos = {};
+try { oldPhotos = JSON.parse(readFileSync(photosPath, 'utf8')).people ?? {}; } catch {}
+const mergedPhotos = Object.fromEntries(Object.entries({ ...oldPhotos, ...photos }).filter(([id]) => people[id] && people[id].socialsAuto !== false && people[id].photoAuto !== false));
+writeFileSync(photosPath, JSON.stringify({ _doc: 'Generado por scripts/update-socials.mjs: imagen (P18) de Wikidata con licencia libre de Wikimedia Commons. "photoAuto": false en people.json la desactiva.', people: mergedPhotos }, null, 2) + '\n');
+console.log(`Fotos con licencia libre para ${Object.keys(photos).length} personas`);

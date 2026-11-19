@@ -17,6 +17,8 @@ const { people } = readJson(join(DATA, 'people.json'));
 const news = readJson(join(DATA, 'news.json'));
 let autoSocials = {};
 try { autoSocials = readJson(join(DATA, 'socials.json')).people ?? {}; } catch {}
+let photos = {};
+try { photos = readJson(join(DATA, 'photos.json')).people ?? {}; } catch {}
 const realityFiles = readdirSync(join(DATA, 'realities')).filter((f) => f.endsWith('.json'));
 const realitiesById = Object.fromEntries(
   realityFiles.map((f) => { const r = readJson(join(DATA, 'realities', f)); return [r.id, r]; })
@@ -113,6 +115,13 @@ function autoDescription(id) {
 
 // ---------- redes sociales ----------
 const SOCIAL_LABELS = { instagram: 'Instagram', youtube: 'YouTube', tiktok: 'TikTok', x: 'X (Twitter)', facebook: 'Facebook', twitch: 'Twitch', web: 'Web' };
+const photoCredit = (ph) => `Foto: ${ph.author} · ${ph.license} · Wikimedia Commons`;
+// Avatar: foto con licencia libre si la hay; si no, iniciales
+const avatar = (id, cls = 'avatar', tag = 'span') => {
+  const ph = photos[id];
+  return ph ? `<${tag} class="${cls} has-photo"><img src="${esc(ph.src)}" alt="${esc(person(id).name)}" title="${esc(photoCredit(ph))}" loading="lazy" referrerpolicy="no-referrer"></${tag}>`
+    : `<${tag} class="${cls}" aria-hidden="true">${esc(initials(person(id).name))}</${tag}>`;
+};
 const socialsOf = (id) => { const { source, ...rest } = { ...(autoSocials[id] ?? {}), ...(people[id].socials ?? {}) }; return rest; };
 
 // ---------- parejas ----------
@@ -123,7 +132,7 @@ const coupleStory = (c) => coupleBackground(c) + (c.story ? `<p class="story">${
 const coupleBlock = (c, extra = '') => `
     <div class="couple">
       <div class="couple-head">
-        <div class="avatars"><span class="avatar">${esc(initials(person(c.a).name))}</span><span class="avatar">${esc(initials(person(c.b).name))}</span></div>
+        <div class="avatars">${avatar(c.a)}${avatar(c.b)}</div>
         <div>${personLink(c.a)} y ${personLink(c.b)}${extra}
           ${c.tempters?.length ? `<div class="person-sub">Tentadores: ${c.tempters.map(personLink).join(', ')}</div>` : ''}
           <span class="outcome ${outcomeClass(c.outcome)}">${esc(c.outcome ?? 'Hoguera final: pendiente de completar')}</span></div>
@@ -175,7 +184,7 @@ ${body}
 <footer class="footer">
   <p><strong>${esc(site.name)}</strong> recopila solo información pública sobre el paso de cada persona por los programas, sin opiniones.
   Las noticias enlazan a sus medios de origen. Datos de referencia: Wikipedia (CC BY-SA).</p>
-  <p><a href="${url('aviso-legal/')}">Aviso legal y solicitudes de retirada</a></p>
+  <p><a href="${url('aviso-legal/')}">Aviso legal y solicitudes de retirada</a> · <a href="${url('creditos-fotos/')}">Créditos de las fotos</a></p>
 </footer>
 <script src="${url('assets/search.js')}" defer></script>
 </body>
@@ -197,7 +206,7 @@ const poster = (r) => `
 
 const personCard = (id, sub) => `
 <a class="person-card" href="${url(`personas/${id}/`)}">
-  <div class="avatar" aria-hidden="true">${esc(initials(person(id).name))}</div>
+  ${avatar(id, 'avatar', 'div')}
   <div class="person-name">${esc(person(id).name)}</div>
   ${sub ? `<div class="person-sub">${esc(sub)}</div>` : ''}
 </a>`;
@@ -226,7 +235,7 @@ const page = (path, html) => { pages[path] = html; };
   const isla = realitiesById['la-isla-de-las-tentaciones'];
   const coupleCards = (isla?.editions ?? []).flatMap((e) => (e.couples ?? []).map((c) => `
     <a class="couple-card" href="${url(`${isla.id}/${editionSlug(e)}/`)}">
-      <div class="avatars"><span class="avatar">${esc(initials(person(c.a).name))}</span><span class="avatar">${esc(initials(person(c.b).name))}</span></div>
+      <div class="avatars">${avatar(c.a)}${avatar(c.b)}</div>
       <div class="person-name">${esc(person(c.a).name)} y ${esc(person(c.b).name)}</div>
       <div class="person-sub">${esc(e.title)} · ${e.year}</div>
       ${(c.background || c.story) ? `<div class="story-snippet">${esc(c.background || c.story)}</div>` : ''}
@@ -325,7 +334,7 @@ for (const id of allIds) {
     body: `
 <nav class="crumbs"><a href="${url('personas/')}">Personas</a> › ${esc(p.name)}</nav>
 <section class="profile">
-  <div class="avatar big" aria-hidden="true">${esc(initials(p.name))}</div>
+  <figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>
   <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}
   ${socials ? `<ul class="socials">${socials}</ul>` : ''}</div>
 </section>
@@ -339,7 +348,7 @@ ${socialsOf(id).instagram ? `<section class="block"><h2>Instagram</h2><div class
 </div></section>` : ''}
 ${p.now ? `<section class="block"><h2>En la actualidad</h2><p>${esc(p.now)}</p><p class="muted">Según sus redes públicas.</p></section>` : ''}
 ${rel.length ? `<section class="block"><h2>Personas relacionadas</h2><div class="related">${rel.map(([oid, texts]) => `
-  <a class="related-card" href="${url(`personas/${oid}/`)}"><span class="avatar">${esc(initials(people[oid].name))}</span>
+  <a class="related-card" href="${url(`personas/${oid}/`)}">${avatar(oid)}
   <span><strong>${esc(people[oid].name)}</strong>${texts.map((t) => `<small>${esc(t)}</small>`).join('')}</span></a>`).join('')}</div></section>` : ''}
 <p class="block muted small">¿Eres esta persona y quieres corregir o retirar datos? <a href="${url('aviso-legal/')}">Escríbenos</a>.</p>`,
   }));
@@ -373,6 +382,13 @@ page('aviso-legal/', layout({
 <h2>Solicitudes de corrección o retirada</h2>
 <p>Si apareces en esta web y quieres corregir o retirar información, escríbenos${site.contactEmail ? ` a <a href="mailto:${esc(site.contactEmail)}">${esc(site.contactEmail)}</a>` : ' (dirección de contacto pendiente de configurar)'}. Atendemos las solicitudes lo antes posible.</p>
 <p>Marcas como Gran Hermano, Supervivientes o La isla de las tentaciones pertenecen a sus titulares. Esta web no está afiliada a ninguna cadena ni productora.</p></section>`,
+}));
+
+page('creditos-fotos/', layout({
+  title: 'Créditos de las fotos', path: 'creditos-fotos/',
+  body: `<section class="block"><h1>Créditos de las fotos</h1>
+<p class="muted">Todas las fotos proceden de Wikimedia Commons, con licencias que permiten su reutilización (dominio público, CC0, CC BY o CC BY-SA). No usamos imágenes de cadenas de televisión ni copiadas de redes sociales. Si apareces en una foto y quieres que la retiremos, <a href="${url('aviso-legal/')}">escríbenos</a>.</p>
+<ul class="credits">${Object.entries(photos).filter(([id]) => people[id]).sort((a, b) => people[a[0]].name.localeCompare(people[b[0]].name, 'es')).map(([id, ph]) => `<li><a href="${url(`personas/${id}/`)}">${esc(people[id].name)}</a>: ${esc(ph.author)} · <a href="${esc(ph.licenseUrl || ph.page)}" rel="noopener nofollow license" target="_blank">${esc(ph.license)}</a> · <a href="${esc(ph.page)}" rel="noopener nofollow" target="_blank">archivo original</a></li>`).join('') || '<li>Aún no hay fotos.</li>'}</ul></section>`,
 }));
 
 page('404.html', layout({ title: 'Página no encontrada', body: `<section class="block"><h1>Página no encontrada</h1><p><a href="${url()}">Volver al inicio</a></p></section>` }));
