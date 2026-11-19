@@ -1,0 +1,341 @@
+{
+  "_doc": "Generado por scripts/update-socials.mjs: imagen (P18) de Wikidata con licencia libre de Wikimedia Commons. \"photoAuto\": false en people.json la desactiva.",
+  "people": {
+    "rebecca-loos": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Rebecca_Loos.jpg/330px-Rebecca_Loos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Rebecca_Loos.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Cleo Leng from London, United Kingdom",
+      "wikidata": "http://www.wikidata.org/entity/Q2027664"
+    },
+    "ivonne-orsini": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Miss_Puerto_Rico_08_Ivonne_Orsini.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Miss_Puerto_Rico_08_Ivonne_Orsini.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Jose Rosengurtt",
+      "wikidata": "http://www.wikidata.org/entity/Q6099306"
+    },
+    "ivan-gonzalez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/IvanGonzalez02-147.jpg/330px-IvanGonzalez02-147.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:IvanGonzalez02-147.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "Creado por Ivan gonzalez, foto de Domic Desrue",
+      "wikidata": "http://www.wikidata.org/entity/Q5923460"
+    },
+    "kiko-rivera": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Paquirr%C3%ADn.jpg/330px-Paquirr%C3%ADn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Paquirr%C3%ADn.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "Javier García",
+      "wikidata": "http://www.wikidata.org/entity/Q5959626"
+    },
+    "carmen-russo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Carmen_Russo_cropped.jpg/330px-Carmen_Russo_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carmen_Russo_cropped.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Carmen_Russo.jpg: Elena Torre from Viareggio, Italia derivative work: Truu (talk)",
+      "wikidata": "http://www.wikidata.org/entity/Q451650"
+    },
+    "pedro-garcia-aguado": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pedro_Garc%C3%ADa_Aguado_-_Conferencia_na_Estrada-_Galicia-6.jpg/330px-Pedro_Garc%C3%ADa_Aguado_-_Conferencia_na_Estrada-_Galicia-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Pedro_Garc%C3%ADa_Aguado_-_Conferencia_na_Estrada-_Galicia-6.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Luis Miguel Bugallo Sánchez (lmbuga)",
+      "wikidata": "http://www.wikidata.org/entity/Q1608634"
+    },
+    "raquel-bollo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Raquel_Bollo_-_02.jpg/330px-Raquel_Bollo_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Raquel_Bollo_-_02.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Carlos Delgado",
+      "wikidata": "http://www.wikidata.org/entity/Q22350907"
+    },
+    "agustin-bravo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Agust%C3%ADn_Bravo_Abreu_2012_%282%29.jpg/330px-Agust%C3%ADn_Bravo_Abreu_2012_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Agust%C3%ADn_Bravo_Abreu_2012_(2).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Carol1976",
+      "wikidata": "http://www.wikidata.org/entity/Q5660568"
+    },
+    "angel-garo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Angel_Garo.jpg/330px-Angel_Garo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Angel_Garo.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "https://www.youtube.com/channel/UClfP9MtgkBtOIuzQRjLmyXg Ángel Galán Comunicación (youtube)",
+      "wikidata": "http://www.wikidata.org/entity/Q251641"
+    },
+    "alyson-eckmann": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Alyson_Eckmann_2015.jpg/330px-Alyson_Eckmann_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alyson_Eckmann_2015.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Non Stop People",
+      "wikidata": "http://www.wikidata.org/entity/Q16298940"
+    },
+    "lucia-parreno": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Omar-sale-videoclip_MDSIMA20151015_0913_11-e1445764558614-300x300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Omar-sale-videoclip_MDSIMA20151015_0913_11-e1445764558614-300x300.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Luistarifa01",
+      "wikidata": "http://www.wikidata.org/entity/Q24034949"
+    },
+    "carlos-lozano": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Esperanza_Aguirre_celebra_con_Carlos_Lozano_el_D%C3%ADa_Mundial_de_Internet.jpg/330px-Esperanza_Aguirre_celebra_con_Carlos_Lozano_el_D%C3%ADa_Mundial_de_Internet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Esperanza_Aguirre_celebra_con_Carlos_Lozano_el_D%C3%ADa_Mundial_de_Internet.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Esperanza Aguirre Gil de Biedma",
+      "wikidata": "http://www.wikidata.org/entity/Q5750748"
+    },
+    "carla-barber": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Doctora_Carla_Barber_Garc%C3%ADa.jpg/330px-Doctora_Carla_Barber_Garc%C3%ADa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Doctora_Carla_Barber_Garc%C3%ADa.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Davidnein",
+      "wikidata": "http://www.wikidata.org/entity/Q20744865"
+    },
+    "carmen-lomana": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Carmen_Lomana_en_Lo_Siguiente_de_TVE.jpg/330px-Carmen_Lomana_en_Lo_Siguiente_de_TVE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carmen_Lomana_en_Lo_Siguiente_de_TVE.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Lasprimeras",
+      "wikidata": "http://www.wikidata.org/entity/Q442835"
+    },
+    "beatriz-rico": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Beatriz_rico_2018.jpg/330px-Beatriz_rico_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Beatriz_rico_2018.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Bearicoactriz",
+      "wikidata": "http://www.wikidata.org/entity/Q2893026"
+    },
+    "marlene-mourreau": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Marl%C3%A8ne_Mourreau.jpg/330px-Marl%C3%A8ne_Mourreau.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Marl%C3%A8ne_Mourreau.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Clinicalolasopena",
+      "wikidata": "http://www.wikidata.org/entity/Q3294484"
+    },
+    "ainhoa-cantalapiedra": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ainhoa_Cantalapiedra_by_Javier_Burgos.jpg/330px-Ainhoa_Cantalapiedra_by_Javier_Burgos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ainhoa_Cantalapiedra_by_Javier_Burgos.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Javier Burgos Photography",
+      "wikidata": "http://www.wikidata.org/entity/Q3391130"
+    },
+    "laura-bozzo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Laura_Bozzo_2014.png/330px-Laura_Bozzo_2014.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Laura_Bozzo_2014.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "CentralPuebla",
+      "wikidata": "http://www.wikidata.org/entity/Q6498726"
+    },
+    "nacho-vidal": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nacho_Vidal_%28cropped%29.jpg/330px-Nacho_Vidal_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Nacho_Vidal_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "User:Lumec_Gallery",
+      "wikidata": "http://www.wikidata.org/entity/Q1255380"
+    },
+    "romina-malaspina": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Romina_Malaspina.jpg/330px-Romina_Malaspina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Romina_Malaspina.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Javier Gómez Arredondo",
+      "wikidata": "http://www.wikidata.org/entity/Q96741538"
+    },
+    "yola-berrocal": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Yola_Berrocal_%28cropped%29.jpg/330px-Yola_Berrocal_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Yola_Berrocal_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Brocco from Madriz, Spain",
+      "wikidata": "http://www.wikidata.org/entity/Q6170200"
+    },
+    "miriam-sanchez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Miriam_S%C3%A1nchez_at_the_Paco_Rabanne_Fall_Winter_2019-20_show.jpg/330px-Miriam_S%C3%A1nchez_at_the_Paco_Rabanne_Fall_Winter_2019-20_show.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Miriam_S%C3%A1nchez_at_the_Paco_Rabanne_Fall_Winter_2019-20_show.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Paco Rabanne",
+      "wikidata": "http://www.wikidata.org/entity/Q101822517"
+    },
+    "sonia-monroy": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%28Sonia_Monroy%29_Prentsaurrekoa_-_Rueda_de_prensa-_Serie_B_%288144728687%29_%28cropped%29.jpg/330px-%28Sonia_Monroy%29_Prentsaurrekoa_-_Rueda_de_prensa-_Serie_B_%288144728687%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:(Sonia_Monroy)_Prentsaurrekoa_-_Rueda_de_prensa-_Serie_B_(8144728687)_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "DONOSTIA KULTURA",
+      "wikidata": "http://www.wikidata.org/entity/Q6117847"
+    },
+    "omar-montes": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Omar_Ismael_Montes.webp/330px-Omar_Ismael_Montes.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Omar_Ismael_Montes.webp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Izaro Virto",
+      "wikidata": "http://www.wikidata.org/entity/Q88664635"
+    },
+    "wilma-gonzalez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Wilma_Gonz%C3%A1lez_%28cropped%29.jpg/330px-Wilma_Gonz%C3%A1lez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Wilma_Gonz%C3%A1lez_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Viva Iquique weblog / www.vivaiquique.com",
+      "wikidata": "http://www.wikidata.org/entity/Q4020258"
+    },
+    "charlotte-caniggia": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Charlotte_Caniggia_2023.jpg/330px-Charlotte_Caniggia_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Charlotte_Caniggia_2023.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Desayunos Informales",
+      "wikidata": "http://www.wikidata.org/entity/Q19320241"
+    },
+    "carmen-alcayde": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Carmen_Alcayde_%282%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Carmen_Alcayde_(2)_(cropped).jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "20minutos.es",
+      "wikidata": "http://www.wikidata.org/entity/Q5043419"
+    },
+    "ares-teixido": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Ares_Teixid%C3%B3_%282017%29_%28cropped%29.jpg/330px-Ares_Teixid%C3%B3_%282017%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ares_Teixid%C3%B3_(2017)_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "GuillemMedina",
+      "wikidata": "http://www.wikidata.org/entity/Q21279289"
+    },
+    "leticia-sabater": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Leticia_Sabater_en_Logro%C3%B1o.jpg/330px-Leticia_Sabater_en_Logro%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Leticia_Sabater_en_Logro%C3%B1o.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Artistosteles",
+      "wikidata": "http://www.wikidata.org/entity/Q11054192"
+    },
+    "isabel-pantoja": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Isabel_Pantoja_durante_su_Gira_50_Aniversario_%282024%29.jpg/330px-Isabel_Pantoja_durante_su_Gira_50_Aniversario_%282024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Isabel_Pantoja_durante_su_Gira_50_Aniversario_(2024).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Ivanxsans",
+      "wikidata": "http://www.wikidata.org/entity/Q2423005"
+    },
+    "bibiana-fernandez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bibiana_Fern%C3%A1ndez%2C_2018_%28cropped%29.jpg/330px-Bibiana_Fern%C3%A1ndez%2C_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bibiana_Fern%C3%A1ndez,_2018_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Carlos Delgado",
+      "wikidata": "http://www.wikidata.org/entity/Q2595673"
+    },
+    "manuel-gonzalez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/1928-05-12%2C_La_Esfera%2C_Anita_Adamuz_y_Manolo_Gonz%C3%A1lez_se_presentan_en_el_Teatro_de_la_Reina_Victoria%2C_Walken_%28cropped%29_Manolo_Gonz%C3%A1lez.jpg/330px-1928-05-12%2C_La_Esfera%2C_Anita_Adamuz_y_Manolo_Gonz%C3%A1lez_se_presentan_en_el_Teatro_de_la_Reina_Victoria%2C_Walken_%28cropped%29_Manolo_Gonz%C3%A1lez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:1928-05-12,_La_Esfera,_Anita_Adamuz_y_Manolo_Gonz%C3%A1lez_se_presentan_en_el_Teatro_de_la_Reina_Victoria,_Walken_(cropped)_Manolo_Gonz%C3%A1lez.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "José Calvache \"Walken\"",
+      "wikidata": "http://www.wikidata.org/entity/Q5648872"
+    },
+    "sofia-suescun": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Sof%C3%ADa_Suescun_2024.jpg/330px-Sof%C3%ADa_Suescun_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sof%C3%ADa_Suescun_2024.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Revista Lecturas",
+      "wikidata": "http://www.wikidata.org/entity/Q106315099"
+    },
+    "kiko-matamoros": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/KikoMatamoros.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:KikoMatamoros.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Yosoychicho",
+      "wikidata": "http://www.wikidata.org/entity/Q19824060"
+    },
+    "amor-romeira": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Amor_Romeira_%28cropped%29.jpg/330px-Amor_Romeira_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Amor_Romeira_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Premios Nacionales Aquí TV",
+      "wikidata": "http://www.wikidata.org/entity/Q115867929"
+    },
+    "oriana-marzoli": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Oriana_Marzoli_2024_02.png/330px-Oriana_Marzoli_2024_02.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Oriana_Marzoli_2024_02.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Vaya Vaina",
+      "wikidata": "http://www.wikidata.org/entity/Q117195502"
+    },
+    "alba-carrillo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Alba_Carrillo.png/330px-Alba_Carrillo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alba_Carrillo.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "[elconfidecial]",
+      "wikidata": "http://www.wikidata.org/entity/Q25094538"
+    },
+    "maria-lapiedra": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Maria_Lapiedra_3.jpg/330px-Maria_Lapiedra_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Maria_Lapiedra_3.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Maria Lapiedra 84",
+      "wikidata": "http://www.wikidata.org/entity/Q17032235"
+    },
+    "gianmarco-onestini": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/GIANMARCO_ONESTINI_FOTOGRAF%C3%8DA.jpg/330px-GIANMARCO_ONESTINI_FOTOGRAF%C3%8DA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:GIANMARCO_ONESTINI_FOTOGRAF%C3%8DA.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Tulipan11",
+      "wikidata": "http://www.wikidata.org/entity/Q138656253"
+    },
+    "maria-jose": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mar%C3%ADa_Jos%C3%A9_2020_%28cropped%29.png/330px-Mar%C3%ADa_Jos%C3%A9_2020_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Jos%C3%A9_2020_(cropped).png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Harry Plus",
+      "wikidata": "http://www.wikidata.org/entity/Q3296452"
+    },
+    "ivonne-reyes": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/73/Yvonne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Yvonne.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Sandra Besga",
+      "wikidata": "http://www.wikidata.org/entity/Q3344836"
+    },
+    "javian-anton": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Javian_-_Concierto_OT_Sant_Jordi.jpg/330px-Javian_-_Concierto_OT_Sant_Jordi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Javian_-_Concierto_OT_Sant_Jordi.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Teodoromix",
+      "wikidata": "http://www.wikidata.org/entity/Q27651510"
+    }
+  }
+}
