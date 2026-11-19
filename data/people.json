@@ -803,7 +803,8 @@
       "name": "Víctor Janeiro"
     },
     "omar-sanchez": {
-      "name": "Omar Sánchez"
+      "name": "Omar Sánchez",
+      "socialsAuto": false
     },
     "yaiza-isla-6": {
       "name": "Yaiza",

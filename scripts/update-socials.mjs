@@ -56,6 +56,6 @@ const path = join(DATA, 'socials.json');
 let old = {};
 try { old = JSON.parse(readFileSync(path, 'utf8')).people ?? {}; } catch {}
 // Si una consulta falla no se pierde lo que ya teníamos
-const merged = { ...old, ...out };
+const merged = Object.fromEntries(Object.entries({ ...old, ...out }).filter(([id]) => people[id] && people[id].socialsAuto !== false));
 writeFileSync(path, JSON.stringify({ _doc: 'Generado por scripts/update-socials.mjs desde Wikidata. No editar a mano: usa socials en people.json.', people: merged }, null, 2) + '\n');
 console.log(`Redes encontradas para ${Object.keys(out).length} de ${candidates.length} personas`);
