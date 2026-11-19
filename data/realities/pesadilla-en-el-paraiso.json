@@ -1,0 +1,326 @@
+{
+  "id": "pesadilla-en-el-paraiso",
+  "name": "Pesadilla en El Paraíso",
+  "short": "Pesadilla",
+  "tagline": "Famosos trabajando en una granja",
+  "description": "Reality de convivencia en el que un grupo de famosos vive en una granja, sin comodidades, y se ocupa de los animales y las tareas del campo. Adaptación del formato The Farm, emitido antes en España como La Granja y Acorralados.",
+  "channel": "Telecinco (antes Antena 3 como La Granja)",
+  "since": 2004,
+  "theme": "pesadilla",
+  "newsQuery": "\"Pesadilla en El Paraíso\"",
+  "sources": [
+    "https://es.wikipedia.org/wiki/Pesadilla_en_El_Para%C3%ADso"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "La Granja",
+      "year": 2004,
+      "presenter": "Terelu Campos (galas); Jaime Bores (resúmenes y debates)",
+      "winner": "loreto-pesadilla-1",
+      "finalists": [
+        "fran-pesadilla-1",
+        "cristina-pesadilla-1"
+      ],
+      "participants": [
+        {
+          "id": "arancha-bonete",
+          "role": "Concursante"
+        },
+        {
+          "id": "olivia-de-borbon",
+          "role": "Concursante"
+        },
+        {
+          "id": "shangay-lily",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-juste",
+          "role": "Concursante"
+        },
+        {
+          "id": "ernesto-calzadilla",
+          "role": "Concursante"
+        },
+        {
+          "id": "paco-fernandez",
+          "role": "Concursante"
+        },
+        {
+          "id": "alonso-caparros",
+          "role": "Concursante"
+        },
+        {
+          "id": "paquita-torres",
+          "role": "Concursante"
+        },
+        {
+          "id": "mari-cielo-pajares",
+          "role": "Concursante"
+        },
+        {
+          "id": "lia-chapman",
+          "role": "Concursante"
+        },
+        {
+          "id": "david-meca",
+          "role": "Concursante"
+        }
+      ],
+      "group": "Formatos anteriores (La Granja y Acorralados)"
+    },
+    {
+      "number": 2,
+      "title": "La Granja 2",
+      "year": 2005,
+      "presenter": "Terelu Campos (galas); Óscar Modrego (resúmenes y debates)",
+      "winner": "miguel-angel",
+      "finalists": [
+        "m-jesus-g",
+        "dani-pesadilla-2"
+      ],
+      "participants": [
+        {
+          "id": "arevalo-pesadilla-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "rappel-pesadilla-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "lucia-pesadilla-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "m-jesus-r",
+          "role": "Concursante"
+        },
+        {
+          "id": "alicia-machado",
+          "role": "Concursante"
+        },
+        {
+          "id": "erik-putzbach",
+          "role": "Concursante"
+        },
+        {
+          "id": "fernando-acaso",
+          "role": "Concursante"
+        },
+        {
+          "id": "jordi-gomez",
+          "role": "Concursante"
+        },
+        {
+          "id": "susana-estrada",
+          "role": "Concursante"
+        },
+        {
+          "id": "selena-leo",
+          "role": "Concursante"
+        },
+        {
+          "id": "two-yupa",
+          "role": "Concursante"
+        }
+      ],
+      "group": "Formatos anteriores (La Granja y Acorralados)"
+    },
+    {
+      "number": 3,
+      "title": "Acorralados",
+      "year": 2011,
+      "presenter": "Jorge Javier Vázquez (galas); Raquel Sánchez Silva (galas y resúmenes); Christian Gálvez (última hora y debates)",
+      "winner": "nagore-pesadilla-3",
+      "finalists": [
+        "raquel-bollo",
+        "blanca-pesadilla-3"
+      ],
+      "participants": [
+        {
+          "id": "regina-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "liberto-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "m-angeles",
+          "role": "Concursante"
+        },
+        {
+          "id": "ursula-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "alvaro-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "reche-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "dioni-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "a-david",
+          "role": "Concursante"
+        },
+        {
+          "id": "raul-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "leticia-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "brenda-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "sonia-pesadilla-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "barbara-pesadilla-3",
+          "role": "Concursante"
+        }
+      ],
+      "group": "Formatos anteriores (La Granja y Acorralados)"
+    },
+    {
+      "number": 4,
+      "title": "Pesadilla en El Paraíso",
+      "year": 2022,
+      "presenter": "Lara Álvarez (galas y última hora); Carlos Sobera (galas y debates); Ion Aramendi",
+      "winner": "victor-pesadilla-4",
+      "finalists": [
+        "bea-pesadilla-4",
+        "daniela-pesadilla-4",
+        "ivan-pesadilla-4"
+      ],
+      "participants": [
+        {
+          "id": "israel-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "dani-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "manuel-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "danna-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "omar-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "steisy-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "lucia-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "marco-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "gloria-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "xavier-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "raquel-lozano",
+          "role": "Concursante"
+        },
+        {
+          "id": "marina-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "alyson-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "nadia-jemez",
+          "role": "Concursante"
+        },
+        {
+          "id": "monica-pesadilla-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "pipi-pesadilla-4",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Pesadilla en El Paraíso",
+      "year": 2023,
+      "presenter": "Nagore Robles (desde la granja); Carlos Sobera (galas desde plató y debate final); Sandra Barneda (debates semanales)",
+      "winner": "borja-estrada",
+      "finalists": [
+        "tania-deniz",
+        "antonio-montero"
+      ],
+      "participants": [
+        {
+          "id": "mar-lopez",
+          "role": "Concursante"
+        },
+        {
+          "id": "silvina-magari",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-jose-galera",
+          "role": "Concursante"
+        },
+        {
+          "id": "kiko-jimenez",
+          "role": "Concursante"
+        },
+        {
+          "id": "jose-antonio-aviles",
+          "role": "Concursante"
+        },
+        {
+          "id": "maite-galdeano",
+          "role": "Concursante"
+        },
+        {
+          "id": "pablo-sebastian",
+          "role": "Concursante"
+        },
+        {
+          "id": "begona-gutierrez",
+          "role": "Concursante"
+        }
+      ]
+    }
+  ],
+  "notes": "La mayoría de concursantes figura solo con su nombre de pila, como en la fuente."
+}

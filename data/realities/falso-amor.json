@@ -1,0 +1,65 @@
+{
+  "id": "falso-amor",
+  "name": "Falso amor",
+  "short": "Falso amor",
+  "tagline": "Parejas a prueba con vídeos manipulados",
+  "description": "Reality de Netflix en el que cinco parejas se separan en dos casas con solteros y ven vídeos de sus parejas sin saber si son reales o falsificados con inteligencia artificial.",
+  "channel": "Netflix",
+  "since": 2023,
+  "theme": "falsoamor",
+  "newsQuery": "\"Falso amor\" Netflix reality",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Deep_Fake_Love"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Falso Amor (Deep Fake Love)",
+      "year": 2023,
+      "presenter": "Raquel Sánchez-Silva",
+      "notes": "Final con triple empate entre tres parejas: Ángel Santiago y Gabriela Fdez. de Bobadilla, Javi Ramón y Paula Di Martino, y Rubén Correia e Isa Bermejo.",
+      "participants": [
+        {
+          "id": "ruben-correia",
+          "role": "Concursante"
+        },
+        {
+          "id": "isa-bermejo",
+          "role": "Concursante"
+        },
+        {
+          "id": "aida-vila",
+          "role": "Concursante"
+        },
+        {
+          "id": "manuel-delgado",
+          "role": "Concursante"
+        },
+        {
+          "id": "gabriela-fdez-de-bobadilla",
+          "role": "Concursante"
+        },
+        {
+          "id": "angel-santiago",
+          "role": "Concursante"
+        },
+        {
+          "id": "javi-ramon",
+          "role": "Concursante"
+        },
+        {
+          "id": "paula-di-martino",
+          "role": "Concursante"
+        },
+        {
+          "id": "alejandro-calvo",
+          "role": "Concursante"
+        },
+        {
+          "id": "ramon-pit",
+          "role": "Concursante"
+        }
+      ]
+    }
+  ]
+}

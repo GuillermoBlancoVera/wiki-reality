@@ -1,0 +1,18 @@
+{
+  "id": "first-dates",
+  "name": "First Dates",
+  "short": "First Dates",
+  "tagline": "Citas a ciegas en un restaurante",
+  "description": "Programa de citas en el que dos personas que no se conocen cenan juntas en un restaurante y al final deciden si quieren una segunda cita.",
+  "channel": "Cuatro",
+  "since": 2016,
+  "theme": "firstdates",
+  "newsQuery": "\"First Dates\" Cuatro",
+  "sources": [],
+  "editions": [],
+  "notes": "Programa diario sin ediciones cerradas. Datos básicos sin fuente enlazada todavía; equipo y especiales pendientes de completar.",
+  "presentersText": "Carlos Sobera",
+  "presenters": [
+    "Carlos Sobera"
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "id": "gran-hermano-vip",
+  "name": "Gran Hermano VIP",
+  "short": "GH VIP",
+  "tagline": "La casa de Gran Hermano, con famosos",
+  "description": "Versión de Gran Hermano en la que los concursantes son personas conocidas. Conviven aislados en una casa vigilada por cámaras, se nominan cada semana y la audiencia decide las expulsiones.",
+  "channel": "Telecinco",
+  "since": 2004,
+  "theme": "gh-vip",
+  "newsQuery": "\"GH VIP\" OR \"Gran Hermano VIP\"",
+  "sources": [
+    "https://es.wikipedia.org/wiki/Gran_Hermano_(Espa%C3%B1a)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_TV_series)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_1)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_2)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_3)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_4)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_5)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_6)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_7)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_14)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_15)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_16)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_17)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_18)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_19)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_8)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_9)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_10)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_11)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_12)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_13)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_3",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_4",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_Spain_(VIP_Season_5)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_6",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_7",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_8",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo_2",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo_3"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Gran Hermano El Desafío (VIP 1)",
+      "year": 2004,
+      "days": 69,
+      "presenter": "Jesús Vázquez",
+      "winner": "marlene-mourreau"
+    },
+    {
+      "number": 2,
+      "title": "Gran Hermano VIP 2",
+      "year": 2005,
+      "days": 71,
+      "presenter": "Jesús Vázquez",
+      "winner": "ivonne-armant"
+    },
+    {
+      "number": 3,
+      "title": "Gran Hermano VIP 3",
+      "year": 2015,
+      "days": 75,
+      "presenter": "Jordi González",
+      "winner": "belen-esteban",
+      "dates": "11 ene – 26 mar 2015",
+      "finalists": [
+        "aguasantas-vilches",
+        "coman-mitogo"
+      ],
+      "participants": [
+        {
+          "id": "fede-rebecchi",
+          "role": "Expulsado/a (día 74)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "angela-portero",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "chari-lojo",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "ylenia-padilla",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ares-teixido",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "israel-lancho",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "victor-sandoval",
+          "role": "Expulsado/a (día 33)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "laura-cuevas",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "kiko-rivera",
+          "role": "Abandonó (día 21)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "sandro-rey",
+          "role": "Expulsado/a (día 19)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "olvido-hormigos",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "jose-salazar",
+          "role": "Expulsado/a por la organización (día 5)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "juan-salazar",
+          "role": "Expulsado/a por la organización (día 5)",
+          "eliminatedOrder": 16
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Gran Hermano VIP 4",
+      "year": 2016,
+      "days": 99,
+      "presenter": "Jordi González",
+      "winner": "laura-matamoros",
+      "dates": "7 ene – 14 abr 2016",
+      "finalists": [
+        "carlos-lozano"
+      ],
+      "participants": [
+        {
+          "id": "rappel",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "laura-campos",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "daniel-santos",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "alejandro-nieto",
+          "role": "Abandonó (día 83)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "francisco-nicolas",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "raquel-bollo",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "charlotte-caniggia",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "sema-garcia",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "belen-roca",
+          "role": "Abandonó (día 56)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "julian-contreras",
+          "role": "Abandonó (día 53)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "rosa-benito",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "liz-emiliano",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "javier-tudela",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "lucia-hoyos",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "julius-bienert",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "carmen-lopez",
+          "role": "Abandonó (día 9)",
+          "eliminatedOrder": 18
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Gran Hermano VIP 5",
+      "year": 2017,
+      "days": 96,
+      "presenter": "Jordi González",
+      "winner": "alyson-eckmann",
+      "dates": "8 ene – 13 abr 2017",
+      "finalists": [
+        "daniela-vip-5"
+      ],
+      "participants": [
+        {
+          "id": "irma-vip-5",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "elettra-vip-5",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "emma-vip-5",
+          "role": "Expulsado/a (día 89)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "marco-vip-5",
+          "role": "Expulsado/a (día 82)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "aylen-vip-5",
+          "role": "Expulsado/a (día 75)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "aida-vip-5",
+          "role": "Expulsado/a (día 68)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "ivonne-vip-5",
+          "role": "Expulsado/a (día 61)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "sergio-vip-5",
+          "role": "Expulsado/a (día 54)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "alejandro-vip-5",
+          "role": "Expulsado/a (día 47)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "aless-vip-5",
+          "role": "Expulsado/a (día 40)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "alonso-vip-5",
+          "role": "Expulsado/a (día 26)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "tutto-vip-5",
+          "role": "Expulsado/a (día 19)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "tono-vip-5",
+          "role": "Expulsado/a (día 12)",
+          "eliminatedOrder": 15
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Gran Hermano VIP 6",
+      "year": 2018,
+      "days": 99,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "miriam-saavedra",
+      "dates": "13 sep – 20 dic 2018",
+      "finalists": [
+        "suso-alvarez",
+        "el-koala"
+      ],
+      "participants": [
+        {
+          "id": "asraf-beno",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "monica-hoyos",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "tony-spina",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "aurah-ruiz",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "makoke-giaever",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "angel-garo",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "verdeliss",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "darek-dabrowski",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "techi-cabrera",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "omar-montes",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "aramis-fuster",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "isa-pantoja",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "oriana-marzoli",
+          "role": "Abandonó (día 3)",
+          "eliminatedOrder": 16
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Gran Hermano VIP 7",
+      "year": 2019,
+      "days": 100,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "adara-molinero",
+      "dates": "11 sep – 19 dic 2019",
+      "finalists": [
+        "alba-carrillo",
+        "mila-ximenez"
+      ],
+      "participants": [
+        {
+          "id": "noemi-salazar",
+          "role": "Expulsado/a (día 93)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "estela-grande",
+          "role": "Expulsado/a (día 86)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "antonio-david-flores",
+          "role": "Expulsado/a (día 79)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "hugo-castejon",
+          "role": "Expulsado/a (día 72)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "maestro-joao",
+          "role": "Expulsado/a (día 65)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "gianmarco-onestini",
+          "role": "Expulsado/a (día 58)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "pol-badia",
+          "role": "Expulsado/a (día 51)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "el-cejas",
+          "role": "Expulsado/a (día 51)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "kiko-jimenez",
+          "role": "Expulsado/a (día 49)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "irene-junquera",
+          "role": "Expulsado/a (día 37)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "dinio-garcia",
+          "role": "Expulsado/a (día 23)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "nuria-martinez",
+          "role": "Abandonó (día 14)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "anabel-pantoja",
+          "role": "Expulsado/a (día 9)",
+          "eliminatedOrder": 16
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Gran Hermano VIP 8",
+      "year": 2023,
+      "days": 99,
+      "presenter": "Marta Flich",
+      "winner": "naomi-asensi",
+      "dates": "14 sep – 21 dic 2023",
+      "finalists": [
+        "luitingo",
+        "albert-infante"
+      ],
+      "participants": [
+        {
+          "id": "laura-bozzo",
+          "role": "Expulsado/a (día 98)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "michael-terlizzi",
+          "role": "Expulsado/a (día 95)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "carmen-alcayde",
+          "role": "Expulsado/a (día 92)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "pilar-llori",
+          "role": "Expulsado/a (día 85)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "jessica-bueno",
+          "role": "Expulsado/a (día 78)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "zeus-montiel",
+          "role": "Expulsado/a (día 71)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "susana-bianca",
+          "role": "Expulsado/a (día 64)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "jose-antonio-aviles",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "marta-castro",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "alex-caniggia",
+          "role": "Expulsado/a por la organización (día 49)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "gustavo-guillermo",
+          "role": "Expulsado/a por la organización (día 49)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "javier-fernandez",
+          "role": "Abandonó (día 49)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "karina-vip-8",
+          "role": "Abandonó (día 25)",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "sol-macaluso",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "oriana-marzoli",
+          "role": "Abandonó (día 16)",
+          "eliminatedOrder": 18
+        },
+        {
+          "id": "luca-dazi",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 19
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Gran Hermano VIP 9",
+      "year": 2026,
+      "presenter": "Jorge Javier Vázquez",
+      "notes": "Edición en emisión."
+    }
+  ]
+}

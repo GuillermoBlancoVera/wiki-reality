@@ -86,9 +86,6 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .poster-title, .poster-meta { position: relative; }
 .poster-title { font-family: var(--font-display); font-size: 1.45rem; font-weight: 700; line-height: 1.1; }
 .poster-meta { font-size: .78rem; opacity: .85; margin-top: .3rem; }
-.poster-isla { background: linear-gradient(180deg, #ffb48a 0%, #ffd9a8 45%, #8fd6cc 100%); color: #1f2328; }
-.poster-gh { background: linear-gradient(180deg, #dbe7ff, #b8cdf5); color: #10264f; }
-.poster-superv { background: linear-gradient(180deg, #e8efd6, #c9d8a6); color: #233214; }
 
 /* Tarjetas */
 .person-card, .couple-card { width: 160px; text-decoration: none; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 1rem .8rem; text-align: center; transition: transform .2s, box-shadow .2s; }
@@ -184,7 +181,7 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 /* La isla de las tentaciones: arena, coral y turquesa */
 .theme-isla { --bg: #fdf8f1; --surface: #fff; --surface-2: #f6ece0; --border: #efe2d1; --fg: #2b2320; --muted: #7a6a5f;
   --accent: #e76f51; --accent-2: #2a9d8f; --hero-a: #ffd9c4; --hero-b: #c8efe9; --poster-bg: linear-gradient(180deg, #ffb48a 0%, #ffd9a8 45%, #8fd6cc 100%); }
-.theme-isla .reality-title { font-family: 'Pacifico', cursive; font-weight: 400; color: #c4553a; }
+.theme-isla .reality-title { font-weight: 400; color: #c4553a; }
 /* Gran Hermano: azul televisión */
 .theme-gh { --bg: #f5f8fc; --surface: #fff; --surface-2: #e9eff8; --border: #d9e2ef; --fg: #10203d; --muted: #5a6a85;
   --accent: #1d4ed8; --accent-2: #0891b2; --hero-a: #dbe7ff; --hero-b: #e0f2fe; --poster-bg: linear-gradient(180deg, #dbe7ff, #b8cdf5); }
@@ -201,9 +198,7 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
   .poster { width: 170px; }
   .couples { grid-template-columns: 1fr; }
 }
-.poster::before { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 48%; background: linear-gradient(transparent, rgba(255,255,255,.92) 55%); z-index: 1; }
 .poster-title, .poster-meta { z-index: 2; }
-.poster-isla, .poster-gh, .poster-superv { color: #1f2328; }
 
 /* Fotos con licencia libre */
 .avatar.has-photo { padding: 0; overflow: hidden; }
@@ -257,3 +252,15 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 /* Compartir */
 .share-btn { width: auto; padding: 0 .9rem; gap: .4rem; display: inline-flex; align-items: center; height: 42px; border-radius: 999px; font: inherit; font-weight: 600; font-size: .85rem; cursor: pointer; }
 .share-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Carátulas ilustradas (colores y tipografías en designs.css, generado por scripts/designs.mjs) */
+.poster-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 1.1rem; }
+.poster-grid .poster { width: auto; }
+.poster { padding: 0 .9rem 1rem; text-align: center; align-items: center; }
+.poster::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 52%; background: linear-gradient(transparent, rgba(0,0,0,.55)); z-index: 1; }
+.poster-costura::after { background: linear-gradient(transparent, rgba(255,255,255,.65)); }
+.poster-title, .poster-meta { z-index: 2; }
+.poster-title { text-shadow: 0 2px 10px rgba(0,0,0,.45); }
+.poster-costura .poster-title { text-shadow: none; }
+.poster-meta { opacity: .92; font-weight: 600; }
+@media (max-width: 600px) { .poster-grid { grid-template-columns: repeat(2, 1fr); gap: .8rem; } }

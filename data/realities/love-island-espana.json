@@ -1,0 +1,18 @@
+{
+  "id": "love-island-espana",
+  "name": "Love Island España",
+  "short": "Love Island",
+  "tagline": "Solteros en una villa en busca del amor",
+  "description": "Adaptación española del formato británico Love Island, en la que un grupo de solteros convive en una villa, forma parejas y la audiencia vota a su favorita.",
+  "channel": "Neox y Atresplayer",
+  "since": 2021,
+  "theme": "loveisland",
+  "newsQuery": "\"Love Island España\"",
+  "sources": [],
+  "editions": [],
+  "notes": "Ediciones, parejas ganadoras y participantes pendientes de completar.",
+  "presentersText": "Cristina Pedroche",
+  "presenters": [
+    "Cristina Pedroche"
+  ]
+}

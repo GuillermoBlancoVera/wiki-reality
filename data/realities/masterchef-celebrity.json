@@ -1,0 +1,596 @@
+{
+  "id": "masterchef-celebrity",
+  "name": "MasterChef Celebrity",
+  "short": "MasterChef Celebrity",
+  "tagline": "Famosos entre fogones",
+  "description": "Versión con famosos del concurso de cocina MasterChef. Los concursantes se enfrentan a pruebas de cocina individuales y por equipos, y un jurado de chefs decide quién abandona cada semana.",
+  "channel": "La 1",
+  "since": 2016,
+  "theme": "masterchef",
+  "newsQuery": "\"MasterChef Celebrity\"",
+  "sources": [
+    "https://en.wikipedia.org/wiki/MasterChef_Celebrity_(Spanish_TV_series)"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Temporada 1",
+      "year": 2016,
+      "presenter": "Eva González",
+      "winner": "miguel-angel-munoz",
+      "finalists": [
+        "cayetana-guillen-cuervo",
+        "fernando-tejero",
+        "loles-leon"
+      ],
+      "participants": [
+        {
+          "id": "virginia-troconis",
+          "role": "Concursante"
+        },
+        {
+          "id": "manuel-diaz-el-cordobes",
+          "role": "Concursante"
+        },
+        {
+          "id": "estefania-luyk",
+          "role": "Concursante"
+        },
+        {
+          "id": "fonsi-nieto",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-del-monte",
+          "role": "Concursante"
+        },
+        {
+          "id": "nina-pastori",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Temporada 2",
+      "year": 2017,
+      "presenter": "Eva González",
+      "winner": "saul-craviotto",
+      "finalists": [
+        "silvia-abril",
+        "jose-corbacho",
+        "patricia-montero"
+      ],
+      "participants": [
+        {
+          "id": "edu-soto",
+          "role": "Concursante"
+        },
+        {
+          "id": "anabel-alonso",
+          "role": "Concursante"
+        },
+        {
+          "id": "bibiana-fernandez",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-betancourt",
+          "role": "Concursante"
+        },
+        {
+          "id": "pepon-nieto",
+          "role": "Concursante"
+        },
+        {
+          "id": "marina-san-jose",
+          "role": "Concursante"
+        },
+        {
+          "id": "carlos-baute",
+          "role": "Concursante"
+        },
+        {
+          "id": "usun-yoon",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Temporada 3",
+      "year": 2018,
+      "presenter": "Eva González",
+      "winner": "ona-carbonell",
+      "finalists": [
+        "paz-vega",
+        "mario-vaquerizo",
+        "antonia-dell-atte"
+      ],
+      "participants": [
+        {
+          "id": "boris-izaguirre",
+          "role": "Concursante"
+        },
+        {
+          "id": "santiago-segura",
+          "role": "Concursante"
+        },
+        {
+          "id": "carmen-lomana",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-castro",
+          "role": "Concursante"
+        },
+        {
+          "id": "oscar-higares",
+          "role": "Concursante"
+        },
+        {
+          "id": "jaime-nava",
+          "role": "Concursante"
+        },
+        {
+          "id": "ivan-massague",
+          "role": "Concursante"
+        },
+        {
+          "id": "dafne-fernandez",
+          "role": "Concursante"
+        },
+        {
+          "id": "xuso-jones",
+          "role": "Concursante"
+        },
+        {
+          "id": "paula-prendes",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Temporada 4",
+      "year": 2019,
+      "presenter": "Eva González",
+      "winner": "tamara-falco",
+      "finalists": [
+        "felix-gomez",
+        "vicky-martin-berrocal",
+        "boris-izaguirre"
+      ],
+      "participants": [
+        {
+          "id": "yolanda-ramos",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-avellaneda",
+          "role": "Concursante"
+        },
+        {
+          "id": "anabel-alonso",
+          "role": "Concursante"
+        },
+        {
+          "id": "ana-obregon",
+          "role": "Concursante"
+        },
+        {
+          "id": "ana-milan",
+          "role": "Concursante"
+        },
+        {
+          "id": "almudena-cid",
+          "role": "Concursante"
+        },
+        {
+          "id": "alex-adrover",
+          "role": "Concursante"
+        },
+        {
+          "id": "jose-salazar",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-salazar",
+          "role": "Concursante"
+        },
+        {
+          "id": "elena-furiase",
+          "role": "Concursante"
+        },
+        {
+          "id": "marta-torne",
+          "role": "Concursante"
+        },
+        {
+          "id": "el-sevilla",
+          "role": "Concursante"
+        },
+        {
+          "id": "jose-miguel-antunez",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Temporada 5",
+      "year": 2020,
+      "winner": "raquel-merono",
+      "finalists": [
+        "florentino-fernandez",
+        "josie",
+        "ainhoa-arteta",
+        "nicolas-coronado"
+      ],
+      "participants": [
+        {
+          "id": "la-terremoto-de-alcorcon",
+          "role": "Concursante"
+        },
+        {
+          "id": "celia-villalobos",
+          "role": "Concursante"
+        },
+        {
+          "id": "gonzalo-miro",
+          "role": "Concursante"
+        },
+        {
+          "id": "lucia-dominguin-bose",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-jose-ballesta",
+          "role": "Concursante"
+        },
+        {
+          "id": "laura-sanchez",
+          "role": "Concursante"
+        },
+        {
+          "id": "perico-delgado",
+          "role": "Concursante"
+        },
+        {
+          "id": "raquel-sanchez-silva",
+          "role": "Concursante"
+        },
+        {
+          "id": "jesus-castro",
+          "role": "Concursante"
+        },
+        {
+          "id": "melani-olivares",
+          "role": "Concursante"
+        },
+        {
+          "id": "david-fernandez",
+          "role": "Concursante"
+        },
+        {
+          "id": "willy-barcenas",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Temporada 6",
+      "year": 2021,
+      "winner": "juanma-castano",
+      "notes": "Edición con dos ganadores: Juanma Castaño y Miki Nadal.",
+      "finalists": [
+        "david-bustamante",
+        "belen-lopez"
+      ],
+      "participants": [
+        {
+          "id": "miki-nadal",
+          "role": "Ganador (ex aequo)"
+        },
+        {
+          "id": "carmina-barrios",
+          "role": "Concursante"
+        },
+        {
+          "id": "veronica-forque",
+          "role": "Concursante"
+        },
+        {
+          "id": "ivan-sanchez",
+          "role": "Concursante"
+        },
+        {
+          "id": "arkano",
+          "role": "Concursante"
+        },
+        {
+          "id": "eduardo-navarrete",
+          "role": "Concursante"
+        },
+        {
+          "id": "victoria-abril",
+          "role": "Concursante"
+        },
+        {
+          "id": "terelu-campos",
+          "role": "Concursante"
+        },
+        {
+          "id": "julian-iantzi",
+          "role": "Concursante"
+        },
+        {
+          "id": "yotuel",
+          "role": "Concursante"
+        },
+        {
+          "id": "vanesa-romero",
+          "role": "Concursante"
+        },
+        {
+          "id": "samantha-hudson",
+          "role": "Concursante"
+        },
+        {
+          "id": "tamara",
+          "role": "Concursante"
+        },
+        {
+          "id": "esperanza-aguirre",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Temporada 7",
+      "year": 2022,
+      "winner": "lorena-castell",
+      "finalists": [
+        "manu-baqueiro",
+        "maria-escote",
+        "patricia-conde"
+      ],
+      "participants": [
+        {
+          "id": "isabelle-junot",
+          "role": "Concursante"
+        },
+        {
+          "id": "nico-abad",
+          "role": "Concursante"
+        },
+        {
+          "id": "daniela-santiago",
+          "role": "Concursante"
+        },
+        {
+          "id": "xavier-deltell",
+          "role": "Concursante"
+        },
+        {
+          "id": "pepe-barroso-silva",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-zurita",
+          "role": "Concursante"
+        },
+        {
+          "id": "norma-duval",
+          "role": "Concursante"
+        },
+        {
+          "id": "fernando-andina",
+          "role": "Concursante"
+        },
+        {
+          "id": "ruth-lorenzo",
+          "role": "Concursante"
+        },
+        {
+          "id": "eduardo-rosa",
+          "role": "Concursante"
+        },
+        {
+          "id": "emmanuel-esparza",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristina-cifuentes",
+          "role": "Concursante"
+        },
+        {
+          "id": "nil-ojeda",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Temporada 8",
+      "year": 2023,
+      "winner": "laura-londono",
+      "finalists": [
+        "alvaro-munoz-escassi",
+        "daniel-illescas",
+        "toni-moreno"
+      ],
+      "participants": [
+        {
+          "id": "blanca-romero",
+          "role": "Concursante"
+        },
+        {
+          "id": "jesulin-de-ubrique",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-cadaval",
+          "role": "Concursante"
+        },
+        {
+          "id": "miguel-diosdado",
+          "role": "Concursante"
+        },
+        {
+          "id": "eduardo-casanova",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-sanz",
+          "role": "Concursante"
+        },
+        {
+          "id": "tania-llasera",
+          "role": "Concursante"
+        },
+        {
+          "id": "palito-dominguin-bose",
+          "role": "Concursante"
+        },
+        {
+          "id": "sandra-gago",
+          "role": "Concursante"
+        },
+        {
+          "id": "cesar-cadaval",
+          "role": "Concursante"
+        },
+        {
+          "id": "genoveva-casanova",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Temporada 9",
+      "year": 2024,
+      "winner": "ines-hernand",
+      "finalists": [
+        "marina-rivers",
+        "pitingo",
+        "francis-lorenzo"
+      ],
+      "participants": [
+        {
+          "id": "pocholo-martinez-bordiu",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristina-cifuentes",
+          "role": "Concursante"
+        },
+        {
+          "id": "hiba-abouk",
+          "role": "Concursante"
+        },
+        {
+          "id": "jose-lamuno",
+          "role": "Concursante"
+        },
+        {
+          "id": "raul-gomez",
+          "role": "Concursante"
+        },
+        {
+          "id": "itziar-miranda",
+          "role": "Concursante"
+        },
+        {
+          "id": "pelayo-diaz",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-leon",
+          "role": "Concursante"
+        },
+        {
+          "id": "topacio-fresh",
+          "role": "Concursante"
+        },
+        {
+          "id": "ruben-ochandiano",
+          "role": "Concursante"
+        },
+        {
+          "id": "nerea-garmendia",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-luis-cano",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Temporada 10",
+      "year": 2025,
+      "winner": "marilo-montero",
+      "finalists": [
+        "miguel-torres",
+        "juanjo-bona",
+        "torito"
+      ],
+      "participants": [
+        {
+          "id": "jose-manuel-parada",
+          "role": "Concursante"
+        },
+        {
+          "id": "valeria-ros",
+          "role": "Concursante"
+        },
+        {
+          "id": "mala-rodriguez",
+          "role": "Concursante"
+        },
+        {
+          "id": "soraya-arnelas",
+          "role": "Concursante"
+        },
+        {
+          "id": "alejo-sauras",
+          "role": "Concursante"
+        },
+        {
+          "id": "rosa-benito",
+          "role": "Concursante"
+        },
+        {
+          "id": "david-amor",
+          "role": "Concursante"
+        },
+        {
+          "id": "masi-rodriguez",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-luengo",
+          "role": "Concursante"
+        },
+        {
+          "id": "valeria-vegas",
+          "role": "Concursante"
+        },
+        {
+          "id": "charo-reina",
+          "role": "Concursante"
+        },
+        {
+          "id": "necko-vidal",
+          "role": "Concursante"
+        }
+      ]
+    }
+  ],
+  "notes": "La fuente no indica el año de las temporadas 2 a 10; se han numerado por orden, una por año desde 2016."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "el-conquistador",
+  "name": "El conquistador",
+  "short": "El conquistador",
+  "tagline": "Aventura extrema en parajes remotos",
+  "description": "Concurso de aventura y supervivencia de la televisión vasca en el que varios equipos compiten en pruebas físicas en entornos naturales extremos. Conocido como El conquistador del fin del mundo; en 2023 TVE emitió su propia edición.",
+  "channel": "ETB2 (y La 1 en 2023)",
+  "since": 2005,
+  "theme": "conquistador",
+  "newsQuery": "\"El conquistador\" ETB reality",
+  "sources": [
+    "https://es.wikipedia.org/wiki/El_conquistador_del_fin_del_mundo"
+  ],
+  "editions": [],
+  "notes": "Ediciones y ganadores pendientes de completar.",
+  "presentersText": "Julian Iantzi (hasta 2023)",
+  "presenters": [
+    "Julian Iantzi"
+  ]
+}

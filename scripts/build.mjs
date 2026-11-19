@@ -4,6 +4,7 @@
 import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync, cpSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { designs, designFonts, designCss } from './designs.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
@@ -44,7 +45,7 @@ const fmtDate = (iso) => new Date(iso).toLocaleDateString('es-ES', { day: 'numer
 
 // Presentadoras y presentadores: se sacan del texto "presenter" de cada edición y tienen ficha propia
 const slugify = (t) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-const presenterNames = (e) => (e.presenter ?? '').replace(/\([^)]*\)/g, '').split(/\s+y\s+|,\s*/).map((n) => n.trim()).filter(Boolean);
+const presenterNames = (e) => (e.presenter ?? '').replace(/\([^)]*\)/g, '').split(/\s+y\s+|[,;]\s*/).map((n) => n.trim()).filter(Boolean);
 const presenterIds = (e) => presenterNames(e).map(slugify).filter((id) => people[id]);
 const presenterHtml = (e) => presenterNames(e).reduce((h, n) => people[slugify(n)] ? h.replace(esc(n), `<a class="person-link" href="${url(`personas/${slugify(n)}/`)}">${esc(n)}</a>`) : h, esc(e.presenter ?? ''));
 
@@ -70,6 +71,10 @@ for (const r of realities) {
     for (const p of e.participants ?? []) addApp(p.id, r, e, p.role ?? 'Concursante');
     for (const p of e.singles ?? []) addApp(p.id, r, e, /^Soltera/.test(p.role) ? `Tentadora${/VIP/.test(p.role) ? ' VIP' : ''}` : `Tentador${/VIP/.test(p.role) ? ' VIP' : ''}`);
   }
+}
+for (const r of realities) for (const n of r.presenters ?? []) {
+  const id = slugify(n);
+  if (people[id]) (appearances[id] ??= []).push({ reality: r.id, realityName: r.name, label: r.name, role: 'Presentación', href: url(`${r.id}/`) });
 }
 for (const [id, p] of Object.entries(people)) {
   for (const x of p.extraAppearances ?? []) {
@@ -204,13 +209,14 @@ function layout({ title, description, body, theme = 'home', path = '' }) {
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico${designFonts.map((f) => `&family=${f.replace(/ /g, '+')}${{ Montserrat: ':wght@800', Oswald: ':wght@700', 'Playfair Display': ':ital,wght@0,800;1,800' }[f] ?? ''}`).join('')}&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${url('assets/styles.css')}">
+<link rel="stylesheet" href="${url('assets/designs.css')}">
 </head>
 <body class="theme-${theme}" data-base="${BASE}">
 <header class="topbar">
   ${logo}
-  <nav class="mainnav">${realities.map((r) => `<a href="${url(`${r.id}/`)}">${esc(r.short)}</a>`).join('')}<a href="${url('personas/')}">Personas</a></nav>
+  <nav class="mainnav">${realities.slice(0, 3).map((r) => `<a href="${url(`${r.id}/`)}">${esc(r.short)}</a>`).join('')}<a href="${url('')}#realities">Todos los realities</a><a href="${url('personas/')}">Personas</a></nav>
   ${searchBox}
 </header>
 <main>
@@ -227,16 +233,12 @@ ${body}
 }
 
 // Carátula generada con CSS + SVG (sin fotos de cadenas ni de redes)
-const posterArt = {
-  isla: `<svg viewBox="0 0 200 300" aria-hidden="true"><circle cx="100" cy="150" r="55" fill="#ffd27a" opacity=".9"/><rect y="190" width="200" height="110" fill="#0b6e7a" opacity=".85"/><path d="M40 300 C45 230 50 200 60 170" stroke="#1d1b26" stroke-width="7" fill="none"/><path d="M60 170 c-30 -5 -45 5 -55 20 M60 170 c-10 -25 -30 -30 -45 -28 M60 170 c20 -20 40 -20 55 -10 M60 170 c25 0 40 10 45 25" stroke="#1d1b26" stroke-width="6" fill="none" stroke-linecap="round"/></svg>`,
-  gh: `<svg viewBox="0 0 200 300" aria-hidden="true"><ellipse cx="100" cy="140" rx="75" ry="42" fill="none" stroke="#1d4ed8" stroke-width="5"/><circle cx="100" cy="140" r="28" fill="#3b82f6"/><circle cx="100" cy="140" r="12" fill="#10264f"/><circle cx="108" cy="132" r="5" fill="#fff"/></svg>`,
-  superv: `<svg viewBox="0 0 200 300" aria-hidden="true"><path d="M100 70 C125 110 140 130 120 165 C135 150 140 135 138 120 C160 150 150 200 100 210 C50 200 45 150 70 120 C70 140 78 152 88 160 C75 125 90 100 100 70Z" fill="#ff8a1f"/><path d="M100 130 C110 150 115 165 100 190 C85 165 92 150 100 130Z" fill="#ffe08a"/><rect x="94" y="208" width="12" height="70" fill="#5b3b1d"/></svg>`,
-};
+const posterArt = Object.fromEntries(Object.entries(designs).map(([k, d]) => [k, d.art]));
 const poster = (r) => `
 <a class="poster poster-${r.theme}" href="${url(`${r.id}/`)}">
   <div class="poster-art">${posterArt[r.theme] ?? ''}</div>
   <div class="poster-title">${esc(r.name)}</div>
-  <div class="poster-meta">${r.editions.length} ediciones · desde ${r.since}</div>
+  <div class="poster-meta">${r.editions.length ? `${r.editions.length} ${r.editions.length === 1 ? 'edición' : 'ediciones'} · ` : ''}${r.until ? `${r.since}-${r.until}` : `desde ${r.since}`}</div>
 </a>`;
 
 const personCard = (id, sub) => `
@@ -285,7 +287,7 @@ const page = (path, html) => { pages[path] = html; };
     <a class="btn" href="${url(`${featured.id}/`)}">Explorar ${esc(featured.name)}</a>
   </div>
 </section>
-${row('Realities', realities.map(poster), 'row-posters')}
+<section class="row row-posters" id="realities"><h2 class="row-title">Realities</h2><div class="poster-grid">${realities.map(poster).join('')}</div></section>
 ${row('Parejas de La isla de las tentaciones', coupleCards)}
 ${row('Personas en varios programas', crossOver)}
 ${row('Últimos ganadores', winnersRow)}
@@ -319,10 +321,11 @@ for (const r of realities) {
   </div>
 </section>
 <section class="block">${editionCards}
+${r.presentersText ? `<p><strong>Presentación:</strong> ${presenterHtml({ presenter: r.presentersText })}</p>` : ''}
 ${r.notes ? `<p class="muted">${esc(r.notes)}</p>` : ''}</section>
 ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></section>` : ''}
 <section class="block"><h2>Noticias</h2>${newsList(rNews.slice(0, 12))}</section>
-<section class="block sources"><h2>Fuentes</h2><ul>${r.sources.map((s) => `<li><a href="${esc(s)}" rel="noopener">${esc(s)}</a></li>`).join('')}</ul></section>`,
+<section class="block sources"${r.sources?.length ? '' : ' hidden'}><h2>Fuentes</h2><ul>${(r.sources ?? []).map((s) => `<li><a href="${esc(s)}" rel="noopener">${esc(s)}</a></li>`).join('')}</ul></section>`,
   }));
 
   for (const e of r.editions) {
@@ -449,6 +452,7 @@ for (const [path, html] of Object.entries(pages)) {
   writeFileSync(file, html);
 }
 cpSync(join(ROOT, 'src', 'assets'), join(OUT, 'assets'), { recursive: true });
+writeFileSync(join(OUT, 'assets', 'designs.css'), designCss);
 
 // Índice para el buscador
 const searchIndex = allIds.map((id) => ({

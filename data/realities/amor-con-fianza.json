@@ -1,0 +1,18 @@
+{
+  "id": "amor-con-fianza",
+  "name": "Amor con fianza",
+  "short": "Amor con fianza",
+  "tagline": "Parejas ante el detector de mentiras",
+  "description": "Reality de Netflix en el que varias parejas se someten a un detector de mentiras que analiza sus respuestas. Cada mentira resta dinero del premio final.",
+  "channel": "Netflix",
+  "since": 2021,
+  "theme": "amorfianza",
+  "newsQuery": "\"Amor con fianza\" Netflix",
+  "sources": [],
+  "editions": [],
+  "notes": "Ediciones y parejas pendientes de completar.",
+  "presentersText": "Mónica Naranjo",
+  "presenters": [
+    "Mónica Naranjo"
+  ]
+}

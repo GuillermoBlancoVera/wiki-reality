@@ -1,0 +1,301 @@
+{
+  "id": "maestros-de-la-costura",
+  "name": "Maestros de la costura",
+  "short": "Maestros de la costura",
+  "tagline": "El concurso de costura de TVE",
+  "description": "Concurso de talentos de costura en el que aprendices de modista superan pruebas de confección valoradas por un jurado de diseñadores.",
+  "channel": "La 1",
+  "since": 2018,
+  "theme": "costura",
+  "newsQuery": "\"Maestros de la costura\"",
+  "sources": [
+    "https://es.wikipedia.org/wiki/Maestros_de_la_costura"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Temporada 1",
+      "year": 2018,
+      "presenter": "Raquel Sánchez Silva",
+      "winner": "alicia-costura-1",
+      "finalists": [
+        "antonio-costura-1",
+        "luisa-costura-1",
+        "eduardo-costura-1"
+      ],
+      "participants": [
+        {
+          "id": "mahi-masegosa",
+          "role": "Concursante"
+        },
+        {
+          "id": "jaime-costura-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "pa-costura-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "anna-costura-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "sergio-costura-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "vicente-costura-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "vanessa-costura-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "shaoran-costura-1",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Temporada 2",
+      "year": 2019,
+      "presenter": "Raquel Sánchez Silva",
+      "winner": "rosa-costura-2",
+      "finalists": [
+        "isabel-costura-2",
+        "amparito-costura-2",
+        "toni-costura-2"
+      ],
+      "participants": [
+        {
+          "id": "lara-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "sergio-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "saray-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "alejandro-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "anastasia-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "pedro-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "lucas-costura-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "alba-costura-2",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Temporada 3",
+      "year": 2020,
+      "presenter": "Raquel Sánchez Silva",
+      "winner": "joshua-velazquez",
+      "finalists": [
+        "begona-costura-3",
+        "margarita-costura-3",
+        "david-costura-3"
+      ],
+      "participants": [
+        {
+          "id": "la-brava",
+          "role": "Concursante"
+        },
+        {
+          "id": "borja-costura-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "xiaona-costura-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "laura-costura-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "fran-costura-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "arantxa-costura-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "marc-costura-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "helen-costura-3",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Temporada 4",
+      "year": 2021,
+      "presenter": "Raquel Sánchez Silva",
+      "winner": "ancor-montaner",
+      "finalists": [
+        "lluis-costura-4",
+        "yelimar-costura-4",
+        "gabriel-costura-4"
+      ],
+      "participants": [
+        {
+          "id": "laura-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "mily-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "javier-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "fermin-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "nani-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "ana-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "alvaro-costura-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "elena-costura-4",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Temporada 5",
+      "year": 2022,
+      "presenter": "Raquel Sánchez Silva",
+      "winner": "lluis-mengual",
+      "finalists": [
+        "borja-costura-5",
+        "pablo-costura-5",
+        "lili-costura-5"
+      ],
+      "participants": [
+        {
+          "id": "eduardo-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "caterina-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "isabel-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "judith-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "jesus-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "anthony-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "mj-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "margarita-costura-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "laura-costura-5",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Temporada 6",
+      "year": 2024,
+      "presenter": "Raquel Sánchez Silva",
+      "winner": "ana-luque",
+      "finalists": [
+        "angel-costura-6",
+        "erik-costura-6",
+        "almudena-costura-6"
+      ],
+      "participants": [
+        {
+          "id": "yichan-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristian-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "mima-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "soraya-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "mario-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "iker-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "julia-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "carlota-costura-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "noe-costura-6",
+          "role": "Concursante"
+        }
+      ]
+    }
+  ],
+  "notes": "Muchos concursantes figuran solo con su nombre de pila, como en la fuente."
+}

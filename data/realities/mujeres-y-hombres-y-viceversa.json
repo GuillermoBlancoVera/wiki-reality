@@ -1,0 +1,24 @@
+{
+  "id": "mujeres-y-hombres-y-viceversa",
+  "name": "Mujeres y hombres y viceversa",
+  "short": "MyHyV",
+  "tagline": "Tronistas y pretendientes en busca de pareja",
+  "description": "Programa de citas, adaptación del italiano Uomini e donne, en el que una persona (tronista) ocupa un trono y es cortejada por sus pretendientes. Tras varias citas, elige a uno de los finalistas como pareja.",
+  "channel": "Telecinco (2008-2018) y Cuatro (2018-2021)",
+  "since": 2008,
+  "theme": "myhyv",
+  "newsQuery": "\"Mujeres y hombres y viceversa\"",
+  "sources": [
+    "https://es.wikipedia.org/wiki/Mujeres_y_hombres_y_viceversa"
+  ],
+  "editions": [],
+  "notes": "Programa diario sin ediciones cerradas. Tronistas y pretendientes pendientes de completar.",
+  "until": 2021,
+  "presentersText": "Emma García (2008-2018), Toñi Moreno (desde 2018), Nagore Robles (sustituciones) y Jesús Vázquez (2020-2021)",
+  "presenters": [
+    "Emma García",
+    "Toñi Moreno",
+    "Nagore Robles",
+    "Jesús Vázquez"
+  ]
+}

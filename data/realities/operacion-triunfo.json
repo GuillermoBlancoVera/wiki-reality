@@ -1,0 +1,849 @@
+{
+  "id": "operacion-triunfo",
+  "name": "Operación Triunfo",
+  "short": "OT",
+  "tagline": "La academia musical más famosa de la televisión",
+  "description": "Concurso de talentos en el que un grupo de jóvenes cantantes convive en una academia, recibe formación musical y actúa cada semana en una gala. El público elige a los favoritos y al ganador.",
+  "channel": "La 1 (2001-2004, 2017-2020), Telecinco (2005-2011) y Prime Video (desde 2023)",
+  "since": 2001,
+  "theme": "ot",
+  "newsQuery": "\"Operación Triunfo\" OT",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Operaci%C3%B3n_Triunfo_(Spanish_TV_series)"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Temporada 1",
+      "year": 2001,
+      "presenter": "Carlos Lozano",
+      "winner": "rosa-lopez",
+      "finalists": [
+        "david-bisbal",
+        "david-bustamante",
+        "chenoa-ot-1",
+        "manu-tenorio",
+        "veronica-romero"
+      ],
+      "participants": [
+        {
+          "id": "nuria-fergo",
+          "role": "Concursante"
+        },
+        {
+          "id": "gisela-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "naim-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "alex-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "alejandro-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "natalia-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "javian-anton",
+          "role": "Concursante"
+        },
+        {
+          "id": "mireia-ot-1",
+          "role": "Concursante"
+        },
+        {
+          "id": "geno-ot-1",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Temporada 2",
+      "year": 2002,
+      "presenter": "Carlos Lozano",
+      "winner": "ainhoa-cantalapiedra",
+      "finalists": [
+        "manuel-carrasco",
+        "beth-ot-2",
+        "miguel-nandez",
+        "hugo-salazar",
+        "joan-tena"
+      ],
+      "participants": [
+        {
+          "id": "tony-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "nika-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "vega-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "danni-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "elena-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "tessa-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "marey-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristie-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "enrique-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "miguel-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "mai-meneses",
+          "role": "Concursante"
+        },
+        {
+          "id": "saray-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "marcos-ot-2",
+          "role": "Concursante"
+        },
+        {
+          "id": "jano-ot-2",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Temporada 3",
+      "year": 2003,
+      "presenter": "Carlos Lozano",
+      "winner": "vicente-segui",
+      "finalists": [
+        "ramon-del-castillo",
+        "miguel-cadenas",
+        "davinia-cuevas",
+        "mario-martinez",
+        "leticia-perez"
+      ],
+      "participants": [
+        {
+          "id": "noelia-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "beatriz-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "nur-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "borja-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "israel-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "sonia-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "miriam-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "jose-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "sonny-ot-3",
+          "role": "Concursante"
+        },
+        {
+          "id": "isabel-ot-3",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Temporada 4",
+      "year": 2005,
+      "presenter": "Jesús Vázquez",
+      "winner": "sergio-rivero",
+      "finalists": [
+        "soraya-arnelas",
+        "victor-estevez",
+        "idaira-ot-4",
+        "fran-dieli",
+        "edurne-ot-4"
+      ],
+      "participants": [
+        {
+          "id": "lidia-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "sandra-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "guille-b",
+          "role": "Concursante"
+        },
+        {
+          "id": "guille-m",
+          "role": "Concursante"
+        },
+        {
+          "id": "monica-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "dani-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "hector-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "jesus-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "trizia-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "janina-ot-4",
+          "role": "Concursante"
+        },
+        {
+          "id": "migue-ot-4",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Temporada 5",
+      "year": 2006,
+      "presenter": "Jesús Vázquez",
+      "winner": "lorena-gomez",
+      "finalists": [
+        "daniel-zueras",
+        "leo-segarra",
+        "saray-ramirez",
+        "moritz-weisskopf",
+        "jose-galisteo"
+      ],
+      "participants": [
+        {
+          "id": "ismael-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "eva-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "vanessa-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "mayte-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "mercedes-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristina-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "jose-antonio",
+          "role": "Concursante"
+        },
+        {
+          "id": "xavier-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "encarna-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "claritzell-ot-5",
+          "role": "Concursante"
+        },
+        {
+          "id": "melissa-ot-5",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Temporada 6",
+      "year": 2008,
+      "presenter": "Jesús Vázquez",
+      "winner": "virginia-maestro",
+      "finalists": [
+        "pablo-lopez",
+        "chipper-cooke",
+        "manu-castellano",
+        "sandra-criado",
+        "mimi-segura"
+      ],
+      "participants": [
+        {
+          "id": "ivan-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "noelia-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "anabel-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "tania-s",
+          "role": "Concursante"
+        },
+        {
+          "id": "reke-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "esther-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "tania-g",
+          "role": "Concursante"
+        },
+        {
+          "id": "ruben-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "paula-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "ros-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "patty-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "jorge-ot-6",
+          "role": "Concursante"
+        },
+        {
+          "id": "juanjo-ot-6",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Temporada 7",
+      "year": 2009,
+      "presenter": "Jesús Vázquez",
+      "winner": "mario-alvarez",
+      "finalists": [
+        "brenda-mau",
+        "jon-allende",
+        "angel-capel",
+        "patricia-navarro",
+        "sylvia-parejo"
+      ],
+      "participants": [
+        {
+          "id": "cristina-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "samuel-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "rafa-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "alba-lucia",
+          "role": "Concursante"
+        },
+        {
+          "id": "elias-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "diana-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "maxi-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "nazaret-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "pedro-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "guadiana-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "pua-ot-7",
+          "role": "Concursante"
+        },
+        {
+          "id": "patty-ot-7",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Temporada 8",
+      "year": 2011,
+      "presenter": "Pilar Rubio",
+      "winner": "nahuel-sachak",
+      "finalists": [
+        "alex-forriols",
+        "mario-jefferson",
+        "alexandra-masangkay",
+        "nicco-ot-8",
+        "josh-prada"
+      ],
+      "participants": [
+        {
+          "id": "roxio-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "naxxo-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "coraluna-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "nirah-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "moneiba-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "geno-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "enrique-ramil",
+          "role": "Concursante"
+        },
+        {
+          "id": "charlie-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "silvia-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "sira-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "alexxa-ot-8",
+          "role": "Concursante"
+        },
+        {
+          "id": "miguel-ot-8",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Temporada 9",
+      "year": 2017,
+      "presenter": "Roberto Leal",
+      "winner": "amaia-romero",
+      "finalists": [
+        "aitana-ocana",
+        "miriam-rodriguez",
+        "alfred-garcia",
+        "ana-guerra",
+        "agoney-hernandez"
+      ],
+      "participants": [
+        {
+          "id": "roi-ot-9",
+          "role": "Concursante"
+        },
+        {
+          "id": "nerea-rodriguez",
+          "role": "Concursante"
+        },
+        {
+          "id": "luis-cepeda",
+          "role": "Concursante"
+        },
+        {
+          "id": "raoul-vazquez",
+          "role": "Concursante"
+        },
+        {
+          "id": "mireya-ot-9",
+          "role": "Concursante"
+        },
+        {
+          "id": "ricky-ot-9",
+          "role": "Concursante"
+        },
+        {
+          "id": "marina-ot-9",
+          "role": "Concursante"
+        },
+        {
+          "id": "thalia-ot-9",
+          "role": "Concursante"
+        },
+        {
+          "id": "juan-antonio",
+          "role": "Concursante"
+        },
+        {
+          "id": "mimi-doblas",
+          "role": "Concursante"
+        },
+        {
+          "id": "joao-ot-9",
+          "role": "Concursante"
+        },
+        {
+          "id": "mario-ot-9",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Temporada 10",
+      "year": 2018,
+      "presenter": "Roberto Leal",
+      "winner": "famous-oberogo",
+      "finalists": [
+        "alba-reche",
+        "natalia-lacunza",
+        "sabela-ramil",
+        "julia-medina",
+        "miki-nunez"
+      ],
+      "participants": [
+        {
+          "id": "marta-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "marilia-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "carlos-right",
+          "role": "Concursante"
+        },
+        {
+          "id": "noelia-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "damion-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "dave-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "joan-garrido",
+          "role": "Concursante"
+        },
+        {
+          "id": "africa-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "alfonso-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "rodrigo-ot-10",
+          "role": "Concursante"
+        },
+        {
+          "id": "luis-ot-10",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Temporada 11",
+      "year": 2020,
+      "presenter": "Roberto Leal",
+      "winner": "nia-correia",
+      "finalists": [
+        "flavio-fernandez",
+        "eva-barreiro",
+        "anaju-calavia",
+        "hugo-cobo",
+        "maialen-gurbindo"
+      ],
+      "participants": [
+        {
+          "id": "samantha-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "bruno-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "gerard-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "jesus-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "rafa-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "anne-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "javy-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "nick-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "eli-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "ariadna-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "valery-ot-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "adri-ot-11",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Temporada 12",
+      "year": 2023,
+      "presenter": "Chenoa",
+      "winner": "naiara-moreno",
+      "finalists": [
+        "paul-thin",
+        "ruslana-panchyshyna",
+        "juanjo-bona",
+        "lucas-curotto",
+        "martin-urrutia"
+      ],
+      "participants": [
+        {
+          "id": "bea-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "chiara-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "alvaro-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "cris-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "violeta-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "alex-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "salma-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "denna-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "omar-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "suzete-ot-12",
+          "role": "Concursante"
+        },
+        {
+          "id": "lina-de-sol",
+          "role": "Concursante"
+        },
+        {
+          "id": "edu-ot-12",
+          "role": "Concursante"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Temporada 13",
+      "year": 2025,
+      "presenter": "Chenoa",
+      "winner": "cristina-lora",
+      "finalists": [
+        "olivia-bay",
+        "tinho-vaamonde",
+        "guille-toledano",
+        "claudia-arenas",
+        "guillo-rist"
+      ],
+      "participants": [
+        {
+          "id": "crespo-ot-13",
+          "role": "Concursante"
+        },
+        {
+          "id": "teyou-ot-13",
+          "role": "Concursante"
+        },
+        {
+          "id": "lucia-casani",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-cruz",
+          "role": "Concursante"
+        },
+        {
+          "id": "laura-munoz",
+          "role": "Concursante"
+        },
+        {
+          "id": "max-ot-13",
+          "role": "Concursante"
+        },
+        {
+          "id": "judit-ot-13",
+          "role": "Concursante"
+        },
+        {
+          "id": "carlos-ot-13",
+          "role": "Concursante"
+        },
+        {
+          "id": "salma-de-diego",
+          "role": "Concursante"
+        },
+        {
+          "id": "ivan-rojo",
+          "role": "Concursante"
+        },
+        {
+          "id": "quique-ot-13",
+          "role": "Concursante"
+        },
+        {
+          "id": "sam-ot-13",
+          "role": "Concursante"
+        }
+      ]
+    }
+  ],
+  "notes": "Muchos concursantes figuran solo con su nombre de pila, como en la fuente."
+}

@@ -1,0 +1,282 @@
+{
+  "id": "gran-hermano-duo",
+  "name": "Gran Hermano Dúo",
+  "short": "GH Dúo",
+  "tagline": "Famosos que entran por parejas",
+  "description": "Versión de Gran Hermano en la que famosos entran en la casa por parejas con algún vínculo entre sí: parejas, exparejas, familiares o amigos.",
+  "channel": "Telecinco",
+  "since": 2019,
+  "theme": "gh-duo",
+  "newsQuery": "\"GH Dúo\" OR \"Gran Hermano Dúo\"",
+  "sources": [
+    "https://es.wikipedia.org/wiki/Gran_Hermano_(Espa%C3%B1a)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_TV_series)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_1)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_2)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_3)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_4)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_5)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_6)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_7)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_14)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_15)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_16)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_17)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_18)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_19)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_8)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_9)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_10)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_11)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_12)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_(Spanish_season_13)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_3",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_4",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_Spain_(VIP_Season_5)",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_6",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_7",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_VIP_season_8",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo_2",
+    "https://en.wikipedia.org/wiki/Gran_Hermano_D%C3%BAo_3"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Gran Hermano Dúo 1",
+      "year": 2019,
+      "days": 94,
+      "presenter": "Jorge Javier Vázquez y Jordi González",
+      "winner": "maria-jesus-ruiz",
+      "dates": "8 ene – 11 abr 2019",
+      "finalists": [
+        "kiko-rivera"
+      ],
+      "participants": [
+        {
+          "id": "alejandro-albala",
+          "role": "Expulsado/a (día 93)",
+          "eliminatedOrder": 3
+        },
+        {
+          "id": "juan-miguel-martinez",
+          "role": "Expulsado/a (día 93)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "irene-rosales",
+          "role": "Expulsado/a (día 87)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "sofia-suescun",
+          "role": "Expulsado/a por segunda vez (día 80)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "carolina-sobe",
+          "role": "Expulsado/a (día 73)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "antonio-tejado",
+          "role": "Expulsado/a (día 66)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "ylenia-padilla",
+          "role": "Expulsado/a (día 59)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "raquel-martin",
+          "role": "Expulsado/a (día 52)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "candela-acevedo",
+          "role": "Expulsado/a por segunda vez (día 52)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "fede-rebecchi",
+          "role": "Expulsado/a por segunda vez (día 50)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "yoli-saez",
+          "role": "Expulsado/a (día 45)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "fortu",
+          "role": "Expulsado/a (día 38)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "julio-ruz",
+          "role": "Expulsado/a por la organización (día 27)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "yurena",
+          "role": "Expulsado/a (día 17)",
+          "eliminatedOrder": 16
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Gran Hermano Dúo 2",
+      "year": 2024,
+      "days": 53,
+      "presenter": "Marta Flich",
+      "winner": "lucia-sanchez",
+      "dates": "11 ene – 3 mar 2024",
+      "finalists": [
+        "asraf-beno",
+        "manuel-gonzalez"
+      ],
+      "participants": [
+        {
+          "id": "elena-rodriguez",
+          "role": "Expulsado/a (día 48)",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "mayka-rivera",
+          "role": "Expulsado/a (día 46)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "marta-lopez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "keroseno",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ana-maria-aldon",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "ivana-icardi",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "efren-reyero",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "marc-florensa",
+          "role": "Expulsado/a (día 22)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "finito",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "luca-onestini",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 13
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Gran Hermano Dúo 3",
+      "year": 2025,
+      "days": 62,
+      "presenter": "Carlos Sobera",
+      "winner": "marieta-diaz",
+      "dates": "2 ene – 4 mar 2025",
+      "finalists": [
+        "maica-benedicto",
+        "oscar-landa"
+      ],
+      "participants": [
+        {
+          "id": "sergio-aguilera",
+          "role": "4.º puesto",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "romina-malaspina",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "jose-maria-almoguera",
+          "role": "Expulsado/a (día 57)",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "alex-ghita",
+          "role": "Expulsado/a (día 55)",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "miguel-frigenti",
+          "role": "Expulsado/a (día 50)",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "maria-sanchez",
+          "role": "Expulsado/a (día 43)",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "daniel-santos",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "manuel-cortes",
+          "role": "Expulsado/a (día 36)",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "jeimy-baez",
+          "role": "Expulsado/a (día 29)",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "javier-mouzo",
+          "role": "Abandonó (día 29)",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "ana-herminia-illas",
+          "role": "Expulsado/a (día 15)",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "vanessa-bouza",
+          "role": "Expulsado/a (día 8)",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "aurah-ruiz",
+          "role": "Expulsado/a por la organización (día 8)",
+          "eliminatedOrder": 16
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Gran Hermano Dúo 4",
+      "year": 2026,
+      "days": 55,
+      "presenter": "Jorge Javier Vázquez",
+      "winner": "carlos-lozano"
+    }
+  ]
+}

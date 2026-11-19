@@ -1,0 +1,274 @@
+{
+  "id": "tu-cara-me-suena",
+  "name": "Tu cara me suena",
+  "short": "Tu cara me suena",
+  "tagline": "Famosos que imitan a sus ídolos musicales",
+  "description": "Concurso de imitaciones en el que un grupo de famosos se transforma cada semana en un artista distinto y un jurado puntúa sus actuaciones. Gana quien acumula más puntos y vence en la final.",
+  "channel": "Antena 3",
+  "since": 2011,
+  "theme": "tcms",
+  "newsQuery": "\"Tu cara me suena\" Antena 3",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Tu_cara_me_suena_(Spanish_TV_series)"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Temporada 1",
+      "year": 2011,
+      "presenter": "Manel Fuentes",
+      "winner": "angy-fernandez",
+      "finalists": [
+        "santiago-segura",
+        "julio-iglesias-jr",
+        "sylvia-pantoja",
+        "toni-salazar",
+        "josema-yuste",
+        "carolina-ferre",
+        "francisco"
+      ],
+      "participants": []
+    },
+    {
+      "number": 2,
+      "title": "Temporada 2",
+      "year": 2012,
+      "presenter": "Manel Fuentes",
+      "winner": "roko",
+      "finalists": [
+        "daniel-diges",
+        "arturo-valls",
+        "maria-del-monte",
+        "santiago-segura",
+        "anna-simon",
+        "angeles-munoz",
+        "javier-herrero"
+      ],
+      "participants": []
+    },
+    {
+      "number": 3,
+      "title": "Temporada 3",
+      "year": 2013,
+      "presenter": "Manel Fuentes",
+      "winner": "edurne",
+      "finalists": [
+        "melody",
+        "xuso-jones",
+        "llum-barrera",
+        "florentino-fernandez",
+        "los-chunguitos",
+        "santi-rodriguez",
+        "jose-manuel-soto",
+        "angela-carrasco"
+      ],
+      "participants": []
+    },
+    {
+      "number": 4,
+      "title": "Temporada 4",
+      "year": 2015,
+      "presenter": "Manel Fuentes",
+      "winner": "ruth-lorenzo",
+      "finalists": [
+        "edu-soto",
+        "pablo-puyol",
+        "ana-morgade",
+        "adrian-rodriguez",
+        "falete",
+        "silvia-abril",
+        "el-sevilla",
+        "vicky-larraz"
+      ],
+      "participants": []
+    },
+    {
+      "number": 5,
+      "title": "Temporada 5",
+      "year": 2016,
+      "presenter": "Manel Fuentes",
+      "winner": "blas-canto",
+      "finalists": [
+        "rosa-lopez",
+        "lorena-gomez",
+        "beatriz-luengo",
+        "canco-rodriguez",
+        "esther-arroyo",
+        "juan-munoz",
+        "david-guapo",
+        "yolanda-ramos"
+      ],
+      "participants": []
+    },
+    {
+      "number": 6,
+      "title": "Temporada 6",
+      "year": 2017,
+      "presenter": "Manel Fuentes",
+      "winner": "miquel-fernandez",
+      "finalists": [
+        "lucia-gil",
+        "fran-dieli",
+        "diana-navarro",
+        "raul-perez",
+        "pepa-aniorte",
+        "lucia-jimenez",
+        "la-terremoto-de-alcorcon",
+        "david-amor"
+      ],
+      "participants": []
+    },
+    {
+      "number": 7,
+      "title": "Temporada 7",
+      "year": 2018,
+      "presenter": "Manel Fuentes",
+      "winner": "maria-villalon",
+      "finalists": [
+        "carlos-baute",
+        "soraya-arnelas",
+        "mimi-doblas",
+        "jordi-coll",
+        "brays-efe",
+        "anabel-alonso",
+        "manu-sanchez",
+        "jose-corbacho"
+      ],
+      "participants": []
+    },
+    {
+      "number": 8,
+      "title": "Temporada 8",
+      "year": 2020,
+      "presenter": "Manel Fuentes",
+      "winner": "jorge-gonzalez",
+      "finalists": [
+        "nerea-rodriguez",
+        "cristina-ramos",
+        "gemeliers",
+        "rocio-madrid",
+        "maria-isabel",
+        "belinda-washington",
+        "mario-vaquerizo",
+        "el-monaguillo"
+      ],
+      "participants": []
+    },
+    {
+      "number": 9,
+      "title": "Temporada 9",
+      "year": 2021,
+      "presenter": "Manel Fuentes",
+      "winner": "agoney-hernandez",
+      "finalists": [
+        "nia-correia",
+        "maria-pelae",
+        "eva-soriano",
+        "rasel",
+        "loles-leon",
+        "lydia-bosch",
+        "david-fernandez",
+        "los-morancos"
+      ],
+      "participants": []
+    },
+    {
+      "number": 10,
+      "title": "Temporada 10",
+      "year": 2023,
+      "presenter": "Manel Fuentes",
+      "winner": "miriam-rodriguez",
+      "finalists": [
+        "andrea-guasch",
+        "merche",
+        "jadel",
+        "alfred-garcia",
+        "anne-igartiburu",
+        "josie",
+        "susi-caramelo",
+        "agustin-jimenez"
+      ],
+      "participants": []
+    },
+    {
+      "number": 11,
+      "title": "Temporada 11",
+      "year": 2024,
+      "presenter": "Manel Fuentes",
+      "winner": "david-bustamante",
+      "finalists": [
+        "raoul-vazquez",
+        "julia-medina",
+        "supremme-de-luxe",
+        "conchita",
+        "raquel-sanchez-silva",
+        "juanra-bonet",
+        "miguel-lago",
+        "valeria-ros"
+      ],
+      "participants": []
+    },
+    {
+      "number": 12,
+      "title": "Temporada 12",
+      "year": 2025,
+      "presenter": "Manel Fuentes",
+      "winner": "melani-garcia",
+      "finalists": [
+        "esperansa-grasia",
+        "mikel-herzog-jr",
+        "ana-guerra",
+        "gisela",
+        "bertin-osborne",
+        "yenesi",
+        "manu-baqueiro",
+        "goyo-jimenez"
+      ],
+      "participants": []
+    },
+    {
+      "number": 13,
+      "title": "Temporada 13",
+      "year": 2026,
+      "presenter": "Manel Fuentes",
+      "participants": [
+        {
+          "id": "j-kbello",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristina-castano",
+          "role": "Concursante"
+        },
+        {
+          "id": "sole-gimenez",
+          "role": "Concursante"
+        },
+        {
+          "id": "anibal-gomez",
+          "role": "Concursante"
+        },
+        {
+          "id": "jesulin-de-ubrique",
+          "role": "Concursante"
+        },
+        {
+          "id": "paula-koops",
+          "role": "Concursante"
+        },
+        {
+          "id": "leonor-lavado",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-parrado",
+          "role": "Concursante"
+        },
+        {
+          "id": "martin-savi",
+          "role": "Concursante"
+        }
+      ]
+    }
+  ]
+}
