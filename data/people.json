@@ -2844,13 +2844,15 @@
       "name": "Nataly Núñez",
       "socials": {
         "instagram": "https://www.instagram.com/natalynr29/"
-      }
+      },
+      "origin": "Barcelona"
     },
     "paula-colubi": {
       "name": "Paula Colubi",
       "socials": {
         "instagram": "https://www.instagram.com/paulacolubi/"
-      }
+      },
+      "origin": "Madrid"
     },
     "javi-soltero-isla-11": {
       "name": "Javi «Batman»",
@@ -2895,13 +2897,489 @@
       }
     },
     "borja-gomez": {
-      "name": "Borja Gómez"
+      "name": "Borja Gómez",
+      "origin": "Estepona"
     },
     "fran-garcia-isla-11": {
       "name": "Fran García",
       "socials": {
         "instagram": "https://www.instagram.com/frangarezz/"
       }
+    },
+    "ainhoa-soltera-isla-10": {
+      "name": "Ainhoa",
+      "origin": "Córdoba"
+    },
+    "andrea-soltera-isla-10": {
+      "name": "Andrea",
+      "origin": "Lleida"
+    },
+    "fatima-soltera-isla-10": {
+      "name": "Fátima",
+      "origin": "Mojácar (Almería)"
+    },
+    "laura-soltera-isla-10": {
+      "name": "Laura",
+      "origin": "Granada"
+    },
+    "maria-soltera-isla-10": {
+      "name": "María",
+      "origin": "Granada"
+    },
+    "jokebed-soltera-isla-10": {
+      "name": "Jokebed",
+      "origin": "Figueres (Girona)"
+    },
+    "lucia-soltera-isla-10": {
+      "name": "Lucía",
+      "origin": "Málaga"
+    },
+    "shalim-soltera-isla-10": {
+      "name": "Shalim",
+      "origin": "Gibraltar"
+    },
+    "claudia-sanchez-isla": {
+      "name": "Claudia Sánchez",
+      "origin": "Málaga"
+    },
+    "joan-soltero-isla-10": {
+      "name": "Joan",
+      "origin": "Tarragona"
+    },
+    "charly-soltero-isla-10": {
+      "name": "Charly",
+      "origin": "Benidorm (Alicante)"
+    },
+    "cristian-soltero-isla-10": {
+      "name": "Cristian",
+      "origin": "Málaga"
+    },
+    "fran-soltero-isla-10": {
+      "name": "Fran",
+      "origin": "Valencia"
+    },
+    "luis-soltero-isla-10": {
+      "name": "Luis",
+      "origin": "Gran Canaria"
+    },
+    "sergio-soltero-isla-10": {
+      "name": "Sergio",
+      "origin": "Málaga"
+    },
+    "carlos-soltero-isla-10": {
+      "name": "Carlos",
+      "origin": "Madrid"
+    },
+    "amar-soltero-isla-10": {
+      "name": "Amar",
+      "origin": "Cáceres"
+    },
+    "oscar-ruiz-isla": {
+      "name": "Óscar Ruiz",
+      "origin": "Málaga"
+    },
+    "alba-soltera-isla-9": {
+      "name": "Alba",
+      "origin": "Málaga"
+    },
+    "cristina-soltera-isla-9": {
+      "name": "Cristina",
+      "origin": "Las Palmas"
+    },
+    "estefania-soltera-isla-9": {
+      "name": "Estefanía",
+      "origin": "Cartagena (Murcia)"
+    },
+    "mara-soltera-isla-9": {
+      "name": "Mara",
+      "origin": "Alicante"
+    },
+    "noelia-soltera-isla-9": {
+      "name": "Noelia",
+      "origin": "Ronda (Málaga)"
+    },
+    "olatz-soltera-isla-9": {
+      "name": "Olatz",
+      "origin": "San Sebastián"
+    },
+    "soraya-soltera-isla-9": {
+      "name": "Soraya",
+      "origin": "Madrid"
+    },
+    "vita-soltera-isla-9": {
+      "name": "Vita",
+      "origin": "Girona"
+    },
+    "aitor-soltero-isla-9": {
+      "name": "Aitor",
+      "origin": "Barcelona"
+    },
+    "andrea-calush": {
+      "name": "Andrea Calush",
+      "origin": "Fuerteventura"
+    },
+    "andrea-soltero-isla-9": {
+      "name": "Andrea",
+      "origin": "Italia"
+    },
+    "borja-soltero-isla-9": {
+      "name": "Borja",
+      "origin": "Tenerife"
+    },
+    "dairon-soltero-isla-9": {
+      "name": "Dairon",
+      "origin": "Benidorm (Alicante)"
+    },
+    "inaki-soltero-isla-9": {
+      "name": "Iñaki",
+      "origin": "Barcelona"
+    },
+    "juanjo-soltero-isla-9": {
+      "name": "Juanjo",
+      "origin": "Alicante"
+    },
+    "melchor-soltero-isla-9": {
+      "name": "Melchor",
+      "origin": "Valencia"
+    },
+    "kevin-soltero-isla-8": {
+      "name": "Kevin",
+      "origin": "Las Palmas de Gran Canaria"
+    },
+    "jesus-soltero-isla-8": {
+      "name": "Jesús",
+      "origin": "Córdoba"
+    },
+    "david-montoya-isla-8": {
+      "name": "David Montoya",
+      "origin": "Alicante"
+    },
+    "erika-soltera-isla-8": {
+      "name": "Erika",
+      "origin": "Sevilla"
+    },
+    "guille-soltero-isla-8": {
+      "name": "Guille",
+      "origin": "Barcelona"
+    },
+    "paula-soltera-isla-8": {
+      "name": "Paula",
+      "origin": "Granada"
+    },
+    "fran-soltero-isla-8": {
+      "name": "Fran",
+      "origin": "Almería"
+    },
+    "paloma-soltera-isla-8": {
+      "name": "Paloma",
+      "origin": "Chiclana de la Frontera"
+    },
+    "gerard-soltero-isla-8": {
+      "name": "Gerard",
+      "origin": "Barcelona"
+    },
+    "miriam-soltera-isla-8": {
+      "name": "Miriam",
+      "origin": "Alicante"
+    },
+    "raquel-soltera-isla-8": {
+      "name": "Raquel",
+      "origin": "Ibiza"
+    },
+    "sofia-soltera-isla-8": {
+      "name": "Sofía",
+      "origin": "Tenerife"
+    },
+    "aida-soltera-isla-8": {
+      "name": "Aída",
+      "origin": "Alicante"
+    },
+    "jorge-zanetti": {
+      "name": "Jorge Zanetti",
+      "origin": "Madrid"
+    },
+    "jorge-dome-isla-7": {
+      "name": "Jorge «Dome»",
+      "origin": "Alicante"
+    },
+    "kristel-soltera-isla-7": {
+      "name": "Kristel",
+      "origin": "Perú"
+    },
+    "jennifer-soltera-isla-7": {
+      "name": "Jennifer",
+      "origin": "Valencia"
+    },
+    "joan-miquel-isla-7": {
+      "name": "Joan Miquel",
+      "origin": "Mallorca"
+    },
+    "sergio-soltero-isla-7": {
+      "name": "Sergio",
+      "origin": "Granada"
+    },
+    "gabriela-soltera-isla-7": {
+      "name": "Gabriela",
+      "origin": "Murcia"
+    },
+    "monica-soltera-isla-7": {
+      "name": "Mónica",
+      "origin": "Almería"
+    },
+    "ricky-soltero-isla-7": {
+      "name": "Ricky",
+      "origin": "Milán (Italia)"
+    },
+    "miguel-soltero-isla-7": {
+      "name": "Miguel",
+      "origin": "Córdoba"
+    },
+    "eva-soltera-isla-7": {
+      "name": "Eva",
+      "origin": "Madrid"
+    },
+    "tamara-soltera-isla-7": {
+      "name": "Tamara"
+    },
+    "julen-soltero-isla-7": {
+      "name": "Julen",
+      "origin": "Bilbao"
+    },
+    "dylan-soltero-isla-7": {
+      "name": "Dylan",
+      "origin": "Madrid"
+    },
+    "guzman-soltero-isla-7": {
+      "name": "Guzmán",
+      "origin": "Zamora"
+    },
+    "zaira-soltera-isla-7": {
+      "name": "Zaira",
+      "origin": "Valencia"
+    },
+    "andrea-soltera-isla-7": {
+      "name": "Andrea",
+      "origin": "Girona"
+    },
+    "andrea-palas": {
+      "name": "Andrea Palas",
+      "origin": "Asturias"
+    },
+    "miguel-soltero-isla-6": {
+      "name": "Miguel",
+      "origin": "Málaga"
+    },
+    "yaiza-soltera-isla-6": {
+      "name": "Yaiza",
+      "origin": "Málaga"
+    },
+    "maria-soltera-isla-6": {
+      "name": "María",
+      "origin": "Málaga"
+    },
+    "yuismel-soltero-isla-6": {
+      "name": "Yuismel",
+      "origin": "Cuba"
+    },
+    "irene-soltera-isla-6": {
+      "name": "Irene",
+      "origin": "Madrid"
+    },
+    "rhayang-soltero-isla-6": {
+      "name": "Rhayang",
+      "origin": "Brasil"
+    },
+    "jennifer-soltera-isla-6": {
+      "name": "Jennifer",
+      "origin": "Fuerteventura"
+    },
+    "fran-soltero-isla-6": {
+      "name": "Fran",
+      "origin": "Madrid"
+    },
+    "keyla-soltera-isla-6": {
+      "name": "Keyla",
+      "origin": "Las Palmas"
+    },
+    "cristian-soltero-isla-6": {
+      "name": "Cristian",
+      "origin": "Madrid"
+    },
+    "vicky-soltera-isla-6": {
+      "name": "Vicky",
+      "origin": "Sevilla"
+    },
+    "victoria-soltera-isla-6": {
+      "name": "Victoria",
+      "origin": "Sevilla"
+    },
+    "manuel-soltero-isla-6": {
+      "name": "Manuel"
+    },
+    "belen-soltera-isla-6": {
+      "name": "Belén",
+      "origin": "Castellón"
+    },
+    "samuel-soltero-isla-6": {
+      "name": "Samuel",
+      "origin": "Soria"
+    },
+    "aldana-soltera-isla-6": {
+      "name": "Aldana",
+      "origin": "Madrid"
+    },
+    "riccardo-soltero-isla-6": {
+      "name": "Riccardo",
+      "origin": "Ibiza"
+    },
+    "sabela-soltera-isla-4": {
+      "name": "Sabela",
+      "origin": "Vigo"
+    },
+    "vanessa-soltera-isla-4": {
+      "name": "Vanessa",
+      "origin": "Valencia"
+    },
+    "czarina-soltera-isla-4": {
+      "name": "Czarina",
+      "origin": "Cádiz"
+    },
+    "miriam-soltera-isla-4": {
+      "name": "Miriam",
+      "origin": "Barcelona"
+    },
+    "sheyla-soltera-isla-4": {
+      "name": "Sheyla",
+      "origin": "Madrid"
+    },
+    "carolina-soltera-isla-4": {
+      "name": "Carolina",
+      "origin": "Madrid"
+    },
+    "rosana-soltera-isla-4": {
+      "name": "Rosana",
+      "origin": "Mallorca"
+    },
+    "claudia-soltera-isla-4": {
+      "name": "Claudia",
+      "origin": "Barcelona"
+    },
+    "diriany-soltera-isla-4": {
+      "name": "Diriany",
+      "origin": "Madrid"
+    },
+    "carmen-soltera-isla-4": {
+      "name": "Carmen",
+      "origin": "Cádiz"
+    },
+    "miguel-soltero-isla-4": {
+      "name": "Miguel",
+      "origin": "Málaga"
+    },
+    "rubo-soltero-isla-4": {
+      "name": "Rubo",
+      "origin": "Valladolid"
+    },
+    "stiven-soltero-isla-4": {
+      "name": "Stiven",
+      "origin": "Murcia"
+    },
+    "sergio-soltero-isla-4": {
+      "name": "Sergio",
+      "origin": "Alicante"
+    },
+    "alberto-soltero-isla-4": {
+      "name": "Alberto",
+      "origin": "Mallorca"
+    },
+    "victor-soltero-isla-4": {
+      "name": "Víctor",
+      "origin": "Atlanta"
+    },
+    "ivan-soltero-isla-4": {
+      "name": "Iván",
+      "origin": "Ibiza"
+    },
+    "alvaro-soltero-isla-4": {
+      "name": "Álvaro",
+      "origin": "Barcelona"
+    },
+    "suso-soltero-isla-4": {
+      "name": "Suso",
+      "origin": "Las Palmas"
+    },
+    "sevi-soltero-isla-4": {
+      "name": "Sevi",
+      "origin": "Salamanca"
+    },
+    "kevin-van-krimpen": {
+      "name": "Kevin Van Krimpen",
+      "origin": "Ámsterdam"
+    },
+    "beltran-san-jorge": {
+      "name": "Beltrán San Jorge",
+      "origin": "Alicante"
+    },
+    "edu-neira": {
+      "name": "Edu Neira",
+      "origin": "Comunidad de Madrid"
+    },
+    "jorge-javier-diaz": {
+      "name": "Jorge Javier Díaz"
+    },
+    "dani-garcia-isla-2": {
+      "name": "Dani García",
+      "origin": "Alicante"
+    },
+    "matias-soltero-isla-2": {
+      "name": "Matías",
+      "origin": "Mallorca"
+    },
+    "david-castello": {
+      "name": "David Castelló",
+      "origin": "Alicante"
+    },
+    "cristian-del-valle": {
+      "name": "Cristian del Valle",
+      "origin": "Castellón"
+    },
+    "guillermo-el-largo-isla-2": {
+      "name": "Guillermo «El Largo»",
+      "origin": "Barcelona"
+    },
+    "sandra-pica": {
+      "name": "Sandra Pica",
+      "origin": "Cataluña"
+    },
+    "elisa-garcia-isla-2": {
+      "name": "Elisa García",
+      "origin": "Cantabria"
+    },
+    "lia-roman": {
+      "name": "Lía Román",
+      "origin": "Málaga"
+    },
+    "yun-soltera-isla-2": {
+      "name": "Yun"
+    },
+    "fatima-rull": {
+      "name": "Fátima Rull",
+      "origin": "Ibiza"
+    },
+    "liseth-calero": {
+      "name": "Liseth Calero",
+      "origin": "Lanzarote"
+    },
+    "luzma-cabello": {
+      "name": "Luzma Cabello",
+      "origin": "Málaga"
+    },
+    "patricia-perez-isla-2": {
+      "name": "Patricia Pérez"
+    },
+    "dorothy-collado": {
+      "name": "Dorothy Collado",
+      "origin": "Barcelona"
     }
   }
 }

@@ -141,7 +141,90 @@
           "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
         }
       ],
-      "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros."
+      "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros.",
+      "singles": [
+        {
+          "id": "oscar-ruiz-isla",
+          "role": "Soltero VIP"
+        },
+        {
+          "id": "kevin-van-krimpen",
+          "role": "Soltero"
+        },
+        {
+          "id": "beltran-san-jorge",
+          "role": "Soltero"
+        },
+        {
+          "id": "edu-neira",
+          "role": "Soltero"
+        },
+        {
+          "id": "jorge-javier-diaz",
+          "role": "Soltero"
+        },
+        {
+          "id": "dani-garcia-isla-2",
+          "role": "Soltero"
+        },
+        {
+          "id": "matias-soltero-isla-2",
+          "role": "Soltero"
+        },
+        {
+          "id": "david-castello",
+          "role": "Soltero"
+        },
+        {
+          "id": "cristian-del-valle",
+          "role": "Soltero"
+        },
+        {
+          "id": "guillermo-el-largo-isla-2",
+          "role": "Soltero"
+        },
+        {
+          "id": "andrea-gasca",
+          "role": "Soltera VIP"
+        },
+        {
+          "id": "sandra-pica",
+          "role": "Soltera"
+        },
+        {
+          "id": "elisa-garcia-isla-2",
+          "role": "Soltera"
+        },
+        {
+          "id": "lia-roman",
+          "role": "Soltera"
+        },
+        {
+          "id": "yun-soltera-isla-2",
+          "role": "Soltera"
+        },
+        {
+          "id": "fatima-rull",
+          "role": "Soltera"
+        },
+        {
+          "id": "liseth-calero",
+          "role": "Soltera"
+        },
+        {
+          "id": "luzma-cabello",
+          "role": "Soltera"
+        },
+        {
+          "id": "patricia-perez-isla-2",
+          "role": "Soltera"
+        },
+        {
+          "id": "dorothy-collado",
+          "role": "Soltera"
+        }
+      ],
+      "singlesSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34107359/solteros-isla-tentaciones-segunda-edicion/"
     },
     {
       "number": 3,
@@ -251,7 +334,90 @@
           "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
         }
       ],
-      "notes": "Resultado de algunas parejas pendiente de verificar."
+      "notes": "Resultado de algunas parejas pendiente de verificar.",
+      "singles": [
+        {
+          "id": "sabela-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "vanessa-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "czarina-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "miriam-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "sheyla-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "carolina-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "rosana-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "claudia-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "diriany-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "carmen-soltera-isla-4",
+          "role": "Soltera"
+        },
+        {
+          "id": "miguel-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "rubo-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "stiven-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "sergio-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "alberto-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "victor-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "ivan-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "alvaro-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "suso-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "sevi-soltero-isla-4",
+          "role": "Soltero"
+        }
+      ],
+      "singlesSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
     },
     {
       "number": 5,
@@ -368,7 +534,78 @@
           "background": "Llevaban dos años juntos y se conocieron por Instagram. Se consideraban una pareja ejemplar.",
           "backgroundSource": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-6-descubre-cinco-parejas-modelos-futbolista_1_9859632.html"
         }
-      ]
+      ],
+      "singles": [
+        {
+          "id": "miguel-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "yaiza-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "maria-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "yuismel-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "irene-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "rhayang-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "jennifer-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "fran-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "keyla-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "cristian-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "vicky-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "victoria-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "manuel-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "belen-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "samuel-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "aldana-soltera-isla-6",
+          "role": "Soltera"
+        },
+        {
+          "id": "riccardo-soltero-isla-6",
+          "role": "Soltero"
+        }
+      ],
+      "singlesSource": "https://www.espinof.com/listas/isla-tentaciones-6-conocemos-a-solteros-solteras-nueva-edicion-primera-tentadora-trans-dos-amantes-trios-todos-encantados-conocerse/amp"
     },
     {
       "number": 7,
@@ -439,7 +676,86 @@
           "background": "Son de Málaga y llevaban dos años juntos. Él empezó la relación poco después de dejar a su anterior pareja.",
           "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/"
         }
-      ]
+      ],
+      "singles": [
+        {
+          "id": "jorge-zanetti",
+          "role": "Soltero"
+        },
+        {
+          "id": "jorge-dome-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "kristel-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "jennifer-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "paula-colubi",
+          "role": "Soltera"
+        },
+        {
+          "id": "joan-miquel-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "sergio-soltero-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "gabriela-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "monica-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "ricky-soltero-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "miguel-soltero-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "eva-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "tamara-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "julen-soltero-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "dylan-soltero-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "guzman-soltero-isla-7",
+          "role": "Soltero"
+        },
+        {
+          "id": "zaira-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "andrea-soltera-isla-7",
+          "role": "Soltera"
+        },
+        {
+          "id": "andrea-palas",
+          "role": "Soltera"
+        }
+      ],
+      "singlesSource": "https://www.espinof.com/listas/isla-tentaciones-7-estos-solteros-solteras-que-vienen-a-tentar-a-parejas-nueva-edicion-reality"
     },
     {
       "number": 8,
@@ -497,7 +813,78 @@
           "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8"
         }
       ],
-      "notes": "Montoya volvió a la isla en la 10.ª edición como invitado. Gabriella Barbu y Manuel González (3.ª edición) se reincorporaron como solteros."
+      "notes": "Montoya volvió a la isla en la 10.ª edición como invitado. Gabriella Barbu y Manuel González (3.ª edición) se reincorporaron como solteros.",
+      "singles": [
+        {
+          "id": "kevin-soltero-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "claudia-sanchez-isla",
+          "role": "Soltera"
+        },
+        {
+          "id": "jesus-soltero-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "nataly-nunez",
+          "role": "Soltera"
+        },
+        {
+          "id": "david-montoya-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "erika-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "mayeli-diaz",
+          "role": "Soltera"
+        },
+        {
+          "id": "guille-soltero-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "paula-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "fran-soltero-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "paloma-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "gerard-soltero-isla-8",
+          "role": "Soltero"
+        },
+        {
+          "id": "miriam-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "borja-gomez",
+          "role": "Soltero"
+        },
+        {
+          "id": "raquel-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "sofia-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "aida-soltera-isla-8",
+          "role": "Soltera"
+        }
+      ],
+      "singlesSource": "https://www.espinof.com/listas/telecinco-se-adelanta-al-estreno-isla-tentaciones-revela-a-tentadores-tentadoras-su-nueva-temporada"
     },
     {
       "number": 9,
@@ -565,7 +952,74 @@
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         }
       ],
-      "notes": "Resultado de algunas parejas pendiente de verificar."
+      "notes": "Resultado de algunas parejas pendiente de verificar.",
+      "singles": [
+        {
+          "id": "alba-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "cristina-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "estefania-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "mara-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "noelia-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "olatz-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "soraya-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "vita-soltera-isla-9",
+          "role": "Soltera"
+        },
+        {
+          "id": "aitor-soltero-isla-9",
+          "role": "Soltero"
+        },
+        {
+          "id": "andrea-calush",
+          "role": "Soltero"
+        },
+        {
+          "id": "andrea-soltero-isla-9",
+          "role": "Soltero"
+        },
+        {
+          "id": "borja-soltero-isla-9",
+          "role": "Soltero"
+        },
+        {
+          "id": "dairon-soltero-isla-9",
+          "role": "Soltero"
+        },
+        {
+          "id": "inaki-soltero-isla-9",
+          "role": "Soltero"
+        },
+        {
+          "id": "juanjo-soltero-isla-9",
+          "role": "Soltero"
+        },
+        {
+          "id": "melchor-soltero-isla-9",
+          "role": "Soltero"
+        }
+      ],
+      "singlesSource": "https://www.elindependiente.com/series-y-television/2025/10/22/isla-tentaciones-solteros-solteras-edicion/"
     },
     {
       "number": 10,
@@ -632,7 +1086,90 @@
           "background": "Son de Ibiza y llevaban año y medio juntos.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html"
         }
-      ]
+      ],
+      "singles": [
+        {
+          "id": "ainhoa-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "andrea-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "fatima-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "laura-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "maria-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "jokebed-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "lucia-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "shalim-soltera-isla-10",
+          "role": "Soltera"
+        },
+        {
+          "id": "nieves-tristan",
+          "role": "Soltera VIP"
+        },
+        {
+          "id": "claudia-sanchez-isla",
+          "role": "Soltera VIP"
+        },
+        {
+          "id": "joan-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "charly-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "cristian-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "fran-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "luis-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "sergio-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "carlos-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "amar-soltero-isla-10",
+          "role": "Soltero"
+        },
+        {
+          "id": "david-vaquero",
+          "role": "Soltero VIP"
+        },
+        {
+          "id": "oscar-ruiz-isla",
+          "role": "Soltero VIP"
+        }
+      ],
+      "singlesSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html"
     },
     {
       "number": 11,

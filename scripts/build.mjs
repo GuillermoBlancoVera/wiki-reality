@@ -330,7 +330,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
     .map((p) => `<li>${personLink(p.id)}${p.role ? ` <span class="person-sub">${esc(p.role)}</span>` : ''}</li>`).join('')}</ol>
 </section>` : '';
     const singlesBlock = (re, title) => { const l = (e.singles ?? []).filter((x) => re.test(x.role)); return l.length ? `<h3>${title}</h3><div class="grid-people">${l.map((x) => personCard(x.id, /VIP/.test(x.role) ? 'VIP' : '')).join('')}</div>` : ''; };
-    const singles = e.singles?.length ? `<section class="block"><h2>Tentadoras y tentadores</h2>${singlesBlock(/^Soltera/, 'Solteras')}${singlesBlock(/^Soltero/, 'Solteros')}</section>` : '';
+    const singles = e.singles?.length ? `<section class="block"><h2>Tentadoras y tentadores</h2>${singlesBlock(/^Soltera/, 'Solteras')}${singlesBlock(/^Soltero/, 'Solteros')}${srcLink(e.singlesSource)}</section>` : '';
     page(`${r.id}/${editionSlug(e)}/`, layout({
       title: `${e.title} · ${r.name}`, theme: r.theme, path: `${r.id}/${editionSlug(e)}/`,
       description: `${r.name} ${e.title} (${e.year}): ${e.winner ? `ganador/a ${person(e.winner).name}, ` : ''}${e.couples?.length ? 'parejas, ' : ''}concursantes y datos de la edición.`,
