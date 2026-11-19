@@ -295,13 +295,19 @@
       "name": "Pedro García Aguado"
     },
     "ruben-sanchez": {
-      "name": "Rubén Sánchez"
+      "name": "Rubén Sánchez",
+      "socials": {
+        "instagram": "https://www.instagram.com/rubo.sanchez/"
+      }
     },
     "ismael-isla-1": {
       "name": "Ismael"
     },
     "alessandro-livi": {
-      "name": "Alessandro Livi"
+      "name": "Alessandro Livi",
+      "socials": {
+        "instagram": "https://www.instagram.com/aleslivi/"
+      }
     },
     "pablo-moya": {
       "name": "Pablo Moya",
@@ -316,10 +322,16 @@
       }
     },
     "marta-penate": {
-      "name": "Marta Peñate"
+      "name": "Marta Peñate",
+      "socials": {
+        "instagram": "https://www.instagram.com/martapenateamador/"
+      }
     },
     "lester-duque": {
-      "name": "Lester Duque"
+      "name": "Lester Duque",
+      "socials": {
+        "instagram": "https://www.instagram.com/lester_dc/"
+      }
     },
     "claudia-isla-3": {
       "name": "Claudia"
@@ -349,11 +361,17 @@
       "name": "Diego"
     },
     "lucia-sanchez": {
-      "name": "Lucía Sánchez"
+      "name": "Lucía Sánchez",
+      "socials": {
+        "instagram": "https://www.instagram.com/luciasar94/"
+      }
     },
     "manuel-gonzalez": {
       "name": "Manuel González",
-      "socialsAuto": false
+      "socialsAuto": false,
+      "socials": {
+        "instagram": "https://www.instagram.com/manugrodri/"
+      }
     },
     "sandra-ferriz": {
       "name": "Sandra Férriz",
@@ -362,7 +380,10 @@
       }
     },
     "zoe-mba": {
-      "name": "Zoe Mba"
+      "name": "Zoe Mba",
+      "socials": {
+        "instagram": "https://www.instagram.com/zoembayona/"
+      }
     },
     "josue-bernal": {
       "name": "Josué Bernal",
@@ -377,7 +398,7 @@
       }
     },
     "tania-isla-5": {
-      "name": "Tania"
+      "name": "Tania Déniz"
     },
     "ana-isla-5": {
       "name": "Ana"
@@ -386,7 +407,10 @@
       "name": "Cristian"
     },
     "laura-isla-5": {
-      "name": "Laura"
+      "name": "Laura Casabela",
+      "socials": {
+        "instagram": "https://www.instagram.com/lauracasabela/"
+      }
     },
     "alex-girona": {
       "name": "Álex Girona",
@@ -657,7 +681,10 @@
       }
     },
     "almudena-porras": {
-      "name": "Almudena Porras"
+      "name": "Almudena Porras",
+      "socials": {
+        "instagram": "https://www.instagram.com/almudnapr/"
+      }
     },
     "dario-linero": {
       "name": "Darío Linero",
@@ -678,10 +705,16 @@
       }
     },
     "andrea-canel": {
-      "name": "Andrea Canel"
+      "name": "Andrea Canel",
+      "socials": {
+        "instagram": "https://www.instagram.com/andreacannel/"
+      }
     },
     "enrique-cofino": {
-      "name": "Enrique Cofiño"
+      "name": "Enrique Cofiño",
+      "socials": {
+        "instagram": "https://www.instagram.com/enriquecofino_/"
+      }
     },
     "ruben-torres": {
       "name": "Rubén Torres",
@@ -2661,10 +2694,16 @@
       }
     },
     "melodie-penalver": {
-      "name": "Melodie Peñalver"
+      "name": "Melodie Peñalver",
+      "socials": {
+        "instagram": "https://www.instagram.com/melodiepe/"
+      }
     },
     "cristian-jerez": {
-      "name": "Cristian Jerez"
+      "name": "Cristian Jerez",
+      "socials": {
+        "instagram": "https://www.instagram.com/cristianjerezz/"
+      }
     },
     "dario-selles": {
       "name": "Darío Sellés",
@@ -2679,16 +2718,25 @@
       }
     },
     "gal-la-mora": {
-      "name": "Gal·la Mora"
+      "name": "Gal·la Mora",
+      "socials": {
+        "instagram": "https://www.instagram.com/gal.law/"
+      }
     },
     "nico-craiu": {
       "name": "Nico Craiu"
     },
     "javi-redondo": {
-      "name": "Javi Redondo"
+      "name": "Javi Redondo",
+      "socials": {
+        "instagram": "https://www.instagram.com/javiredondo14/"
+      }
     },
     "paola-monzani": {
-      "name": "Paola Monzani"
+      "name": "Paola Monzani",
+      "socials": {
+        "instagram": "https://www.instagram.com/paolamonzani/"
+      }
     },
     "andreu-martorell": {
       "name": "Andreu Martorell",
@@ -2703,7 +2751,10 @@
       "name": "Manu Úbeda"
     },
     "samuel-chavez": {
-      "name": "Samuel Chávez"
+      "name": "Samuel Chávez",
+      "socials": {
+        "instagram": "https://www.instagram.com/samujcr/"
+      }
     },
     "elena-adsuara": {
       "name": "Elena Adsuara"
