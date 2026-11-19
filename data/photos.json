@@ -320,6 +320,1182 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "author": "Teodoromix",
       "wikidata": "http://www.wikidata.org/entity/Q27651510"
+    },
+    "santi-rodriguez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Santi_Rodriguez.jpg/330px-Santi_Rodriguez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Santi_Rodriguez.jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "Ángel Jiménez / 20 Minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q6120778"
+    },
+    "carlos-baute": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Carlos_Baute.jpg/330px-Carlos_Baute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carlos_Baute.jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "https://www.20minutos.es/ 20minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q632239"
+    },
+    "maria-villalon": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mar%C3%ADa_Villal%C3%B3n.jpg/330px-Mar%C3%ADa_Villal%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Villal%C3%B3n.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Gochy5",
+      "wikidata": "http://www.wikidata.org/entity/Q5646491"
+    },
+    "daniel-diges": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Flickr_-_aktivioslo_-_Eurovision_-_Dem_fem_store_-_First_rehearsal_%283%29.jpg/330px-Flickr_-_aktivioslo_-_Eurovision_-_Dem_fem_store_-_First_rehearsal_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_aktivioslo_-_Eurovision_-_Dem_fem_store_-_First_rehearsal_(3).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Aktiv I Oslo.no from Oslo, Norway",
+      "wikidata": "http://www.wikidata.org/entity/Q313571"
+    },
+    "diana-navarro": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Diana_Navarro.JPG/330px-Diana_Navarro.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Diana_Navarro.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Autor desconocido",
+      "wikidata": "http://www.wikidata.org/entity/Q3390525"
+    },
+    "florentino-fernandez": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Florentino_Fern%C3%A1ndez_saluda.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Florentino_Fern%C3%A1ndez_saluda.jpeg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "20minutos.es",
+      "wikidata": "http://www.wikidata.org/entity/Q3074157"
+    },
+    "maria-del-monte": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Mar%C3%ADa_del_Monte.JPG/330px-Mar%C3%ADa_del_Monte.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_del_Monte.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Roi González Villa (Vivaelcelta)",
+      "wikidata": "http://www.wikidata.org/entity/Q793723"
+    },
+    "angy-fernandez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Angy_Fern%C3%A1ndez.jpg/330px-Angy_Fern%C3%A1ndez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Angy_Fern%C3%A1ndez.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "https://instagram.com/capelliercapellier?utm_medium=copy_link",
+      "wikidata": "http://www.wikidata.org/entity/Q270264"
+    },
+    "lucia-gil": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Luciagil45.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Luciagil45.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Eva tomas",
+      "wikidata": "http://www.wikidata.org/entity/Q2081469"
+    },
+    "david-amor": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/David_Amor_2.JPG/330px-David_Amor_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Amor_2.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Roi González Villa (Vivaelcelta)",
+      "wikidata": "http://www.wikidata.org/entity/Q12386956"
+    },
+    "pablo-puyol": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Venidos_A_Menos_9.jpg/330px-Venidos_A_Menos_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venidos_A_Menos_9.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Laumari",
+      "wikidata": "http://www.wikidata.org/entity/Q902817"
+    },
+    "sandra-barneda": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Sandra_Barneda_2012_%28cropped%29.jpg/330px-Sandra_Barneda_2012_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sandra_Barneda_2012_(cropped).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Ignacio Inglaterra (youtube)",
+      "wikidata": "http://www.wikidata.org/entity/Q5934860"
+    },
+    "jorge-javier-vazquez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Jorge_Javier_V%C3%A1zquez_2013_%28cropped%29.jpg/330px-Jorge_Javier_V%C3%A1zquez_2013_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jorge_Javier_V%C3%A1zquez_2013_(cropped).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Ignacio Inglaterra (youtube)",
+      "wikidata": "http://www.wikidata.org/entity/Q3328870"
+    },
+    "yolanda-ramos": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Yolanda_Ramos.jpg/330px-Yolanda_Ramos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Yolanda_Ramos.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Mooby's (https://www.youtube.com/user/vrokdave/videos)",
+      "wikidata": "http://www.wikidata.org/entity/Q3572483"
+    },
+    "jordi-gonzalez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/La_noria_2_%28cropped%29.jpg/330px-La_noria_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:La_noria_2_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Convergencia Democràtica de Catalunya",
+      "wikidata": "http://www.wikidata.org/entity/Q3323593"
+    },
+    "patricia-perez-isla-2": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%22El_amor_de_Eloy%22_-_Entrevista_Patricia_P%C3%A9rez_-_Teatro_Bellas_Artes_06.jpg/330px-%22El_amor_de_Eloy%22_-_Entrevista_Patricia_P%C3%A9rez_-_Teatro_Bellas_Artes_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%22El_amor_de_Eloy%22_-_Entrevista_Patricia_P%C3%A9rez_-_Teatro_Bellas_Artes_06.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Ángel Galán Comunicación",
+      "wikidata": "http://www.wikidata.org/entity/Q11698377"
+    },
+    "lorena-gomez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Lorena_G%C3%B3mez.2._Premios_Amigos_2007_%28cropped%29.jpg/330px-Lorena_G%C3%B3mez.2._Premios_Amigos_2007_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lorena_G%C3%B3mez.2._Premios_Amigos_2007_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Informador Digital from Spain",
+      "wikidata": "http://www.wikidata.org/entity/Q3392375"
+    },
+    "ana-morgade": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Ana_Morgade_-_Seminci_2016.jpg/330px-Ana_Morgade_-_Seminci_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ana_Morgade_-_Seminci_2016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega",
+      "wikidata": "http://www.wikidata.org/entity/Q8198107"
+    },
+    "xuso-jones": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Xuso_Jones._%2821459883509%29_%28cropped%29.jpg/330px-Xuso_Jones._%2821459883509%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Xuso_Jones._(21459883509)_(cropped).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Non Stop People",
+      "wikidata": "http://www.wikidata.org/entity/Q15921532"
+    },
+    "brays-efe": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Brays_Efe_at_Premios_Goya_2017.jpg/330px-Brays_Efe_at_Premios_Goya_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Brays_Efe_at_Premios_Goya_2017.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega",
+      "wikidata": "http://www.wikidata.org/entity/Q28482664"
+    },
+    "marta-flich": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Marta_Flich_2018._Instituto_25m.jpeg/330px-Marta_Flich_2018._Instituto_25m.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Marta_Flich_2018._Instituto_25m.jpeg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Instituto 25m (youtube)",
+      "wikidata": "http://www.wikidata.org/entity/Q29569810"
+    },
+    "rosa-lopez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Rosa_L%C3%B3pez_%2848520806612%29.jpg/330px-Rosa_L%C3%B3pez_%2848520806612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Rosa_L%C3%B3pez_(48520806612).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Rincón Friki",
+      "wikidata": "http://www.wikidata.org/entity/Q270817"
+    },
+    "julio-iglesias-jr": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Latin_Lovers_M6_Live_2014_%28cropped1%29.JPG/330px-Latin_Lovers_M6_Live_2014_%28cropped1%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Latin_Lovers_M6_Live_2014_(cropped1).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Doris Ginet",
+      "wikidata": "http://www.wikidata.org/entity/Q1832274"
+    },
+    "jordi-coll": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Els_Jocs_Florals_de_Canprosa_%283%29%2C_de_Santiago_Rusi%C3%B1ol_i_Prats_%28Teatre_Nacional_de_Catalunya%2C_2018%29.jpg/330px-Els_Jocs_Florals_de_Canprosa_%283%29%2C_de_Santiago_Rusi%C3%B1ol_i_Prats_%28Teatre_Nacional_de_Catalunya%2C_2018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Els_Jocs_Florals_de_Canprosa_(3),_de_Santiago_Rusi%C3%B1ol_i_Prats_(Teatre_Nacional_de_Catalunya,_2018).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "José María Rodríguez Rodríguez (àlies «May Zircus»)",
+      "wikidata": "http://www.wikidata.org/entity/Q2885122"
+    },
+    "anna-simon": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Anna_Simon_2020.jpg/330px-Anna_Simon_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Anna_Simon_2020.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Objetivo Bienestar",
+      "wikidata": "http://www.wikidata.org/entity/Q793718"
+    },
+    "soraya-arnelas": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Soraya_Arnelas._%2821458974828%29_%28cropped%29.jpg/330px-Soraya_Arnelas._%2821458974828%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Soraya_Arnelas._(21458974828)_(cropped).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Non Stop People",
+      "wikidata": "http://www.wikidata.org/entity/Q230340"
+    },
+    "angela-carrasco": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Angela_Carrasco_visitando_el_museo_de_Blanco_Fadol_delante_del_Pinsa_yu_pa%2C_instrumento_de_oro_de_Birmania.jpg/330px-Angela_Carrasco_visitando_el_museo_de_Blanco_Fadol_delante_del_Pinsa_yu_pa%2C_instrumento_de_oro_de_Birmania.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Angela_Carrasco_visitando_el_museo_de_Blanco_Fadol_delante_del_Pinsa_yu_pa,_instrumento_de_oro_de_Birmania.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Caminante2024",
+      "wikidata": "http://www.wikidata.org/entity/Q252016"
+    },
+    "blas-canto": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Blas_Cant%C3%B3%2C_Los40_Summer_Live_2022_%28cropped%29.png/330px-Blas_Cant%C3%B3%2C_Los40_Summer_Live_2022_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Blas_Cant%C3%B3,_Los40_Summer_Live_2022_(cropped).png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Objetivo Castilla-La Mancha Noticias",
+      "wikidata": "http://www.wikidata.org/entity/Q4925264"
+    },
+    "lucia-jimenez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Goyas_2023_-_Luc%C3%ADa_Jim%C3%A9nez_%28cropped%29.jpg/330px-Goyas_2023_-_Luc%C3%ADa_Jim%C3%A9nez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2023_-_Luc%C3%ADa_Jim%C3%A9nez_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q283371"
+    },
+    "canco-rodriguez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Festival_de_M%C3%A1laga_2024_-_Canco_Rodr%C3%ADguez_%28cropped%29.jpg/330px-Festival_de_M%C3%A1laga_2024_-_Canco_Rodr%C3%ADguez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Festival_de_M%C3%A1laga_2024_-_Canco_Rodr%C3%ADguez_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5747266"
+    },
+    "jose-corbacho": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Festival_de_M%C3%A1laga_2024_-_Jos%C3%A9_Corbacho_%28cropped%29.jpg/330px-Festival_de_M%C3%A1laga_2024_-_Jos%C3%A9_Corbacho_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Festival_de_M%C3%A1laga_2024_-_Jos%C3%A9_Corbacho_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q580414"
+    },
+    "anabel-alonso": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Goyas_2025_-_Anabel_Alonso_%28cropped%29.jpg/330px-Goyas_2025_-_Anabel_Alonso_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2025_-_Anabel_Alonso_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q4750585"
+    },
+    "edu-soto": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Edu_Soto_La_risa_cuando_est%C3%A1_prohibida_te_lleva_a_un_terreno_bastante_peligroso2.png/330px-Edu_Soto_La_risa_cuando_est%C3%A1_prohibida_te_lleva_a_un_terreno_bastante_peligroso2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Edu_Soto_La_risa_cuando_est%C3%A1_prohibida_te_lleva_a_un_terreno_bastante_peligroso2.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "infoLibre",
+      "wikidata": "http://www.wikidata.org/entity/Q11681279"
+    },
+    "la-terremoto-de-alcorcon": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Malaga_Film_Festival_2025_-_Pepa_Charro_02_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Pepa_Charro_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Pepa_Charro_02_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3089692"
+    },
+    "laura-madrueno": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Laura_madrue%C3%B1o.jpg/330px-Laura_madrue%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Laura_madrue%C3%B1o.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Birgitte Nyborg Borgen",
+      "wikidata": "http://www.wikidata.org/entity/Q125226505"
+    },
+    "arturo-valls": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Malaga_Film_Festival_2025_-_Arturo_Valls-1_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Arturo_Valls-1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Arturo_Valls-1_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3327786"
+    },
+    "llum-barrera": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Seminci_2025_-_Llum_Barrera-1_%28cropped%29.jpg/330px-Seminci_2025_-_Llum_Barrera-1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Seminci_2025_-_Llum_Barrera-1_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q11689356"
+    },
+    "miquel-fernandez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Malaga_Film_Festival_2025_-_Miquel_Fern%C3%A1ndez-1_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Miquel_Fern%C3%A1ndez-1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Miquel_Fern%C3%A1ndez-1_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q6017881"
+    },
+    "silvia-abril": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Premios_Goya_2026_-_Silvia_Abril_%28cropped%29.jpg/330px-Premios_Goya_2026_-_Silvia_Abril_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Silvia_Abril_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q129501"
+    },
+    "ruth-lorenzo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Ruth_Lorenzo_2025.jpg/330px-Ruth_Lorenzo_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ruth_Lorenzo_2025.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "C14",
+      "wikidata": "http://www.wikidata.org/entity/Q6723363"
+    },
+    "miguel-nandez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Miguel_N%C3%A1ndez.JPG/330px-Miguel_N%C3%A1ndez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Miguel_N%C3%A1ndez.JPG",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "Elpidos",
+      "wikidata": "http://www.wikidata.org/entity/Q5662399"
+    },
+    "daniel-zueras": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/DanielZuerasAri%C3%B1o1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:DanielZuerasAri%C3%B1o1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Bresca",
+      "wikidata": "http://www.wikidata.org/entity/Q3014863"
+    },
+    "lydia-bosch": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lydia_Bosch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lydia_Bosch.jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "20 Minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q3320735"
+    },
+    "david-bustamante": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/David_Bustamante_2006.jpg/330px-David_Bustamante_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Bustamante_2006.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Cscfoto",
+      "wikidata": "http://www.wikidata.org/entity/Q953172"
+    },
+    "saray-ramirez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Saray_Ram%C3%ADrez.jpg/330px-Saray_Ram%C3%ADrez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Saray_Ram%C3%ADrez.jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "http://www.20minutos.es/ 20minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q6121839"
+    },
+    "jose-galisteo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Jose_galisteo_2.jpg/330px-Jose_galisteo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jose_galisteo_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Labelsoundrecords",
+      "wikidata": "http://www.wikidata.org/entity/Q3325093"
+    },
+    "juanra-bonet": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Juanra_bonet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Juanra_bonet.jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "José Manuel Serrano Picón / 20 Minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q5651044"
+    },
+    "agustin-jimenez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Agust%C3%ADn_Jim%C3%A9nez.jpg/330px-Agust%C3%ADn_Jim%C3%A9nez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Agust%C3%ADn_Jim%C3%A9nez.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Sara Rodríguez",
+      "wikidata": "http://www.wikidata.org/entity/Q5660715"
+    },
+    "mai-meneses": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Mai_backstage_Madrid.JPG/330px-Mai_backstage_Madrid.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mai_backstage_Madrid.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Pablobanks",
+      "wikidata": "http://www.wikidata.org/entity/Q3089738"
+    },
+    "manuel-carrasco": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Manuel_Carrasco_%28cropped%29.jpg/330px-Manuel_Carrasco_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Manuel_Carrasco_(cropped).jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "Junta Informa",
+      "wikidata": "http://www.wikidata.org/entity/Q3142610"
+    },
+    "sergio-rivero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Sergio_rivero_2016.jpg/330px-Sergio_rivero_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sergio_rivero_2016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Rewadfrimape",
+      "wikidata": "http://www.wikidata.org/entity/Q2375006"
+    },
+    "manu-tenorio": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Manu_Tenorio_-_Concierto_OT_Sant_Jordi.jpg/330px-Manu_Tenorio_-_Concierto_OT_Sant_Jordi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Manu_Tenorio_-_Concierto_OT_Sant_Jordi.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Teodoromix",
+      "wikidata": "http://www.wikidata.org/entity/Q5992000"
+    },
+    "veronica-romero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Veronica_-_Concierto_OT_Sant_Jordi.jpg/330px-Veronica_-_Concierto_OT_Sant_Jordi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Veronica_-_Concierto_OT_Sant_Jordi.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Teodoromix",
+      "wikidata": "http://www.wikidata.org/entity/Q5407669"
+    },
+    "pablo-lopez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Pablo_L%C3%B3pez.jpg/330px-Pablo_L%C3%B3pez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Pablo_L%C3%B3pez.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "El mundo",
+      "wikidata": "http://www.wikidata.org/entity/Q21480795"
+    },
+    "virginia-maestro": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/VM.LaRiviera.Fajardo.jpg/330px-VM.LaRiviera.Fajardo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:VM.LaRiviera.Fajardo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Madceditor",
+      "wikidata": "http://www.wikidata.org/entity/Q3325098"
+    },
+    "ana-guerra": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/AnaGuerra_Firma2018.jpg/330px-AnaGuerra_Firma2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:AnaGuerra_Firma2018.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Informatrix",
+      "wikidata": "http://www.wikidata.org/entity/Q55078258"
+    },
+    "miriam-rodriguez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Miriam_Rodr%C3%ADguez_-_Tour_Contigo_2019.jpg/330px-Miriam_Rodr%C3%ADguez_-_Tour_Contigo_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Miriam_Rodr%C3%ADguez_-_Tour_Contigo_2019.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Marta Abellán",
+      "wikidata": "http://www.wikidata.org/entity/Q54279277"
+    },
+    "bertin-osborne": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bert%C3%ADn-Osborne.jpg/330px-Bert%C3%ADn-Osborne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Bert%C3%ADn-Osborne.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Tony Dandrades",
+      "wikidata": "http://www.wikidata.org/entity/Q828285"
+    },
+    "alfred-garcia": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Alfred_Garc%C3%ADa%2C_XII_Premis_Gaud%C3%AD_%282020%29.jpg/330px-Alfred_Garc%C3%ADa%2C_XII_Premis_Gaud%C3%AD_%282020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alfred_Garc%C3%ADa,_XII_Premis_Gaud%C3%AD_(2020).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "GuillemMedina",
+      "wikidata": "http://www.wikidata.org/entity/Q47517740"
+    },
+    "anne-igartiburu": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Anne_Igartiburu_en_los_Premios_Goya_2017_%28cropped%29.jpg/330px-Anne_Igartiburu_en_los_Premios_Goya_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Anne_Igartiburu_en_los_Premios_Goya_2017_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega",
+      "wikidata": "http://www.wikidata.org/entity/Q270276"
+    },
+    "natalia-lacunza": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Natalia_Lacunza-2019.png/330px-Natalia_Lacunza-2019.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Natalia_Lacunza-2019.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Natalia Lacunza",
+      "wikidata": "http://www.wikidata.org/entity/Q61061921"
+    },
+    "luis-cepeda": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Cepeda_en_concierto_en_Figueres_%28cropped%29.jpg/330px-Cepeda_en_concierto_en_Figueres_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Cepeda_en_concierto_en_Figueres_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Cepedistas",
+      "wikidata": "http://www.wikidata.org/entity/Q47528199"
+    },
+    "julia-medina": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Julia_Medina_-_Concierto_San_Fernando.jpg/330px-Julia_Medina_-_Concierto_San_Fernando.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Julia_Medina_-_Concierto_San_Fernando.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Sebasdegeea",
+      "wikidata": "http://www.wikidata.org/entity/Q111575498"
+    },
+    "raoul-vazquez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Raoul_en_3TourBilbao-1.jpg/330px-Raoul_en_3TourBilbao-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Raoul_en_3TourBilbao-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Milva2373",
+      "wikidata": "http://www.wikidata.org/entity/Q64760019"
+    },
+    "mario-vaquerizo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mario_Vaquerizo-Sant_Jordi_2016_%281%29_%28cropped%29.JPG/330px-Mario_Vaquerizo-Sant_Jordi_2016_%281%29_%28cropped%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mario_Vaquerizo-Sant_Jordi_2016_(1)_(cropped).JPG",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Alberto-g-rovi",
+      "wikidata": "http://www.wikidata.org/entity/Q5676614"
+    },
+    "alexandra-masangkay": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Festival_de_Cinema_de_Sitges_2019_%2849500922841%29_%28cropped%29.jpg/330px-Festival_de_Cinema_de_Sitges_2019_%2849500922841%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Festival_de_Cinema_de_Sitges_2019_(49500922841)_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Moritz Barcelona from Barcelona, Catalunya",
+      "wikidata": "http://www.wikidata.org/entity/Q64777701"
+    },
+    "maria-parrado": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mar%C3%ADa_Parrado_in_2015.png/330px-Mar%C3%ADa_Parrado_in_2015.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Parrado_in_2015.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Historias de Luz",
+      "wikidata": "http://www.wikidata.org/entity/Q28921913"
+    },
+    "miki-nunez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/MIKI_NU%C3%91EZ_%28cropped%29.jpg/330px-MIKI_NU%C3%91EZ_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MIKI_NU%C3%91EZ_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "IcarusRomance",
+      "wikidata": "http://www.wikidata.org/entity/Q60727325"
+    },
+    "maria-pelae": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Diamante_en_bruto_Mar%C3%ADa_Pel%C3%A1e_%E2%80%93_Ayer_por_m%C3%AD%2C_hoy_por_ti_-_%28Programa_4%29_2-2_screenshot.png/330px-Diamante_en_bruto_Mar%C3%ADa_Pel%C3%A1e_%E2%80%93_Ayer_por_m%C3%AD%2C_hoy_por_ti_-_%28Programa_4%29_2-2_screenshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Diamante_en_bruto_Mar%C3%ADa_Pel%C3%A1e_%E2%80%93_Ayer_por_m%C3%AD,_hoy_por_ti_-_(Programa_4)_2-2_screenshot.png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Bodegas Franco-Españolas Rioja Bordón",
+      "wikidata": "http://www.wikidata.org/entity/Q111336885"
+    },
+    "anibal-gomez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Zorrilla%27s_Fest_2023_93_-_An%C3%ADbal_G%C3%B3mez.jpg/330px-Zorrilla%27s_Fest_2023_93_-_An%C3%ADbal_G%C3%B3mez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Zorrilla%27s_Fest_2023_93_-_An%C3%ADbal_G%C3%B3mez.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "MiguelAlanCS",
+      "wikidata": "http://www.wikidata.org/entity/Q33703931"
+    },
+    "david-bisbal": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2023-11-16_Gala_de_los_Latin_Grammy%2C_39_%28cropped%29.jpg/330px-2023-11-16_Gala_de_los_Latin_Grammy%2C_39_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_39_(cropped).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Junta de Andalucía",
+      "wikidata": "http://www.wikidata.org/entity/Q298310"
+    },
+    "enrique-ramil": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ramil01.png/330px-Ramil01.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ramil01.png",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Unknown authorUnknown author",
+      "wikidata": "http://www.wikidata.org/entity/Q97688945"
+    },
+    "cristina-castano": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Goyas_2024_-_Cristina_Casta%C3%B1o_%28cropped%29.jpg/330px-Goyas_2024_-_Cristina_Casta%C3%B1o_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2024_-_Cristina_Casta%C3%B1o_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q251636"
+    },
+    "loles-leon": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Goyas_2024_-_Loles_Le%C3%B3n.jpg/330px-Goyas_2024_-_Loles_Le%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2024_-_Loles_Le%C3%B3n.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q265719"
+    },
+    "belinda-washington": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Festival_de_M%C3%A1laga_2024_-_Belinda_Washington_%28cropped%29.jpg/330px-Festival_de_M%C3%A1laga_2024_-_Belinda_Washington_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Festival_de_M%C3%A1laga_2024_-_Belinda_Washington_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q8245799"
+    },
+    "nerea-rodriguez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Festival_de_M%C3%A1laga_2024_-_Nerea_Rodr%C3%ADguez.jpg/330px-Festival_de_M%C3%A1laga_2024_-_Nerea_Rodr%C3%ADguez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Festival_de_M%C3%A1laga_2024_-_Nerea_Rodr%C3%ADguez.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q59616984"
+    },
+    "raquel-sanchez-silva": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Goyas_2025_-_Raquel_S%C3%A1nchez_%28cropped%29.jpg/330px-Goyas_2025_-_Raquel_S%C3%A1nchez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2025_-_Raquel_S%C3%A1nchez_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q267031"
+    },
+    "manu-baqueiro": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Goyas_2025_-_Manuel_Baqueiro_%28cropped%29.jpg/330px-Goyas_2025_-_Manuel_Baqueiro_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2025_-_Manuel_Baqueiro_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q2837876"
+    },
+    "nuria-fergo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Malaga_Film_Festival_2025_-_Nuria_Ferg%C3%B3-2_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Nuria_Ferg%C3%B3-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Nuria_Ferg%C3%B3-2_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q457348"
+    },
+    "melani-garcia": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Madrid_Pride_2026_-_Melani_-_260705_205517.jpg/330px-Madrid_Pride_2026_-_Melani_-_260705_205517.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Madrid_Pride_2026_-_Melani_-_260705_205517.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Barcex",
+      "wikidata": "http://www.wikidata.org/entity/Q69907909"
+    },
+    "boris-izaguirre": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Boris_Izaguirre_-_001.jpg/330px-Boris_Izaguirre_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Boris_Izaguirre_-_001.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "Mutari",
+      "wikidata": "http://www.wikidata.org/entity/Q708841"
+    },
+    "ana-obregon": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Ana_G._Obreg%C3%B3n.jpg/330px-Ana_G._Obreg%C3%B3n.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ana_G._Obreg%C3%B3n.jpg",
+      "license": "CC BY-SA 2.1 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/es/deed.en",
+      "author": "20 minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q975692"
+    },
+    "raquel-merono": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Raquel_Mero%C3%B1o._%2821655807191%29_%28cropped%29.jpg/330px-Raquel_Mero%C3%B1o._%2821655807191%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Raquel_Mero%C3%B1o._(21655807191)_(cropped).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Non Stop People",
+      "wikidata": "http://www.wikidata.org/entity/Q6100480"
+    },
+    "usun-yoon": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Usun_Yun._%2821655882481%29_%28cropped%29.jpg/330px-Usun_Yun._%2821655882481%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Usun_Yun._(21655882481)_(cropped).jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Non Stop People",
+      "wikidata": "http://www.wikidata.org/entity/Q494783"
+    },
+    "miguel-angel-munoz": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Miguel_%C3%81ngel_Mu%C3%B1oz_Premios_Goya_2017_%28cropped%29.jpg/330px-Miguel_%C3%81ngel_Mu%C3%B1oz_Premios_Goya_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Miguel_%C3%81ngel_Mu%C3%B1oz_Premios_Goya_2017_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega",
+      "wikidata": "http://www.wikidata.org/entity/Q1078846"
+    },
+    "nina-pastori": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Ni%C3%B1a_Pastori_en_los_actos_oficiales_del_2_de_mayo_-_Imposici%C3%B3n_de_la_Medalla_de_la_Comunidad_de_Madrid_y_Condecoraciones_de_la_Orden_del_2_de_mayo.jpg/330px-Ni%C3%B1a_Pastori_en_los_actos_oficiales_del_2_de_mayo_-_Imposici%C3%B3n_de_la_Medalla_de_la_Comunidad_de_Madrid_y_Condecoraciones_de_la_Orden_del_2_de_mayo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Ni%C3%B1a_Pastori_en_los_actos_oficiales_del_2_de_mayo_-_Imposici%C3%B3n_de_la_Medalla_de_la_Comunidad_de_Madrid_y_Condecoraciones_de_la_Orden_del_2_de_mayo.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "cristina cifuentes",
+      "wikidata": "http://www.wikidata.org/entity/Q270828"
+    },
+    "marta-torne": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Premios_Goya_2018_-_Marta_Torn%C3%A9.jpg/330px-Premios_Goya_2018_-_Marta_Torn%C3%A9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2018_-_Marta_Torn%C3%A9.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Carlos Delgado",
+      "wikidata": "http://www.wikidata.org/entity/Q924080"
+    },
+    "miki-nadal": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/MIKI_NADAL.jpg/330px-MIKI_NADAL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MIKI_NADAL.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Acción contra el Hambre",
+      "wikidata": "http://www.wikidata.org/entity/Q3321329"
+    },
+    "paula-prendes": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%28Paula_Prendes%29_El_Centro_Cultural_Miguel_Delibes_acoge_la_grabaci%C3%B3n_del_programa_de_TVE_%27Prodigios%27.jpg/330px-%28Paula_Prendes%29_El_Centro_Cultural_Miguel_Delibes_acoge_la_grabaci%C3%B3n_del_programa_de_TVE_%27Prodigios%27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:(Paula_Prendes)_El_Centro_Cultural_Miguel_Delibes_acoge_la_grabaci%C3%B3n_del_programa_de_TVE_%27Prodigios%27.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Junta de Castilla y León (youtube)",
+      "wikidata": "http://www.wikidata.org/entity/Q6067390"
+    },
+    "ana-milan": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/%28Ana_Mil%C3%A1n%29_Ana_Mil%C3%A1n_en_La_Jungla_4.0.jpg/330px-%28Ana_Mil%C3%A1n%29_Ana_Mil%C3%A1n_en_La_Jungla_4.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:(Ana_Mil%C3%A1n)_Ana_Mil%C3%A1n_en_La_Jungla_4.0.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "La Jungla Radio (youtube)",
+      "wikidata": "http://www.wikidata.org/entity/Q2543638"
+    },
+    "vicky-martin-berrocal": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Vicky_Mart%C3%ADn_Berrocal_2020.jpg/330px-Vicky_Mart%C3%ADn_Berrocal_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Vicky_Mart%C3%ADn_Berrocal_2020.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Objetivo Bienestar",
+      "wikidata": "http://www.wikidata.org/entity/Q24034674"
+    },
+    "veronica-forque": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Preg%C3%B3n_de_%22La_Noche_de_los_Teatros%22_%2846785085594%29_%28cropped%29.jpg/330px-Preg%C3%B3n_de_%22La_Noche_de_los_Teatros%22_%2846785085594%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Preg%C3%B3n_de_%22La_Noche_de_los_Teatros%22_(46785085594)_(cropped).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "PP Comunidad de Madrid",
+      "wikidata": "http://www.wikidata.org/entity/Q283436"
+    },
+    "marina-san-jose": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Marina_San_Jos%C3%A9_at_Premios_Goya_2017_%28close-up%29.jpg/330px-Marina_San_Jos%C3%A9_at_Premios_Goya_2017_%28close-up%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Marina_San_Jos%C3%A9_at_Premios_Goya_2017_(close-up).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega",
+      "wikidata": "http://www.wikidata.org/entity/Q5998319"
+    },
+    "fernando-tejero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Goyas_2023_-_Fernando_Tejero.jpg/330px-Goyas_2023_-_Fernando_Tejero.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2023_-_Fernando_Tejero.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q581617"
+    },
+    "lucas-curotto": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Lucas_curotto_2024.jpg/330px-Lucas_curotto_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lucas_curotto_2024.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "Unknown authorUnknown author",
+      "wikidata": "http://www.wikidata.org/entity/Q130388476"
+    },
+    "naiara-moreno": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Naiara_Moreno%2C_febrero_2024.jpg/330px-Naiara_Moreno%2C_febrero_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Naiara_Moreno,_febrero_2024.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "EnamoraZGZ",
+      "wikidata": "http://www.wikidata.org/entity/Q124635012"
+    },
+    "juanjo-bona": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Juanjo_Bona_Arregui.png/330px-Juanjo_Bona_Arregui.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Juanjo_Bona_Arregui.png",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "ZGZTeQuiere",
+      "wikidata": "http://www.wikidata.org/entity/Q124856360"
+    },
+    "felix-gomez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Festival_de_M%C3%A1laga_2024_-F%C3%A9lix_G%C3%B3mez_%28cropped%29.jpg/330px-Festival_de_M%C3%A1laga_2024_-F%C3%A9lix_G%C3%B3mez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Festival_de_M%C3%A1laga_2024_-F%C3%A9lix_G%C3%B3mez_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5396686"
+    },
+    "victoria-abril": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Victoria_Abril_Cannes_2017_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Victoria_Abril_Cannes_2017_2_(cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Georges Biard",
+      "wikidata": "http://www.wikidata.org/entity/Q203138"
+    },
+    "cayetana-guillen-cuervo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Goyas_2025_-_Cayetana_Guill%C3%A9n_Cuervo.jpg/330px-Goyas_2025_-_Cayetana_Guill%C3%A9n_Cuervo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2025_-_Cayetana_Guill%C3%A9n_Cuervo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q2943402"
+    },
+    "patricia-montero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Malaga_Film_Festival_2025_-_Patricia_Montero_04_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Patricia_Montero_04_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Patricia_Montero_04_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5559610"
+    },
+    "elena-furiase": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Malaga_Film_Festival_2025_-_Elena_Furiase_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Elena_Furiase_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Elena_Furiase_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q918335"
+    },
+    "gonzalo-miro": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Malaga_Film_Festival_2025_-_Gonzalo_Mir%C3%B3_02_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Gonzalo_Mir%C3%B3_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Gonzalo_Mir%C3%B3_02_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5883115"
+    },
+    "paz-vega": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Goyas_2025_-_Paz_Vega_%28cropped%29.jpg/330px-Goyas_2025_-_Paz_Vega_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2025_-_Paz_Vega_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q234618"
+    },
+    "belen-lopez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Goyas_2025_Bel%C3%A9n_L%C3%B3pez_%28cropped%29.jpg/330px-Goyas_2025_Bel%C3%A9n_L%C3%B3pez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2025_Bel%C3%A9n_L%C3%B3pez_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5725389"
+    },
+    "melani-olivares": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Malaga_Film_Festival_2025_-_Melani_Olivares-1_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Melani_Olivares-1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Melani_Olivares-1_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3624816"
+    },
+    "juan-jose-ballesta": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Malaga_Film_Festival_2025_-_Juan_Jos%C3%A9_Ballesta_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Juan_Jos%C3%A9_Ballesta_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Juan_Jos%C3%A9_Ballesta_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3110797"
+    },
+    "paul-thin": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Paul_Thin.jpg/330px-Paul_Thin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Paul_Thin.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Crystalsanch",
+      "wikidata": "http://www.wikidata.org/entity/Q124666495"
+    },
+    "pepon-nieto": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Malaga_Film_Festival_2025_-_Pep%C3%B3n_Nieto_%283x4_cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Pep%C3%B3n_Nieto_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Pep%C3%B3n_Nieto_(3x4_cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q276662"
+    },
+    "ivan-massague": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Malaga_Film_Festival_2025_-Iv%C3%A1n_Massagu%C3%A9_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-Iv%C3%A1n_Massagu%C3%A9_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-Iv%C3%A1n_Massagu%C3%A9_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5923495"
+    },
+    "ruslana-panchyshyna": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/RUSLANA_OT%2C_BEEF_a_BUIKA_en_su_CANCI%C3%93N%2C_%C2%BFVIDA_DESPU%C3%89S_de_OT_LAS_CHICAS_MALAS_DESAFINAN_5-39_screenshot_%28cropped%29.png/330px-RUSLANA_OT%2C_BEEF_a_BUIKA_en_su_CANCI%C3%93N%2C_%C2%BFVIDA_DESPU%C3%89S_de_OT_LAS_CHICAS_MALAS_DESAFINAN_5-39_screenshot_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:RUSLANA_OT,_BEEF_a_BUIKA_en_su_CANCI%C3%93N,_%C2%BFVIDA_DESPU%C3%89S_de_OT_LAS_CHICAS_MALAS_DESAFINAN_5-39_screenshot_(cropped).png",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Vaya Vaina",
+      "wikidata": "http://www.wikidata.org/entity/Q126454457"
+    },
+    "oscar-higares": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Malaga_Film_Festival_2025_-_%C3%93scar_Higares-1_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_%C3%93scar_Higares-1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_%C3%93scar_Higares-1_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3593649"
+    },
+    "dafne-fernandez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Malaga_Film_Festival_2025_-_Dafne_Fern%C3%A1ndez-2_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Dafne_Fern%C3%A1ndez-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Dafne_Fern%C3%A1ndez-2_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q451891"
+    },
+    "carmina-barrios": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Carmina_Barrios.jpg/330px-Carmina_Barrios.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carmina_Barrios.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Alfonso López Yepes",
+      "wikidata": "http://www.wikidata.org/entity/Q5752752"
+    },
+    "maria-castro": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Malaga_Film_Festival_2025_-_Mar%C3%ADa_Castro-1_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Mar%C3%ADa_Castro-1_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Mar%C3%ADa_Castro-1_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3330458"
+    },
+    "martin-urrutia": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Malaga_Film_Festival_2025_-_Martin_Urrutia_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Martin_Urrutia_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Martin_Urrutia_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q123503938"
+    },
+    "claudia-arenas": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/M%C3%A1laga_Film_Festival_2026-_Claudia_Arenas.jpg/330px-M%C3%A1laga_Film_Festival_2026-_Claudia_Arenas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Film_Festival_2026-_Claudia_Arenas.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q141616224"
+    },
+    "olivia-bay": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/M%C3%A1laga_Film_Festival_2026_-_Olivia_Bay-2_%28cropped%29.jpg/330px-M%C3%A1laga_Film_Festival_2026_-_Olivia_Bay-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Film_Festival_2026_-_Olivia_Bay-2_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q139383625"
+    },
+    "maria-cruz": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Madrid_Pride_2026_-_Mar%C3%ADa_Cruz_-_260701_212328.jpg/330px-Madrid_Pride_2026_-_Mar%C3%ADa_Cruz_-_260701_212328.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Madrid_Pride_2026_-_Mar%C3%ADa_Cruz_-_260701_212328.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Barcex",
+      "wikidata": "http://www.wikidata.org/entity/Q142080964"
+    },
+    "guille-toledano": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Guille_Toledano.jpg/330px-Guille_Toledano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Guille_Toledano.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "author": "Berni022",
+      "wikidata": "http://www.wikidata.org/entity/Q141608789"
+    },
+    "eva-gonzalez": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Eva_Gonz%C3%A1lez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Eva_Gonz%C3%A1lez.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "20 Minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q629328"
+    },
+    "manel-fuentes": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Manel_Fuentes_-_001.jpg/330px-Manel_Fuentes_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Manel_Fuentes_-_001.jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "Mutari",
+      "wikidata": "http://www.wikidata.org/entity/Q3390836"
+    },
+    "jaime-bores": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Jaime_Bores.jpg/330px-Jaime_Bores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jaime_Bores.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Alejandro Slocker",
+      "wikidata": "http://www.wikidata.org/entity/Q5577498"
+    },
+    "christian-galvez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Christian_Galvez2013.jpg/330px-Christian_Galvez2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Christian_Galvez2013.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Federación Española de Asociaciones de Espina Bífida e Hidrocefalia",
+      "wikidata": "http://www.wikidata.org/entity/Q8345611"
+    },
+    "alejo-sauras": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Alejo_Sauras_Premios_Goya_2017_%28cropped%29.jpg/330px-Alejo_Sauras_Premios_Goya_2017_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Alejo_Sauras_Premios_Goya_2017_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega",
+      "wikidata": "http://www.wikidata.org/entity/Q1269332"
+    },
+    "itziar-miranda": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Itziar_Miranda_Vicente_%28Oct_2013%29%2C_cropped.jpg/330px-Itziar_Miranda_Vicente_%28Oct_2013%29%2C_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Itziar_Miranda_Vicente_(Oct_2013),_cropped.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Medialab Prado",
+      "wikidata": "http://www.wikidata.org/entity/Q9010112"
+    },
+    "jose-lamuno": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Premios_Goya_2018_-_Jos%C3%A9_Lamu%C3%B1o.jpg/330px-Premios_Goya_2018_-_Jos%C3%A9_Lamu%C3%B1o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2018_-_Jos%C3%A9_Lamu%C3%B1o.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Carlos Delgado",
+      "wikidata": "http://www.wikidata.org/entity/Q1517292"
+    },
+    "pilar-rubio": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Pilar_Rubio_2019.jpg/330px-Pilar_Rubio_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Pilar_Rubio_2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Adrian Madrid",
+      "wikidata": "http://www.wikidata.org/entity/Q3049386"
+    },
+    "daniela-santiago": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Daniela_Santiago.jpg/330px-Daniela_Santiago.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Daniela_Santiago.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "MiguelAlanCS",
+      "wikidata": "http://www.wikidata.org/entity/Q87073184"
+    },
+    "lorena-castell": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lorena_Castell_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lorena_Castell_2016.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "UPV Radiotelevisió (oficial)",
+      "wikidata": "http://www.wikidata.org/entity/Q16300386"
+    },
+    "emmanuel-esparza": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Emmanuel_Esparza.png/330px-Emmanuel_Esparza.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Emmanuel_Esparza.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Yurany2003",
+      "wikidata": "http://www.wikidata.org/entity/Q16298986"
+    },
+    "cristina-pedroche": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Cristina_Pedroche_2014.jpg/330px-Cristina_Pedroche_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Cristina_Pedroche_2014.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Acción contra el Hambre España",
+      "wikidata": "http://www.wikidata.org/entity/Q2656441"
+    },
+    "laura-londono": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Laura_Londo%C3%B1o_en_Premios_Nuestra_Tierra_2022.jpg/330px-Laura_Londo%C3%B1o_en_Premios_Nuestra_Tierra_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Laura_Londo%C3%B1o_en_Premios_Nuestra_Tierra_2022.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Maritza Ariza Periodista",
+      "wikidata": "http://www.wikidata.org/entity/Q18419575"
+    },
+    "marilo-montero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Maril%C3%B3_Montero_%28cropped%29.png/330px-Maril%C3%B3_Montero_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Maril%C3%B3_Montero_(cropped).png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "El Pantera",
+      "wikidata": "http://www.wikidata.org/entity/Q5558699"
+    },
+    "lara-alvarez": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lara_Alvarez_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lara_Alvarez_(cropped).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "20 Minutos",
+      "wikidata": "http://www.wikidata.org/entity/Q9020301"
+    },
+    "blanca-romero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Goyas_2024_-_Blanca_Romero_%28cropped%29.jpg/330px-Goyas_2024_-_Blanca_Romero_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Goyas_2024_-_Blanca_Romero_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q600852"
+    },
+    "marina-rivers": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Malaga_Film_Festival_2025_-_Marina_Rivera_02_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Marina_Rivera_02_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Marina_Rivera_02_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q111784233"
+    },
+    "fernando-andina": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Malaga_Film_Festival_2025_-_Fernando_Andina_%28cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Fernando_Andina_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Fernando_Andina_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q971795"
+    },
+    "miguel-diosdado": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Malaga_Film_Festival_2025_-_Miguel_Diosdado_%283x4_cropped%29.jpg/330px-Malaga_Film_Festival_2025_-_Miguel_Diosdado_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaga_Film_Festival_2025_-_Miguel_Diosdado_(3x4_cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q6014212"
+    },
+    "eduardo-casanova": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Eduardo_Casanova%2C_director%2C_at_the_Locarno_Film_Festival_in_Locarno%2C_Switzerland_in_August_2025_04.jpg/330px-Eduardo_Casanova%2C_director%2C_at_the_Locarno_Film_Festival_in_Locarno%2C_Switzerland_in_August_2025_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Eduardo_Casanova,_director,_at_the_Locarno_Film_Festival_in_Locarno,_Switzerland_in_August_2025_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "DavidPMaynard",
+      "wikidata": "http://www.wikidata.org/entity/Q3626210"
+    },
+    "ruben-ochandiano": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Seminci_2025_-_Rub%C3%A9n_Ochandiano-2_%28cropped%29.jpg/330px-Seminci_2025_-_Rub%C3%A9n_Ochandiano-2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Seminci_2025_-_Rub%C3%A9n_Ochandiano-2_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3446594"
+    },
+    "nerea-garmendia": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Premios_Goya_2026_-_Nerea_Garmendia_%28cropped%29.jpg/330px-Premios_Goya_2026_-_Nerea_Garmendia_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Nerea_Garmendia_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q3822308"
+    },
+    "ines-hernand": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/In%C3%A9s_Hernand_%282026%29.png/330px-In%C3%A9s_Hernand_%282026%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:In%C3%A9s_Hernand_(2026).png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "PatriHorrillo",
+      "wikidata": "http://www.wikidata.org/entity/Q110734916"
+    },
+    "vanesa-romero": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Premios_Goya_2026_-_Vanesa_Romero_%28cropped%29.jpg/330px-Premios_Goya_2026_-_Vanesa_Romero_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Vanesa_Romero_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q6159524"
+    },
+    "masi-rodriguez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/M%C3%A1laga_Film_Festival_2026_-_Masi_Rodriguez_-_2_%28cropped%29.jpg/330px-M%C3%A1laga_Film_Festival_2026_-_Masi_Rodriguez_-_2_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Film_Festival_2026_-_Masi_Rodriguez_-_2_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q110979294"
+    },
+    "jorge-sanz": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/M%C3%A1laga_Film_Festival_2026_-_Jorge_Sanz_-_4_%28cropped%29.jpg/330px-M%C3%A1laga_Film_Festival_2026_-_Jorge_Sanz_-_4_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A1laga_Film_Festival_2026_-_Jorge_Sanz_-_4_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q953237"
+    },
+    "hiba-abouk": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Premios_Goya_2026_-_Hiba_Abouk_%28cropped%29.jpg/330px-Premios_Goya_2026_-_Hiba_Abouk_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Premios_Goya_2026_-_Hiba_Abouk_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Pedro J Pacheco",
+      "wikidata": "http://www.wikidata.org/entity/Q5896998"
     }
   }
 }
