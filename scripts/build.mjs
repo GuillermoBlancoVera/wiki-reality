@@ -338,7 +338,7 @@ for (const id of allIds) {
     body: `
 <nav class="crumbs"><a href="${url('personas/')}">Personas</a> › ${esc(p.name)}</nav>
 <section class="profile">
-  <figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>
+  ${!photos[id] && getty[id] ? `<figure class="profile-photo"><div class="avatar big has-photo getty-circle"><iframe src="${esc(getty[id].src)}" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></div><figcaption>Foto: <a href="https://www.gettyimages.es/detail/${esc(getty[id].id)}" rel="noopener nofollow" target="_blank">Getty Images</a></figcaption></figure>` : `<figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>`}
   <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}
   ${socials ? `<ul class="socials">${socials}</ul>` : ''}</div>
 </section>

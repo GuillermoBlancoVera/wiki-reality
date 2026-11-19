@@ -219,3 +219,6 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .getty-frame iframe { width: 100%; height: 100%; border: 0; display: block; }
 .getty-embed figcaption { font-size: .72rem; color: var(--muted); margin-top: .35rem; }
 .getty-embed figcaption a { color: var(--muted); }
+/* Visor de Getty recortado en el círculo del perfil */
+.avatar.big.getty-circle { width: 140px; height: 140px; position: relative; display: block; }
+.getty-circle iframe { position: absolute; top: 0; left: 50%; width: 135%; transform: translateX(-50%); border: 0; pointer-events: none; }
