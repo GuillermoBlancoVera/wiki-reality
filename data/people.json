@@ -416,53 +416,89 @@
       "name": "Miguel"
     },
     "leila-isla-10": {
-      "name": "Leila",
+      "name": "Leila León",
       "related": [
         {
           "id": "david-tentador-isla-10",
           "relation": "Salieron juntos de la hoguera final (La Isla, 10.ª edición)"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/leeilaleonn/"
+      }
     },
     "ataman-isla-10": {
-      "name": "Atamán"
+      "name": "Atamán Cabañas",
+      "socials": {
+        "instagram": "https://www.instagram.com/atamancbs/"
+      }
     },
     "gema-isla-11": {
-      "name": "Gema"
+      "name": "Gema",
+      "socials": {
+        "instagram": "https://www.instagram.com/gemaderocio/"
+      }
     },
     "ruben-isla-11": {
-      "name": "Rubén"
+      "name": "Rubén",
+      "socials": {
+        "instagram": "https://www.instagram.com/ruben.dece/"
+      }
     },
     "paola-isla-11": {
-      "name": "Paola"
+      "name": "Paola",
+      "socials": {
+        "instagram": "https://www.instagram.com/paolagarciaprzz/"
+      }
     },
     "sergio-isla-11": {
-      "name": "Sergio"
+      "name": "Sergio",
+      "socials": {
+        "instagram": "https://www.instagram.com/sergiopancor/"
+      }
     },
     "nayades-isla-11": {
-      "name": "Náyades",
+      "name": "Náyades Lospitao",
       "related": [
         {
           "id": "andrea-isla-11",
           "relation": "Salieron juntos de la hoguera final (La Isla, 11.ª edición)"
         }
       ],
-      "igPost": "https://www.instagram.com/p/DefFhdBoTO8/"
+      "igPost": "https://www.instagram.com/p/DefFhdBoTO8/",
+      "socials": {
+        "instagram": "https://www.instagram.com/nayadeslospitaoo/"
+      }
     },
     "nacho-de-borbon": {
-      "name": "Nacho de Borbón"
+      "name": "Nacho de Borbón",
+      "socials": {
+        "instagram": "https://www.instagram.com/nachodeborbon/"
+      }
     },
     "paula-isla-11": {
-      "name": "Paula"
+      "name": "Paula Lily",
+      "socials": {
+        "instagram": "https://www.instagram.com/paulalilyyy/"
+      }
     },
     "kico-isla-11": {
-      "name": "Kico"
+      "name": "Kico Sampol",
+      "socials": {
+        "instagram": "https://www.instagram.com/kicosampol/"
+      }
     },
     "isa-isla-11": {
-      "name": "Isa"
+      "name": "Isa Pérez",
+      "socials": {
+        "instagram": "https://www.instagram.com/isaper33/"
+      }
     },
     "nando-isla-11": {
-      "name": "Nando"
+      "name": "Nando Pérez",
+      "socials": {
+        "instagram": "https://www.instagram.com/nando_perez_4/"
+      }
     },
     "mara-isla-11": {
       "name": "Mara"
@@ -2598,28 +2634,52 @@
       "name": "Fran"
     },
     "nerea-isla-10": {
-      "name": "Nerea"
+      "name": "Nerea Villanueva",
+      "socials": {
+        "instagram": "https://www.instagram.com/nereavimi_/"
+      }
     },
     "jose-isla-10": {
-      "name": "José"
+      "name": "José Bougo",
+      "socials": {
+        "instagram": "https://www.instagram.com/josebougo/"
+      }
     },
     "mar-isla-10": {
-      "name": "Mar"
+      "name": "Mar Ruiz",
+      "socials": {
+        "instagram": "https://www.instagram.com/mdelmaruiz/"
+      }
     },
     "christian-isla-10": {
-      "name": "Christian"
+      "name": "Christian Hernández",
+      "socials": {
+        "instagram": "https://www.instagram.com/chriistiaanh15/"
+      }
     },
     "julia-garrigos": {
-      "name": "Julia Garrigós"
+      "name": "Julia Garrigós",
+      "socials": {
+        "instagram": "https://www.instagram.com/juliagarrigos/"
+      }
     },
     "luis-caparros": {
-      "name": "Luis Caparrós"
+      "name": "Luis Caparrós",
+      "socials": {
+        "instagram": "https://www.instagram.com/luiscapa_/"
+      }
     },
     "ainhoa-isla-10": {
-      "name": "Ainhoa"
+      "name": "Ainhoa Gómez",
+      "socials": {
+        "instagram": "https://www.instagram.com/nhoagomez/"
+      }
     },
     "alex-isla-10": {
-      "name": "Álex"
+      "name": "Álex Palau",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexpalau_/"
+      }
     }
   }
 }
