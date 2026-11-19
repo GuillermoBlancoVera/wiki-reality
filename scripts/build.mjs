@@ -117,7 +117,9 @@ const socialsOf = (id) => { const { source, ...rest } = { ...(autoSocials[id] ??
 
 // ---------- parejas ----------
 const outcomeClass = (o = '') => /juntos|juntas/i.test(o) && !/separado/i.test(o) ? 'juntos' : /separad|rompi|abandon/i.test(o) ? 'separados' : '';
-const coupleStory = (c) => c.story ? `<p class="story">${esc(c.story)}</p>${c.storySource ? `<p class="story-source">Fuente: <a href="${esc(c.storySource)}" rel="noopener nofollow" target="_blank">${esc(new URL(c.storySource).hostname.replace(/^www\./, ''))}</a></p>` : ''}` : '';
+const srcLink = (u) => u ? `<p class="story-source">Fuente: <a href="${esc(u)}" rel="noopener nofollow" target="_blank">${esc(new URL(u).hostname.replace(/^www\./, ''))}</a></p>` : '';
+const coupleBackground = (c) => c.background ? `<p class="story"><strong>Por qué fueron a la isla:</strong> ${esc(c.background)}</p>${srcLink(c.backgroundSource)}` : '';
+const coupleStory = (c) => coupleBackground(c) + (c.story ? `<p class="story">${esc(c.story)}</p>${srcLink(c.storySource)}` : '');
 const coupleBlock = (c, extra = '') => `
     <div class="couple">
       <div class="couple-head">
@@ -227,7 +229,7 @@ const page = (path, html) => { pages[path] = html; };
       <div class="avatars"><span class="avatar">${esc(initials(person(c.a).name))}</span><span class="avatar">${esc(initials(person(c.b).name))}</span></div>
       <div class="person-name">${esc(person(c.a).name)} y ${esc(person(c.b).name)}</div>
       <div class="person-sub">${esc(e.title)} · ${e.year}</div>
-      ${c.story ? `<div class="story-snippet">${esc(c.story)}</div>` : ''}
+      ${(c.background || c.story) ? `<div class="story-snippet">${esc(c.background || c.story)}</div>` : ''}
     </a>`));
   const featured = realities[0];
   const body = `

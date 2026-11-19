@@ -282,23 +282,8 @@
     "ismael-isla-1": {
       "name": "Ismael"
     },
-    "angel-isla-2": {
-      "name": "Ángel"
-    },
-    "inma-isla-2": {
-      "name": "Inma"
-    },
-    "patri-perez": {
-      "name": "Patri Pérez"
-    },
     "alessandro-livi": {
       "name": "Alessandro Livi"
-    },
-    "melodie-isla-2": {
-      "name": "Melodie"
-    },
-    "cristian-isla-2": {
-      "name": "Cristian"
     },
     "pablo-moya": {
       "name": "Pablo Moya"
@@ -345,59 +330,17 @@
     "sandra-ferriz": {
       "name": "Sandra Férriz"
     },
-    "dario-isla-4": {
-      "name": "Darío"
-    },
-    "rosario-isla-4": {
-      "name": "Rosario"
-    },
-    "alvaro-isla-4": {
-      "name": "Álvaro"
-    },
-    "gal-la-isla-4": {
-      "name": "Gal·la"
-    },
-    "nico-isla-4": {
-      "name": "Nico"
-    },
     "zoe-mba": {
       "name": "Zoe Mba"
     },
     "josue-bernal": {
       "name": "Josué Bernal"
     },
-    "tania-isla-4": {
-      "name": "Tania"
-    },
-    "alejandro-isla-4": {
-      "name": "Alejandro"
-    },
-    "claudia-isla-5": {
-      "name": "Claudia"
-    },
-    "javi-isla-5": {
-      "name": "Javi"
-    },
     "alvaro-boix": {
       "name": "Álvaro Boix"
     },
-    "paola-isla-5": {
-      "name": "Paola"
-    },
-    "andreu-isla-5": {
-      "name": "Andreu"
-    },
-    "sara-isla-5": {
-      "name": "Sara"
-    },
-    "manu-isla-5": {
-      "name": "Manu"
-    },
     "tania-isla-5": {
       "name": "Tania"
-    },
-    "samuel-isla-5": {
-      "name": "Samuel"
     },
     "ana-isla-5": {
       "name": "Ana"
@@ -408,15 +351,6 @@
     "laura-isla-5": {
       "name": "Laura"
     },
-    "mario-isla-5": {
-      "name": "Mario"
-    },
-    "elena-isla-6": {
-      "name": "Elena"
-    },
-    "david-isla-6": {
-      "name": "David"
-    },
     "alex-girona": {
       "name": "Álex Girona",
       "related": [
@@ -425,12 +359,6 @@
           "relation": "Salieron juntos de la hoguera final (La Isla, 7.ª edición)"
         }
       ]
-    },
-    "mariona-isla-7": {
-      "name": "Mariona"
-    },
-    "adrian-isla-7": {
-      "name": "Adrián"
     },
     "maria-aguilar": {
       "name": "María Aguilar"
@@ -453,9 +381,6 @@
     "alba-casillas": {
       "name": "Alba Casillas"
     },
-    "roberto-isla-7": {
-      "name": "Roberto"
-    },
     "andrea-isla-7": {
       "name": "Andrea"
     },
@@ -477,20 +402,11 @@
     "alba-isla-8": {
       "name": "Alba"
     },
-    "alvaro-isla-8": {
-      "name": "Álvaro"
-    },
     "alba-isla-10": {
       "name": "Alba"
     },
     "david-isla-10": {
       "name": "David"
-    },
-    "yuli-isla-10": {
-      "name": "Yuli"
-    },
-    "lucas-isla-10": {
-      "name": "Lucas"
     },
     "bayan-isla-10": {
       "name": "Bayan"
@@ -1984,9 +1900,6 @@
     "nacho-palau": {
       "name": "Nacho Palau"
     },
-    "ignacio-de-borbon": {
-      "name": "Ignacio de Borbón"
-    },
     "ana-luque": {
       "name": "Ana Luque"
     },
@@ -2604,6 +2517,102 @@
     },
     "alex-de-la-croix": {
       "name": "Álex de la Croix"
+    },
+    "patry-guimeras": {
+      "name": "Patry Guimeras"
+    },
+    "inma-campano": {
+      "name": "Inma Campano"
+    },
+    "angel-de-los-santos": {
+      "name": "Ángel de los Santos"
+    },
+    "melodie-penalver": {
+      "name": "Melodie Peñalver"
+    },
+    "cristian-jerez": {
+      "name": "Cristian Jerez"
+    },
+    "dario-selles": {
+      "name": "Darío Sellés"
+    },
+    "rosario-cerdan": {
+      "name": "Rosario Cerdán"
+    },
+    "gal-la-mora": {
+      "name": "Gal·la Mora"
+    },
+    "nico-craiu": {
+      "name": "Nico Craiu"
+    },
+    "javi-redondo": {
+      "name": "Javi Redondo"
+    },
+    "paola-monzani": {
+      "name": "Paola Monzani"
+    },
+    "andreu-martorell": {
+      "name": "Andreu Martorell"
+    },
+    "sara-garcia": {
+      "name": "Sara García"
+    },
+    "manu-ubeda": {
+      "name": "Manu Úbeda"
+    },
+    "samuel-chavez": {
+      "name": "Samuel Chávez"
+    },
+    "elena-adsuara": {
+      "name": "Elena Adsuara"
+    },
+    "mariona-ferre": {
+      "name": "Mariona Ferré"
+    },
+    "adrian-aguado": {
+      "name": "Adrián Aguado"
+    },
+    "rober": {
+      "name": "Rober"
+    },
+    "lucas-mera": {
+      "name": "Lucas Mera"
+    },
+    "yuli-cagna": {
+      "name": "Yuli Cagna"
+    },
+    "gerard-isla-8": {
+      "name": "Gerard"
+    },
+    "ana-isla-8": {
+      "name": "Ana"
+    },
+    "fran-isla-8": {
+      "name": "Fran"
+    },
+    "nerea-isla-10": {
+      "name": "Nerea"
+    },
+    "jose-isla-10": {
+      "name": "José"
+    },
+    "mar-isla-10": {
+      "name": "Mar"
+    },
+    "christian-isla-10": {
+      "name": "Christian"
+    },
+    "julia-garrigos": {
+      "name": "Julia Garrigós"
+    },
+    "luis-caparros": {
+      "name": "Luis Caparrós"
+    },
+    "ainhoa-isla-10": {
+      "name": "Ainhoa"
+    },
+    "alex-isla-10": {
+      "name": "Álex"
     }
   }
 }
