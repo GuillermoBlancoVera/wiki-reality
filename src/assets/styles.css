@@ -1,7 +1,7 @@
 /* ==========================================================
    Diseño común: claro y editorial.
    Las paletas de la portada se eligen con data-palette en <html>
-   (ver /paletas/). Cada reality tiene su propio tema (.theme-*).
+   (fijada en data/site.json: arena). Cada reality tiene su propio tema (.theme-*).
    ========================================================== */
 :root, [data-palette="arena"] {
   --bg: #faf7f2; --surface: #ffffff; --surface-2: #f2ede4; --border: #e7e0d4;

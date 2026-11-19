@@ -149,7 +149,7 @@ function layout({ title, description, body, theme = 'home', path = '' }) {
   return `<!DOCTYPE html>
 <html lang="es" data-palette="${esc(site.palette ?? 'arena')}">
 <head>
-<script>(function(){try{var p=new URLSearchParams(location.search).get("paleta");if(p)localStorage.setItem("paleta",p);p=p||localStorage.getItem("paleta");if(p)document.documentElement.dataset.palette=p}catch(e){}})()</script>
+<script>try{localStorage.removeItem("paleta")}catch(e){}</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
@@ -374,25 +374,6 @@ page('aviso-legal/', layout({
 <p>Si apareces en esta web y quieres corregir o retirar información, escríbenos${site.contactEmail ? ` a <a href="mailto:${esc(site.contactEmail)}">${esc(site.contactEmail)}</a>` : ' (dirección de contacto pendiente de configurar)'}. Atendemos las solicitudes lo antes posible.</p>
 <p>Marcas como Gran Hermano, Supervivientes o La isla de las tentaciones pertenecen a sus titulares. Esta web no está afiliada a ninguna cadena ni productora.</p></section>`,
 }));
-
-// Propuestas de paleta para la portada
-{
-  const palettes = [
-    ['arena', 'Arena', 'Crema cálido con terracota y verde agua. Cercana y veraniega.', ['#faf7f2', '#1f2328', '#c2410c', '#0f766e', '#fde7d6']],
-    ['brisa', 'Brisa', 'Blanco limpio con coral y azul. Fresca, tipo revista de verano.', ['#f7fafc', '#0f172a', '#e85d4a', '#2563eb', '#ffe1db']],
-    ['plato', 'Plató', 'Gris claro con índigo y rosa. Recuerda a un plató de televisión.', ['#f6f5f3', '#18181b', '#4f46e5', '#db2777', '#e0e7ff']],
-    ['verano', 'Verano', 'Marfil con verde y mango. Natural, con guiño a la isla.', ['#fbfaf5', '#1c2a1f', '#15803d', '#d97706', '#dcfce7']],
-  ];
-  page('paletas/', layout({
-    title: 'Paletas de color', path: 'paletas/',
-    body: `<section class="block"><h1>Paletas de color para la portada</h1>
-<p class="muted">Pulsa en una para ver la portada con esos colores. La elección se recuerda mientras navegas, para que puedas ver toda la web con ella.</p>
-<div class="palettes">${palettes.map(([id, name, text, sw]) => `<div class="palette" data-palette="${id}" style="background:${sw[0]}">
-  <div class="palette-preview" style="color:${sw[1]}"><h3>${name}</h3><p class="small" style="color:${sw[1]};opacity:.75">${text}</p>
-  <div class="swatches">${sw.map((c) => `<span style="background:${c}" title="${c}"></span>`).join('')}</div></div>
-  <a class="btn" style="background:${sw[2]}" href="${url('')}?paleta=${id}">Probar ${name}</a></div>`).join('')}</div></section>`,
-  }));
-}
 
 page('404.html', layout({ title: 'Página no encontrada', body: `<section class="block"><h1>Página no encontrada</h1><p><a href="${url()}">Volver al inicio</a></p></section>` }));
 
