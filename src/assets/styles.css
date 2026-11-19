@@ -163,3 +163,17 @@ main { min-height: 70vh; }
   .poster, .row-posters .poster { width: 160px; }
 }
 .edition-num.long { font-size: 1.3rem; white-space: nowrap; }
+
+/* Fichas: descripción, redes y relacionados */
+.bio { max-width: 720px; margin: .4rem 0 .8rem; }
+.socials { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
+.social { display: inline-block; padding: .35rem .8rem; border-radius: 999px; background: var(--surface-2); text-decoration: none; font-weight: 600; font-size: .85rem; }
+.social:hover { background: var(--accent); color: var(--accent-fg); }
+.social-instagram { background: linear-gradient(45deg, #f58529, #dd2a7b, #8134af); color: #fff; }
+.social-youtube { background: #ff0000; color: #fff; }
+.social-tiktok { background: #000; color: #fff; border: 1px solid #25f4ee; }
+.related { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: .7rem; }
+.related-card { display: flex; gap: .8rem; align-items: center; padding: .7rem .9rem; background: var(--surface); border-radius: var(--radius); text-decoration: none; }
+.related-card:hover { background: var(--surface-2); }
+.related-card .avatar { width: 44px; height: 44px; font-size: .9rem; margin: 0; flex: 0 0 auto; }
+.related-card small { display: block; color: var(--muted); font-size: .78rem; }

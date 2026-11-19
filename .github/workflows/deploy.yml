@@ -29,14 +29,18 @@ jobs:
         if: github.event_name != 'push'
         run: node scripts/update-news.mjs
 
-      - name: Guardar noticias en el repo
+      - name: Actualizar redes sociales (Wikidata)
+        if: github.event_name != 'push'
+        run: node scripts/update-socials.mjs
+
+      - name: Guardar noticias y redes en el repo
         if: github.event_name != 'push'
         run: |
-          if ! git diff --quiet data/news.json; then
+          if ! git diff --quiet data/; then
             git config user.name "wiki-reality-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data/news.json
-            git commit -m "Noticias: actualización diaria"
+            git add data/news.json data/socials.json
+            git commit -m "Noticias y redes: actualización diaria"
             git push
           fi
 

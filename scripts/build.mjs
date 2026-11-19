@@ -15,6 +15,8 @@ const readJson = (p) => JSON.parse(readFileSync(p, 'utf8'));
 const site = readJson(join(DATA, 'site.json'));
 const { people } = readJson(join(DATA, 'people.json'));
 const news = readJson(join(DATA, 'news.json'));
+let autoSocials = {};
+try { autoSocials = readJson(join(DATA, 'socials.json')).people ?? {}; } catch {}
 const realityFiles = readdirSync(join(DATA, 'realities')).filter((f) => f.endsWith('.json'));
 const realitiesById = Object.fromEntries(
   realityFiles.map((f) => { const r = readJson(join(DATA, 'realities', f)); return [r.id, r]; })
@@ -63,6 +65,55 @@ for (const [id, p] of Object.entries(people)) {
     (appearances[id] ??= []).push({ reality: x.reality, realityName: r?.name ?? x.reality, label: x.label, role: x.role, href: r ? url(`${r.id}/`) : null });
   }
 }
+
+// ---------- personas relacionadas ----------
+const related = {}; // id -> Map(otherId -> [textos])
+const relate = (a, b, text) => {
+  if (!people[a] || !people[b] || a === b) return;
+  const m = (related[a] ??= new Map());
+  if (!m.has(b)) m.set(b, []);
+  if (!m.get(b).includes(text)) m.get(b).push(text);
+};
+for (const r of realities) {
+  for (const e of r.editions) {
+    const ed = `${e.title}${r.id === 'la-isla-de-las-tentaciones' ? '' : ''}`;
+    for (const c of e.couples ?? []) {
+      relate(c.a, c.b, `Pareja con la que entró en ${r.short} · ${ed}`);
+      relate(c.b, c.a, `Pareja con la que entró en ${r.short} · ${ed}`);
+      for (const t of c.tempters ?? []) {
+        for (const x of [c.a, c.b]) { relate(x, t, `Tentador/a en ${r.short} · ${ed}`); relate(t, x, `Participó como tentador/a en su edición (${ed})`); }
+      }
+    }
+    const top = [e.winner, ...(e.finalists ?? [])].filter(Boolean);
+    for (const a of top) for (const b of top) if (a !== b) relate(a, b, `Finalistas de ${e.title}`);
+  }
+}
+for (const [id, p] of Object.entries(people)) {
+  for (const x of p.related ?? []) { person(x.id); relate(id, x.id, x.relation); relate(x.id, id, x.reverse ?? x.relation); }
+}
+
+// ---------- descripción automática (solo hechos de los programas) ----------
+const listJoin = (arr) => arr.length <= 1 ? (arr[0] ?? '') : `${arr.slice(0, -1).join(', ')} y ${arr.at(-1)}`;
+function autoDescription(id) {
+  const p = people[id];
+  const apps = appearances[id] ?? [];
+  if (!apps.length) return '';
+  const realityNames = [...new Set(apps.map((a) => a.realityName))];
+  const wins = apps.filter((a) => a.role === 'Ganador/a').map((a) => `${a.label}${a.year ? ` (${a.year})` : ''}`);
+  const podium = apps.filter((a) => /puesto$/.test(a.role)).map((a) => `${a.role.replace(' puesto', '')} en ${a.label}`);
+  const couples = apps.filter((a) => a.role.startsWith('Pareja de ')).map((a) => `con ${a.role.slice(10)} en la ${a.label}`);
+  const tempter = apps.filter((a) => /^Tentador/.test(a.role)).map((a) => a.label);
+  const parts = [`${p.name} ha participado en ${listJoin(realityNames)}${apps.length > 1 ? ` (${apps.length} apariciones)` : ''}.`];
+  if (wins.length) parts.push(`Ganó ${listJoin(wins)}.`);
+  if (podium.length) parts.push(`Quedó ${listJoin(podium)}.`);
+  if (couples.length) parts.push(`${realityNames.length > 1 ? 'En La isla de las tentaciones entró' : 'Entró'} ${listJoin(couples)}.`);
+  if (tempter.length) parts.push(`Fue tentador/a en ${listJoin(tempter)}.`);
+  return parts.join(' ');
+}
+
+// ---------- redes sociales ----------
+const SOCIAL_LABELS = { instagram: 'Instagram', youtube: 'YouTube', tiktok: 'TikTok', x: 'X (Twitter)', facebook: 'Facebook', twitch: 'Twitch', web: 'Web' };
+const socialsOf = (id) => ({ ...(autoSocials[id] ?? {}), ...(people[id].socials ?? {}) });
 
 // ---------- plantillas ----------
 const logo = `<a class="logo" href="${url()}">WIKI<span>REALITY</span></a>`;
@@ -248,21 +299,26 @@ for (const id of allIds) {
   const p = people[id];
   const apps = appearances[id] ?? [];
   const firstTheme = realitiesById[apps[0]?.reality]?.theme ?? 'home';
-  const socials = Object.entries(p.socials ?? {}).map(([k, v]) => `<li><a href="${esc(v)}" rel="noopener nofollow" target="_blank">${esc(k)}</a></li>`).join('');
+  const socials = Object.entries(socialsOf(id)).filter(([, v]) => v).map(([k, v]) => `<li><a class="social social-${esc(k)}" href="${esc(v)}" rel="noopener nofollow" target="_blank">${esc(SOCIAL_LABELS[k] ?? k)}</a></li>`).join('');
+  const rel = [...(related[id] ?? new Map())];
+  const desc = p.bio ?? autoDescription(id);
   page(`personas/${id}/`, layout({
     title: p.name, theme: firstTheme, path: `personas/${id}/`,
-    description: `${p.name}: su paso por ${[...new Set(apps.map((a) => a.realityName))].join(', ') || 'los realities'}.`,
+    description: desc || `${p.name}: su paso por los realities.`,
     body: `
 <nav class="crumbs"><a href="${url('personas/')}">Personas</a> › ${esc(p.name)}</nav>
 <section class="profile">
   <div class="avatar big" aria-hidden="true">${esc(initials(p.name))}</div>
-  <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${p.bio ? `<p>${esc(p.bio)}</p>` : ''}</div>
+  <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}
+  ${socials ? `<ul class="socials">${socials}</ul>` : ''}</div>
 </section>
 <section class="block"><h2>Paso por los realities</h2>
   <ul class="timeline">${apps.map((a) => `<li><span class="tl-reality">${esc(a.realityName)}</span> ${a.href ? `<a href="${a.href}">${esc(a.label)}</a>` : esc(a.label)}${a.year ? ` (${a.year})` : ''} · <span class="muted">${esc(a.role)}</span></li>`).join('')}</ul>
 </section>
 ${p.now ? `<section class="block"><h2>En la actualidad</h2><p>${esc(p.now)}</p><p class="muted">Según sus redes públicas.</p></section>` : ''}
-${socials ? `<section class="block"><h2>Redes</h2><ul class="socials">${socials}</ul></section>` : ''}
+${rel.length ? `<section class="block"><h2>Personas relacionadas</h2><div class="related">${rel.map(([oid, texts]) => `
+  <a class="related-card" href="${url(`personas/${oid}/`)}"><span class="avatar">${esc(initials(people[oid].name))}</span>
+  <span><strong>${esc(people[oid].name)}</strong>${texts.map((t) => `<small>${esc(t)}</small>`).join('')}</span></a>`).join('')}</div></section>` : ''}
 <p class="block muted small">¿Eres esta persona y quieres corregir o retirar datos? <a href="${url('aviso-legal/')}">Escríbenos</a>.</p>`,
   }));
 }

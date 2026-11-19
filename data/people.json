@@ -1,5 +1,5 @@
 {
-  "_doc": "Fichas de persona. Solo hechos públicos sobre su paso por los programas. Campos opcionales: bio, origin, now (solo lo que la persona cuenta en sus redes públicas), socials {instagram, tiktok, x}, extraAppearances.",
+  "_doc": "Fichas de persona. Solo hechos públicos sobre su paso por los programas. Campos opcionales: bio (sustituye a la descripción automática), origin, now (solo lo que la persona cuenta en sus redes públicas), socials {instagram, youtube, tiktok, x, web} (URL completa; tiene prioridad sobre data/socials.json), related [{id, relation, reverse?}], extraAppearances.",
   "people": {
     "alex-bueno": {
       "name": "Álex Bueno"
@@ -154,7 +154,13 @@
       "name": "Natacha Jaitt"
     },
     "pepe-herrero": {
-      "name": "Pepe Herrero"
+      "name": "Pepe Herrero",
+      "related": [
+        {
+          "id": "raquel-lopez",
+          "relation": "Ganaron juntos Gran Hermano: El Reencuentro (2010)"
+        }
+      ]
     },
     "javier-varela": {
       "name": "Javier Varela"
@@ -412,7 +418,13 @@
       "name": "David"
     },
     "alex-girona": {
-      "name": "Álex Girona"
+      "name": "Álex Girona",
+      "related": [
+        {
+          "id": "gabriela-isla-7",
+          "relation": "Salieron juntos de la hoguera final (La Isla, 7.ª edición)"
+        }
+      ]
     },
     "mariona-isla-7": {
       "name": "Mariona"
@@ -451,7 +463,13 @@
       "name": "Álvaro"
     },
     "bayan-isla-8": {
-      "name": "Bayan"
+      "name": "Bayan",
+      "related": [
+        {
+          "id": "ruben-torres",
+          "relation": "Salieron juntos de la hoguera final (La Isla, 8.ª edición)"
+        }
+      ]
     },
     "eros-isla-8": {
       "name": "Eros"
@@ -481,7 +499,13 @@
       "name": "Miguel"
     },
     "leila-isla-10": {
-      "name": "Leila"
+      "name": "Leila",
+      "related": [
+        {
+          "id": "david-tentador-isla-10",
+          "relation": "Salieron juntos de la hoguera final (La Isla, 10.ª edición)"
+        }
+      ]
     },
     "ataman-isla-10": {
       "name": "Atamán"
@@ -499,7 +523,13 @@
       "name": "Sergio"
     },
     "nayades-isla-11": {
-      "name": "Náyades"
+      "name": "Náyades",
+      "related": [
+        {
+          "id": "andrea-isla-11",
+          "relation": "Salieron juntos de la hoguera final (La Isla, 11.ª edición)"
+        }
+      ]
     },
     "nacho-de-borbon": {
       "name": "Nacho de Borbón"
@@ -532,7 +562,13 @@
       "name": "Marina López"
     },
     "alex-sanchez": {
-      "name": "Álex Sánchez"
+      "name": "Álex Sánchez",
+      "related": [
+        {
+          "id": "yaiza-isla-6",
+          "relation": "Salieron juntos de la hoguera final (La Isla, 6.ª edición)"
+        }
+      ]
     },
     "naomi-asensi": {
       "name": "Naomi Asensi"
@@ -565,7 +601,13 @@
       "name": "Joel"
     },
     "sandra-barrios": {
-      "name": "Sandra Barrios"
+      "name": "Sandra Barrios",
+      "related": [
+        {
+          "id": "andrea-canel",
+          "relation": "Salieron juntas de la hoguera final (La Isla, 9.ª edición)"
+        }
+      ]
     },
     "juanpi-vega": {
       "name": "Juanpi Vega"
@@ -577,7 +619,13 @@
       "name": "Lorenzo Ayala"
     },
     "helena-arauz": {
-      "name": "Helena Arauz"
+      "name": "Helena Arauz",
+      "related": [
+        {
+          "id": "albert-barranco",
+          "relation": "Helena eligió a Albert en la 9.ª edición de La Isla"
+        }
+      ]
     },
     "rodri-lopez": {
       "name": "Rodri López"
@@ -665,7 +713,13 @@
       "name": "Raquel López"
     },
     "juan-miguel-martinez": {
-      "name": "Juan Miguel Martínez"
+      "name": "Juan Miguel Martínez",
+      "related": [
+        {
+          "id": "yola-berrocal",
+          "relation": "Ganaron juntos El Reencuentro: 10 años después (2011)"
+        }
+      ]
     },
     "yola-berrocal": {
       "name": "Yola Berrocal"
@@ -750,6 +804,56 @@
     },
     "omar-sanchez": {
       "name": "Omar Sánchez"
+    },
+    "yaiza-isla-6": {
+      "name": "Yaiza",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "6.ª edición (2023)",
+          "role": "Tentadora"
+        }
+      ]
+    },
+    "gabriela-isla-7": {
+      "name": "Gabriela",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "7.ª edición (2024)",
+          "role": "Tentadora"
+        }
+      ]
+    },
+    "albert-barranco": {
+      "name": "Albert Barranco",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "9.ª edición (2025)",
+          "role": "Tentador"
+        }
+      ]
+    },
+    "andrea-isla-11": {
+      "name": "Andrea",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "11.ª edición (2026)",
+          "role": "Soltera/o"
+        }
+      ]
+    },
+    "david-tentador-isla-10": {
+      "name": "David",
+      "extraAppearances": [
+        {
+          "reality": "la-isla-de-las-tentaciones",
+          "label": "10.ª edición (2026)",
+          "role": "Soltero"
+        }
+      ]
     }
   }
 }
