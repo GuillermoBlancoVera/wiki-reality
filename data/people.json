@@ -325,7 +325,8 @@
       "name": "Lucía Sánchez"
     },
     "manuel-gonzalez": {
-      "name": "Manuel González"
+      "name": "Manuel González",
+      "socialsAuto": false
     },
     "sandra-ferriz": {
       "name": "Sandra Férriz"
@@ -803,7 +804,8 @@
       "name": "Israel"
     },
     "maria-jose": {
-      "name": "María José"
+      "name": "María José",
+      "socialsAuto": false
     },
     "angel-gh-2": {
       "name": "Ángel"
