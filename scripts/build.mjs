@@ -113,7 +113,26 @@ function autoDescription(id) {
 
 // ---------- redes sociales ----------
 const SOCIAL_LABELS = { instagram: 'Instagram', youtube: 'YouTube', tiktok: 'TikTok', x: 'X (Twitter)', facebook: 'Facebook', twitch: 'Twitch', web: 'Web' };
-const socialsOf = (id) => ({ ...(autoSocials[id] ?? {}), ...(people[id].socials ?? {}) });
+const socialsOf = (id) => { const { source, ...rest } = { ...(autoSocials[id] ?? {}), ...(people[id].socials ?? {}) }; return rest; };
+
+// ---------- parejas ----------
+const outcomeClass = (o = '') => /juntos|juntas/i.test(o) && !/separado/i.test(o) ? 'juntos' : /separad|rompi|abandon/i.test(o) ? 'separados' : '';
+const coupleStory = (c) => c.story ? `<p class="story">${esc(c.story)}</p>${c.storySource ? `<p class="story-source">Fuente: <a href="${esc(c.storySource)}" rel="noopener nofollow" target="_blank">${esc(new URL(c.storySource).hostname.replace(/^www\./, ''))}</a></p>` : ''}` : '';
+const coupleBlock = (c, extra = '') => `
+    <div class="couple">
+      <div class="couple-head">
+        <div class="avatars"><span class="avatar">${esc(initials(person(c.a).name))}</span><span class="avatar">${esc(initials(person(c.b).name))}</span></div>
+        <div>${personLink(c.a)} y ${personLink(c.b)}${extra}
+          ${c.tempters?.length ? `<div class="person-sub">Tentadores: ${c.tempters.map(personLink).join(', ')}</div>` : ''}
+          <span class="outcome ${outcomeClass(c.outcome)}">${esc(c.outcome ?? 'Hoguera final: pendiente de completar')}</span></div>
+      </div>
+      ${coupleStory(c)}
+    </div>`;
+// historias por persona
+const coupleOf = {};
+for (const r of realities) for (const e of r.editions) for (const c of e.couples ?? []) {
+  for (const id of [c.a, c.b]) (coupleOf[id] ??= []).push({ r, e, c });
+}
 
 // ---------- plantillas ----------
 const logo = `<a class="logo" href="${url()}">WIKI<span>REALITY</span></a>`;
@@ -126,8 +145,9 @@ const searchBox = `
 function layout({ title, description, body, theme = 'home', path = '' }) {
   const fullTitle = title ? `${title} · ${site.name}` : `${site.name} · ${site.tagline}`;
   return `<!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-palette="${esc(site.palette ?? 'arena')}">
 <head>
+<script>(function(){try{var p=new URLSearchParams(location.search).get("paleta");if(p)localStorage.setItem("paleta",p);p=p||localStorage.getItem("paleta");if(p)document.documentElement.dataset.palette=p}catch(e){}})()</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
@@ -138,7 +158,7 @@ function layout({ title, description, body, theme = 'home', path = '' }) {
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@400;600;800&family=Pacifico&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${url('assets/styles.css')}">
 </head>
 <body class="theme-${theme}" data-base="${BASE}">
@@ -163,7 +183,7 @@ ${body}
 // Carátula generada con CSS + SVG (sin fotos de cadenas ni de redes)
 const posterArt = {
   isla: `<svg viewBox="0 0 200 300" aria-hidden="true"><circle cx="100" cy="150" r="55" fill="#ffd27a" opacity=".9"/><rect y="190" width="200" height="110" fill="#0b6e7a" opacity=".85"/><path d="M40 300 C45 230 50 200 60 170" stroke="#1d1b26" stroke-width="7" fill="none"/><path d="M60 170 c-30 -5 -45 5 -55 20 M60 170 c-10 -25 -30 -30 -45 -28 M60 170 c20 -20 40 -20 55 -10 M60 170 c25 0 40 10 45 25" stroke="#1d1b26" stroke-width="6" fill="none" stroke-linecap="round"/></svg>`,
-  gh: `<svg viewBox="0 0 200 300" aria-hidden="true"><ellipse cx="100" cy="140" rx="75" ry="42" fill="none" stroke="#7ad7ff" stroke-width="5"/><circle cx="100" cy="140" r="28" fill="#7ad7ff"/><circle cx="100" cy="140" r="12" fill="#06122b"/><circle cx="108" cy="132" r="5" fill="#fff"/></svg>`,
+  gh: `<svg viewBox="0 0 200 300" aria-hidden="true"><ellipse cx="100" cy="140" rx="75" ry="42" fill="none" stroke="#1d4ed8" stroke-width="5"/><circle cx="100" cy="140" r="28" fill="#3b82f6"/><circle cx="100" cy="140" r="12" fill="#10264f"/><circle cx="108" cy="132" r="5" fill="#fff"/></svg>`,
   superv: `<svg viewBox="0 0 200 300" aria-hidden="true"><path d="M100 70 C125 110 140 130 120 165 C135 150 140 135 138 120 C160 150 150 200 100 210 C50 200 45 150 70 120 C70 140 78 152 88 160 C75 125 90 100 100 70Z" fill="#ff8a1f"/><path d="M100 130 C110 150 115 165 100 190 C85 165 92 150 100 130Z" fill="#ffe08a"/><rect x="94" y="208" width="12" height="70" fill="#5b3b1d"/></svg>`,
 };
 const poster = (r) => `
@@ -207,6 +227,7 @@ const page = (path, html) => { pages[path] = html; };
       <div class="avatars"><span class="avatar">${esc(initials(person(c.a).name))}</span><span class="avatar">${esc(initials(person(c.b).name))}</span></div>
       <div class="person-name">${esc(person(c.a).name)} y ${esc(person(c.b).name)}</div>
       <div class="person-sub">${esc(e.title)} · ${e.year}</div>
+      ${c.story ? `<div class="story-snippet">${esc(c.story)}</div>` : ''}
     </a>`));
   const featured = realities[0];
   const body = `
@@ -268,13 +289,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 </section>` : '';
     const couples = e.couples?.length ? `
 <section class="block"><h2>Parejas</h2>
-  <div class="couples">${e.couples.map((c) => `
-    <div class="couple">
-      <div class="avatars"><span class="avatar">${esc(initials(person(c.a).name))}</span><span class="avatar">${esc(initials(person(c.b).name))}</span></div>
-      <div>${personLink(c.a)} y ${personLink(c.b)}
-        ${c.tempters?.length ? `<div class="person-sub">Tentadores: ${c.tempters.map(personLink).join(', ')}</div>` : ''}
-        <div class="outcome">${esc(c.outcome ?? 'Resultado en la hoguera: pendiente de completar')}</div></div>
-    </div>`).join('')}</div>
+  <div class="couples">${e.couples.map((c) => coupleBlock(c)).join('')}</div>
 </section>` : '';
     const participants = e.participants?.length ? `
 <section class="block"><h2>${e.participants.some((p) => p.eliminatedOrder) ? 'Resto de concursantes, del último en salir al primero' : 'Concursantes'}</h2>
@@ -315,6 +330,11 @@ for (const id of allIds) {
 <section class="block"><h2>Paso por los realities</h2>
   <ul class="timeline">${apps.map((a) => `<li><span class="tl-reality">${esc(a.realityName)}</span> ${a.href ? `<a href="${a.href}">${esc(a.label)}</a>` : esc(a.label)}${a.year ? ` (${a.year})` : ''} · <span class="muted">${esc(a.role)}</span></li>`).join('')}</ul>
 </section>
+${(coupleOf[id] ?? []).length ? `<section class="block"><h2>Su historia en pareja</h2><div class="couples">${coupleOf[id].map(({ r, e, c }) => coupleBlock(c, `<div class="person-sub"><a href="${url(`${r.id}/${editionSlug(e)}/`)}">${esc(r.name)} · ${esc(e.title)}</a></div>`)).join('')}</div></section>` : ''}
+${socialsOf(id).instagram ? `<section class="block"><h2>Instagram</h2><div class="ig-embed" data-ig="${esc(socialsOf(id).instagram)}">
+  <div class="ig-consent">Para ver aquí su perfil oficial de Instagram se cargará contenido de Instagram (Meta), que puede usar cookies.
+  <br><button class="btn" type="button" data-ig-load>Ver perfil de Instagram</button> <a class="btn ghost" href="${esc(socialsOf(id).instagram)}" rel="noopener nofollow" target="_blank">Abrir en Instagram</a></div>
+</div></section>` : ''}
 ${p.now ? `<section class="block"><h2>En la actualidad</h2><p>${esc(p.now)}</p><p class="muted">Según sus redes públicas.</p></section>` : ''}
 ${rel.length ? `<section class="block"><h2>Personas relacionadas</h2><div class="related">${rel.map(([oid, texts]) => `
   <a class="related-card" href="${url(`personas/${oid}/`)}"><span class="avatar">${esc(initials(people[oid].name))}</span>
@@ -352,6 +372,25 @@ page('aviso-legal/', layout({
 <p>Si apareces en esta web y quieres corregir o retirar información, escríbenos${site.contactEmail ? ` a <a href="mailto:${esc(site.contactEmail)}">${esc(site.contactEmail)}</a>` : ' (dirección de contacto pendiente de configurar)'}. Atendemos las solicitudes lo antes posible.</p>
 <p>Marcas como Gran Hermano, Supervivientes o La isla de las tentaciones pertenecen a sus titulares. Esta web no está afiliada a ninguna cadena ni productora.</p></section>`,
 }));
+
+// Propuestas de paleta para la portada
+{
+  const palettes = [
+    ['arena', 'Arena', 'Crema cálido con terracota y verde agua. Cercana y veraniega.', ['#faf7f2', '#1f2328', '#c2410c', '#0f766e', '#fde7d6']],
+    ['brisa', 'Brisa', 'Blanco limpio con coral y azul. Fresca, tipo revista de verano.', ['#f7fafc', '#0f172a', '#e85d4a', '#2563eb', '#ffe1db']],
+    ['plato', 'Plató', 'Gris claro con índigo y rosa. Recuerda a un plató de televisión.', ['#f6f5f3', '#18181b', '#4f46e5', '#db2777', '#e0e7ff']],
+    ['verano', 'Verano', 'Marfil con verde y mango. Natural, con guiño a la isla.', ['#fbfaf5', '#1c2a1f', '#15803d', '#d97706', '#dcfce7']],
+  ];
+  page('paletas/', layout({
+    title: 'Paletas de color', path: 'paletas/',
+    body: `<section class="block"><h1>Paletas de color para la portada</h1>
+<p class="muted">Pulsa en una para ver la portada con esos colores. La elección se recuerda mientras navegas, para que puedas ver toda la web con ella.</p>
+<div class="palettes">${palettes.map(([id, name, text, sw]) => `<div class="palette" data-palette="${id}" style="background:${sw[0]}">
+  <div class="palette-preview" style="color:${sw[1]}"><h3>${name}</h3><p class="small" style="color:${sw[1]};opacity:.75">${text}</p>
+  <div class="swatches">${sw.map((c) => `<span style="background:${c}" title="${c}"></span>`).join('')}</div></div>
+  <a class="btn" style="background:${sw[2]}" href="${url('')}?paleta=${id}">Probar ${name}</a></div>`).join('')}</div></section>`,
+  }));
+}
 
 page('404.html', layout({ title: 'Página no encontrada', body: `<section class="block"><h1>Página no encontrada</h1><p><a href="${url()}">Volver al inicio</a></p></section>` }));
 

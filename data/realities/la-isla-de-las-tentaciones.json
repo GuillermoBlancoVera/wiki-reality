@@ -31,12 +31,16 @@
         {
           "a": "alex-bueno",
           "b": "fiama-rodriguez",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Álex y Fiama salieron juntos de la hoguera final. Con el tiempo, la relación terminó fuera del programa.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "jose-sanchez",
           "b": "adelina-seres",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "José y Adelina salieron juntos de la isla y llegaron a comprometerse, aunque más adelante rompieron.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "fani-carbajo",
@@ -44,17 +48,23 @@
           "tempters": [
             "ruben-sanchez"
           ],
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Durante la experiencia Fani se acercó al tentador Rubén Sánchez, una de las historias más comentadas de la primera edición. Christofer abandonó la hoguera final sin ella.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "susana-molina",
           "b": "gonzalo-montoya",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Susana puso fin a la relación en la hoguera final después de ver el comportamiento de Gonzalo en la villa de los chicos.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "andrea-gasca",
           "b": "ismael-isla-1",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Andrea e Ismael rompieron en la hoguera final tras el acercamiento de Andrea a un tentador durante la experiencia.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         }
       ]
     },
@@ -69,32 +79,44 @@
         {
           "a": "angel-isla-2",
           "b": "inma-isla-2",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Ángel e Inma fueron de las pocas parejas de la segunda edición que salieron juntas de la isla.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "patri-perez",
           "b": "alessandro-livi",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Patri y Alessandro salieron juntos y mantuvieron la relación un tiempo después del programa, hasta que rompieron.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "melyssa-pinto",
           "b": "tom-brusse",
-          "outcome": "Salieron por separado (en la hoguera de confrontación)"
+          "outcome": "Salieron por separado (en la hoguera de confrontación)",
+          "story": "Melyssa dejó a Tom en la hoguera de confrontación tras ver su comportamiento con la tentadora Sandra Pica.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "melodie-isla-2",
           "b": "cristian-isla-2",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Melodie y Cristian rompieron en la hoguera final.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "pablo-moya",
           "b": "mayka-rivera",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Pablo y Mayka rompieron en la hoguera final.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "marta-penate",
           "b": "lester-duque",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Marta y Lester pusieron fin a su relación en la hoguera final.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         }
       ],
       "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros."
@@ -110,27 +132,37 @@
         {
           "a": "claudia-isla-3",
           "b": "raul-isla-3",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Claudia y Raúl salieron juntos de la isla; tiempo después se separaron.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "lara-isla-3",
           "b": "hugo-isla-3",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Lara y Hugo salieron juntos y, tras el programa, se comprometieron.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "marina-garcia",
           "b": "jesus-sanchez",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Marina se acercó durante la experiencia al tentador Isaac Torres «Lobo» y la pareja rompió en la isla. Después se reconciliaron.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "lola-isla-3",
           "b": "diego-isla-3",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Lola y Diego cortaron durante el programa.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "lucia-sanchez",
           "b": "manuel-gonzalez",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Lucía y Manuel cortaron durante el programa.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         }
       ],
       "notes": "Isaac Torres «Lobo» participó como tentador."
@@ -146,25 +178,35 @@
         {
           "a": "sandra-ferriz",
           "b": "dario-isla-4",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Darío rompió con Sandra en la isla tras ver imágenes de ella con el tentador Rubo. Fuera del programa retomaron la relación.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "rosario-isla-4",
           "b": "alvaro-isla-4",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Rosario y Álvaro rompieron en las hogueras finales.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "gal-la-isla-4",
           "b": "nico-isla-4",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Gal·la y Nico rompieron en las hogueras finales.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "zoe-mba",
-          "b": "josue-bernal"
+          "b": "josue-bernal",
+          "story": "Zoe y Josué se conocieron en Mujeres y hombres y viceversa antes de llegar a la isla. Tras el programa, la relación terminó.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "tania-isla-4",
-          "b": "alejandro-isla-4"
+          "b": "alejandro-isla-4",
+          "story": "Tania y Alejandro no siguieron juntos después del programa.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         }
       ],
       "notes": "Resultado de algunas parejas pendiente de verificar."
@@ -183,32 +225,44 @@
           "tempters": [
             "alvaro-boix"
           ],
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Claudia se acercó al tentador Álvaro Boix durante la experiencia, pero la pareja salió junta de la hoguera final. Más adelante se separaron.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "paola-isla-5",
           "b": "andreu-isla-5",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Paola y Andreu decidieron seguir adelante como pareja y salieron juntos.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "sara-isla-5",
           "b": "manu-isla-5",
-          "outcome": "Salieron juntos (abandonaron antes de las hogueras finales)"
+          "outcome": "Salieron juntos (abandonaron antes de las hogueras finales)",
+          "story": "Sara y Manu abandonaron el programa antes de tiempo, pero juntos.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "tania-isla-5",
           "b": "samuel-isla-5",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Tania y Samuel rompieron en las hogueras finales, aunque después volvieron.",
+          "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html"
         },
         {
           "a": "ana-isla-5",
           "b": "cristian-isla-5",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Ana y Cristian rompieron en las hogueras finales.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         },
         {
           "a": "laura-isla-5",
           "b": "mario-isla-5",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Laura y Mario rompieron en las hogueras finales.",
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
         }
       ]
     },
@@ -223,22 +277,30 @@
         {
           "a": "lydia-perez",
           "b": "manuel-villena",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Lydia y Manuel fueron la única pareja de la sexta edición que salió junta de la isla.",
+          "storySource": "https://www.elindependiente.com/?p=2932850"
         },
         {
           "a": "marina-lopez",
           "b": "alex-sanchez",
-          "outcome": "Salieron por separado: Álex se fue con la tentadora Yaiza"
+          "outcome": "Salieron por separado: Álex se fue con la tentadora Yaiza",
+          "story": "En la hoguera final Álex eligió irse con Yaiza, su tentadora favorita, y Marina salió sola.",
+          "storySource": "https://www.elindependiente.com/?p=2932850"
         },
         {
           "a": "naomi-asensi",
           "b": "adrian-blanch",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Naomi y Adrián se separaron en la hoguera final y ambos salieron solos.",
+          "storySource": "https://www.elindependiente.com/?p=2932850"
         },
         {
           "a": "laura-boado",
           "b": "alejandro-perez",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Laura y Alejandro se separaron en la hoguera final y ambos salieron solos.",
+          "storySource": "https://www.elindependiente.com/?p=2932850"
         },
         {
           "a": "elena-isla-6",
@@ -257,37 +319,51 @@
         {
           "a": "marieta-diaz",
           "b": "alex-girona",
-          "outcome": "Salieron por separado: Álex se fue con la tentadora Gabriela"
+          "outcome": "Salieron por separado: Álex se fue con la tentadora Gabriela",
+          "story": "En la hoguera final Álex anunció que se iba con la tentadora Gabriela, y Marieta salió sola.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         },
         {
           "a": "mariona-isla-7",
           "b": "adrian-isla-7",
-          "outcome": "Salieron por separado: Mariona decidió irse sola"
+          "outcome": "Salieron por separado: Mariona decidió irse sola",
+          "story": "Adrián quería volver a casa con Mariona, pero ella decidió irse sola de la hoguera final.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         },
         {
           "a": "maria-aguilar",
           "b": "david-vaquero",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "María y David salieron juntos de la República Dominicana.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         },
         {
           "a": "ana-isla-7",
           "b": "borja-isla-7",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Ana y Borja salieron juntos de la isla, con planes de boda.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         },
         {
           "a": "ruth-isla-7",
           "b": "niko-isla-7",
-          "outcome": "Abandonaron al inicio de la edición"
+          "outcome": "Abandonaron al inicio de la edición",
+          "story": "Ruth y Niko abandonaron la experiencia al poco de empezar la edición.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         },
         {
           "a": "alba-casillas",
           "b": "roberto-isla-7",
-          "outcome": "Abandonaron al inicio de la edición"
+          "outcome": "Abandonaron al inicio de la edición",
+          "story": "Alba y Roberto abandonaron la experiencia al poco de empezar la edición.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         },
         {
           "a": "andrea-isla-7",
           "b": "alvaro-isla-7",
-          "outcome": "Abandonaron al inicio de la edición"
+          "outcome": "Abandonaron al inicio de la edición",
+          "story": "Andrea y Álvaro abandonaron la experiencia al poco de empezar la edición.",
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
         }
       ]
     },
@@ -302,22 +378,30 @@
         {
           "a": "bayan-isla-8",
           "b": "eros-isla-8",
-          "outcome": "Salieron por separado: Bayan se fue con el tentador Rubén Torres"
+          "outcome": "Salieron por separado: Bayan se fue con el tentador Rubén Torres",
+          "story": "En la hoguera final Bayan eligió irse con el tentador Rubén Torres, y Eros salió solo.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000132089.html"
         },
         {
           "a": "alba-isla-8",
           "b": "alvaro-isla-8",
-          "outcome": "Salieron por separado: Alba decidió irse sola"
+          "outcome": "Salieron por separado: Alba decidió irse sola",
+          "story": "Álvaro quería salir con Alba, pero ella tenía claro que quería irse sola.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000132089.html"
         },
         {
           "a": "anita-williams",
           "b": "jose-carlos-montoya",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "La hoguera final de Montoya y Anita cerró la edición: ambos se fueron solos.",
+          "storySource": "https://www.espinof.com/reality/isla-tentaciones-8-pone-fin-a-agonia-montoya-anita-queda-reencuentro-3-meses-despues"
         },
         {
           "a": "sthefany-isla-8",
           "b": "tadeo-isla-8",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Tadeo y Sthefany se reconciliaron en la hoguera final y salieron juntos.",
+          "storySource": "https://www.espinof.com/reality/isla-tentaciones-8-pone-fin-a-agonia-montoya-anita-queda-reencuentro-3-meses-despues"
         },
         {
           "a": "andrea-isla-8",
@@ -338,35 +422,49 @@
         {
           "a": "sandra-barrios",
           "b": "juanpi-vega",
-          "outcome": "Salieron por separado: Sandra se fue con Andrea Canel"
+          "outcome": "Salieron por separado: Sandra se fue con Andrea Canel",
+          "story": "En las hogueras finales Sandra se fue con Andrea Canel y Juanpi salió solo.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         },
         {
           "a": "nieves-tristan",
           "b": "lorenzo-ayala",
-          "outcome": "Expulsados como pareja; salieron juntos"
+          "outcome": "Expulsados como pareja; salieron juntos",
+          "story": "Nieves y Lorenzo fueron expulsados como pareja y salieron juntos de la experiencia.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         },
         {
           "a": "helena-arauz",
           "b": "rodri-lopez",
-          "outcome": "Helena eligió al tentador Albert Barranco; Rodri se fue solo"
+          "outcome": "Helena eligió al tentador Albert Barranco; Rodri se fue solo",
+          "story": "Helena eligió al tentador Albert Barranco y Rodri dejó el programa solo.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         },
         {
           "a": "claudia-chacon",
-          "b": "gilbert-mina"
+          "b": "gilbert-mina",
+          "story": "Claudia y Gilbert siguieron en el programa pese a lo ocurrido durante la convivencia.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         },
         {
           "a": "almudena-porras",
-          "b": "dario-linero"
+          "b": "dario-linero",
+          "story": "Almudena y Darío llegaron por separado al reencuentro.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         },
         {
           "a": "mayeli-diaz",
           "b": "alvaro-rubio",
-          "outcome": "Entraron con la edición empezada"
+          "outcome": "Entraron con la edición empezada",
+          "story": "Mayeli y Álvaro entraron con la edición ya empezada y volvieron a estar juntos en el reencuentro.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         },
         {
           "a": "andrea-canel",
           "b": "enrique-cofino",
-          "outcome": "Entraron con la edición empezada; Andrea se fue con Sandra Barrios"
+          "outcome": "Entraron con la edición empezada; Andrea se fue con Sandra Barrios",
+          "story": "Andrea y Enrique entraron con la edición empezada. Andrea terminó saliendo con Sandra Barrios.",
+          "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/"
         }
       ],
       "notes": "Resultado de algunas parejas pendiente de verificar."
@@ -382,22 +480,30 @@
         {
           "a": "alba-isla-10",
           "b": "david-isla-10",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Alba y David se separaron y salieron solos de la isla.",
+          "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/"
         },
         {
           "a": "yuli-isla-10",
           "b": "lucas-isla-10",
-          "outcome": "Salieron por separado"
+          "outcome": "Salieron por separado",
+          "story": "Yuli y Lucas se separaron y salieron solos de la isla.",
+          "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/"
         },
         {
           "a": "bayan-isla-10",
           "b": "miguel-isla-10",
-          "outcome": "Salieron juntos"
+          "outcome": "Salieron juntos",
+          "story": "Bayan y Miguel fueron la única pareja de la edición que volvió junta a España.",
+          "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/"
         },
         {
           "a": "leila-isla-10",
           "b": "ataman-isla-10",
-          "outcome": "Salieron por separado: Leila se fue con David"
+          "outcome": "Salieron por separado: Leila se fue con David",
+          "story": "Leila salió de la hoguera final con David, un nuevo amor, y Atamán se fue solo.",
+          "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/"
         }
       ]
     },
@@ -412,32 +518,44 @@
         {
           "a": "gema-isla-11",
           "b": "ruben-isla-11",
-          "outcome": "Salieron por separado: Gema decidió irse sola"
+          "outcome": "Salieron por separado: Gema decidió irse sola",
+          "story": "Rubén quería seguir con la relación, pero Gema decidió irse sola.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         },
         {
           "a": "paola-isla-11",
           "b": "sergio-isla-11",
-          "outcome": "Salieron por separado: Sergio decidió terminar"
+          "outcome": "Salieron por separado: Sergio decidió terminar",
+          "story": "Paola quería salir juntos, pero Sergio decidió terminar y seguir conociendo a Irini.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         },
         {
           "a": "nayades-isla-11",
           "b": "nacho-de-borbon",
-          "outcome": "Salieron por separado: Náyades se fue con Andrea"
+          "outcome": "Salieron por separado: Náyades se fue con Andrea",
+          "story": "Náyades rompió con Nacho para empezar un nuevo amor con Andrea.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         },
         {
           "a": "paula-isla-11",
           "b": "kico-isla-11",
-          "outcome": "Salieron por separado: Paula decidió irse sola"
+          "outcome": "Salieron por separado: Paula decidió irse sola",
+          "story": "Kico quería irse con Paula, pero ella decidió marcharse sola.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         },
         {
           "a": "isa-isla-11",
           "b": "nando-isla-11",
-          "outcome": "Se marcharon juntos al poco de empezar"
+          "outcome": "Se marcharon juntos al poco de empezar",
+          "story": "Nando e Isa se marcharon juntos casi al empezar la experiencia.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         },
         {
           "a": "mara-isla-11",
           "b": "miguel-isla-11",
-          "outcome": "Salieron por separado antes de las hogueras finales"
+          "outcome": "Salieron por separado antes de las hogueras finales",
+          "story": "Mara se reencontró en el programa con su exnovio Juanpi y la pareja salió por separado antes de las hogueras finales.",
+          "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         }
       ]
     }
