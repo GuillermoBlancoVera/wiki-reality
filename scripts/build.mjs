@@ -47,7 +47,7 @@ const appearances = {}; // id -> [{reality, edition, label, role, href}]
 const addApp = (id, r, e, role) => {
   person(id);
   (appearances[id] ??= []).push({
-    reality: r.id, realityName: r.name, label: e.title, year: e.year, role,
+    reality: r.id, realityName: r.name, label: e.title, year: e.year, role, ed: editionSlug(e),
     href: url(`${r.id}/${editionSlug(e)}/`),
   });
 };
@@ -61,6 +61,7 @@ for (const r of realities) {
       for (const t of c.tempters ?? []) addApp(t, r, e, `Tentador/a de ${person(c.a).name} y ${person(c.b).name}`);
     }
     for (const p of e.participants ?? []) addApp(p.id, r, e, p.role ?? 'Concursante');
+    for (const p of e.singles ?? []) addApp(p.id, r, e, /^Soltera/.test(p.role) ? `Tentadora${/VIP/.test(p.role) ? ' VIP' : ''}` : `Tentador${/VIP/.test(p.role) ? ' VIP' : ''}`);
   }
 }
 for (const [id, p] of Object.entries(people)) {
@@ -116,6 +117,16 @@ function autoDescription(id) {
 }
 
 // ---------- redes sociales ----------
+const ICON = (inner, fill = false) => `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="${fill ? 'currentColor' : 'none'}" stroke="${fill ? 'none' : 'currentColor'}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${inner}</svg>`;
+const SOCIAL_ICONS = {
+  instagram: ICON('<rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.3" cy="6.7" r="1" fill="currentColor" stroke="none"/>'),
+  youtube: ICON('<rect x="2.5" y="5.5" width="19" height="13" rx="4"/><path d="M10 9.2v5.6l5-2.8z" fill="currentColor"/>'),
+  tiktok: ICON('<path d="M14 3v11.2a3.8 3.8 0 1 1-3.8-3.8"/><path d="M14 3c.3 2.6 2 4.4 4.8 4.7"/>'),
+  x: ICON('<path d="M4 4l16 16M20 4L4 20"/>'),
+  facebook: ICON('<path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/>'),
+  twitch: ICON('<path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"/>'),
+  web: ICON('<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.200 3 14.800 0 18M12 3c-3 3.200-3 14.800 0 18"/>'),
+};
 const SOCIAL_LABELS = { instagram: 'Instagram', youtube: 'YouTube', tiktok: 'TikTok', x: 'X (Twitter)', facebook: 'Facebook', twitch: 'Twitch', web: 'Web' };
 // Instagram: una publicación concreta (igPost en people.json) o, si no, el perfil
 const igOf = (id) => (igCode(id) ? `https://www.instagram.com/p/${igCode(id)}/` : '') || socialsOf(id).instagram;
@@ -216,7 +227,7 @@ const poster = (r) => `
 </a>`;
 
 const personCard = (id, sub) => `
-<a class="person-card" href="${url(`personas/${id}/`)}">
+<a class="person-card" href="${url(`personas/${id}/`)}" data-name="${esc(person(id).name)}" data-eds="${esc([...new Set((appearances[id] ?? []).filter((a) => a.ed).map((a) => `${a.reality}/${a.ed}`))].join(' '))}">
   ${avatar(id, 'avatar', 'div')}
   <div class="person-name">${esc(person(id).name)}</div>
   ${sub ? `<div class="person-sub">${esc(sub)}</div>` : ''}
@@ -318,6 +329,8 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
   <ol class="participants">${e.participants.slice().sort((a, b) => (a.eliminatedOrder ?? 999) - (b.eliminatedOrder ?? 999))
     .map((p) => `<li>${personLink(p.id)}${p.role ? ` <span class="person-sub">${esc(p.role)}</span>` : ''}</li>`).join('')}</ol>
 </section>` : '';
+    const singlesBlock = (re, title) => { const l = (e.singles ?? []).filter((x) => re.test(x.role)); return l.length ? `<h3>${title}</h3><div class="grid-people">${l.map((x) => personCard(x.id, /VIP/.test(x.role) ? 'VIP' : '')).join('')}</div>` : ''; };
+    const singles = e.singles?.length ? `<section class="block"><h2>Tentadoras y tentadores</h2>${singlesBlock(/^Soltera/, 'Solteras')}${singlesBlock(/^Soltero/, 'Solteros')}</section>` : '';
     page(`${r.id}/${editionSlug(e)}/`, layout({
       title: `${e.title} · ${r.name}`, theme: r.theme, path: `${r.id}/${editionSlug(e)}/`,
       description: `${r.name} ${e.title} (${e.year}): ${e.winner ? `ganador/a ${person(e.winner).name}, ` : ''}${e.couples?.length ? 'parejas, ' : ''}concursantes y datos de la edición.`,
@@ -325,7 +338,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 <nav class="crumbs"><a href="${url(`${r.id}/`)}">${esc(r.name)}</a> › ${esc(e.title)}</nav>
 <section class="reality-hero small"><div><p class="eyebrow">${esc(r.name)}</p><h1 class="reality-title">${esc(e.title)}</h1></div></section>
 <section class="block"><dl class="facts">${facts}</dl>${e.notes ? `<p class="muted">${esc(e.notes)}</p>` : ''}</section>
-${podium}${couples}${participants}`,
+${podium}${couples}${singles}${participants}`,
     }));
   }
 }
@@ -336,7 +349,7 @@ for (const id of allIds) {
   const p = people[id];
   const apps = appearances[id] ?? [];
   const firstTheme = realitiesById[apps[0]?.reality]?.theme ?? 'home';
-  const socials = Object.entries(socialsOf(id)).filter(([, v]) => v).map(([k, v]) => `<li><a class="social social-${esc(k)}" href="${esc(v)}" rel="noopener nofollow" target="_blank">${esc(SOCIAL_LABELS[k] ?? k)}</a></li>`).join('');
+  const socials = Object.entries(socialsOf(id)).filter(([, v]) => v).map(([k, v]) => `<li><a class="social social-${esc(k)}" href="${esc(v)}" rel="noopener nofollow" target="_blank" title="${esc(SOCIAL_LABELS[k] ?? k)}" aria-label="${esc(SOCIAL_LABELS[k] ?? k)} de ${esc(p.name)}">${SOCIAL_ICONS[k] ?? esc(SOCIAL_LABELS[k] ?? k)}</a></li>`).join('');
   const rel = [...(related[id] ?? new Map())];
   const desc = p.bio ?? autoDescription(id);
   page(`personas/${id}/`, layout({
@@ -378,8 +391,16 @@ ${rel.length ? `<section class="block"><h2>Personas relacionadas</h2><div class=
   page('personas/', layout({
     title: 'Personas', path: 'personas/',
     description: 'Todas las personas que han pasado por los realities de España.',
-    body: `<section class="block"><h1>Personas</h1><p class="muted">${allIds.length} fichas. Usa el buscador para encontrar a alguien al instante.</p>
-${Object.entries(byLetter).map(([l, ids]) => `<h2 class="letter">${l}</h2><div class="grid-people">${ids.map((id) => personCard(id, [...new Set((appearances[id] ?? []).map((a) => a.realityName))].join(' · '))).join('')}</div>`).join('')}</section>`,
+    body: `<section class="block"><h1>Personas</h1><p class="muted">${allIds.length} fichas. Filtra por nombre, reality y edición.</p>
+<form class="filters" id="people-filters" onsubmit="return false">
+  <input type="search" id="f-name" placeholder="Nombre…" aria-label="Filtrar por nombre" autocomplete="off">
+  <select id="f-reality" aria-label="Reality"><option value="">Todos los realities</option>${realities.map((r) => `<option value="${esc(r.id)}">${esc(r.name)}</option>`).join('')}</select>
+  <select id="f-edition" aria-label="Edición" disabled><option value="">Todas las ediciones</option></select>
+  <span class="muted small" id="f-count"></span>
+</form>
+<script type="application/json" id="f-data">${JSON.stringify(Object.fromEntries(realities.map((r) => [r.id, r.editions.slice().reverse().map((e) => [editionSlug(e), `${e.title}${e.year ? ` (${e.year})` : ''}`])]))).replace(/</g, '\\u003c')}</script>
+${Object.entries(byLetter).map(([l, ids]) => `<div class="letter-group"><h2 class="letter">${l}</h2><div class="grid-people">${ids.map((id) => personCard(id, [...new Set((appearances[id] ?? []).map((a) => a.realityName))].join(' · '))).join('')}</div></div>`).join('')}
+<p class="muted" id="f-empty" hidden>Nadie coincide con esos filtros.</p></section>`,
   }));
 }
 

@@ -694,6 +694,88 @@
           "story": "Mara se reencontró en el programa con su exnovio Juanpi y la pareja salió por separado antes de las hogueras finales.",
           "storySource": "https://www.sensacine.com/television/noticias/noticia-1000231896.html"
         }
+      ],
+      "singles": [
+        {
+          "id": "neus-munar",
+          "role": "Soltera"
+        },
+        {
+          "id": "sara-soltera-isla-11",
+          "role": "Soltera"
+        },
+        {
+          "id": "nieves-soltera-isla-11",
+          "role": "Soltera"
+        },
+        {
+          "id": "miriam-soltera-isla-11",
+          "role": "Soltera"
+        },
+        {
+          "id": "deva-rodriguez",
+          "role": "Soltera"
+        },
+        {
+          "id": "andrea-soltera-isla-11",
+          "role": "Soltera"
+        },
+        {
+          "id": "carolina-soltera-isla-11",
+          "role": "Soltera"
+        },
+        {
+          "id": "irini-jannoulis",
+          "role": "Soltera VIP"
+        },
+        {
+          "id": "nataly-nunez",
+          "role": "Soltera VIP"
+        },
+        {
+          "id": "paula-colubi",
+          "role": "Soltera VIP"
+        },
+        {
+          "id": "javi-soltero-isla-11",
+          "role": "Soltero"
+        },
+        {
+          "id": "cristian-orvich",
+          "role": "Soltero"
+        },
+        {
+          "id": "javi-escorza",
+          "role": "Soltero"
+        },
+        {
+          "id": "ruben-soltero-isla-11",
+          "role": "Soltero"
+        },
+        {
+          "id": "cristobal-soltero-isla-11",
+          "role": "Soltero"
+        },
+        {
+          "id": "fran-aveiro",
+          "role": "Soltero"
+        },
+        {
+          "id": "josue-bernal",
+          "role": "Soltero VIP"
+        },
+        {
+          "id": "andrea-sabatini",
+          "role": "Soltero VIP"
+        },
+        {
+          "id": "borja-gomez",
+          "role": "Soltero VIP"
+        },
+        {
+          "id": "fran-garcia-isla-11",
+          "role": "Soltero VIP"
+        }
       ]
     }
   ],

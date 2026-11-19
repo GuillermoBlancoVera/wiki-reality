@@ -57,3 +57,39 @@
   document.addEventListener('click', (e) => { if (!e.target.closest('.search')) close(); });
   input.addEventListener('focus', () => { if (input.value.trim().length >= MIN) input.dispatchEvent(new Event('input')); });
 })();
+
+// Listado de personas: filtros por nombre, reality y edición (se guardan en la URL)
+(() => {
+  const form = document.getElementById('people-filters');
+  if (!form) return;
+  const norm = (s) => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  const data = JSON.parse(document.getElementById('f-data').textContent);
+  const name = document.getElementById('f-name'), rSel = document.getElementById('f-reality'), eSel = document.getElementById('f-edition');
+  const count = document.getElementById('f-count'), empty = document.getElementById('f-empty');
+  const cards = [...document.querySelectorAll('.letter-group .person-card')].map((el) => ({ el, n: norm(el.dataset.name || ''), eds: (el.dataset.eds || '').split(' ') }));
+  const groups = [...document.querySelectorAll('.letter-group')];
+  const fillEditions = () => {
+    const eds = data[rSel.value] || [];
+    eSel.innerHTML = '<option value="">Todas las ediciones</option>' + eds.map(([v, t]) => `<option value="${v}">${t.replace(/</g, '&lt;')}</option>`).join('');
+    eSel.disabled = !eds.length;
+  };
+  const apply = () => {
+    const q = norm(name.value.trim()), r = rSel.value, e = eSel.value;
+    let shown = 0;
+    for (const c of cards) {
+      const ok = (!q || c.n.includes(q)) && (!r || c.eds.some((x) => (e ? x === `${r}/${e}` : x.startsWith(r + '/'))));
+      c.el.hidden = !ok; if (ok) shown++;
+    }
+    for (const g of groups) g.hidden = !g.querySelector('.person-card:not([hidden])');
+    count.textContent = `${shown} personas`;
+    empty.hidden = shown > 0;
+    const p = new URLSearchParams(); if (q) p.set('q', name.value.trim()); if (r) p.set('reality', r); if (e) p.set('edicion', e);
+    history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
+  };
+  const p = new URLSearchParams(location.search);
+  name.value = p.get('q') || ''; rSel.value = p.get('reality') || ''; fillEditions(); eSel.value = p.get('edicion') || '';
+  name.addEventListener('input', apply);
+  rSel.addEventListener('change', () => { fillEditions(); apply(); });
+  eSel.addEventListener('change', apply);
+  apply();
+})();

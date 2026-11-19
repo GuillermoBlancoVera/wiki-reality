@@ -162,7 +162,7 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 
 /* Redes, relacionados e Instagram */
 .socials { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
-.social { display: inline-block; padding: .35rem .85rem; border-radius: 999px; background: var(--surface); border: 1px solid var(--border); text-decoration: none; font-weight: 600; font-size: .85rem; }
+.social { display: inline-grid; place-items: center; width: 42px; height: 42px; border-radius: 50%; background: var(--surface); border: 1px solid var(--border); color: var(--fg); text-decoration: none; }
 .social:hover { border-color: var(--accent); color: var(--accent); }
 .related { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: .7rem; }
 .related-card { display: flex; gap: .8rem; align-items: center; padding: .7rem .9rem; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); text-decoration: none; }
@@ -234,3 +234,12 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .mini-avatar iframe { position: absolute; top: 0; border: 0; pointer-events: none; }
 .mini-getty iframe { left: 50%; width: 135%; transform: translateX(-50%); }
 .mini-ig iframe { left: 0; width: 326px; height: 520px; transform-origin: 0 0; transform: scale(.1166) translateY(-54px); }
+
+/* Filtros del listado de personas */
+[hidden] { display: none !important; }
+.filters { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin: 1rem 0 1.5rem; }
+.filters input, .filters select { font: inherit; padding: .55rem .8rem; border-radius: 10px; border: 1px solid var(--border); background: var(--surface); color: var(--fg); min-width: 0; }
+.filters input { flex: 1 1 180px; }
+.filters select { flex: 1 1 200px; max-width: 100%; }
+.filters select:disabled { opacity: .5; }
+@media (max-width: 600px) { .filters input, .filters select { flex-basis: 100%; } }
