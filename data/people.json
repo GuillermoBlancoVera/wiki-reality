@@ -752,7 +752,8 @@
       "getty": "160804657"
     },
     "laura-matamoros": {
-      "name": "Laura Matamoros"
+      "name": "Laura Matamoros",
+      "getty": "584839076"
     },
     "alyson-eckmann": {
       "name": "Alyson Eckmann"
@@ -849,7 +850,8 @@
       "name": "Maica Benedicto"
     },
     "jessica-bueno": {
-      "name": "Jessica Bueno"
+      "name": "Jessica Bueno",
+      "getty": "162050358"
     },
     "miri-perez-cabrero": {
       "name": "Miri Pérez-Cabrero"
@@ -1888,7 +1890,8 @@
       "name": "Mónica Hoyos"
     },
     "aurah-ruiz": {
-      "name": "Aurah Ruiz"
+      "name": "Aurah Ruiz",
+      "getty": "601175800"
     },
     "angel-garo": {
       "name": "Ángel Garó"
@@ -1948,7 +1951,8 @@
       "name": "Dinio García"
     },
     "nuria-martinez": {
-      "name": "Nuria Martínez"
+      "name": "Nuria Martínez",
+      "socialsAuto": false
     },
     "anabel-pantoja": {
       "name": "Anabel Pantoja",
