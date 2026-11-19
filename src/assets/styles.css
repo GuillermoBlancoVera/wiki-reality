@@ -267,3 +267,9 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 
 .links-list { line-height: 1.8; padding-left: 1.1rem; }
 .links-list .src { font-size: .75rem; color: var(--muted); }
+
+/* Revisión de fotos candidatas */
+.cand-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
+.cand { margin: 0; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+.cand img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; background: var(--surface-2); }
+.cand figcaption { padding: .6rem .7rem; font-size: .75rem; line-height: 1.45; word-break: break-word; }

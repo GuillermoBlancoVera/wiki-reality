@@ -22,6 +22,10 @@ let getty = {};
 try { getty = readJson(join(DATA, 'getty.json')).people ?? {}; } catch {}
 let photos = {};
 try { photos = readJson(join(DATA, 'photos.json')).people ?? {}; } catch {}
+// Fotos aprobadas a mano (campo "photo" en people.json) tienen prioridad sobre las automáticas
+for (const [id, p] of Object.entries(people)) if (p.photo?.src) photos[id] = p.photo;
+let photoCandidates = {};
+try { photoCandidates = readJson(join(DATA, 'photo-candidates.json')).people ?? {}; } catch {}
 const realityFiles = readdirSync(join(DATA, 'realities')).filter((f) => f.endsWith('.json'));
 const realitiesById = Object.fromEntries(
   realityFiles.map((f) => { const r = readJson(join(DATA, 'realities', f)); return [r.id, r]; })
@@ -445,6 +449,14 @@ page('creditos-fotos/', layout({
 <ul class="credits">${Object.entries(photos).filter(([id]) => people[id]).sort((a, b) => people[a[0]].name.localeCompare(people[b[0]].name, 'es')).map(([id, ph]) => `<li><a href="${url(`personas/${id}/`)}">${esc(people[id].name)}</a>: ${esc(ph.author)} · <a href="${esc(ph.licenseUrl || ph.page)}" rel="noopener nofollow license" target="_blank">${esc(ph.license)}</a> · <a href="${esc(ph.page)}" rel="noopener nofollow" target="_blank">archivo original</a></li>`).join('') || '<li>Aún no hay fotos.</li>'}</ul></section>`,
 }));
 
+// Revisión de fotos candidatas (no enlazada ni indexada): se aprueban a mano antes de publicarlas
+page('revisar-fotos/', layout({
+  title: 'Revisar fotos candidatas', path: 'revisar-fotos/',
+  body: `<meta name="robots" content="noindex"><section class="block"><h1>Fotos candidatas</h1>
+<p class="muted">Fotos con licencia de uso comercial encontradas en Openverse (Flickr y otros). No están publicadas en las fichas. Dime el número de las que sean correctas (la persona es quien dice ser y la foto es digna) y las apruebo.</p>
+<div class="cand-grid">${Object.entries(photoCandidates).filter(([id]) => people[id]).flatMap(([id, list]) => list.map((c, i) => `<figure class="cand"><img src="${esc(c.thumb)}" alt="" loading="lazy" referrerpolicy="no-referrer"><figcaption><strong>${esc(id)}#${i + 1}</strong><br><a href="${url(`personas/${id}/`)}">${esc(people[id].name)}</a><br>${esc(c.title).slice(0, 80)}<br>${esc(c.author)} · ${esc(c.license)} · <a href="${esc(c.page)}" rel="noopener nofollow" target="_blank">${esc(c.source || 'origen')}</a></figcaption></figure>`)).join('') || '<p>No hay candidatas pendientes.</p>'}</div></section>`,
+}));
+
 page('404.html', layout({ title: 'Página no encontrada', body: `<section class="block"><h1>Página no encontrada</h1><p><a href="${url()}">Volver al inicio</a></p></section>` }));
 
 // ---------- escribir ----------
@@ -468,10 +480,10 @@ writeFileSync(join(OUT, 'search-index.json'), JSON.stringify(searchIndex));
 // Sitemap y robots
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${Object.keys(pages).filter((p) => !p.endsWith('.html')).map((p) => `<url><loc>${SITE_URL}${url(p)}</loc></url>`).join('\n')}
+${Object.keys(pages).filter((p) => !p.endsWith('.html') && !p.startsWith('revisar-fotos')).map((p) => `<url><loc>${SITE_URL}${url(p)}</loc></url>`).join('\n')}
 </urlset>`;
 writeFileSync(join(OUT, 'sitemap.xml'), sitemap);
-writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE_URL}${url('sitemap.xml')}\n`);
+writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nDisallow: ${url('revisar-fotos/')}\nSitemap: ${SITE_URL}${url('sitemap.xml')}\n`);
 writeFileSync(join(OUT, '.nojekyll'), '');
 
 console.log(`OK: ${Object.keys(pages).length} páginas, ${allIds.length} personas, ${realities.length} realities → dist/`);

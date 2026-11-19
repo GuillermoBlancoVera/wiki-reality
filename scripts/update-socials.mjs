@@ -2,7 +2,7 @@
 // Wikidata es una fuente curada: solo se aceptan coincidencias exactas de nombre con una única
 // persona cuya descripción encaje con televisión/realities. Lo que pongas a mano en
 // people.json (socials) siempre tiene prioridad, y "socialsAuto": false desactiva la búsqueda.
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -10,6 +10,22 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
 const { people } = JSON.parse(readFileSync(join(DATA, 'people.json'), 'utf8'));
 const MATCH = /(reality|televisi|concursante|gran hermano|supervivientes|tentaciones|colaborador|influencer|presentador|cantante|modelo|personalidad|youtuber|tiktoker|actor|actriz|empresari)/i;
+
+// En los programas de famosos casi todos tienen ficha en Wikidata con otra profesión (cantante, deportista…):
+// para ellos se acepta una descripción más amplia. Para concursantes anónimos se mantiene el filtro estricto.
+const MATCH_FAMOUS = /(cantante|músic|actor|actriz|humorista|cómic|periodista|deportista|futbolista|torer|bailar|diseñador|polític|nadador|piragüista|jinete|escritor|chef|cociner|drag|raper|mago|atleta|gimnasta|baloncest|tenista|piloto|compositor|artista|locutor|empresari|aristócrata|socialité|modelo|presentador|colaborador|televisi|influencer|youtuber)/i;
+const ANON = new Set(['gran-hermano', 'la-isla-de-las-tentaciones', 'maestros-de-la-costura', 'falso-amor', 'operacion-triunfo']);
+const slugify = (t) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const famous = new Set();
+for (const f of readdirSync(join(DATA, 'realities'))) {
+  const r = JSON.parse(readFileSync(join(DATA, 'realities', f), 'utf8'));
+  for (const n of r.presenters ?? []) famous.add(slugify(n));
+  for (const e of r.editions ?? []) {
+    for (const n of (e.presenter ?? '').replace(/\([^)]*\)/g, '').split(/\s+y\s+|[,;]\s*/)) if (n.trim()) famous.add(slugify(n.trim()));
+    if (ANON.has(r.id)) continue;
+    for (const id of [e.winner, ...(e.finalists ?? []), ...(e.participants ?? []).map((p) => p.id)]) if (id) famous.add(id);
+  }
+}
 
 const candidates = Object.entries(people)
   .filter(([, p]) => p.socialsAuto !== false && /\s/.test(p.name.trim()))
@@ -49,7 +65,7 @@ for (let i = 0; i < candidates.length; i += 60) {
       if (r.img && !it.img) it.img = decodeURIComponent(r.img.value.split('/Special:FilePath/')[1] ?? '').replace(/_/g, ' ');
       items.set(r.item.value, it);
     }
-    const ok = [...items.values()].filter((it) => MATCH.test(it.desc));
+    const ok = [...items.values()].filter((it) => (famous.has(c.id) ? MATCH_FAMOUS : MATCH).test(it.desc));
     if (ok.length === 1 && ok[0].img) images[c.id] = { file: ok[0].img, wikidata: [...items.keys()].find((k) => items.get(k) === ok[0]) };
     if (ok.length === 1 && Object.keys(ok[0].s).length) out[c.id] = { ...ok[0].s, source: [...items.keys()].find((k) => items.get(k) === ok[0]) };
   }
