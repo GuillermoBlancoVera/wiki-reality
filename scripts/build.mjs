@@ -118,7 +118,9 @@ function autoDescription(id) {
 // ---------- redes sociales ----------
 const SOCIAL_LABELS = { instagram: 'Instagram', youtube: 'YouTube', tiktok: 'TikTok', x: 'X (Twitter)', facebook: 'Facebook', twitch: 'Twitch', web: 'Web' };
 // Instagram: una publicación concreta (igPost en people.json) o, si no, el perfil
-const igOf = (id) => people[id].igPost || socialsOf(id).instagram;
+const igOf = (id) => (igCode(id) ? `https://www.instagram.com/p/${igCode(id)}/` : '') || socialsOf(id).instagram;
+// Código de la publicación de Instagram elegida como foto de perfil (igPost)
+const igCode = (id) => (people[id].igPost ?? '').match(/instagram\.com\/(?:p|reel)\/([\w-]+)/)?.[1];
 const photoCredit = (ph) => `Foto: ${ph.author} · ${ph.license} · Wikimedia Commons`;
 // Avatar: foto con licencia libre si la hay; si no, iniciales
 const avatar = (id, cls = 'avatar', tag = 'span') => {
@@ -338,7 +340,7 @@ for (const id of allIds) {
     body: `
 <nav class="crumbs"><a href="${url('personas/')}">Personas</a> › ${esc(p.name)}</nav>
 <section class="profile">
-  ${!photos[id] && getty[id] ? `<figure class="profile-photo"><div class="avatar big has-photo getty-circle"><iframe src="${esc(getty[id].src)}" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></div><figcaption>Foto: <a href="https://www.gettyimages.es/detail/${esc(getty[id].id)}" rel="noopener nofollow" target="_blank">Getty Images</a></figcaption></figure>` : `<figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>`}
+  ${igCode(id) ? `<figure class="profile-photo"><div class="avatar big has-photo ig-circle"><iframe src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></div><figcaption>Foto: <a href="https://www.instagram.com/p/${esc(igCode(id))}/" rel="noopener nofollow" target="_blank">su Instagram</a></figcaption></figure>` : !photos[id] && getty[id] ? `<figure class="profile-photo"><div class="avatar big has-photo getty-circle"><iframe src="${esc(getty[id].src)}" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></div><figcaption>Foto: <a href="https://www.gettyimages.es/detail/${esc(getty[id].id)}" rel="noopener nofollow" target="_blank">Getty Images</a></figcaption></figure>` : `<figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>`}
   <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}
   ${socials ? `<ul class="socials">${socials}</ul>` : ''}</div>
 </section>
