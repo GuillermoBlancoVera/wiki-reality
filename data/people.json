@@ -12,7 +12,10 @@
           "label": "3.ª edición (2021)",
           "role": "Participante"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/fiarf/"
+      }
     },
     "gonzalo-montoya": {
       "name": "Gonzalo Montoya",
@@ -22,7 +25,10 @@
           "label": "La última tentación (2021)",
           "role": "Participante"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/gonzalomontoya9/"
+      }
     },
     "susana-molina": {
       "name": "Susana Molina"
@@ -35,7 +41,10 @@
           "label": "La última tentación (2021)",
           "role": "Participante"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/fanicarbaj/"
+      }
     },
     "christofer-guzman": {
       "name": "Christofer Guzmán",
@@ -55,7 +64,10 @@
           "label": "2.ª edición (2020)",
           "role": "Soltera"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/anddreagb/"
+      }
     },
     "oscar-ruiz": {
       "name": "Óscar Ruiz",
@@ -79,10 +91,16 @@
       "name": "Adelina Seres"
     },
     "melyssa-pinto": {
-      "name": "Melyssa Pinto"
+      "name": "Melyssa Pinto",
+      "socials": {
+        "instagram": "https://www.instagram.com/melyssapiinto/"
+      }
     },
     "tom-brusse": {
-      "name": "Tom Brusse"
+      "name": "Tom Brusse",
+      "socials": {
+        "instagram": "https://www.instagram.com/tombrusse/"
+      }
     },
     "isaac-torres": {
       "name": "Isaac Torres «Lobo»",
@@ -286,10 +304,16 @@
       "name": "Alessandro Livi"
     },
     "pablo-moya": {
-      "name": "Pablo Moya"
+      "name": "Pablo Moya",
+      "socials": {
+        "instagram": "https://www.instagram.com/pablonezdj/"
+      }
     },
     "mayka-rivera": {
-      "name": "Mayka Rivera"
+      "name": "Mayka Rivera",
+      "socials": {
+        "instagram": "https://www.instagram.com/maii_rg/"
+      }
     },
     "marta-penate": {
       "name": "Marta Peñate"
@@ -310,7 +334,10 @@
       "name": "Hugo"
     },
     "marina-garcia": {
-      "name": "Marina García"
+      "name": "Marina García",
+      "socials": {
+        "instagram": "https://www.instagram.com/mgarciarod/"
+      }
     },
     "jesus-sanchez": {
       "name": "Jesús Sánchez"
@@ -329,16 +356,25 @@
       "socialsAuto": false
     },
     "sandra-ferriz": {
-      "name": "Sandra Férriz"
+      "name": "Sandra Férriz",
+      "socials": {
+        "instagram": "https://www.instagram.com/sandraferrizz/"
+      }
     },
     "zoe-mba": {
       "name": "Zoe Mba"
     },
     "josue-bernal": {
-      "name": "Josué Bernal"
+      "name": "Josué Bernal",
+      "socials": {
+        "instagram": "https://www.instagram.com/josue__bernal/"
+      }
     },
     "alvaro-boix": {
-      "name": "Álvaro Boix"
+      "name": "Álvaro Boix",
+      "socials": {
+        "instagram": "https://www.instagram.com/alvaroboix/"
+      }
     },
     "tania-isla-5": {
       "name": "Tania"
@@ -537,10 +573,16 @@
       "name": "Alejandro Pérez"
     },
     "anita-williams": {
-      "name": "Anita Williams"
+      "name": "Anita Williams",
+      "socials": {
+        "instagram": "https://www.instagram.com/_anitawilliams/"
+      }
     },
     "jose-carlos-montoya": {
-      "name": "José Carlos Montoya"
+      "name": "José Carlos Montoya",
+      "socials": {
+        "instagram": "https://www.instagram.com/jose_carlosmontoya/"
+      }
     },
     "sthefany-isla-8": {
       "name": "Sthefany"
@@ -561,16 +603,28 @@
           "id": "andrea-canel",
           "relation": "Salieron juntas de la hoguera final (La Isla, 9.ª edición)"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/sandrabarriosss/"
+      }
     },
     "juanpi-vega": {
-      "name": "Juanpi Vega"
+      "name": "Juanpi Vega",
+      "socials": {
+        "instagram": "https://www.instagram.com/juanpi11_/"
+      }
     },
     "nieves-tristan": {
-      "name": "Nieves Tristán"
+      "name": "Nieves Tristán",
+      "socials": {
+        "instagram": "https://www.instagram.com/nievestristaan/"
+      }
     },
     "lorenzo-ayala": {
-      "name": "Lorenzo Ayala"
+      "name": "Lorenzo Ayala",
+      "socials": {
+        "instagram": "https://www.instagram.com/lorenzoeea/"
+      }
     },
     "helena-arauz": {
       "name": "Helena Arauz",
@@ -579,28 +633,49 @@
           "id": "albert-barranco",
           "relation": "Helena eligió a Albert en la 9.ª edición de La Isla"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/helenaarauz/"
+      }
     },
     "rodri-lopez": {
-      "name": "Rodri López"
+      "name": "Rodri López",
+      "socials": {
+        "instagram": "https://www.instagram.com/rodri_lopezm/"
+      }
     },
     "claudia-chacon": {
-      "name": "Claudia Chacón"
+      "name": "Claudia Chacón",
+      "socials": {
+        "instagram": "https://www.instagram.com/claaudiiacm/"
+      }
     },
     "gilbert-mina": {
-      "name": "Gilbert Mina"
+      "name": "Gilbert Mina",
+      "socials": {
+        "instagram": "https://www.instagram.com/gil_mina11/"
+      }
     },
     "almudena-porras": {
       "name": "Almudena Porras"
     },
     "dario-linero": {
-      "name": "Darío Linero"
+      "name": "Darío Linero",
+      "socials": {
+        "instagram": "https://www.instagram.com/dariolinero/"
+      }
     },
     "mayeli-diaz": {
-      "name": "Mayeli Díaz"
+      "name": "Mayeli Díaz",
+      "socials": {
+        "instagram": "https://www.instagram.com/mayelidiaz_/"
+      }
     },
     "alvaro-rubio": {
-      "name": "Álvaro Rubio"
+      "name": "Álvaro Rubio",
+      "socials": {
+        "instagram": "https://www.instagram.com/alvaro_rubiox/"
+      }
     },
     "andrea-canel": {
       "name": "Andrea Canel"
@@ -1958,7 +2033,10 @@
       "name": "Anuar Beno"
     },
     "tania-medina": {
-      "name": "Tania Medina"
+      "name": "Tania Medina",
+      "socials": {
+        "instagram": "https://www.instagram.com/taniamedinnna/"
+      }
     },
     "juan-munoz": {
       "name": "Juan Muñoz"
@@ -2139,10 +2217,16 @@
       "name": "Arantxa del Sol"
     },
     "claudia-martinez": {
-      "name": "Claudia Martínez"
+      "name": "Claudia Martínez",
+      "socials": {
+        "instagram": "https://www.instagram.com/claudiiamg/"
+      }
     },
     "mario-gonzalez": {
-      "name": "Mario González"
+      "name": "Mario González",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariognzgr/"
+      }
     },
     "kike-calleja": {
       "name": "Kike Calleja"
@@ -2565,10 +2649,16 @@
       "name": "Patry Guimeras"
     },
     "inma-campano": {
-      "name": "Inma Campano"
+      "name": "Inma Campano",
+      "socials": {
+        "instagram": "https://www.instagram.com/inmacampanoo/"
+      }
     },
     "angel-de-los-santos": {
-      "name": "Ángel de los Santos"
+      "name": "Ángel de los Santos",
+      "socials": {
+        "instagram": "https://www.instagram.com/angeldelosantoos/"
+      }
     },
     "melodie-penalver": {
       "name": "Melodie Peñalver"
@@ -2577,10 +2667,16 @@
       "name": "Cristian Jerez"
     },
     "dario-selles": {
-      "name": "Darío Sellés"
+      "name": "Darío Sellés",
+      "socials": {
+        "instagram": "https://www.instagram.com/dariioselles/"
+      }
     },
     "rosario-cerdan": {
-      "name": "Rosario Cerdán"
+      "name": "Rosario Cerdán",
+      "socials": {
+        "instagram": "https://www.instagram.com/rosariomatew/"
+      }
     },
     "gal-la-mora": {
       "name": "Gal·la Mora"
@@ -2595,7 +2691,10 @@
       "name": "Paola Monzani"
     },
     "andreu-martorell": {
-      "name": "Andreu Martorell"
+      "name": "Andreu Martorell",
+      "socials": {
+        "instagram": "https://www.instagram.com/andreumarval/"
+      }
     },
     "sara-garcia": {
       "name": "Sara García"
@@ -2610,19 +2709,31 @@
       "name": "Elena Adsuara"
     },
     "mariona-ferre": {
-      "name": "Mariona Ferré"
+      "name": "Mariona Ferré",
+      "socials": {
+        "instagram": "https://www.instagram.com/marionaferre__/"
+      }
     },
     "adrian-aguado": {
-      "name": "Adrián Aguado"
+      "name": "Adrián Aguado",
+      "socials": {
+        "instagram": "https://www.instagram.com/adrian.aguado97/"
+      }
     },
     "rober": {
       "name": "Rober"
     },
     "lucas-mera": {
-      "name": "Lucas Mera"
+      "name": "Lucas Mera",
+      "socials": {
+        "instagram": "https://www.instagram.com/lucasmera/"
+      }
     },
     "yuli-cagna": {
-      "name": "Yuli Cagna"
+      "name": "Yuli Cagna",
+      "socials": {
+        "instagram": "https://www.instagram.com/yulicagna/"
+      }
     },
     "gerard-isla-8": {
       "name": "Gerard"

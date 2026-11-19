@@ -40,7 +40,7 @@
       .sort((a, b) => (a.k.startsWith(q) ? 0 : 1) - (b.k.startsWith(q) ? 0 : 1) || a.k.localeCompare(b.k))
       .slice(0, MAX);
     list.innerHTML = results.length
-      ? results.map((p) => `<li role="option" aria-selected="false"><a href="${p.u}">${highlight(p.n, words[0])}${p.s ? `<small>${esc(p.s)}</small>` : ''}</a></li>`).join('')
+      ? results.map((p) => `<li role="option" aria-selected="false"><a href="${p.u}">${p.h || ''}<span class="sr-text">${highlight(p.n, words[0])}${p.s ? `<small>${esc(p.s)}</small>` : ''}</span></a></li>`).join('')
       : '<li class="empty">Sin resultados</li>';
     list.hidden = false; active = -1;
     input.setAttribute('aria-expanded', 'true');

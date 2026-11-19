@@ -128,6 +128,11 @@ const avatar = (id, cls = 'avatar', tag = 'span') => {
   return ph ? `<${tag} class="${cls} has-photo"><img src="${esc(ph.src)}" alt="${esc(person(id).name)}" title="${esc(photoCredit(ph))}" loading="lazy" referrerpolicy="no-referrer"></${tag}>`
     : `<${tag} class="${cls}" aria-hidden="true">${esc(initials(person(id).name))}</${tag}>`;
 };
+// Avatar pequeño para el buscador: foto libre, publicación de Instagram, visor de Getty o iniciales
+const miniAvatar = (id) => photos[id] ? `<span class="mini-avatar"><img src="${esc(photos[id].src)}" alt="" loading="lazy" referrerpolicy="no-referrer"></span>`
+  : igCode(id) ? `<span class="mini-avatar mini-ig"><iframe src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" scrolling="no" frameborder="0" tabindex="-1" title=""></iframe></span>`
+  : getty[id] ? `<span class="mini-avatar mini-getty"><iframe src="${esc(getty[id].src)}" scrolling="no" frameborder="0" tabindex="-1" title="" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></span>`
+  : `<span class="mini-avatar">${esc(initials(person(id).name))}</span>`;
 const socialsOf = (id) => { const { source, ...rest } = { ...(autoSocials[id] ?? {}), ...(people[id].socials ?? {}) }; return rest; };
 
 // ---------- parejas ----------
@@ -415,6 +420,7 @@ cpSync(join(ROOT, 'src', 'assets'), join(OUT, 'assets'), { recursive: true });
 const searchIndex = allIds.map((id) => ({
   id, n: people[id].name, u: url(`personas/${id}/`),
   s: [...new Set((appearances[id] ?? []).map((a) => a.realityName))].join(' · '),
+  h: miniAvatar(id),
 }));
 writeFileSync(join(OUT, 'search-index.json'), JSON.stringify(searchIndex));
 
