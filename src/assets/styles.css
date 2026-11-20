@@ -300,3 +300,10 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 
 .ms-sub { display: block; font-family: var(--font-body, 'Inter', sans-serif); font-size: .42em; font-weight: 700; letter-spacing: .12em; margin-top: .35em; -webkit-text-fill-color: #fff; color: #fff; }
 .theme-masksinger .reality-title .ms-sub { -webkit-text-fill-color: currentColor; color: inherit; }
+
+/* Foto de perfil de Instagram: visor oficial del perfil, encuadrado en su avatar (24,45 · 56px en un visor de 326px) */
+.avatar.av-igp { position: relative; display: block; overflow: hidden; background: var(--surface-2); }
+.avatar.av-igp iframe, .mini-igp iframe { position: absolute; top: 0; left: 0; width: 326px; height: 520px; border: 0; pointer-events: none; transform-origin: 0 0; background: #fff; }
+.avatar.av-igp iframe { transform: scale(calc(var(--s) / 56)) translate(-24px, -45px); }
+.avatar.big.av-igp { --s: 140; width: 140px; height: 140px; }
+.mini-igp iframe { transform: scale(.6786) translate(-24px, -45px); }
