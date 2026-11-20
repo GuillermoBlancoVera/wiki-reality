@@ -100,6 +100,8 @@ console.log(`Datos biográficos para ${Object.keys(bios).length} personas`);
 const FREE = /^(cc0|public domain|pd\b|cc[ -]by(-sa)?[ -]\d)/i;
 const strip = (h = '') => h.replace(/<[^>]*>/g, '').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/\s+/g, ' ').trim();
 const photos = {};
+// Foto elegida a mano: "commons": "File:…" en people.json (revisada persona a persona)
+for (const [id, p] of Object.entries(people)) if (p.commons && p.photoAuto !== false) images[id] = { file: p.commons.replace(/^File:/, ''), wikidata: images[id]?.wikidata };
 const ids = Object.keys(images);
 for (let i = 0; i < ids.length; i += 40) {
   const batch = ids.slice(i, i + 40);
@@ -129,6 +131,6 @@ for (let i = 0; i < ids.length; i += 40) {
 const photosPath = join(DATA, 'photos.json');
 let oldPhotos = {};
 try { oldPhotos = JSON.parse(readFileSync(photosPath, 'utf8')).people ?? {}; } catch {}
-const mergedPhotos = Object.fromEntries(Object.entries({ ...oldPhotos, ...photos }).filter(([id]) => people[id] && people[id].socialsAuto !== false && people[id].photoAuto !== false));
+const mergedPhotos = Object.fromEntries(Object.entries({ ...oldPhotos, ...photos }).filter(([id]) => people[id] && (people[id].socialsAuto !== false || people[id].commons) && people[id].photoAuto !== false));
 writeFileSync(photosPath, JSON.stringify({ _doc: 'Generado por scripts/update-socials.mjs: imagen (P18) de Wikidata con licencia libre de Wikimedia Commons. "photoAuto": false en people.json la desactiva.', people: mergedPhotos }, null, 2) + '\n');
 console.log(`Fotos con licencia libre para ${Object.keys(photos).length} personas`);
