@@ -316,7 +316,6 @@ const page = (path, html) => { pages[path] = html; };
     <p class="eyebrow">${esc(site.tagline)}</p>
     <h1>Todos los realities.<br>Todas sus historias.</h1>
     <p class="hero-text">${esc(site.description)}</p>
-    <a class="btn" href="${url(`${featured.id}/`)}">Explorar ${esc(featured.name)}</a>
   </div>
 </section>
 <section class="row row-posters" id="realities"><h2 class="row-title">Realities</h2><div class="row-scroller">${realities.map(poster).join('')}</div></section>
