@@ -12086,7 +12086,11 @@
     "bea-la-legionaria": {
       "name": "Bea la Legionaria",
       "origin": "Madrid",
-      "job": "Concursante de GH 6"
+      "job": "Concursante de GH 6",
+      "socials": {
+        "instagram": "https://www.instagram.com/bealegionaria/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "nerea-echaide": {
       "name": "Nerea Echaide",
