@@ -226,7 +226,8 @@
     "david-gallardo": {
       "name": "David Gallardo",
       "origin": "Vizcaya",
-      "job": "Músico"
+      "job": "Músico",
+      "commons": "File:David Gallardo.JPG"
     },
     "julian-mejias": {
       "name": "Julián Mejías",
@@ -3354,7 +3355,8 @@
     "aylen-vip-5": {
       "name": "Aylén Milla",
       "origin": "Buenos Aires",
-      "job": "Modelo y concursante de realities"
+      "job": "Modelo y concursante de realities",
+      "commons": "File:Copihue de Oro 2018 - Aylén Milla - 01.jpg"
     },
     "sergio-vip-5": {
       "name": "Sergio Ayala",
@@ -3663,7 +3665,8 @@
     "javier-fernandez": {
       "name": "Javier Fernández",
       "origin": "Madrid",
-      "job": "Patinador olímpico"
+      "job": "Patinador olímpico",
+      "commons": "File:Javier Fernández - 2018 Olympics.jpg"
     },
     "karina-vip-8": {
       "name": "Karina",
@@ -5054,7 +5057,8 @@
     "juanito-oiarzabal": {
       "name": "Juanito Oiarzabal",
       "origin": "Álava",
-      "job": "Alpinista"
+      "job": "Alpinista",
+      "commons": "File:Juanito Oiarzabal ME.jpg"
     },
     "rebecca-loos": {
       "name": "Rebecca Loos",
@@ -6664,7 +6668,8 @@
       "socials": {
         "instagram": "https://www.instagram.com/loschunguitos/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @masterchef_es"
+      "socialsSource": "Cuenta seguida por el perfil oficial @masterchef_es",
+      "commons": "File:Los Chunguitos en Extremúsica 2009.jpg"
     },
     "santi-rodriguez": {
       "name": "Santi Rodríguez",
@@ -7458,7 +7463,8 @@
         "instagram": "https://www.instagram.com/sandrapolop/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
-      "origin": "Valencia"
+      "origin": "Valencia",
+      "commons": "File:Sandra Polop.jpg"
     },
     "guille-b": {
       "name": "Guille Barea",
@@ -7565,7 +7571,8 @@
     },
     "manu-castellano": {
       "name": "Manu Castellano",
-      "origin": "Villa del Río"
+      "origin": "Villa del Río",
+      "commons": "File:Manu castellano.jpg"
     },
     "sandra-criado": {
       "name": "Sandra Criado",
@@ -8025,7 +8032,8 @@
         "instagram": "https://www.instagram.com/chicasobresalto/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
-      "origin": "Pamplona"
+      "origin": "Pamplona",
+      "commons": "File:Maialen Gurbindo (cropped).jpg"
     },
     "samantha-ot-11": {
       "name": "Samantha Gilabert",
@@ -8050,7 +8058,8 @@
         "instagram": "https://www.instagram.com/gerardcontilde/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
-      "origin": "Ceuta"
+      "origin": "Ceuta",
+      "commons": "File:Gerard rodriguez 2020.jpg"
     },
     "jesus-ot-11": {
       "name": "Jesús Rendón",
@@ -8184,7 +8193,8 @@
         "instagram": "https://www.instagram.com/denna_/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
-      "origin": "Ogíjares"
+      "origin": "Ogíjares",
+      "commons": "File:Denna cantante 2024.jpg"
     },
     "omar-ot-12": {
       "name": "Omar Samba",
@@ -8192,7 +8202,8 @@
         "instagram": "https://www.instagram.com/omarsamba/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
-      "origin": "Yunquera de Henares"
+      "origin": "Yunquera de Henares",
+      "commons": "File:Omar Samba en la gira Operación Triunfo 2023 en Murcia.jpg"
     },
     "suzete-ot-12": {
       "name": "Suzete Correia",
@@ -8348,7 +8359,8 @@
     "estefania-luyk": {
       "name": "Estefanía Luyk",
       "origin": "Madrid",
-      "job": "Modelo y empresaria"
+      "job": "Modelo y empresaria",
+      "commons": "File:Estefanía Luyk - Seminci 2016.jpg"
     },
     "fonsi-nieto": {
       "name": "Fonsi Nieto",
@@ -8407,7 +8419,8 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masterchef_es",
       "origin": "Italia",
-      "job": "Top model y presentadora"
+      "job": "Top model y presentadora",
+      "commons": "File:Antonia Dell´Atte.jpg"
     },
     "boris-izaguirre": {
       "name": "Boris Izaguirre",
@@ -8537,7 +8550,8 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masterchef_es",
       "origin": "Málaga",
-      "job": "Expolítica"
+      "job": "Expolítica",
+      "commons": "File:Celia Villalobos 2001 (cropped).jpg"
     },
     "gonzalo-miro": {
       "name": "Gonzalo Miró",
@@ -8757,7 +8771,8 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masterchef_es",
       "origin": "Barcelona",
-      "job": "Presentadora de TV, actriz y vedette"
+      "job": "Presentadora de TV, actriz y vedette",
+      "commons": "File:Norma-Duval-p1000033.jpg"
     },
     "fernando-andina": {
       "name": "Fernando Andina",
@@ -9771,13 +9786,7 @@
         "instagram": "https://www.instagram.com/jorgelorenzo99/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
-      "photo": {
-        "src": "https://live.staticflickr.com/8544/8869649676_b152a41429_b.jpg",
-        "page": "https://www.flickr.com/photos/66463488@N06/8869649676",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "author": "Doha Stadium Plus (Flickr)"
-      }
+      "commons": "File:Jorge Lorenzo 2019 (cropped).jpg"
     },
     "al-bano": {
       "name": "Al Bano"
@@ -9790,7 +9799,8 @@
       "socials": {
         "instagram": "https://www.instagram.com/maximohuerta/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3"
+      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
+      "commons": "File:Máximo Huerta.jpg"
     },
     "georgina-rodriguez": {
       "name": "Georgina Rodríguez"
@@ -9822,13 +9832,7 @@
         "instagram": "https://www.instagram.com/officialmelb/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
-      "photo": {
-        "src": "https://live.staticflickr.com/6049/6228313455_e64b2e86a9.jpg",
-        "page": "https://www.flickr.com/photos/58820009@N05/6228313455",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "author": "Eva Rinaldi Celebrity Photographer (Flickr)"
-      }
+      "commons": "File:Mel B (6330979387).jpg"
     },
     "josep-pedrerol": {
       "name": "Josep Pedrerol"
@@ -9996,13 +10000,7 @@
         "instagram": "https://www.instagram.com/carl_lewis_official/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
-      "photo": {
-        "src": "https://live.staticflickr.com/8371/8424517646_0bf0e749b9_b.jpg",
-        "page": "https://www.flickr.com/photos/66463488@N06/8424517646",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "author": "Doha Stadium Plus (Flickr)"
-      }
+      "commons": "File:Carl Lewis 2011 Shankbone.JPG"
     },
     "leire-martinez": {
       "name": "Leire Martínez"
@@ -10058,7 +10056,8 @@
       "socials": {
         "instagram": "https://www.instagram.com/martinanavratilova/"
       },
-      "socialsSource": "Perfil público localizado por nombre y programa"
+      "socialsSource": "Perfil público localizado por nombre y programa",
+      "commons": "File:Martina Navratilova (7490733436).jpg"
     },
     "bernd-schuster": {
       "name": "Bernd Schuster",
@@ -11192,7 +11191,8 @@
     "miguel-angel-perdiguero": {
       "name": "Miguel Ángel Perdiguero",
       "origin": "Madrid",
-      "job": "Ciclista, concejal del PP"
+      "job": "Ciclista, concejal del PP",
+      "commons": "File:Miguel Ángel Perdiguero (Concejal del Partido Independiente de Arroyomolinos PIArr)).jpg"
     },
     "guillermo-martin": {
       "name": "Guillermo Martín",
