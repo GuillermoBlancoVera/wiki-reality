@@ -414,7 +414,11 @@
     "xavier-monjonell": {
       "name": "Xavier Monjonell",
       "origin": "Gerona",
-      "job": "Monitor de esquí"
+      "job": "Monitor de esquí",
+      "socials": {
+        "instagram": "https://www.instagram.com/xaviermonjonell/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alfredo-cortina": {
       "name": "Alfredo Cortina",
@@ -1802,7 +1806,11 @@
     "fayna-gh-2": {
       "name": "Fayna Bethencourt",
       "origin": "Las Palmas",
-      "job": "Guía turístico"
+      "job": "Guía turístico",
+      "socials": {
+        "instagram": "https://www.instagram.com/faynabethencourt/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carlos-gh-2": {
       "name": "Carlos Navarro",
@@ -1916,7 +1924,11 @@
     "mario-artiaga": {
       "name": "Mario Artiaga",
       "origin": "Madrid",
-      "job": "Estudiante de Empresariales"
+      "job": "Estudiante de Empresariales",
+      "socials": {
+        "instagram": "https://www.instagram.com/marioartiagalop/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sonia-arenas": {
       "name": "Sonia Arenas",
@@ -1926,7 +1938,11 @@
     "maria-moratilla": {
       "name": "María Moratilla",
       "origin": "Madrid",
-      "job": "Directora de marketing"
+      "job": "Directora de marketing",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariamoratilla/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ainhoa-pareja": {
       "name": "Ainhoa Pareja",
@@ -2052,7 +2068,11 @@
     "salva-gh-6": {
       "name": "Salvador Martí",
       "origin": "La Rioja",
-      "job": "Policía local"
+      "job": "Policía local",
+      "socials": {
+        "instagram": "https://www.instagram.com/salvadormartioficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mercedes-gh-6": {
       "name": "Mercedes García",
@@ -2491,7 +2511,11 @@
     "tania-mauleon": {
       "name": "Tania Mauleón",
       "origin": "Barcelona",
-      "job": "Estudiante de ADE"
+      "job": "Estudiante de ADE",
+      "socials": {
+        "instagram": "https://www.instagram.com/taniamauleon/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "meritxell-gh-17": {
       "name": "Meritxell Prieto",
@@ -2586,7 +2610,11 @@
     "alvaro-gh-17": {
       "name": "Álvaro Requerey",
       "origin": "Sevilla",
-      "job": "Arquitecto técnico y aparejador"
+      "job": "Arquitecto técnico y aparejador",
+      "socials": {
+        "instagram": "https://www.instagram.com/alvarorequerey/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "cris-gh-17": {
       "name": "Cris de León",
@@ -5295,7 +5323,11 @@
     "cuca-garcia-de-vinuesa": {
       "name": "Cuca García de Vinuesa",
       "origin": "Madrid",
-      "job": "Periodista"
+      "job": "Periodista",
+      "socials": {
+        "instagram": "https://www.instagram.com/cucagdevinuesa_oficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "juan-diaz-el-golosina": {
       "name": "Juan Díaz «El Golosina»",
@@ -5319,7 +5351,11 @@
     "olfo-bose": {
       "name": "Olfo Bosé",
       "origin": "Madrid",
-      "job": "Escultór"
+      "job": "Escultór",
+      "socials": {
+        "instagram": "https://www.instagram.com/olfobose/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ivan-santos": {
       "name": "Iván Santos",
@@ -5490,7 +5526,11 @@
     "angela-bustillo": {
       "name": "Ángela Bustillo",
       "origin": "Cantabria",
-      "job": "Modelo, Miss Cantabria 2007"
+      "job": "Modelo, Miss Cantabria 2007",
+      "socials": {
+        "instagram": "https://www.instagram.com/angelukasantander/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alba-paul": {
       "name": "Alba Paul",
@@ -6807,7 +6847,7 @@
       "job": "Modelo"
     },
     "dani-garcia-isla-2": {
-      "name": "Dani García",
+      "name": "Dani García Primo",
       "origin": "Alicante",
       "socials": {
         "instagram": "https://www.instagram.com/danigarcia_primo/"
@@ -7811,7 +7851,11 @@
     },
     "noelia-ot-3": {
       "name": "Noelia Fonte",
-      "origin": "Guitiriz"
+      "origin": "Guitiriz",
+      "socials": {
+        "instagram": "https://www.instagram.com/noeliafonte/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "beatriz-ot-3": {
       "name": "Beatriz Porrúa",
@@ -8190,7 +8234,11 @@
     },
     "nazaret-ot-7": {
       "name": "Nazaret Tebar",
-      "origin": "Camarma de Esteruelas"
+      "origin": "Camarma de Esteruelas",
+      "socials": {
+        "instagram": "https://www.instagram.com/nazaret.tebar/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pedro-ot-7": {
       "name": "Pedro Moreno",
@@ -9934,7 +9982,11 @@
     "caterina-costura-5": {
       "name": "Caterina Pascual",
       "origin": "Mallorca",
-      "job": "Diseñadora"
+      "job": "Diseñadora",
+      "socials": {
+        "instagram": "https://www.instagram.com/bycatpascual/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "judith-costura-5": {
       "name": "Judith Díaz",
@@ -10075,11 +10127,19 @@
     },
     "arancha-bonete": {
       "name": "Arancha Bonete",
-      "job": "Modelo, Chica Playboy"
+      "job": "Modelo, Chica Playboy",
+      "socials": {
+        "instagram": "https://www.instagram.com/aranchabonete/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "olivia-de-borbon": {
       "name": "Olivia de Borbón",
-      "job": "Aristócrata"
+      "job": "Aristócrata",
+      "socials": {
+        "instagram": "https://www.instagram.com/oliviadborbon/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "shangay-lily": {
       "name": "Shangay Lily",
@@ -10091,7 +10151,11 @@
     },
     "ernesto-calzadilla": {
       "name": "Ernesto Calzadilla",
-      "job": "Modelo, Míster Venezuela 1998"
+      "job": "Modelo, Míster Venezuela 1998",
+      "socials": {
+        "instagram": "https://www.instagram.com/ernestocalzadillaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "paco-fernandez": {
       "name": "Paco Fernández",
@@ -10117,7 +10181,11 @@
     },
     "lia-chapman": {
       "name": "Lía Chapman",
-      "job": "Actriz"
+      "job": "Actriz",
+      "socials": {
+        "instagram": "https://www.instagram.com/liachapmanofficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "david-meca": {
       "name": "David Meca",
@@ -10150,7 +10218,11 @@
     },
     "erik-putzbach": {
       "name": "Erik Putzbach",
-      "job": "Estilista"
+      "job": "Estilista",
+      "socials": {
+        "instagram": "https://www.instagram.com/erikputzbach/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "fernando-acaso": {
       "name": "Fernando Acaso",
@@ -10244,9 +10316,6 @@
       },
       "socialsSource": "Perfil público localizado por nombre y programa"
     },
-    "dani-pesadilla-4": {
-      "name": "Dani García Primo"
-    },
     "danna-pesadilla-4": {
       "name": "Danna Ponce",
       "job": "Influencer"
@@ -10293,7 +10362,11 @@
     },
     "antonio-montero": {
       "name": "Antonio Montero",
-      "job": "Periodista y colaborador de TV"
+      "job": "Periodista y colaborador de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/antoniomonterov/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mar-lopez": {
       "name": "Mar López"
@@ -10322,7 +10395,11 @@
     },
     "ruben-correia": {
       "name": "Rubén Correia",
-      "job": "Entrenador personal"
+      "job": "Entrenador personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/rbncorreia_13/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "isa-bermejo": {
       "name": "Isabel Bermejo",
@@ -10909,7 +10986,11 @@
     "andreina-veliz": {
       "name": "Andreína Véliz",
       "origin": "Madrid",
-      "job": "Asistente de marketing"
+      "job": "Asistente de marketing",
+      "socials": {
+        "instagram": "https://www.instagram.com/andreinaveliz/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "geniris-mena": {
       "name": "Géniris Mena",
@@ -11711,7 +11792,11 @@
     "aketza-sanchez": {
       "name": "Aketza Sánchez",
       "origin": "Vizcaya",
-      "job": "Socorrista"
+      "job": "Socorrista",
+      "socials": {
+        "instagram": "https://www.instagram.com/watermanaketza/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ana-maria-fernandez": {
       "name": "Ana María Fernández",
