@@ -148,7 +148,27 @@
     "joaquin-cortes": "2026-11-20",
     "jose-luis-rodriguez-el-puma": "2026-11-20",
     "trancas-y-barrancas": "2026-11-20",
-    "martina-navratilova": "2026-11-20"
+    "martina-navratilova": "2026-11-20",
+    "ruben-torres": "2026-11-20",
+    "fortu": "2026-11-20",
+    "anita-williams": "2026-11-20",
+    "antonio-canales": "2026-11-20",
+    "carmen-borrego": "2026-11-20",
+    "yiya-del-guillen": "2026-11-20",
+    "nacho-de-borbon": "2026-11-20",
+    "arturo-requejo": "2026-11-20",
+    "norma-duval": "2026-11-20",
+    "ainhoa-arteta": "2026-11-20",
+    "jose-manuel-parada": "2026-11-20",
+    "lola-ortiz": "2026-11-20",
+    "albert-barranco": "2026-11-20",
+    "yulen-pereira": "2026-11-20",
+    "rocio-madrid": "2026-11-20",
+    "damian-quintero": "2026-11-20",
+    "keroseno": "2026-11-20",
+    "finito": "2026-11-20",
+    "gloria-gonzalez": "2026-11-20",
+    "juanpi-vega": "2026-11-20"
   },
   "people": {
     "jesus-vazquez": [
@@ -1499,6 +1519,200 @@
         "license": "CC BY-SA 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
         "source": "wikimedia"
+      }
+    ],
+    "antonio-canales": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Antonio_Canales_%28bailaor%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/e2df23d2-e706-4d87-8686-637cd0212f42/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=177455308",
+        "title": "Antonio Canales (bailaor)",
+        "author": "La Cultura a Escena",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Jos%C3%A9_Antonio_Canales_Moti%C3%B1o.jpg",
+        "thumb": "https://api.openverse.org/v1/images/5fc1b390-daf6-43ab-bf24-40e6169bb9ca/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=177903682",
+        "title": "José Antonio Canales Motiño",
+        "author": "Daniemi12",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Antonio_Canales_y_Pol_Vaquero_Maestros_del_flamenco.jpg",
+        "thumb": "https://api.openverse.org/v1/images/66e18abe-83cb-4e34-ac0c-7f057d0b4b71/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=100317158",
+        "title": "Antonio Canales y Pol Vaquero Maestros del flamenco",
+        "author": "Prodigios del flamenco",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "norma-duval": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Norma-duval-baila-puedas.jpg",
+        "thumb": "https://api.openverse.org/v1/images/23cb125f-e59d-4f4e-9cf8-7bffd102b7bf/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=146450287",
+        "title": "Norma-duval-baila-puedas",
+        "author": "Birgitte Nyborg Borgen",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Norma-Duval-p1000033.jpg",
+        "thumb": "https://api.openverse.org/v1/images/28a8a688-8fec-4168-bcf7-ac86ed459d2d/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=9383193",
+        "title": "File:Norma-Duval-p1000033.jpg",
+        "author": "El Pantera",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "wikimedia"
+      }
+    ],
+    "ainhoa-arteta": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ainhoa_Arteta_Musika_Hamabostaldian.jpg",
+        "thumb": "https://api.openverse.org/v1/images/997777e8-819f-4add-8498-3167fac44e41/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=163560592",
+        "title": "Ainhoa Arteta Musika Hamabostaldian",
+        "author": "Quincena Musical / Iñigo Ibáñez",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Ainhoa_Arteta_at_the_Quincena_Musical.jpg",
+        "thumb": "https://api.openverse.org/v1/images/c5a9a906-5895-47d1-b8af-c2bd41ab6c4a/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=43681451",
+        "title": "Ainhoa Arteta at the Quincena Musical",
+        "author": "Quincena Musical / Iñigo Ibáñez",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/1790/43433117802_8af84b763b_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/0f060ec6-f625-4cdb-8ad1-5b445e82040f/thumb/",
+        "page": "https://www.flickr.com/photos/70125105@N06/43433117802",
+        "title": "'Tosca' by Giacomo Puccini - Ainhoa Arteta, soprano; Brian Jagde, tenore; Juraj Valčuha, conductor - Royal San Carlo Theatre in Naples, up July 24, 2018",
+        "author": "Carlo Raso",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": "flickr"
+      }
+    ],
+    "jose-manuel-parada": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Gala_Starlite_2019_-_Jos%C3%A9_Manuel_Parada_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/eaf6f12f-4ced-4f70-959f-e86d2674c846/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=186408195",
+        "title": "Gala Starlite 2019 - José Manuel Parada (cropped)",
+        "author": "Rincón Friki",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jos%C3%A9_Manuel_Parada_Maluenda.jpg",
+        "thumb": "https://api.openverse.org/v1/images/5ce30ca8-899e-4581-9503-9b45efdd961a/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=104312803",
+        "title": "José Manuel Parada Maluenda",
+        "author": "Unknown authorUnknown author",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/65535/52788503749_e548095b3d_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/79e94205-c3ef-4efe-b2cf-6ef0ba34e0e5/thumb/",
+        "page": "https://www.flickr.com/photos/120053368@N08/52788503749",
+        "title": "Ministra Camila Vallejo asiste a acto conmemorativo en el Memorial “Tres Sillas”, para recordar a Manuel Guerrero, Santiago Nattino y José Manuel Parada, asesinados en 1985 por la dictadura militar. Recordamos y construimos democracia.",
+        "author": "Vocería de Gobierno",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "yulen-pereira": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Yulen_Pereira_2014_Challenge_RFF_t120321.jpg",
+        "thumb": "https://api.openverse.org/v1/images/31842d72-7bbc-4fdd-a365-91ff4d7de6d6/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=33160545",
+        "title": "Yulen Pereira 2014 Challenge RFF t120321",
+        "author": "Marie-Lan Nguyen",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Yulen_Pereira_2014_Challenge_RFF.jpg",
+        "thumb": "https://api.openverse.org/v1/images/eb547f94-95ce-428f-b951-e5086edb1278/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=68615660",
+        "title": "Yulen Pereira 2014 Challenge RFF",
+        "author": "Marie-Lan Nguyen",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Yulen_Pereira_2014_Challenge_RFF_t120324.jpg",
+        "thumb": "https://api.openverse.org/v1/images/c50eaef2-2361-4fdc-8801-7e58b8618828/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=33160831",
+        "title": "Yulen Pereira 2014 Challenge RFF t120324",
+        "author": "Marie-Lan Nguyen",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "damian-quintero": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Dami%C3%A1n_Quintero_%28ESP%29_2018.jpg",
+        "thumb": "https://api.openverse.org/v1/images/2150e9ab-186c-4271-865b-f50836ecfaa0/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=130004101",
+        "title": "Damián Quintero (ESP) 2018",
+        "author": "Martin Rulsch, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Paseo_de_las_Estrellas_del_Deporte%2C_Dami%C3%A1n_Quintero_Capdevila.jpg",
+        "thumb": "https://api.openverse.org/v1/images/1f5ae489-ccee-4839-b070-8e590421fe47/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=128713694",
+        "title": "Paseo de las Estrellas del Deporte, Damián Quintero Capdevila",
+        "author": "Daniel Capilla",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "finito": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Carlos_Mario_Ram%C3%ADrez_campeonato_2016.jpg",
+        "thumb": "https://api.openverse.org/v1/images/01cc3415-ff12-4408-a3cb-4d6eb0f16774/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=47320158",
+        "title": "File:Carlos Mario Ramírez campeonato 2016.jpg",
+        "author": "nuestrociclismo.com",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/7191/7134679659_699430d1ba_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/235c7616-f0a6-4f7b-8a08-49952a840d50/thumb/",
+        "page": "https://www.flickr.com/photos/77278670@N04/7134679659",
+        "title": "Andres Mario Ramírez Cuevas",
+        "author": "ismael villafranco",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
       }
     ]
   }
