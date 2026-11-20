@@ -130,3 +130,18 @@ document.addEventListener('click', async (e) => {
   }, { rootMargin: '300px' });
   waiting.forEach((f) => io.observe(f));
 })();
+
+// Flechas para las filas con scroll horizontal (portada tipo catálogo)
+(() => {
+  document.querySelectorAll('.row > .row-scroller').forEach((sc) => {
+    const mk = (cls, label, txt, dir) => {
+      const b = document.createElement('button');
+      b.type = 'button'; b.className = 'row-arrow ' + cls; b.setAttribute('aria-label', label); b.textContent = txt;
+      b.addEventListener('click', () => sc.scrollBy({ left: dir * sc.clientWidth * 0.85, behavior: 'smooth' }));
+      sc.parentElement.appendChild(b); return b;
+    };
+    const prev = mk('prev', 'Anterior', '‹', -1), next = mk('next', 'Siguiente', '›', 1);
+    const upd = () => { prev.hidden = sc.scrollLeft < 8; next.hidden = sc.scrollLeft + sc.clientWidth > sc.scrollWidth - 8; };
+    sc.addEventListener('scroll', upd, { passive: true }); window.addEventListener('resize', upd); upd();
+  });
+})();

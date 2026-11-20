@@ -19,7 +19,7 @@ def pid(name, tag):
 def role(st):
     m = re.match(r'(Evicted|Eliminated|Walked|Left|Ejected|Re-evicted|Evacuated)(?: Day (\d+))?(.*)', st)
     if not m:
-        return {'Runner-up': '2.º puesto', 'Third place': '3.er puesto', 'Fourth place': '4.º puesto', '+1 Winner': 'Ganador/a de la fase «+1»', '+1 Runner-up': '2.º puesto de la fase «+1»', '+1 Third place': '3.er puesto de la fase «+1»', '+1 Fourth place': '4.º puesto de la fase «+1»'}.get(st, st)
+        return {'Runner-up': '2º puesto', 'Third place': '3er puesto', 'Fourth place': '4º puesto', '+1 Winner': 'Ganador/a de la fase «+1»', '+1 Runner-up': '2º puesto de la fase «+1»', '+1 Third place': '3er puesto de la fase «+1»', '+1 Fourth place': '4º puesto de la fase «+1»'}.get(st, st)
     kind, day, rest = m.groups()
     base = {'Evicted': 'Expulsado/a', 'Eliminated': 'Expulsado/a', 'Walked': 'Abandonó', 'Left': 'Abandonó', 'Ejected': 'Expulsado/a por la organización', 'Re-evicted': 'Expulsado/a por segunda vez', 'Evacuated': 'Evacuado/a'}[kind]
     return base + (f' (día {day})' if day else '') + rest
@@ -58,7 +58,7 @@ r = docs['sv']
 e26 = next(e for e in r['editions'] if e['title'] == 'Supervivientes 2026')
 e26['finalists'] = [pid('Alba Paul', 'sv-21'), pid('Alvar Seguí', 'sv-21')]
 rest = ['Teresa Seco','Álex Ghita','Jaime Astrain','Toni Elías','Aratz Lakuntza','Ingrid Betancor','Ivonne Reyes','Marisa Jara','Gerard Arias','Paola Olmedo','Gabriela Guillén','Alberto Ávila','Claudia Chacón','Álex de la Croix']
-e26['participants'] = [{'id': pid('José Manuel Soto', 'sv-21'), 'role': '4.º puesto', 'eliminatedOrder': 4}] + [{'id': pid(n, 'sv-21'), 'role': 'Concursante'} for n in rest]
+e26['participants'] = [{'id': pid('José Manuel Soto', 'sv-21'), 'role': '4º puesto', 'eliminatedOrder': 4}] + [{'id': pid(n, 'sv-21'), 'role': 'Concursante'} for n in rest]
 e26['notes'] = 'Orden de expulsión del resto de concursantes pendiente de completar.'
 for s in ['https://www.sensacine.com/television/noticias/noticia-1000208418.html', 'https://www.hola.com/actualidad/20260217884275/supervivientes-concursantes-confirmados/']:
     if s not in r['sources']: r['sources'].append(s)

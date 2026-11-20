@@ -68,7 +68,7 @@ const addApp = (id, r, e, role) => {
 for (const r of realities) {
   for (const e of r.editions) {
     if (e.winner) addApp(e.winner, r, e, 'Ganador/a');
-    (e.finalists ?? []).forEach((id, i) => addApp(id, r, e, `${i + 2}.º puesto`));
+    (e.finalists ?? []).forEach((id, i) => addApp(id, r, e, `${i + 2}º puesto`));
     for (const c of e.couples ?? []) {
       addApp(c.a, r, e, `Pareja de ${person(c.b).name}`);
       addApp(c.b, r, e, `Pareja de ${person(c.a).name}`);
@@ -318,7 +318,7 @@ const page = (path, html) => { pages[path] = html; };
     <a class="btn" href="${url(`${featured.id}/`)}">Explorar ${esc(featured.name)}</a>
   </div>
 </section>
-<section class="row row-posters" id="realities"><h2 class="row-title">Realities</h2><div class="poster-grid">${realities.map(poster).join('')}</div></section>
+<section class="row row-posters" id="realities"><h2 class="row-title">Realities</h2><div class="row-scroller">${realities.map(poster).join('')}</div></section>
 ${row('Parejas de La isla de las tentaciones', coupleCards)}
 ${row('Personas en varios programas', crossOver)}
 ${row('Últimos ganadores', winnersRow)}
@@ -366,7 +366,7 @@ ${r.official ? `<section class="block official"><h2>En la web oficial</h2><p cla
     ].filter(([, v]) => v).map(([k, v]) => `<div><dt>${k}</dt><dd>${v.html ?? esc(v)}</dd></div>`).join('');
     const podium = e.winner ? `
 <section class="block"><h2>Ganador/a y finalistas</h2>
-  <div class="podium">${personCard(e.winner, 'Ganador/a')}${(e.finalists ?? []).map((f, i) => personCard(f, `${i + 2}.º puesto`)).join('')}</div>
+  <div class="podium">${personCard(e.winner, 'Ganador/a')}${(e.finalists ?? []).map((f, i) => personCard(f, `${i + 2}º puesto`)).join('')}</div>
 </section>` : '';
     const couples = e.couples?.length ? `
 <section class="block"><h2>Parejas</h2>
