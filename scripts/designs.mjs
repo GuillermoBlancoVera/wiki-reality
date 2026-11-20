@@ -15,7 +15,7 @@ const rays = (cx, cy, n, len, color, op = 0.18) => Array.from({ length: n }, (_,
 
 export const designs = {
   isla: {
-    font: 'Bodoni Moda', title: 'font-size:1rem;font-weight:800;line-height:1',
+    font: 'Bodoni Moda', title: 'font-size:.82rem;font-weight:800;line-height:1',
     logo: '<span class="isla-logo"><span class="isla-l1">la <b>ISLA</b> de las</span><span class="isla-l2">TENTACIONES</span></span>',
     bg: '#0b1410', fg: '#fff',
     // Playa vista desde el aire, de noche: agua oscura, espuma y arena iluminada
