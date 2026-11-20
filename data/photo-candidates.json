@@ -140,7 +140,15 @@
     "antonia-dell-atte": "2026-11-20",
     "juan-avellaneda": "2026-11-20",
     "jose-miguel-antunez": "2026-11-20",
-    "celia-villalobos": "2026-11-20"
+    "celia-villalobos": "2026-11-20",
+    "jose-manuel-soto": "2026-11-20",
+    "raquel-martin": "2026-11-20",
+    "nuria-martinez": "2026-11-20",
+    "maximo-huerta": "2026-11-20",
+    "joaquin-cortes": "2026-11-20",
+    "jose-luis-rodriguez-el-puma": "2026-11-20",
+    "trancas-y-barrancas": "2026-11-20",
+    "martina-navratilova": "2026-11-20"
   },
   "people": {
     "jesus-vazquez": [
@@ -1369,6 +1377,128 @@
         "license": "CC BY-SA 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
         "source": "flickr"
+      }
+    ],
+    "raquel-martin": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Raquel_Mart%C3%ADn_Menor.jpg",
+        "thumb": "https://api.openverse.org/v1/images/ebf6abe4-7892-4a0b-9df9-37cac9f91678/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=109669464",
+        "title": "Raquel Martín Menor",
+        "author": "Español002",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Raquel_Mart%C3%ADn_Caraballo.jpg",
+        "thumb": "https://api.openverse.org/v1/images/7e1135f1-dbea-4171-8e73-6d1eb0406a95/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=171861480",
+        "title": "Raquel Martín Caraballo",
+        "author": "Rmarcarz",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "nuria-martinez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Nuria_Mart%C3%ADnez_Ros.png",
+        "thumb": "https://api.openverse.org/v1/images/9a8cd8b6-740c-4938-945f-fd77d62b3743/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=143792964",
+        "title": "Nuria Martínez Ros",
+        "author": "ReStart Comunicación",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Nuria_Mart%C3%ADnez_Ros_Wikipedia.png",
+        "thumb": "https://api.openverse.org/v1/images/2b13939c-e476-4bbd-a101-b33383f73475/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=142641936",
+        "title": "Nuria Martínez Ros Wikipedia",
+        "author": "Javier Mostaza",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      }
+    ],
+    "maximo-huerta": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/El_novelista_M%C3%A1ximo_Huerta_en_el_Caf%C3%A9_Comercial.jpg",
+        "thumb": "https://api.openverse.org/v1/images/98067056-91e0-46ed-9086-932820319109/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=95127047",
+        "title": "File:El novelista Máximo Huerta en el Café Comercial.jpg",
+        "author": "Màxim Huerta",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/M%C3%A1ximo_Huerta_en_el_plat%C3%B3_de_A_Partir_de_Hoy_%28TVE%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/4144326c-7c6d-412d-bf79-dfaefac6d2b7/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=95127046",
+        "title": "File:Máximo Huerta en el plató de A Partir de Hoy (TVE).jpg",
+        "author": "Màxim Huerta",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "jose-luis-rodriguez-el-puma": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jos%C3%A9_Luis_Rodr%C3%ADguez_%22El_Puma%22_2022.jpg",
+        "thumb": "https://api.openverse.org/v1/images/6d28de05-4179-421b-8c82-e03b2e6c3ba2/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=124486111",
+        "title": "José Luis Rodríguez 'El Puma' 2022",
+        "author": "Dark Gama",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "trancas-y-barrancas": [
+      {
+        "src": "https://live.staticflickr.com/2321/2447380222_1f8d8b0b8a.jpg",
+        "thumb": "https://api.openverse.org/v1/images/ce9545aa-4bc2-40fa-8ec2-5d7d25e886a6/thumb/",
+        "page": "https://www.flickr.com/photos/25985513@N05/2447380222",
+        "title": "A trancas y barrancas",
+        "author": "koldografo",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "martina-navratilova": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tennis_Nederland_tegen_Verenigde_Staten_in_Den_Haag_Betty_St%C3%B6ve_%28links%29_en_Martina_Navr%C3%A1tilov%C3%A1%2C_Bestanddeelnr_930-9117.jpg",
+        "thumb": "https://api.openverse.org/v1/images/81cb68de-04d5-4d9c-b587-7eb528a3f88a/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=67694700",
+        "title": "Tennis Nederland tegen Verenigde Staten in Den Haag Betty Stöve (links) en Martina Navrátilová, Bestanddeelnr 930-9117",
+        "author": "Hans van Dijk for Anefo",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pat_Cash%2C_Chanda_Rubin%2C_Martina_Navr%C3%A1tilov%C3%A1_%26_Michael_Chang.jpg",
+        "thumb": "https://api.openverse.org/v1/images/db387a38-5609-42c0-b9f9-a6982a68c41a/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=11497795",
+        "title": "Pat Cash, Chanda Rubin, Martina Navrátilová & Michael Chang",
+        "author": "robbiesaurus",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Martina_Navr%C3%A1tilov%C3%A1_%26_Tracy_Austin_at_the_2010_US_Open_01.jpg",
+        "thumb": "https://api.openverse.org/v1/images/3be6a863-4daf-4c3f-9e7c-2c29c89dd69c/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=11497901",
+        "title": "Martina Navrátilová & Tracy Austin at the 2010 US Open 01",
+        "author": "Robbie Mendelson",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "wikimedia"
       }
     ]
   }

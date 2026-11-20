@@ -1,7 +1,107 @@
 {
   "_doc": "Generado por scripts/update-person-news.mjs. Titulares que mencionan a cada persona.",
   "checked": {
-    "monica-naranjo": "2026-11-20T08:53:34.362Z"
+    "monica-naranjo": "2026-11-20T08:53:34.362Z",
+    "julian-iantzi": "2026-11-20T09:07:02.383Z",
+    "jorge-javier-vazquez": "2026-11-20T09:07:03.509Z",
+    "asraf-beno": "2026-11-20T09:07:04.614Z",
+    "maica-benedicto": "2026-11-20T09:07:05.773Z",
+    "alex-ghita": "2026-11-20T09:07:06.849Z",
+    "carlos-lozano": "2026-11-20T09:07:07.955Z",
+    "yola-berrocal": "2026-11-20T09:07:09.085Z",
+    "sandra-barneda": "2026-11-20T09:07:10.328Z",
+    "oscar-ruiz-isla": "2026-11-20T09:07:11.423Z",
+    "josue-bernal": "2026-11-20T09:07:12.542Z",
+    "david-vaquero": "2026-11-20T09:07:13.645Z",
+    "paula-colubi": "2026-11-20T09:07:14.778Z",
+    "claudia-sanchez-isla": "2026-11-20T09:07:15.837Z",
+    "nataly-nunez": "2026-11-20T09:07:16.930Z",
+    "borja-gomez": "2026-11-20T09:07:18.063Z",
+    "nieves-tristan": "2026-11-20T09:07:19.176Z",
+    "claudia-chacon": "2026-11-20T09:07:20.302Z",
+    "yuli-cagna": "2026-11-20T09:07:21.404Z",
+    "lucas-mera": "2026-11-20T09:07:22.535Z",
+    "leila-isla-10": "2026-11-20T09:07:23.622Z",
+    "ataman-isla-10": "2026-11-20T09:07:24.742Z",
+    "nerea-isla-10": "2026-11-20T09:07:25.842Z",
+    "jose-isla-10": "2026-11-20T09:07:26.966Z",
+    "mar-isla-10": "2026-11-20T09:07:28.077Z",
+    "christian-isla-10": "2026-11-20T09:07:29.192Z",
+    "julia-garrigos": "2026-11-20T09:07:30.294Z",
+    "luis-caparros": "2026-11-20T09:07:31.399Z",
+    "ainhoa-isla-10": "2026-11-20T09:07:32.485Z",
+    "alex-isla-10": "2026-11-20T09:07:33.571Z",
+    "jokebed-soltera-isla-10": "2026-11-20T09:07:34.659Z",
+    "nayades-isla-11": "2026-11-20T09:07:35.787Z",
+    "nacho-de-borbon": "2026-11-20T09:07:36.887Z",
+    "paula-isla-11": "2026-11-20T09:07:37.978Z",
+    "kico-isla-11": "2026-11-20T09:07:39.084Z",
+    "isa-isla-11": "2026-11-20T09:07:40.181Z",
+    "nando-isla-11": "2026-11-20T09:07:41.271Z",
+    "mara-isla-11": "2026-11-20T09:07:42.371Z",
+    "neus-munar": "2026-11-20T09:07:43.447Z",
+    "deva-rodriguez": "2026-11-20T09:07:44.510Z",
+    "irini-jannoulis": "2026-11-20T09:07:45.607Z",
+    "javi-soltero-isla-11": "2026-11-20T09:07:46.686Z",
+    "cristian-orvich": "2026-11-20T09:07:47.757Z",
+    "javi-escorza": "2026-11-20T09:07:48.810Z",
+    "fran-aveiro": "2026-11-20T09:07:49.897Z",
+    "andrea-sabatini": "2026-11-20T09:07:51.023Z",
+    "fran-garcia-isla-11": "2026-11-20T09:07:52.140Z",
+    "cristina-pedroche": "2026-11-20T09:07:53.244Z",
+    "arturo-valls": "2026-11-20T09:07:54.345Z",
+    "leire-martinez": "2026-11-20T09:07:55.476Z",
+    "nacho-duato": "2026-11-20T09:07:56.579Z",
+    "vicky-martin-berrocal": "2026-11-20T09:07:57.688Z",
+    "david-cantero": "2026-11-20T09:07:58.851Z",
+    "silvia-abril": "2026-11-20T09:07:59.948Z",
+    "lola-lolita": "2026-11-20T09:08:01.047Z",
+    "lydia-lozano": "2026-11-20T09:08:02.147Z",
+    "maria-del-monte": "2026-11-20T09:08:03.246Z",
+    "begona-villacis": "2026-11-20T09:08:04.341Z",
+    "cayetana-guillen-cuervo": "2026-11-20T09:08:05.446Z",
+    "tomas-roncero": "2026-11-20T09:08:06.580Z",
+    "trancas-y-barrancas": "2026-11-20T09:08:07.674Z",
+    "samantha-fox": "2026-11-20T09:08:08.745Z",
+    "salva-reina": "2026-11-20T09:08:09.836Z",
+    "martina-navratilova": "2026-11-20T09:08:10.968Z",
+    "bernd-schuster": "2026-11-20T09:08:12.091Z",
+    "elle-macpherson": "2026-11-20T09:08:13.278Z",
+    "jesulin-de-ubrique": "2026-11-20T09:08:14.394Z",
+    "omar-sanchez": "2026-11-20T09:08:15.504Z",
+    "alba-paul": "2026-11-20T09:08:16.619Z",
+    "alvar-segui": "2026-11-20T09:08:17.741Z",
+    "jose-manuel-soto": "2026-11-20T09:08:18.890Z",
+    "teresa-seco": "2026-11-20T09:08:20.010Z",
+    "jaime-astrain": "2026-11-20T09:08:21.145Z",
+    "toni-elias": "2026-11-20T09:08:22.296Z",
+    "aratz-lakuntza": "2026-11-20T09:08:23.463Z",
+    "ingrid-betancor": "2026-11-20T09:08:24.574Z",
+    "ivonne-reyes": "2026-11-20T09:08:25.677Z",
+    "marisa-jara": "2026-11-20T09:08:26.817Z",
+    "gerard-arias": "2026-11-20T09:08:27.955Z",
+    "paola-olmedo": "2026-11-20T09:08:29.089Z",
+    "gabriela-guillen": "2026-11-20T09:08:30.229Z",
+    "alberto-avila": "2026-11-20T09:08:31.369Z",
+    "alex-de-la-croix": "2026-11-20T09:08:32.479Z",
+    "victor-janeiro": "2026-11-20T09:08:33.633Z",
+    "manel-fuentes": "2026-11-20T09:08:34.752Z",
+    "j-kbello": "2026-11-20T09:08:35.888Z",
+    "cristina-castano": "2026-11-20T09:08:37.159Z",
+    "sole-gimenez": "2026-11-20T09:08:38.378Z",
+    "anibal-gomez": "2026-11-20T09:08:39.497Z",
+    "paula-koops": "2026-11-20T09:08:40.627Z",
+    "leonor-lavado": "2026-11-20T09:08:41.816Z",
+    "maria-parrado": "2026-11-20T09:08:42.955Z",
+    "martin-savi": "2026-11-20T09:08:44.109Z",
+    "manuel-gonzalez": "2026-11-20T09:08:45.247Z",
+    "carlos-sobera": "2026-11-20T09:08:46.355Z",
+    "marieta-diaz": "2026-11-20T09:08:47.448Z",
+    "oscar-landa": "2026-11-20T09:08:48.632Z",
+    "sergio-aguilera": "2026-11-20T09:08:49.752Z",
+    "romina-malaspina": "2026-11-20T09:08:50.898Z",
+    "jose-maria-almoguera": "2026-11-20T09:08:52.002Z",
+    "miguel-frigenti": "2026-11-20T09:08:53.189Z"
   },
   "people": {
     "monica-naranjo": [
@@ -28,6 +128,908 @@
         "source": "El Periódico",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmQ5VnFVSEUwTWhZT2J5RXdGblNvVkJPY2Ntc2J6LWZiMUg5NFlYWkxXWHBTSngySmJMZzBfQkh4REhqN0hLX3lzdUszRG00cjBfbkF2aFNvWWJKTE50MXM4cHZBclNOUnJhOW1mV0dUMDZfUTVEMFdRNWxxdDVqTVZUTm00bVdfVVVmQ1p0NjNoX0ZfR0NJUlUtT0trQ1FKSnlvNWNLWlRrZWp1ZU92QVlDX1AtbTZMY19kYXJqU3Y?oc=5",
         "date": "2026-09-25T07:00:00.000Z"
+      }
+    ],
+    "julian-iantzi": [
+      {
+        "title": "Julian Iantzi apuesta por un nuevo proyecto tras ‘El Conquis’: un podcast sin guion ni edici&#243;n",
+        "source": "Noticias de Navarra",
+        "link": "https://www.noticiasdenavarra.com/gente/2026/10/22/julian-iantzi-apuesta-nuevo-proyecto-el-conquis-podcast-guion-11675805.html",
+        "date": "2026-10-22T04:30:00.000Z"
+      }
+    ],
+    "asraf-beno": [
+      {
+        "title": "Una psic&#243;loga sobre Asraf Beno, ganador de ‘Supervivientes All Stars 3’: “Ni las cr&#237;ticas de unos te convierten en una mala persona ni los aplausos de otros significan ...",
+        "source": "Diez Minutos",
+        "link": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74473252/psicologa-analiza-asraf-beno-ganador-supervivientes-all-stars-3-criticas/",
+        "date": "2026-11-19T00:49:00.000Z"
+      },
+      {
+        "title": "Asraf Beno vuelve a la rutina como ganador de Supervivientes: All Stars 3: \"No paran de darme cari&#241;o\"",
+        "source": "Diez Minutos",
+        "link": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74468332/asraf-beno-rutina-ganador-supervivientes-all-stars-3-no-paran-de-darme-carino/",
+        "date": "2026-11-18T11:39:00.000Z"
+      },
+      {
+        "title": "Asraf Beno desempolva su lado m&#225;s chulo tras Supervivientes: ya no llora, ahora afila las garras",
+        "source": "ESdiario",
+        "link": "https://www.esdiario.com/chismografo/261118/203304/asraf-beno-desempolva-lado-chulo-supervivientes-llora-saca-pecho.html",
+        "date": "2026-11-18T11:04:00.000Z"
+      },
+      {
+        "title": "Asraf Beno, feliz tras su triunfo, responde sin rodeos a quienes cuestionan su comportamiento",
+        "source": "Europa Press",
+        "link": "https://www.europapress.es/chance/gente/noticia-asraf-beno-feliz-triunfo-responde-rodeos-quienes-cuestionan-comportamiento-20261118162434.html",
+        "date": "2026-11-18T08:29:00.000Z"
+      },
+      {
+        "title": "Asraf Beno vuelve a casa tras ganar \"Supervivientes All Stars\" y protagoniza el abrazo m&#225;s esperado con su hijo Cairo",
+        "source": "La Raz&#243;n",
+        "link": "https://www.larazon.es/gente/famosos/asraf-beno-vuelve-casa-ganar-supervivientes-all-stars-protagoniza-abrazo-mas-esperado-hijo-cairo_202611176afc1bd221e74551e81c8fda.html",
+        "date": "2026-11-17T02:19:00.000Z"
+      },
+      {
+        "title": "Asraf Beno se hace la v&#237;ctima hasta el final: tacha a Isabel Pantoja de racista y clasista",
+        "source": "ESdiario",
+        "link": "https://www.esdiario.com/chismografo/261116/203073/asraf-beno-victima-final-tacha-isabel-pantoja-racista-clasista.html",
+        "date": "2026-11-16T07:33:00.000Z"
+      }
+    ],
+    "maica-benedicto": [
+      {
+        "title": "Maica Benedicto, tajante contra las cr&#237;ticas por posar sin sujetador en su &#250;ltima sesi&#243;n de fotos: \"Hay un concepto art&#237;stico\"",
+        "source": "Telecinco",
+        "link": "https://www.telecinco.es/famosos/20261116/maica-benedicto-criticas-posar-sujetador-sesion-fotos-supervivientes_18_020695555.html",
+        "date": "2026-11-16T00:00:00.000Z"
+      },
+      {
+        "title": "Maica Benedicto",
+        "source": "tribunaviajera.com",
+        "link": "https://tribunaviajera.com/2026/11/08/viajes/escapadas/maica-benedicto-revela-su-refugio-el-destino-mediterraneo-que-gh-ha-convertido-en-tendencia-1848/",
+        "date": "2026-11-08T00:11:00.000Z"
+      },
+      {
+        "title": "Maica Benedicto revela sus secuelas f&#237;sicas tras 97 d&#237;as en 'Supervivientes 2026': “Me preocupan much&#237;simo”",
+        "source": "eldiario.es",
+        "link": "https://www.eldiario.es/vertele/noticias/maica-benedicto-secuelas-fisicas-97-dias-supervivientes-2026-preocupan-muchisimo_1_13323655.html",
+        "date": "2026-06-22T06:08:00.000Z"
+      },
+      {
+        "title": "El 'shock' de Maica Benedicto, tras ganar 'Supervivientes 2026': su incr&#233;dula reacci&#243;n al regresar a Espa&#241;a",
+        "source": "El Confidencial",
+        "link": "https://www.elconfidencial.com/television/programas-tv/2026-06-14/maica-benedicto-ganar-supervivientes-2026-shock-reaccion-espana_4372536/",
+        "date": "2026-06-14T06:06:00.000Z"
+      },
+      {
+        "title": "Maica Benedicto, la visitadora m&#233;dica y modelo que pas&#243; por 'GH' y acaba de ganar 200.000 euros en 'Supervivientes 2026'",
+        "source": "ESPA&#209;OL",
+        "link": "https://www.elespanol.com/corazon/bluper/20260612/maica-benedicto-visitadora-medica-modelo-paso-gh-acaba-ganar-euros-supervivientes/1003744283334_0.html",
+        "date": "2026-06-12T01:22:00.000Z"
+      },
+      {
+        "title": "Maica Benedicto se proclama ganadora de 'Supervivientes 2026' en una dram&#225;tica y ajustada final",
+        "source": "La Vanguardia",
+        "link": "https://www.lavanguardia.com/television/20260612/11562799/maica-benedicto-proclama-campeona-supervivientes-2026-dramatica-ajustada-final.html",
+        "date": "2026-06-12T00:27:00.000Z"
+      }
+    ],
+    "carlos-lozano": [
+      {
+        "title": "Carlos Lozano, de estar “prejubilado” a volver a presentar en Telecinco: “Tengo a un amigo cuid&#225;ndome las ovejas”",
+        "source": "eldiario.es",
+        "link": "https://www.eldiario.es/vertele/entrevistas/carlos-lozano-amor-o-lo-que-surja-telecinco-myhyv-telecinco-prejubilado-volver-presentar-amigo-cuidandome-ovejas_1_13322741.html",
+        "date": "2026-06-23T11:45:00.000Z"
+      },
+      {
+        "title": "Descubrimos el refugio rural de Carlos Lozano a las afueras de Madrid: un pueblo de 800 habitantes, rutas de senderismo y un puente romano en la monta&#241;a",
+        "source": "Mundo Deportivo",
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20260622/1004198289/descubrimos-refugio-rural-carlos-lozano-afueras-madrid-1-000-habitantes-rutas-senderismo-puente-romano-montana-dct.html",
+        "date": "2026-06-22T12:27:00.000Z"
+      }
+    ],
+    "yola-berrocal": [
+      {
+        "title": "La psic&#243;loga Lola G&#243;mez, sobre Yola Berrocal tras ver ganar a Asraf Beno en ‘Supervivientes All Stars’: “Lo primero es reconocer que hay una p&#233;rdida real: no del ...",
+        "source": "Diez Minutos",
+        "link": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/a74464710/yola-berrocal-puesto-supervivientes-all-stars-analisis-psicologa-lola-gomez/",
+        "date": "2026-11-18T11:08:00.000Z"
+      },
+      {
+        "title": "Los cambios m&#225;s significativos de Yola Berrocal: amentos y reducciones de pecho, dientes y rinoplastia",
+        "source": "Telecinco",
+        "link": "https://www.telecinco.es/famosos/20261113/todas-operaciones-esteticas-yola-berrocal-supervivientes-all-stars_18_020266123.html",
+        "date": "2026-11-13T08:27:00.000Z"
+      },
+      {
+        "title": "Yola Berrocal, en shock al ver su cabeza rapada tras Supervivientes: All Stars 3: \"&#191;Soy yo?\"",
+        "source": "Diez Minutos",
+        "link": "https://www.diezminutos.es/teleprograma/programas-tv/a74417235/yola-berrocal-reaccion-rapada-supervivientes-all-stars-3-soy-yo/",
+        "date": "2026-11-12T16:00:00.000Z"
+      },
+      {
+        "title": "La desconocida familia de Yola Berrocal: un padre ingeniero, una madre decoradora y cinco hermanos",
+        "source": "EL MUNDO",
+        "link": "https://www.elmundo.es/loc/famosos/2026/11/12/6af5fcca21efa092738b45c2.html",
+        "date": "2026-11-12T12:33:00.000Z"
+      },
+      {
+        "title": "Leticia Mart&#237;n Enjuto, psic&#243;loga: \"Yola Berrocal parece haber encontrado en ‘Supervivientes’ una manera de posicionarse y defenderse sin necesidad de din&#225;micas de ...",
+        "source": "Lecturas",
+        "link": "https://www.lecturas.com/television/leticia-martin-enjuto-yola-berrocal-supervivientes-all-stars-3_201163",
+        "date": "2026-11-12T12:00:00.000Z"
+      },
+      {
+        "title": "Yola Berrocal, el icono de los realities que vio empa&#241;ada su primera victoria en la final de 'Hotel Glam' y que ahora busca ganar 'Supervivientes All Stars'",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/es/tele/yotele/20261112/supervivientes-all-stars-final-yola-berrocal-icono-realities-vio-empanada-victoria-hotel-glam-136379964",
+        "date": "2026-11-12T10:03:00.000Z"
+      }
+    ],
+    "sandra-barneda": [
+      {
+        "title": "Sandra Barneda (51 a&#241;os) vuelve a su ciudad natal y comparte su amor por la capital catalana: \"Barcelona de mi coraz&#243;n\"",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/es/barcelona/20261117/sandra-barneda-barcelona-ciudad-natal-cataluna-periodista-isla-tentaciones-dv-136525731",
+        "date": "2026-11-17T04:37:00.000Z"
+      },
+      {
+        "title": "Sandra Barneda despide 'Supervivientes All Stars 3' celebrando un “r&#233;cord” de los concursantes: “Eso es ser leyenda”",
+        "source": "elDiario.es",
+        "link": "https://www.eldiario.es/vertele/noticias/sandra-barneda-cierra-supervivientes-all-stars-3-celebrando-record-concursantes-leyenda_1_13666755.html",
+        "date": "2026-11-16T03:33:00.000Z"
+      },
+      {
+        "title": "La reflexi&#243;n de Sandra Barneda en 'Supervivientes All Stars': el rotundo aplauso a los concursantes por un hito hist&#243;rico",
+        "source": "El Confidencial",
+        "link": "https://www.elconfidencial.com/television/programas-tv/2026-11-15/supervivientes-all-stars-aplauso-sandra-abandono_4465537/",
+        "date": "2026-11-15T14:42:00.000Z"
+      },
+      {
+        "title": "El periodista extreme&#241;o C&#233;sar Mu&#241;oz en la boda de Sandra Barneda: \"No s&#233; si me casar&#233;, pero ojal&#225; pueda disfrutarlo igual\"",
+        "source": "El Peri&#243;dico Extremadura",
+        "link": "https://www.elperiodicoextremadura.com/extremadura/2026/11/14/periodista-extremeno-cesar-munoz-boda-136430662.html",
+        "date": "2026-11-14T00:12:00.000Z"
+      },
+      {
+        "title": "El 'making off' m&#225;s especial de Sandra Barneda en su boda: desvela el boceto y los detalles de su vestido de novia",
+        "source": "El HuffPost",
+        "link": "https://www.huffingtonpost.es/life/influencers-celebrities/el-making-off-mas-especial-sandra-barneda-boda-muestra-boceto-fotos-vestido-novia-f202611.html",
+        "date": "2026-11-07T09:34:00.000Z"
+      },
+      {
+        "title": "Una indisposici&#243;n aparta a Sandra Barneda del &#250;ltimo programa de 'Supervivientes' y Carmen Borrego debuta como sustituta de emergencia",
+        "source": "La Vanguardia",
+        "link": "https://www.lavanguardia.com/television/20261026/11668420/indisposicion-aparta-sandra-barneda-ultimo-programa-supervivientes-carmen-borrego-debuta-sustituta-emergencia.html",
+        "date": "2026-10-26T06:12:00.000Z"
+      }
+    ],
+    "david-vaquero": [
+      {
+        "title": "David Vaquero demuestra que est&#225; de nuevo en serio con los entrenamientos: su prueba de fuerza de voluntad",
+        "source": "Telecinco",
+        "link": "https://www.telecinco.es/famosos/20261109/david-vaquero-demuestra-entrenamientos-prueba-fuerza-voluntad-leila-leon-isla-tentaciones_18_020630226.html",
+        "date": "2026-11-09T03:00:00.000Z"
+      },
+      {
+        "title": "Mar&#237;a Aguilar, sobre la relaci&#243;n actual con su exnovio, David Vaquero: \"Inc&#243;modo\"",
+        "source": "Divinity",
+        "link": "https://www.divinity.es/actualidad/20261103/maria-aguilar-isla-tentaciones-relacion-ex-novio-david-vaquero_18_020577616.html",
+        "date": "2026-11-03T07:30:00.000Z"
+      }
+    ],
+    "paula-colubi": [
+      {
+        "title": "Paula Colubi",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/paula-colubi/",
+        "date": "2026-10-27T04:22:00.000Z"
+      },
+      {
+        "title": "Paula Colubi, la soltera que va a arrasar en 'La isla de las tentaciones 11': primero, con Kico y luego se liar&#225; con Nacho de Borb&#243;n, su expareja",
+        "source": "Voz Populi",
+        "link": "https://www.vozpopuli.com/dolcevita/paula-colubi-la-soltera-que-va-a-arrasar-en-la-isla-de-las-tentaciones-11-primero-con-kico-y-luego-se-liara-con-nacho-de-borbon-su-expareja.html",
+        "date": "2026-09-16T14:17:00.000Z"
+      }
+    ],
+    "yuli-cagna": [
+      {
+        "title": "Yuli Cagna",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/yuli-cagna/",
+        "date": "2026-10-19T09:54:00.000Z"
+      },
+      {
+        "title": "Yuli Cagna y Lucas Mera, de 'La isla de las tentaciones', se reconcilian: \"Hemos aprendido y seguimos eligi&#233;ndonos\"",
+        "source": "MSN",
+        "link": "https://www.msn.com/es-es/entretenimiento/general/yuli-cagna-y-lucas-mera-de-la-isla-de-las-tentaciones-se-reconcilian-hemos-aprendido-y-seguimos-eligi%C3%A9ndonos/ar-AA2efQBc",
+        "date": "2026-10-14T11:33:00.000Z"
+      },
+      {
+        "title": "Yuli Cagna, de ‘LIDLT’, se sincera sobre su relaci&#243;n con Oriana Marzoli: “Est&#225;bamos en bandos opuestos”",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260811/yuli-cagna-habla-claro-relacion-oriana-marzoli-isla-tentaciones_18_019931693.html",
+        "date": "2026-08-11T09:00:00.000Z"
+      },
+      {
+        "title": "Verdeliss, Yuli Cagna ('Tentaciones'), Daniela Requena y Ricky Garc&#237;a inauguran el Legend of the Seas, el nuevo crucero de Royal Caribbean",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/es/tele/yotele/20260705/verdeliss-yuli-tentaciones-daniela-requena-ricky-viaje-inaugural-legends-sea-132150752",
+        "date": "2026-07-04T20:03:00.000Z"
+      }
+    ],
+    "lucas-mera": [
+      {
+        "title": "Lucas Mera",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/lucas-mera/",
+        "date": "2026-10-19T09:58:00.000Z"
+      },
+      {
+        "title": "Yuli Cagna y Lucas Mera, de 'La isla de las tentaciones', se reconcilian: \"Hemos aprendido y seguimos eligi&#233;ndonos\"",
+        "source": "MSN",
+        "link": "https://www.msn.com/es-es/noticias/otras/yuli-cagna-y-lucas-mera-de-la-isla-de-las-tentaciones-se-reconcilian-hemos-aprendido-y-seguimos-eligi%C3%A9ndonos/ar-AA2efQBc",
+        "date": "2026-10-14T11:33:00.000Z"
+      },
+      {
+        "title": "Yuli Cagna, de ‘LIDLT’, habla de su reca&#237;da con Lucas Mera y aclara su relaci&#243;n con &#233;l tras ser pillados bes&#225;ndose",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260811/yuli-cagna-habla-recaida-lucas-mera-aclara-relacion-isla-tentaciones_18_019922832.html",
+        "date": "2026-08-11T00:00:00.000Z"
+      }
+    ],
+    "nerea-isla-10": [
+      {
+        "title": "Nerea Villanueva y Jos&#233; Bougo: del flechazo en el reality a la ruptura que a&#250;n da titulares en Telecinco",
+        "source": "Cotilleo on MSN",
+        "link": "https://www.msn.com/es-es/entretenimiento/celebridades/nerea-villanueva-y-jos%C3%A9-bougo-del-flechazo-en-el-reality-a-la-ruptura-que-a%C3%BAn-da-titulares-en-telecinco/ar-AA2h5pYL",
+        "date": "2026-11-09T08:40:10.000Z"
+      },
+      {
+        "title": "Nerea Villanueva, de 'LIDLT', anuncia su ruptura con Jos&#233; Bougo y desvela la delicada situaci&#243;n que vive: \"Hay cosas que sobrepasan cualquier l&#237;mite\"",
+        "source": "Telecinco",
+        "link": "https://www.telecinco.es/famosos/20261104/nerea-villanueva-jose-bougo-isla-tentaciones-rompen-relacion-delicada-situacion_18_020615698.html",
+        "date": "2026-11-04T05:10:00.000Z"
+      },
+      {
+        "title": "Nerea Villanueva",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/nerea-villanueva/",
+        "date": "2026-10-19T14:57:00.000Z"
+      }
+    ],
+    "mar-isla-10": [
+      {
+        "title": "Mar Ruiz nos cuenta curiosidades de las hogueras finales de ‘La isla de las tentaciones’",
+        "source": "mediasetinfinity.es",
+        "link": "https://www.mediasetinfinity.es/mtmad/en-todas-las-salsas/temporada-11/top-videos/mar-ruiz-cuenta-curiosidades-hogueras-finales-40_020643563/player/",
+        "date": "2026-11-09T16:00:00.000Z"
+      },
+      {
+        "title": "Gerard Arias confiesa lo que ha sentido por Mar Ruiz al conocerla",
+        "source": "mediasetinfinity.es",
+        "link": "https://www.mediasetinfinity.es/noticias/muy-yo-by-leila/gerard-arias-confiesa-que-ha-sentido-por-mar-ruiz-al-conocerla-isla-tentaciones_MS000001220140_t19Ds3o2yiLAwEZWrxqzoQ2",
+        "date": "2026-11-05T06:44:00.000Z"
+      },
+      {
+        "title": "Bayan Al Masri, Claudia Chac&#243;n y Mar Ruiz: Paula Lily confiesa c&#243;mo es su relaci&#243;n con las otras mallorquinas de 'La isla de las tentaciones'",
+        "source": "&#218;ltima Hora",
+        "link": "https://www.ultimahora.es/vips/television/2026/11/05/2741583/bayan-masri-claudia-chacon-mar-ruiz-paula-lily-confiesa-como-relacion-las-otras-mallorquinas-isla-tentaciones.html",
+        "date": "2026-11-04T19:57:00.000Z"
+      },
+      {
+        "title": "Mar Ruiz",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/mar-ruiz/",
+        "date": "2026-10-19T10:00:00.000Z"
+      },
+      {
+        "title": "Mar Ruiz, Leila Le&#243;n, Julia Garrig&#243;s y Ainhoa G&#243;mez reaccionan a los nuevos solteros y solteras de 'La isla de las tentaciones'",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260901/mar-ruiz-leila-leon-julia-ainhoa-reaccionan-solteros-isla-tentaciones_18_020054286.html",
+        "date": "2026-09-01T02:00:00.000Z"
+      },
+      {
+        "title": "Mar Ruiz se pronuncia sobre la pol&#233;mica entre Christian y Gerard Arias: \"Que hagan lo que quieran ellos\"",
+        "source": "20 minutos",
+        "link": "https://www.20minutos.es/gente/mar-ruiz-se-pronuncia-sobre-polemica-entre-christian-gerard-arias-que-hagan-que-quieran-ellos_7013308_0.html",
+        "date": "2026-07-10T08:55:00.000Z"
+      }
+    ],
+    "paula-isla-11": [
+      {
+        "title": "El emotivo mensaje de Paula Lily, de 'La isla de las tentaciones', a su prima: &#171;Dos a&#241;os sin ti, pero toda una vida record&#225;ndote&#187;",
+        "source": "UltimaHora",
+        "link": "https://www.ultimahora.es/vips/television/2026/11/10/2746889/emotivo-mensaje-paula-lily-isla-tentaciones-prima-dos-anos-pero-toda-vida-recordandote.html",
+        "date": "2026-11-10T04:24:00.000Z"
+      },
+      {
+        "title": "Paula Lily, la mallorquina de LIDLT, habla por primera vez del dif&#237;cil momento personal que vivi&#243; en Madrid durante el covid",
+        "source": "Peri&#243;dico de Ibiza y Formentera",
+        "link": "https://www.periodicodeibiza.es/vips/television/2026/11/09/2743987/paula-lily-mallorquina-lidlt-habla-por-primera-vez-del-dificil-momento-personal-vivio-madrid-durante-covid.html",
+        "date": "2026-11-08T16:00:00.000Z"
+      },
+      {
+        "title": "Bayan Al Masri, Claudia Chac&#243;n y Mar Ruiz: Paula Lily confiesa c&#243;mo es su relaci&#243;n con las otras mallorquinas de 'La isla de las tentaciones'",
+        "source": "&#218;ltima Hora",
+        "link": "https://www.ultimahora.es/vips/television/2026/11/05/2741583/bayan-masri-claudia-chacon-mar-ruiz-paula-lily-confiesa-como-relacion-las-otras-mallorquinas-isla-tentaciones.html",
+        "date": "2026-11-04T19:57:00.000Z"
+      },
+      {
+        "title": "Paula Lily",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/paula-lily/",
+        "date": "2026-10-16T07:46:00.000Z"
+      }
+    ],
+    "kico-isla-11": [
+      {
+        "title": "Kico Sampol, de ‘LIDLT’, abre las puertas de su impresionante casa: con cocina abierta, gran jard&#237;n y vestidor",
+        "source": "mediasetinfinity.es",
+        "link": "https://www.mediasetinfinity.es/noticias/mi-momento/kico-sampol-abre-puertas--impresionante-casa-con-cocina-abierta-gran-jardin-vestidor-isla-tentaciones_MS000001207656_t15VkMfQMcFVuJZKbYmrwmh",
+        "date": "2026-11-17T04:29:00.000Z"
+      },
+      {
+        "title": "Kico Sampol",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/kiko-sampol/",
+        "date": "2026-10-16T07:41:00.000Z"
+      },
+      {
+        "title": "La relaci&#243;n de los mallorquines Kico Sampol y Paula Lily antes de 'La isla de las tentaciones'",
+        "source": "UltimaHora",
+        "link": "https://www.ultimahora.es/vips/television/2026/09/20/2708487/relacion-mallorquines-kico-sampol-paula-lily-antes-isla-tentaciones.html",
+        "date": "2026-09-19T20:47:00.000Z"
+      },
+      {
+        "title": "Kico Sampol (27), de 'La isla de las tentaciones 11', sobre su paternidad con 18 a&#241;os: \"Ese miedo tan heavy me hizo fortalecerme y creo que hizo que sacara mi mejor versi&#243;n ...",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/cuore/entretenimiento/2026/09/17/kico-sampol-27-isla-tentaciones-infancia-134387215",
+        "date": "2026-09-17T07:04:00.000Z"
+      },
+      {
+        "title": "Kico Sampol excusa su criticado comportamiento en 'La isla de las tentaciones 11': “Est&#225; siendo dur&#237;simo”",
+        "source": "eldiario.es",
+        "link": "https://www.eldiario.es/vertele/noticias/kico-sampol-excusa-criticado-comportamiento-la-isla-de-las-tentaciones-11-durisimo_1_13515459.html",
+        "date": "2026-09-16T11:19:00.000Z"
+      }
+    ],
+    "mara-isla-11": [
+      {
+        "title": "Mara Espinosa",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/mara-espinosa/",
+        "date": "2026-10-27T04:22:00.000Z"
+      }
+    ],
+    "irini-jannoulis": [
+      {
+        "title": "Irini Jannoulis",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/irini-jannoulis/",
+        "date": "2026-10-27T04:22:00.000Z"
+      },
+      {
+        "title": "El pasado amoroso de Irini Jannoulis, tentadora VIP de ‘LIDLT 11’: de Atam&#225;n a Sergio, el novio de Paola",
+        "source": "mediasetinfinity.es",
+        "link": "https://www.mediasetinfinity.es/noticias/la-isla-de-las-tentaciones/pasado-amoroso-irini-jannoulis-tentadora-vip-lidlt-11-ataman-sergio-novio-paola_MS000000112673_t3BqI2bcQcEHbK9xcRc785Z",
+        "date": "2026-09-28T09:59:00.000Z"
+      }
+    ],
+    "fran-aveiro": [
+      {
+        "title": "Fran Aveiro",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/fran-aveiro/",
+        "date": "2026-10-18T09:33:00.000Z"
+      }
+    ],
+    "andrea-sabatini": [
+      {
+        "title": "Andrea Sabatini",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/personas/andrea-sabatini/",
+        "date": "2026-10-27T04:22:00.000Z"
+      }
+    ],
+    "cristina-pedroche": [
+      {
+        "title": "Cristina Pedroche deja claro cu&#225;l es su sue&#241;o como DJ: pinchar en Ushua&#239;a Ibiza",
+        "source": "Peri&#243;dico de Ibiza y Formentera",
+        "link": "https://www.periodicodeibiza.es/vips/quiosco-rosa/2026/11/15/2750641/cristina-pedroche-deja-claro-cual-sueno-como-pinchar-ushuaia-ibiza.html",
+        "date": "2026-11-15T12:42:00.000Z"
+      },
+      {
+        "title": "Cristina Pedroche pincha en la discoteca Kapital Madrid en el cumplea&#241;os de DJ Sebastian Gamboa: &#171;Lo disfrut&#233; demasiado&#187;",
+        "source": "Peri&#243;dico de Ibiza y Formentera",
+        "link": "https://www.periodicodeibiza.es/vips/quiosco-rosa/2026/11/14/2749943/cristina-pedroche-pincha-discoteca-kapital-madrid-cumpleanos-sebastian-gamboa-disfrute-demasiado.html",
+        "date": "2026-11-14T08:38:00.000Z"
+      },
+      {
+        "title": "La emoci&#243;n de Cristina Pedroche en la boda de su representante... y sus malabarismos para darle el pecho a sus 2 hijos: \"Lloramos lo m&#225;s grande\"",
+        "source": "HOLA.com",
+        "link": "https://www.hola.com/actualidad/20261102932573/la-emocion-de-cristina-pedroch/",
+        "date": "2026-11-02T06:35:00.000Z"
+      },
+      {
+        "title": "Dabiz Mu&#241;oz, a Cristina Pedroche: “Feliz cumplea&#241;os a la persona que elijo cada d&#237;a desde hace m&#225;s de 11 a&#241;os... Cada d&#237;a es mejor que el anterior\"",
+        "source": "Lecturas",
+        "link": "https://www.lecturas.com/actualidad/dabiz-munoz-cristina-pedroche-la-persona-que-elijo-cada-dia-hace-mas-11-anos_200659",
+        "date": "2026-10-31T01:42:00.000Z"
+      },
+      {
+        "title": "Cristina Pedroche cumple 38 a&#241;os: de su flechazo con Dabiz Mu&#241;oz a sus planes de segunda boda",
+        "source": "Antena 3",
+        "link": "https://www.antena3.com/novamas/gente/cristina-pedroche-cumple-38-anos-flechazo-dabiz-munoz-sus-planes-segunda-boda_202610306ae454696973466c29e2f3fd.html",
+        "date": "2026-10-30T01:25:00.000Z"
+      },
+      {
+        "title": "Cristina Pedroche anuncia que repetir&#225; como presentadora de las Campanadas 2026-2027 en Atresmedia tras 13 a&#241;os",
+        "source": "El Televisero",
+        "link": "https://eltelevisero.huffingtonpost.es/2026/10/cristina-pedroche-anuncia-que-repetira-como-presentadora-de-las-campanadas-2026-2027-en-atresmedia-tras-13-anos/",
+        "date": "2026-10-15T08:22:00.000Z"
+      }
+    ],
+    "arturo-valls": [
+      {
+        "title": "Arturo Valls: “Mi padre organizaba los playbacks de las fiestas del pueblo en verano y a m&#237; me pon&#237;a el papel de Roc&#237;o Jurado porque intu&#237;a que lo iba a defender bien”",
+        "source": "Lecturas",
+        "link": "https://www.lecturas.com/actualidad/arturo-valls-mi-padre-organizaba-playbacks-fiestas-pueblo-verano-y-a-mi-me-ponia-papel-rocio-jurado-porque-intuia-que-iba-a-defender-bien_201435",
+        "date": "2026-11-17T12:45:00.000Z"
+      }
+    ],
+    "nacho-duato": [
+      {
+        "title": "\"Dile a Boris que no hable tanto, que me voy a desmayar\": Nacho Duato desvela los secretos de Mask Singer",
+        "source": "lasexta",
+        "link": "https://www.lasexta.com/programas/cara-show-marc-giro/dile-boris-que-hable-tanto-que-voy-desmayar-nacho-duato-desvela-secretos-mask-singer_202606166a31be0d8774b34d61dce932.html",
+        "date": "2026-06-16T16:20:00.000Z"
+      },
+      {
+        "title": "Nacho Duato habla de sus pol&#233;micas declaraciones sobre Melody y de qu&#233; sucedi&#243; cuando coincidieron en Mask Singer: \"No le pido perd&#243;n\"",
+        "source": "lasexta",
+        "link": "https://www.lasexta.com/programas/cara-show-marc-giro/nacho-duato-habla-sus-polemicas-declaraciones-melody-que-sucedio-cuando-coincidieron-mask-singer-pido-perdon_202606166a31bf398774b34d61dced06.html",
+        "date": "2026-06-16T14:25:00.000Z"
+      },
+      {
+        "title": "Nacho Duato explica c&#243;mo pas&#243; de negarse a ser Momia a vivir esta \"experiencia preciosa\"",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/mask-singer/nacho-duato-explica-como-paso-negarse-ser-momia-vivir-esta-experiencia-preciosa_202605306a1b17a391bae05c35e6dff9.html",
+        "date": "2026-05-30T10:00:00.000Z"
+      },
+      {
+        "title": "La confesi&#243;n de Nacho Duato tras la m&#225;scara de Momia: \"Me hubiese gustado ser cantante de &#243;pera\"",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/mask-singer/confesion-nacho-duato-mascara-momia-hubiese-gustado-ser-cantante-opera_202605286a1809e27d8b1d38125b7687.html",
+        "date": "2026-05-28T02:24:00.000Z"
+      }
+    ],
+    "david-cantero": [
+      {
+        "title": "David Cantero se sincera sobre la \"suerte\" de poder ser Jirafa en Mask Singer: \"No me dio miedo\"",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/mask-singer/david-cantero-sincera-suerte-poder-ser-jirafa-dio-miedo_202605306a1aed71cb17881aa262df61.html",
+        "date": "2026-05-30T07:01:00.000Z"
+      },
+      {
+        "title": "David Cantero recuerda su paso por Mask Singer como Jirafa: \"Todo lo que hago intento hacerlo lo mejor posible\"",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/mask-singer/david-cantero-recuerda_202605296a1948717d8b1d38125eb899.html",
+        "date": "2026-05-29T01:04:00.000Z"
+      },
+      {
+        "title": "Leire Mart&#237;nez gana 'Mask Singer' en una final donde David Cantero sorprende con su perreo",
+        "source": "El Correo",
+        "link": "https://www.elcorreo.com/gente-estilo/leire-martinez-gana-mask-singer-final-david-20260528074404-nt.html",
+        "date": "2026-05-27T22:44:00.000Z"
+      },
+      {
+        "title": "Shock de la audiencia de 'Mask Singer': David Cantero sorprende saltando por una noche a Antena 3",
+        "source": "El Confidencial",
+        "link": "https://www.elconfidencial.com/television/programas-tv/2026-05-28/david-cantero-mask-singer-shock-audiencia-antena-3_4362911/",
+        "date": "2026-05-27T19:21:00.000Z"
+      }
+    ],
+    "silvia-abril": [
+      {
+        "title": "El restaurante donde paran a comer Andreu Buenafuente y Silvia Abril: \"Su plato estrella es el gofre de garbanzos con huevos planchados y aguacate\"",
+        "source": "cronicaglobal",
+        "link": "https://cronicaglobal.elespanol.com/cronica-directo/famosos/20261113/restaurante-donde-paran-comer-andreu-buenafuente-silvia-abril-plato-estrella-gofre-garbanzos-huevos-planchados-aguacate-trt/1003742811480_0.html",
+        "date": "2026-11-13T08:00:00.000Z"
+      },
+      {
+        "title": "Ni Barcelona ni Madrid: el pueblo donde Silvia Abril (55) y Andreu Buenafuente (61) han encontrado su refugio familiar",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/cuore/famosos/2026/10/09/barcelona-girona-refugio-silvia-abril-andreu-buenafuente-135168386",
+        "date": "2026-10-09T06:42:00.000Z"
+      },
+      {
+        "title": "Silvia Abril (55 a&#241;os), sobre sus estudios universitarios: \"Acab&#233; en Derecho por seguir al reba&#241;o. No ten&#237;a una vocaci&#243;n clara\"",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/cuore/famosos/2026/09/14/silvia-abril-55-anos-estudios-133244607",
+        "date": "2026-09-14T11:53:00.000Z"
+      },
+      {
+        "title": "Silvia Abril, 55 a&#241;os: \"Cuando comenc&#233; en la interpretaci&#243;n me dijeron que mientras estuviera gorda no ser&#237;a actriz\"",
+        "source": "ESPA&#209;OL",
+        "link": "https://www.elespanol.com/corazon/bluper/20260614/silvia-abril-anos-comence-interpretacion-dijeron-gorda-no-actriz/1003744281886_0.html",
+        "date": "2026-06-14T02:43:00.000Z"
+      }
+    ],
+    "lydia-lozano": [
+      {
+        "title": "Leire Mart&#237;nez, Lydia Lozano o Trancas y Barrancas: todos los famosos desenmascarados de 'Mask Singer 5'",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/es/tele/yotele/20260528/leire-martinez-mask-singer-todos-desenmascarados-quinta-temporada-130737896",
+        "date": "2026-05-27T19:10:00.000Z"
+      }
+    ],
+    "bernd-schuster": [
+      {
+        "title": "&#191;Qu&#233; fue de Bernd Schuster? De estrella del Bar&#231;a a cantar Queen disfrazado de sem&#225;foro en televisi&#243;n",
+        "source": "El Nacional on MSN",
+        "link": "https://www.msn.com/es-es/noticias/otras/qu%C3%A9-fue-de-bernd-schuster-de-estrella-del-bar%C3%A7a-a-cantar-queen-disfrazado-de-sem%C3%A1foro-en-televisi%C3%B3n/ar-AA2gTUKL",
+        "date": "2026-11-06T06:15:00.000Z"
+      }
+    ],
+    "alba-paul": [
+      {
+        "title": "La emotiva felicitaci&#243;n de Dulceida a Alba Paul tras la final de 'Supervivientes': \"Vaya campeona\"",
+        "source": "20 minutos",
+        "link": "https://www.20minutos.es/gente/emotiva-felicitacion-dulceida-alba-paul-tras-final-supervivientes-vaya-campeona_6982708_0.html",
+        "date": "2026-06-12T11:10:00.000Z"
+      },
+      {
+        "title": "Borja Gonz&#225;lez, ganador de 'Supervivientes 2025', felicita a Maica Benedicto por la victoria y elogia a Alba Paul",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/reality/20260612/supervivientes-2026-borja-gonzalez-elogia-alba-paul-felicita-maica-benedicto_18_019433303.html",
+        "date": "2026-06-12T07:46:00.000Z"
+      },
+      {
+        "title": "Maica Benedicto gana ‘Supervivientes 2026’ tras imponerse a Alba Paul",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/es/tele/yotele/20260612/maica-benedicto-gana-supervivientes-2026-imponerse-alba-paul-131316879",
+        "date": "2026-06-12T03:02:00.000Z"
+      },
+      {
+        "title": "Maica Benedicto gana 'Supervivientes' frente a Alba Paul y desvela en qu&#233; se gastar&#225; los 200.000 euros del cheque",
+        "source": "elEconomista",
+        "link": "https://www.eleconomista.es/informalia/television/noticias/13966223/06/26/maica-benedicto-se-convierte-en-la-ganadora-de-supervivientes-con-el-592-de-los-votos.html",
+        "date": "2026-06-12T01:30:00.000Z"
+      },
+      {
+        "title": "As&#237; es Alba Paul: influencer, empresaria, mujer de Dulceida y concursante de 'Supervivientes 2026'",
+        "source": "diccionario",
+        "link": "https://www.lasprovincias.es/culturas/tv/alba-paul-influencer-empresaria-mujer-dulceida-concursante-20260611171902-nt.html",
+        "date": "2026-06-11T08:19:00.000Z"
+      }
+    ],
+    "teresa-seco": [
+      {
+        "title": "Teresa Seco",
+        "source": "tribunaviajera.com",
+        "link": "https://tribunaviajera.com/2026/11/08/viajes/escapadas/el-refugio-salvaje-de-teresa-seco-en-valencia-el-paraiso-a-orillas-del-turia-donde-se-forjo-la-estrella-de-supervivientes-651/",
+        "date": "2026-11-08T12:41:00.000Z"
+      },
+      {
+        "title": "As&#237; es la casa en la que vive Teresa Seco, de 'Supervivientes', en Valencia: el antes y despu&#233;s de su renovaci&#243;n tras la mudanza",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260905/piso-vive-teresa-seco-valencia-antes-despues-renovacion_18_019883195.html",
+        "date": "2026-09-05T07:00:00.000Z"
+      },
+      {
+        "title": "Teresa Seco se sincera sobre las secuelas que sufre tras 'Supervivientes': \"Es por el cambio hormonal\"",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260723/teresa-seco-sincera-secuelas-supervivientes_18_019775956.html",
+        "date": "2026-07-23T01:35:00.000Z"
+      },
+      {
+        "title": "Teresa Seco desvela las duras secuelas f&#237;sicas que le ha dejado 'Supervivientes': \"Com&#237;a y era como estar embarazada de cinco meses\"",
+        "source": "Hola (Espa&#241;a)",
+        "link": "https://www.hola.com/actualidad/20260526903726/teresa-seco-y-las-secuelas-fisicas-tras-supervivientes/",
+        "date": "2026-05-26T12:33:00.000Z"
+      },
+      {
+        "title": "Teresa Seco se sincera sobre las secuelas sufridas en 'Supervivientes': \"Me sentaba todo mal, pero no pod&#237;a parar de comer\"",
+        "source": "20 minutos",
+        "link": "https://www.20minutos.es/gente/teresa-seco-se-sincera-sobre-las-secuelas-sufridas-supervivientes-me-sentaba-todo-mal-pero-no-podia-parar-comer_6975074_0.html",
+        "date": "2026-05-26T04:09:00.000Z"
+      }
+    ],
+    "jaime-astrain": [
+      {
+        "title": "Lidia Torrent Anca nos desvela nuevos detalles de su boda con Jaime Astrain: \"Es el a&#241;o que viene en primera-verano y no he empezado con el vestido\"",
+        "source": "Vanitatis",
+        "link": "https://www.vanitatis.elconfidencial.com/famosos/2026-11-19/lidia-torrent-anca-detalles-boda-jaime-astrain-primavera-verano-vestido_4467135/",
+        "date": "2026-11-18T21:00:00.000Z"
+      },
+      {
+        "title": "Lidia Torrent y Jaime Astrain se casan tras siete a&#241;os de noviazgo",
+        "source": "Diario de Sevilla",
+        "link": "https://www.diariodesevilla.es/gente/lidia-torrent-jaime-astrain-casan_0_2006920854.html",
+        "date": "2026-06-02T07:43:00.000Z"
+      },
+      {
+        "title": "Lidia Torrent y Jaime Astrain se casan: del desgaste de la convivencia a la prueba definitiva de \"Supervivientes\"",
+        "source": "La Raz&#243;n Digital",
+        "link": "https://www.larazon.es/gente/famosos/lidia-torrent-jaime-astrain-casan-desgaste-convivencia-prueba-definitiva-supervivientes_202605316a1c196d7d8b1d381262f9fd.html",
+        "date": "2026-05-31T06:19:00.000Z"
+      },
+      {
+        "title": "Lidia Torrent, su divertida indirecta a Jaime Astrain para que le pida matrimonio: \"No hinca rodilla\"",
+        "source": "Europa Press",
+        "link": "https://www.europapress.es/chance/gente/noticia-lidia-torrent-divertida-indirecta-jaime-astrain-le-pida-matrimonio-no-hinca-rodilla-20260529132110.html",
+        "date": "2026-05-29T06:34:00.000Z"
+      },
+      {
+        "title": "La indirecta de Lidia Torrent a Jaime Astrain sobre su boda: \"Sigue pensando si soy o no la mujer de su vida\"",
+        "source": "Divinity",
+        "link": "https://www.divinity.es/actualidad/20260529/lidia-torrent-indirecta-jaime-astrain-boda-pensando-mujer-vida_18_019297150.html",
+        "date": "2026-05-29T02:32:00.000Z"
+      }
+    ],
+    "aratz-lakuntza": [
+      {
+        "title": "El &#171;pinchazo&#187; de Aratz Lakuntza en la Behobia - San Sebasti&#225;n 2026: &#171;Aqu&#237; se sube todo, lo bueno y lo malo&#187;",
+        "source": "El Diario Vasco",
+        "link": "https://www.diariovasco.com/deportes/atletismo/behobia-sansebastian/pinchazo-aratz-lakuntza-20261108183807-nt.html",
+        "date": "2026-11-08T09:39:00.000Z"
+      },
+      {
+        "title": "Le preguntan a Aratz Lakuntza por la victoria de Maica Benedicto en 'Supervivientes 2026' y su respuesta apunta al programa: \"No entiendo muy bien, en las finales de ...",
+        "source": "El Peri&#243;dico",
+        "link": "https://www.elperiodico.com/cuore/entretenimiento/2026/06/24/le-preguntan-aratz-victoria-maica-supervivientes-131764629",
+        "date": "2026-06-24T08:56:00.000Z"
+      },
+      {
+        "title": "Pensi&#243;n Aristiz&#225;bal: el negocio familiar que gestiona Aratz Lakuntza, de 'Supervivientes'",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260614/pension-aristizabal-negocio-familiar-artaz-lakuntza-concursante-supervivientes_18_019229693.html",
+        "date": "2026-06-14T01:00:00.000Z"
+      },
+      {
+        "title": "El donostiarra Aratz Lakuntza, tras 95 d&#237;as en Supervivientes 2026: &#171;Ten&#237;a la final en mis manos&#187;",
+        "source": "Diario",
+        "link": "https://www.diariovasco.com/gipuzkoa/donostiarra-aratz-lakuntza-tras-dias-supervivientes-2026-20260611114749-nt.html",
+        "date": "2026-06-11T02:47:00.000Z"
+      },
+      {
+        "title": "Aratz Lakuntza, &#250;ltimo eliminado en 'Supervivientes 2026', que ya conoce sus cuatro finalistas: Alvar Segu&#237;, Jos&#233; Manuel Soto, Maica Benedicto y Alba Paul",
+        "source": "La Raz&#243;n Digital",
+        "link": "https://www.larazon.es/television/programas/aratz-lakuntza-ultimo-eliminado-supervivientes-2026-que-conoce-sus-cuatro-finalistas-alvar-segui-jose-manuel-soto-maica-benedicto-alba-paul_202606086a2671dd44a9ef6825114788.html",
+        "date": "2026-06-08T02:40:00.000Z"
+      }
+    ],
+    "ingrid-betancor": [
+      {
+        "title": "Esta es Ingrid Betancor, mujer del nuevo entrenador del Real Zaragoza Ibai G&#243;mez: periodista, influencer y concursante en Supervivientes",
+        "source": "El Peri&#243;dico de Arag&#243;n",
+        "link": "https://www.elperiodicodearagon.com/vida-y-estilo/gente/2026/06/05/ingrid-betancor-mujer-nuevo-entrenador-131066123.html",
+        "date": "2026-06-05T13:00:00.000Z"
+      }
+    ],
+    "ivonne-reyes": [
+      {
+        "title": "La reaparici&#243;n de Ivonne Reyes tras abandonar 'Supervivientes' y la respuesta de Jota Peleteiro a Ajla Etemovic y Jessica Bueno, en '&#161;De viernes!'",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/television/20260611/de-viernes-reaparicion-ivonne-reyes-supervivientes-respuesta-jota-peleteiro-ajla-etemovic_18_019422223.html",
+        "date": "2026-06-11T07:36:00.000Z"
+      },
+      {
+        "title": "Ivonne Reyes confirma el buen resultado de su operaci&#243;n tras el accidente en 'Supervivientes 2026': “Estoy contenta”",
+        "source": "eldiario.es",
+        "link": "https://www.eldiario.es/vertele/noticias/ivonne-reyes-confirma-buen-resultado-operacion-accidente-supervivientes-2026-contenta_1_13276849.html",
+        "date": "2026-06-04T11:54:00.000Z"
+      },
+      {
+        "title": "Ivonne Reyes reaparece desde el hospital tras abandonar 'Supervivientes': &#171;Rabia, impotencia y tristeza&#187;",
+        "source": "ABC",
+        "link": "https://www.abc.es/gente/ivonne-reyes-reaparece-hospital-tras-abandonar-supervivientes-20260601132921-nt.html",
+        "date": "2026-06-01T04:29:00.000Z"
+      },
+      {
+        "title": "La desgracia de Supervivientes: Ivonne Reyes abandona el reality para ser trasladada de urgencia a Espa&#241;a",
+        "source": "EL MUNDO",
+        "link": "https://www.elmundo.es/television/momentvs/2026/05/29/6a19278bfdddff30238b45cd.html",
+        "date": "2026-05-29T00:43:00.000Z"
+      },
+      {
+        "title": "Ivonne Reyes tiene que abandonar 'Supervivientes 2026' por decisi&#243;n del equipo m&#233;dico: \"La lesi&#243;n que presenta obliga su traslado a Espa&#241;a\"",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/reality/20260528/supervivientes-2026-ivonne-reyes-tiene-abandonar-decision-equipo-medico_18_019295494.html",
+        "date": "2026-05-28T14:59:00.000Z"
+      },
+      {
+        "title": "Ivonne Reyes abandona 'Supervivientes 2026': su tremenda lesi&#243;n obliga a Telecinco a trasladarla a Espa&#241;a cuanto antes",
+        "source": "El Confidencial",
+        "link": "https://www.elconfidencial.com/television/programas-tv/2026-05-28/supervivientes-ivonne-reyes-abandona-lesion-telecinco_4363622/",
+        "date": "2026-05-27T17:21:00.000Z"
+      }
+    ],
+    "gerard-arias": [
+      {
+        "title": "Gerard Arias confiesa lo que ha sentido por Mar Ruiz al conocerla",
+        "source": "mediasetinfinity.es",
+        "link": "https://www.mediasetinfinity.es/noticias/muy-yo-by-leila/gerard-arias-confiesa-que-ha-sentido-por-mar-ruiz-al-conocerla-isla-tentaciones_MS000001220140_t19Ds3o2yiLAwEZWrxqzoQ2",
+        "date": "2026-11-05T06:44:00.000Z"
+      },
+      {
+        "title": "Gerard Arias aclara en qu&#233; punto se encuentra su vida sentimental: \"Me est&#225; costando encontrar pareja\"",
+        "source": "20 minutos on MSN",
+        "link": "https://www.msn.com/es-es/noticias/otras/gerard-arias-aclara-en-qu%C3%A9-punto-se-encuentra-su-vida-sentimental-me-est%C3%A1-costando-encontrar-pareja/ar-AA2b8bU2",
+        "date": "2026-08-28T11:41:41.000Z"
+      },
+      {
+        "title": "Gerard Arias, de 'Supervivientes' a M&#237;ster Espa&#241;a: “Una buena imagen viene acompa&#241;ada de valores”",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260724/gerard-arias-supervivientes-presenta-mister-espana_18_019777608.html",
+        "date": "2026-07-24T07:53:00.000Z"
+      },
+      {
+        "title": "Gerard Arias habla de sus negocios fuera de la televisi&#243;n: su decisi&#243;n tras ‘Supervivientes’",
+        "source": "TeleCinco",
+        "link": "https://www.telecinco.es/famosos/20260617/gerard-arias-habla-negocios-fuera-television-decision-supervivientes_18_019469653.html",
+        "date": "2026-06-17T04:32:00.000Z"
+      },
+      {
+        "title": "Qui&#233;n es Gerard Arias: su edad, su pareja, de d&#243;nde es y por qu&#233; es famoso",
+        "source": "Okdiario",
+        "link": "https://okdiario.com/happyfm/quien-gerard-arias-edad-pareja-donde-que-famoso-16307231",
+        "date": "2026-05-24T15:45:00.000Z"
+      }
+    ],
+    "paola-olmedo": [
+      {
+        "title": "Carmen Borrego, rotunda ante las versiones cruzadas de Jos&#233; Mar&#237;a Almoguera y Paola Olmedo",
+        "source": "El Correo",
+        "link": "https://www.elcorreo.com/gente-estilo/carmen-borrego-rotunda-ante-versiones-cruzadas-mara-20260625122526-vi.html",
+        "date": "2026-06-25T05:35:00.000Z"
+      },
+      {
+        "title": "Paola Olmedo se pronuncia tras su ausencia en la final de 'Supervivientes': \"Maica sacaba lo positivo a lo m&#225;s horroroso\"",
+        "source": "20 minutos",
+        "link": "https://www.20minutos.es/television/paola-olmedo-se-pronuncia-tras-su-ausencia-final-supervivientes-maica-sacaba-positivo-mas-horroroso_6982764_0.html",
+        "date": "2026-06-12T12:25:00.000Z"
+      },
+      {
+        "title": "Paola Olmedo desvela los motivos de su ausencia en la final de 'Supervivientes'",
+        "source": "El Correo",
+        "link": "https://www.elcorreo.com/gente-estilo/paola-olmedo-desvela-motivos-ausencia-final-supervivientes-20260612155527-vi.html",
+        "date": "2026-06-12T08:55:00.000Z"
+      }
+    ],
+    "j-kbello": [
+      {
+        "title": "J Kbello, ganador de 'Tu cara me suena': &#171;Le cambiar&#237;a el cuerpo a Jesucristo&#187;",
+        "source": "ABC",
+        "link": "https://www.abc.es/play/television/noticias/kbello-ganador-cara-suena-cambiaria-cuerpo-jesucristo-20260720101422-nt.html",
+        "date": "2026-07-21T01:14:00.000Z"
+      },
+      {
+        "title": "J Kbello, ganador de 'Tu cara me suena 13': \"Gracias a los que nunca confiaron en m&#237;\"",
+        "source": "FormulaTV",
+        "link": "https://www.formulatv.com/noticias/tu-cara-me-suena-j-kbello-ganador-137758/",
+        "date": "2026-07-18T10:00:00.000Z"
+      },
+      {
+        "title": "J Kbello cumple todos los pron&#243;sticos y se corona como ganador indiscutible de 'Tu cara me suena 13'",
+        "source": "Mundo Deportivo",
+        "link": "https://www.mundodeportivo.com/elotromundo/television/20260718/1004207659/j-kbello-cumple-todos-pronosticos-corona-ganador-indiscutible-cara-me-suena-13-dct.html",
+        "date": "2026-07-18T04:48:00.000Z"
+      },
+      {
+        "title": "J Kbello gana 'Tu cara me suena' imitando a Hugh Jackman en 'El Gran Showman'",
+        "source": "blogs.diariodenavarra.es",
+        "link": "https://www.diariodenavarra.es/noticias/magazine/television/2026/07/18/j-kbello-gana-cara-me-suena-imitando-hugh-jackman-gran-showman-828805-107.html",
+        "date": "2026-07-18T02:32:00.000Z"
+      },
+      {
+        "title": "J Kbello, el hombre de las 1.000 caras: de Ricky Martin a Elvis y Locom&#237;a, los geniales shows del ganador de 'Tu cara me suena'",
+        "source": "ESPA&#209;OL",
+        "link": "https://www.elespanol.com/corazon/bluper/20260717/kbello-hombre-caras-ricky-martin-elvis-locomia-apoteosicos-shows-directo-cara-suena/1003744325349_0.html",
+        "date": "2026-07-17T08:16:00.000Z"
+      },
+      {
+        "title": "J Kbello, el favorito de 'Tu cara me suena' que descarta Eurovisi&#243;n tras rozarlo en Benidorm: “Es un cuadro ahora mismo”",
+        "source": "eldiario.es",
+        "link": "https://www.eldiario.es/vertele/entrevistas/j-kbello-favorito-tu-cara-me-suena-descarta-eurovision-rozarlo-benidorm-cuadro-ahora_1_13251143.html",
+        "date": "2026-05-28T11:45:00.000Z"
+      }
+    ],
+    "paula-koops": [
+      {
+        "title": "Paula Koops: \"Mi plan favorito es esconderme bajo una manta y pegarme un atrac&#243;n de series, nadie me aguanta el ritmo\"",
+        "source": "Vanitatis on MSN",
+        "link": "https://www.msn.com/es-es/estilo/shopping/paula-koops-mi-plan-favorito-es-esconderme-bajo-una-manta-y-pegarme-un-atrac%C3%B3n-de-series-nadie-me-aguanta-el-ritmo/ar-AA2hoW4V",
+        "date": "2026-11-13T20:00:00.000Z"
+      },
+      {
+        "title": "Cristina Casta&#241;o y Paula Koops cuarta y quinta clasificadas en Tu cara me suena 13",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/tu-cara-me-suena/cristina-castano-paula-koops-cuarta-quinta-clasificadas-cara-suena-13_202607186a5ab626e9f2e84b5c6eec4d.html",
+        "date": "2026-07-17T16:08:00.000Z"
+      },
+      {
+        "title": "Las apuestas de Paula Koops, finalista de 'Tu Cara Me Suena', para ganar la edici&#243;n",
+        "source": "EUROPA FM",
+        "link": "https://www.europafm.com/noticias/tv-cine/apuestas-paula-koops-finalista-cara-suena-ganar-edicion_202607176a5774f9e9f2e84b5c6984ca.html",
+        "date": "2026-07-17T11:11:00.000Z"
+      },
+      {
+        "title": "Mar&#237;a Parrado, Cristina Casta&#241;o, Mart&#237;n Savi y Paula Koops acompa&#241;ar&#225;n a J Kbello en la final de 'Tu cara me suena'",
+        "source": "La Raz&#243;n Digital",
+        "link": "https://www.larazon.es/television/programas/maria-parrado-cristina-castano-martin-savi-paula-koops-acompanaran-kbello-final-cara-suena_202607116a52130fc0b5fb431c4e28e8.html",
+        "date": "2026-07-11T04:55:00.000Z"
+      },
+      {
+        "title": "Cristina Casta&#241;o, J Kbello, Mar&#237;a Parrado, Mart&#237;n Savi y Paula Koops, finalistas de 'Tu cara me suena'",
+        "source": "blogs.diariodenavarra.es",
+        "link": "https://www.diariodenavarra.es/noticias/magazine/television/2026/07/11/cristina-castano-j-kbello-maria-parrado-martin-savi-paula-koops-finalistas-cara-me-suena-827931-107.html",
+        "date": "2026-07-11T03:46:00.000Z"
+      },
+      {
+        "title": "'Tu cara me suena' se rompe con la victoria de Paula Koops: revela su drama personal tras coronarse ganadora de la gala 8",
+        "source": "El Confidencial",
+        "link": "https://www.elconfidencial.com/television/programas-tv/2026-06-06/tu-cara-me-suena-paula-koops-ganadora-gala-drama-personal_4368065/",
+        "date": "2026-06-05T18:30:00.000Z"
+      }
+    ],
+    "leonor-lavado": [
+      {
+        "title": "Las emotivas palabras de Leonor Lavado hacia J Kbello: \"Fue un acto de generosidad grand&#237;simo\"",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/tu-cara-me-suena/emotivas-palabras-leonor-lavado-kbello-fue-acto-generosidad-grandisimo_202606276a3fbfd195cc61359ce001ea.html",
+        "date": "2026-06-27T05:19:00.000Z"
+      },
+      {
+        "title": "Todas las actuaciones de la Gala 10 de 'Tu cara me suena 13': de J Kbello a Leonor Lavado con Nacho Garc&#237;a",
+        "source": "EUROPA FM",
+        "link": "https://www.europafm.com/noticias/tv-cine/todas-actuaciones-gala-10-cara-suena-13-kbello-leonor-lavado-nacho-garcia_202606206a35d42a8774b34d61e4639b.html",
+        "date": "2026-06-19T19:00:00.000Z"
+      },
+      {
+        "title": "Patricia Manterola aplaude la actuaci&#243;n de Leonor Lavado en Tu cara me suena",
+        "source": "antena3",
+        "link": "https://www.antena3.com/programas/tu-cara-me-suena/patricia-manterola-aplaude-actuacion-leonor-lavado-cara-suena_202606076a2586249c159d030fe6f09e.html",
+        "date": "2026-06-07T07:54:00.000Z"
+      },
+      {
+        "title": "Leonor Lavado: “Nadie daba un duro por m&#237; cuando empec&#233; a imitar voces”",
+        "source": "Noticias",
+        "link": "https://www.noticiasdenavarra.com/gente/2026/06/06/leonor-lavado-imitar-voces-tu-cara-me-suena-television-11165586.html",
+        "date": "2026-06-06T07:00:00.000Z"
+      }
+    ],
+    "carlos-sobera": [
+      {
+        "title": "Carlos Sobera, presentador de First Dates, revela sus tres claves para el amor duradero: generosidad absoluta, respeto mutuo y empat&#237;a",
+        "source": "Confidencial Digital",
+        "link": "https://www.elconfidencialdigital.com/famosos/carlos-sobera-revela-3-claves-que-sostienen-relacion-patricia/202611191250191503948.html",
+        "date": "2026-11-19T04:50:00.000Z"
+      },
+      {
+        "title": "Carlos Sobera, el nuevo celestino empresarial: \"Si volviera a separarme, seguir&#237;a creyendo en el amor\"",
+        "source": "Vanitatis",
+        "link": "https://www.vanitatis.elconfidencial.com/famosos/2026-11-17/carlos-sobera-relacion-patricia-santamaria-celestino_4065012/",
+        "date": "2026-11-17T00:28:00.000Z"
+      },
+      {
+        "title": "Miguel Poveda, Pep&#243;n Nieto, Carlos Sobera o Ana Labordeta, en la nueva temporada teatral municipal en El Batel",
+        "source": "Murcia.com",
+        "link": "https://www.murcia.com/cartagena/noticias/2026/11/04-miguel-poveda--pepon-nieto--carlos-sobera-o-ana-labordeta--en-la-nueva-temporada-teatral-municipal-e.asp",
+        "date": "2026-11-03T16:00:00.000Z"
+      },
+      {
+        "title": "Carlos Sobera pierde cuota de pantalla en Telecinco y 'El precio justo' no continuar&#225; en 2027",
+        "source": "La Raz&#243;n Digital",
+        "link": "https://www.larazon.es/television/programas/carlos-sobera-pierde-cuota-pantalla-telecinco-precio-justo-continuara-2027_202610146acf669dcfd4076f0c7ac0ee.html",
+        "date": "2026-10-14T06:25:00.000Z"
+      },
+      {
+        "title": "El equipo de ‘First Dates’, descolocado ante la confesi&#243;n de Carlos Sobera a una soltera",
+        "source": "Okdiario",
+        "link": "https://okdiario.com/happyfm/equipo-first-dates-descolocado-confesion-carlos-sobera-soltera-20227594",
+        "date": "2026-09-04T04:22:00.000Z"
       }
     ]
   }
