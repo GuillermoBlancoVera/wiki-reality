@@ -12,7 +12,7 @@ if (cfg.prefixes?.length) {
   const titles = {};
   for (const p of cfg.prefixes) {
     const out = []; let cont = '';
-    do { const j = await api(`action=query&list=allpages&apnamespace=0&apfilterredir=nonredirects&aplimit=500&apprefix=${encodeURIComponent(p)}${cont}`); out.push(...j.query.allpages.map((x) => x.title)); cont = j.continue ? `&apcontinue=${encodeURIComponent(j.continue.apcontinue)}` : ''; await sleep(300); } while (cont);
+    do { const j = await api(`action=query&list=allpages&apnamespace=${p.startsWith('Anexo:') ? 104 : 0}&apfilterredir=nonredirects&aplimit=500&apprefix=${encodeURIComponent(p.replace(/^Anexo:/, ''))}${cont}`); out.push(...j.query.allpages.map((x) => x.title)); cont = j.continue ? `&apcontinue=${encodeURIComponent(j.continue.apcontinue)}` : ''; await sleep(300); } while (cont);
     titles[p] = out;
   }
   writeFileSync('data/raw/wiki-titles.json', JSON.stringify(titles, null, 1) + '\n');
