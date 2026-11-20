@@ -35,7 +35,7 @@ const todo = [...info].filter(([id]) => people[id].newsAuto !== false && cleanNa
   .sort((a, b) => (store.checked[a[0]] ?? '').localeCompare(store.checked[b[0]] ?? '') || b[1].year - a[1].year)
   .slice(0, MAX);
 
-const decode = (s) => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, '&').trim();
+const decode = (s) => s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, '&').replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n))).trim();
 const tag = (xml, name) => { const m = xml.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`)); return m ? decode(m[1]) : ''; };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
