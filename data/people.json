@@ -66,7 +66,11 @@
         }
       ],
       "origin": "Madrid",
-      "job": "Teleoperador"
+      "job": "Teleoperador",
+      "socials": {
+        "instagram": "https://www.instagram.com/cguzman46/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "andrea-gasca": {
       "name": "Andrea Gasca",
@@ -158,7 +162,11 @@
     "ania-iglesias": {
       "name": "Ania Iglesias",
       "origin": "Valladolid",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/aniaiglesias/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ivan-armesto": {
       "name": "Iván Armesto",
@@ -258,7 +266,11 @@
         }
       ],
       "origin": "Madrid",
-      "job": "Ayudante de vuelo"
+      "job": "Ayudante de vuelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/pepegh7/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "javier-varela": {
       "name": "Javier Varela",
@@ -329,7 +341,11 @@
     "almudena-martinez": {
       "name": "Almudena Martínez",
       "origin": "Murcia",
-      "job": "Cajera"
+      "job": "Cajera",
+      "socials": {
+        "instagram": "https://www.instagram.com/chiquigh10/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "angel-munoz": {
       "name": "Ángel Muñoz",
@@ -353,7 +369,11 @@
     "laura-campos": {
       "name": "Laura Campos",
       "origin": "Madrid",
-      "job": "Operadora industrial"
+      "job": "Operadora industrial",
+      "socials": {
+        "instagram": "https://www.instagram.com/laurytagh12/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "yago-hermida": {
       "name": "Yago Hermida",
@@ -367,7 +387,11 @@
     "marcelo-ciriaco": {
       "name": "Marcelo Ciriaco",
       "origin": "Málaga",
-      "job": "Estudiante de Historia"
+      "job": "Estudiante de Historia",
+      "socials": {
+        "instagram": "https://www.instagram.com/ciriacoco/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pepe-flores": {
       "name": "Pepe Flores",
@@ -401,7 +425,11 @@
     "nilo-manrique": {
       "name": "Nilo Manrique",
       "origin": "Valencia",
-      "job": "Escultor, personalidad de prensa rosa"
+      "job": "Escultor, personalidad de prensa rosa",
+      "socials": {
+        "instagram": "https://www.instagram.com/nilo_manrique/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "miriam-sanchez": {
       "name": "Miriam Sánchez",
@@ -440,7 +468,11 @@
     },
     "christopher-mateo": {
       "name": "Christopher Mateo",
-      "origin": "Málaga"
+      "origin": "Málaga",
+      "socials": {
+        "instagram": "https://www.instagram.com/christopher.mateo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jorge-diaz": {
       "name": "Jorge Díaz",
@@ -469,7 +501,11 @@
     "jorge-perez": {
       "name": "Jorge Pérez",
       "origin": "Cantabria",
-      "job": "Guardia Civil y modelo"
+      "job": "Guardia Civil y modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/jorgeperezdiez/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "olga-moreno": {
       "name": "Olga Moreno",
@@ -514,7 +550,11 @@
     "ismael-isla-1": {
       "name": "Ismael Nicolás",
       "origin": "Murcia",
-      "job": "Culturista"
+      "job": "Culturista",
+      "socials": {
+        "instagram": "https://www.instagram.com/ismaelnicolass/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alessandro-livi": {
       "name": "Alessandro Livi",
@@ -611,11 +651,6 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones",
       "origin": "Sevilla",
       "job": "Estudiante de Marketing y Publicidad"
-    },
-    "lola-isla-3": {
-      "name": "Marta Mencía «Lola»",
-      "origin": "León",
-      "job": "Auxiliar de veterinaria"
     },
     "lucia-sanchez": {
       "name": "Lucía Sánchez",
@@ -1267,7 +1302,11 @@
     "ivonne-armant": {
       "name": "Ivonne Armant",
       "origin": "Ciudad de México",
-      "job": "Actriz y modelo"
+      "job": "Actriz y modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivonnearmant/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "belen-esteban": {
       "name": "Belén Esteban",
@@ -1704,12 +1743,20 @@
     "angel-gh-2": {
       "name": "Ángel Tous",
       "origin": "Alicante",
-      "job": "Estudiante de Criminología"
+      "job": "Estudiante de Criminología",
+      "socials": {
+        "instagram": "https://www.instagram.com/_angeltous_/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "kaiet-gh-2": {
       "name": "Kaiet López",
       "origin": "Vizcaya",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/kaietlopez/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alonso-gh-2": {
       "name": "Alonso Jiménez",
@@ -1733,7 +1780,11 @@
     "karola-gh-2": {
       "name": "Karola Alonso",
       "origin": "La Rioja",
-      "job": "Teleoperadora"
+      "job": "Teleoperadora",
+      "socials": {
+        "instagram": "https://www.instagram.com/karolaalonso/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "roberto-gh-2": {
       "name": "Roberto Cendrero",
@@ -1778,7 +1829,11 @@
     "elba-gh-3": {
       "name": "Elba Guallarte",
       "origin": "Barcelona",
-      "job": "Teleoperadora"
+      "job": "Teleoperadora",
+      "socials": {
+        "instagram": "https://www.instagram.com/elbaguallarte04/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ness-gh-3": {
       "name": "Ness"
@@ -1786,7 +1841,11 @@
     "raquel-gh-3": {
       "name": "Raquel Morillas",
       "origin": "Madrid",
-      "job": "Soldadora y administrativa"
+      "job": "Soldadora y administrativa",
+      "socials": {
+        "instagram": "https://www.instagram.com/raquelmorillas76/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jacinto-gh-3": {
       "name": "Jacinto Garbayo",
@@ -1796,7 +1855,11 @@
     "noemi-gh-3": {
       "name": "Noemí Ungría",
       "origin": "Barcelona",
-      "job": "Esteticista"
+      "job": "Esteticista",
+      "socials": {
+        "instagram": "https://www.instagram.com/noemiungria/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "andres-gh-3": {
       "name": "Andrés Barreiro",
@@ -1831,7 +1894,11 @@
     "judith-andreu": {
       "name": "Judith Andreú",
       "origin": "Barcelona",
-      "job": "Secretaria"
+      "job": "Secretaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/judithiw/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "anna-franco": {
       "name": "Anna Franco",
@@ -1856,7 +1923,11 @@
     "ainhoa-pareja": {
       "name": "Ainhoa Pareja",
       "origin": "Madrid",
-      "job": "Teleoperadora y camarera"
+      "job": "Teleoperadora y camarera",
+      "socials": {
+        "instagram": "https://www.instagram.com/ainhoapareja/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "denis-castellon": {
       "name": "Denís Castellón",
@@ -1896,7 +1967,11 @@
     "luhay-hamido": {
       "name": "Luhay Hamido",
       "origin": "Ceuta",
-      "job": "Estudiante de Química"
+      "job": "Estudiante de Química",
+      "socials": {
+        "instagram": "https://www.instagram.com/luhayhamido/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "aida-nizar": {
       "name": "Aída Nízar",
@@ -1994,7 +2069,11 @@
     "arturo-gh-7": {
       "name": "Arturo Sisniega",
       "origin": "Madrid",
-      "job": "Coordinador de aeróbic"
+      "job": "Coordinador de aeróbic",
+      "socials": {
+        "instagram": "https://www.instagram.com/arturo_sis/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "tono-gh-7": {
       "name": "Tono Rodríguez",
@@ -2014,7 +2093,11 @@
     "inma-gh-7": {
       "name": "Inma Contreras",
       "origin": "Granada",
-      "job": "Lic. en Biblioteconomía"
+      "job": "Lic. en Biblioteconomía",
+      "socials": {
+        "instagram": "https://www.instagram.com/inmacontreras/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "beatriz-gh-7": {
       "name": "Beatriz Gómez",
@@ -2034,7 +2117,11 @@
     "desiree-rodriguez": {
       "name": "Desireé Rodríguez",
       "origin": "Sevilla",
-      "job": "Esteticista"
+      "job": "Esteticista",
+      "socials": {
+        "instagram": "https://www.instagram.com/desyrodriguezoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "raquel-martin-raki": {
       "name": "Raky Martín",
@@ -2087,7 +2174,11 @@
     "yessica-piqueras": {
       "name": "Yéssica Piqueras",
       "origin": "Valencia",
-      "job": "Monitora deportiva"
+      "job": "Monitora deportiva",
+      "socials": {
+        "instagram": "https://www.instagram.com/yessicapiqueras/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ivan-paniego": {
       "name": "Iván Paniego",
@@ -2122,7 +2213,11 @@
     "ivan-gonzalo": {
       "name": "Iván Gonzalo",
       "origin": "Alicante",
-      "job": "Cantante, bailarín e imitador"
+      "job": "Cantante, bailarín e imitador",
+      "socials": {
+        "instagram": "https://www.instagram.com/officialivangonzalo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "danny-padilla": {
       "name": "Danny Padilla",
@@ -2147,7 +2242,11 @@
     "lorena-edo": {
       "name": "Lorena Edo",
       "origin": "Valencia",
-      "job": "Estilista de uñas"
+      "job": "Estilista de uñas",
+      "socials": {
+        "instagram": "https://www.instagram.com/lore_edo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "giulia-tortella": {
       "name": "Giuls Tortella",
@@ -2179,7 +2278,11 @@
     "azahara-luque": {
       "name": "Azahara Luque",
       "origin": "Málaga",
-      "job": "Camarera y RRPP"
+      "job": "Camarera y RRPP",
+      "socials": {
+        "instagram": "https://www.instagram.com/curly.azahara/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "hugo-perez": {
       "name": "Hugo Pérez",
@@ -2194,7 +2297,11 @@
     "juanma-fario": {
       "name": "Juanma Furió",
       "origin": "Valencia",
-      "job": "Coordinador de escuela de surf"
+      "job": "Coordinador de escuela de surf",
+      "socials": {
+        "instagram": "https://www.instagram.com/juanma_furio/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "luis-de-ramirez": {
       "name": "Luis de Ramírez",
@@ -2227,12 +2334,20 @@
     "loli-pozo": {
       "name": "Loli Pozo",
       "origin": "Córdoba",
-      "job": "Limpiadora en paro"
+      "job": "Limpiadora en paro",
+      "socials": {
+        "instagram": "https://www.instagram.com/gh15_loli/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "shaima-al-lal": {
       "name": "Shaima Al-Lal",
       "origin": "Ceuta",
-      "job": "Estudiante"
+      "job": "Estudiante",
+      "socials": {
+        "instagram": "https://www.instagram.com/shaima_xamy/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alfredo-munoz": {
       "name": "Alfredo Muñoz",
@@ -2247,7 +2362,11 @@
     "mayca-pozo": {
       "name": "Mayca Pozo",
       "origin": "Córdoba",
-      "job": "Limpiadora en paro"
+      "job": "Limpiadora en paro",
+      "socials": {
+        "instagram": "https://www.instagram.com/mayca_gh15/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "paco-carmona": {
       "name": "Paco Carmona",
@@ -2295,7 +2414,11 @@
     "ricky-natalicchio": {
       "name": "Ricky Natalicchio",
       "origin": "Las Palmas",
-      "job": "Estudiante de Nutrición"
+      "job": "Estudiante de Nutrición",
+      "socials": {
+        "instagram": "https://www.instagram.com/rickygh16oficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "marina-landaluce": {
       "name": "Marina Landaluce",
@@ -2370,7 +2493,11 @@
     "rodrigo-gh-17": {
       "name": "Rodrigo Fuertes",
       "origin": "Madrid",
-      "job": "Tesorero en departamento de moda"
+      "job": "Tesorero en departamento de moda",
+      "socials": {
+        "instagram": "https://www.instagram.com/rodrifuertespuch/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "miguel-gh-17": {
       "name": "Miguel Vilas",
@@ -2389,7 +2516,11 @@
     "simona-gh-17": {
       "name": "Simona Scorus",
       "origin": "Madrid",
-      "job": "Camarera"
+      "job": "Camarera",
+      "socials": {
+        "instagram": "https://www.instagram.com/simona_scorus/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "clara-gh-17": {
       "name": "Clara Toribio",
@@ -2477,7 +2608,11 @@
     "pilar-gh-18": {
       "name": "Pilar Marcellán",
       "origin": "Zaragoza",
-      "job": "Estudiante de Estética y Belleza"
+      "job": "Estudiante de Estética y Belleza",
+      "socials": {
+        "instagram": "https://www.instagram.com/pilarghrv18/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "miriam-gh-18": {
       "name": "Miriam Santiago",
@@ -2540,7 +2675,11 @@
     "petra-gh-18": {
       "name": "Petra Adrover",
       "origin": "Islas Baleares",
-      "job": "Organizadora de eventos vip"
+      "job": "Organizadora de eventos vip",
+      "socials": {
+        "instagram": "https://www.instagram.com/elmundodepetrix/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "javier-gh-18": {
       "name": "Javier Eneme",
@@ -2554,7 +2693,11 @@
     "yolanda-gh-18": {
       "name": "Yolanda Garrote",
       "origin": "Valencia",
-      "job": "Empresaria hostelera"
+      "job": "Empresaria hostelera",
+      "socials": {
+        "instagram": "https://www.instagram.com/yolindagh18rv/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "nerea-gh-18": {
       "name": "Nerea Montaraz",
@@ -2717,7 +2860,11 @@
     "marusky-perdomo": {
       "name": "Marusky Perdomo",
       "origin": "Las Palmas",
-      "job": "Encargada de boutique"
+      "job": "Encargada de boutique",
+      "socials": {
+        "instagram": "https://www.instagram.com/marusky.perdomo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "kiko-rodriguez": {
       "name": "Kiko Rodríguez",
@@ -2747,12 +2894,20 @@
     "eneko-van-horenbeke": {
       "name": "Eneko Van Horenbeke",
       "origin": "Vizcaya",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/eneko_vanhorenbeke/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "andalla-mbengue": {
       "name": "Andalla Mbengue",
       "origin": "La Coruña",
-      "job": "Frigorista"
+      "job": "Frigorista",
+      "socials": {
+        "instagram": "https://www.instagram.com/andallaaa/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "melania-querol": {
       "name": "Melania Querol",
@@ -2853,7 +3008,11 @@
     "carlos-hoya": {
       "name": "Carlos Hoya",
       "origin": "Cantabria",
-      "job": "Agente inmobiliario"
+      "job": "Agente inmobiliario",
+      "socials": {
+        "instagram": "https://www.instagram.com/carloshoyaa/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jie-li": {
       "name": "Jie Li",
@@ -2873,7 +3032,11 @@
     "gerardo-gh-11": {
       "name": "Gerardo Prager",
       "origin": "Madrid",
-      "job": "Empresario y apoderado taurino"
+      "job": "Empresario y apoderado taurino",
+      "socials": {
+        "instagram": "https://www.instagram.com/gerardoprager/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "tatiana-gh-11": {
       "name": "Tatiana Malyshkina",
@@ -2905,7 +3068,11 @@
     "indhira-gh-11": {
       "name": "Indhira Kalvani",
       "origin": "Málaga",
-      "job": "Estudiante de turismo"
+      "job": "Estudiante de turismo",
+      "socials": {
+        "instagram": "https://www.instagram.com/indirakalvani/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carolina-gh-11": {
       "name": "Carolina"
@@ -2918,7 +3085,11 @@
     "juan-gh-11": {
       "name": "Juan Carod",
       "origin": "Zaragoza",
-      "job": "Opositor a Policía Nacional"
+      "job": "Opositor a Policía Nacional",
+      "socials": {
+        "instagram": "https://www.instagram.com/juancarod81/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "rebeca-gh-11": {
       "name": "Rebeca Perea",
@@ -2985,7 +3156,11 @@
     "cathaysa-mogollon": {
       "name": "Cathaysa Mogollón",
       "origin": "Madrid",
-      "job": "Ingeniera"
+      "job": "Ingeniera",
+      "socials": {
+        "instagram": "https://www.instagram.com/cathamogo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "patricia-hurtado": {
       "name": "Patricia Hurtado",
@@ -3009,7 +3184,11 @@
     "mireia-carrillo": {
       "name": "Mireia Carrillo",
       "origin": "Barcelona",
-      "job": "Directora de publicidad"
+      "job": "Directora de publicidad",
+      "socials": {
+        "instagram": "https://www.instagram.com/mireiacarrillotv/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "oscar-casado": {
       "name": "Óscar Casado",
@@ -3282,7 +3461,11 @@
     "sema-garcia": {
       "name": "Sema García",
       "origin": "Cádiz",
-      "job": "Amigo de Isa Pantoja"
+      "job": "Amigo de Isa Pantoja",
+      "socials": {
+        "instagram": "https://www.instagram.com/semanuel_makeup/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "belen-roca": {
       "name": "Belén Roca",
@@ -3296,12 +3479,20 @@
     "julian-contreras": {
       "name": "Julián Contreras",
       "origin": "Madrid",
-      "job": "Hijo de Carmina Ordóñez"
+      "job": "Hijo de Carmina Ordóñez",
+      "socials": {
+        "instagram": "https://www.instagram.com/j_contrerasjr/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "liz-emiliano": {
       "name": "Liz Emiliano",
       "origin": "Madrid",
-      "job": "Modelo internacional"
+      "job": "Modelo internacional",
+      "socials": {
+        "instagram": "https://www.instagram.com/lizzzev/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "javier-tudela": {
       "name": "Javier Tudela",
@@ -3320,7 +3511,11 @@
     "julius-bienert": {
       "name": "Julius Bienert",
       "origin": "Palma",
-      "job": "Chef y presentador de TV"
+      "job": "Chef y presentador de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/juliusbienert/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carmen-lopez": {
       "name": "Carmen López",
@@ -3350,13 +3545,21 @@
     "marco-vip-5": {
       "name": "Marco Ferri",
       "job": "Modelo y concursante de realities",
-      "origin": "Milán"
+      "origin": "Milán",
+      "socials": {
+        "instagram": "https://www.instagram.com/marcoferri5/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "aylen-vip-5": {
       "name": "Aylén Milla",
       "origin": "Buenos Aires",
       "job": "Modelo y concursante de realities",
-      "commons": "File:Copihue de Oro 2018 - Aylén Milla - 01.jpg"
+      "commons": "File:Copihue de Oro 2018 - Aylén Milla - 01.jpg",
+      "socials": {
+        "instagram": "https://www.instagram.com/aylenmilla/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sergio-vip-5": {
       "name": "Sergio Ayala",
@@ -3397,7 +3600,11 @@
     "tono-vip-5": {
       "name": "Toño Sanchís",
       "origin": "Madrid",
-      "job": "Representante artístico"
+      "job": "Representante artístico",
+      "socials": {
+        "instagram": "https://www.instagram.com/tono_sanchis/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "el-koala": {
       "name": "El Koala",
@@ -3518,7 +3725,11 @@
     "maestro-joao": {
       "name": "Maestro Joao",
       "origin": "Madrid",
-      "job": "Vidente"
+      "job": "Vidente",
+      "socials": {
+        "instagram": "https://www.instagram.com/maestro_joao/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pol-badia": {
       "name": "Pol Badía",
@@ -3921,8 +4132,13 @@
       "job": "Amiga de Isabel Pantoja"
     },
     "lola-mencia": {
-      "name": "Lola Mencía",
-      "origin": "León"
+      "name": "Marta Mencía «Lola»",
+      "origin": "León",
+      "job": "Auxiliar de veterinaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/martadelola/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alejandro-albala": {
       "name": "Alejandro Albalá",
@@ -3950,7 +4166,11 @@
     },
     "carlos-alba": {
       "name": "Carlos Alba",
-      "origin": "Sevilla"
+      "origin": "Sevilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/carlosmchef7/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sylvia-pantoja": {
       "name": "Sylvia Pantoja",
@@ -4069,7 +4289,11 @@
     "cristian-suescun": {
       "name": "Cristian Suescun",
       "origin": "Navarra",
-      "job": "Hermano de Sofía Suescun"
+      "job": "Hermano de Sofía Suescun",
+      "socials": {
+        "instagram": "https://www.instagram.com/suescungaldeano/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "vicky-larraz": {
       "name": "Vicky Larraz",
@@ -4133,7 +4357,11 @@
     "colate-vallejo-nagera": {
       "name": "Colate Vallejo-Nágera",
       "origin": "Madrid",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/colatenicolas/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "violeta-mangrinan": {
       "name": "Violeta Mangriñán",
@@ -4171,7 +4399,11 @@
     "toni-salazar": {
       "name": "Toñi Salazar",
       "origin": "Badajoz",
-      "job": "Cantante de Azúcar Moreno"
+      "job": "Cantante de Azúcar Moreno",
+      "socials": {
+        "instagram": "https://www.instagram.com/tonisalazar_oficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "encarna-salazar": {
       "name": "Encarna Salazar",
@@ -4218,7 +4450,11 @@
     "alberto-isla": {
       "name": "Alberto Isla",
       "origin": "Cádiz",
-      "job": "Exmarido de Isa Pantoja"
+      "job": "Exmarido de Isa Pantoja",
+      "socials": {
+        "instagram": "https://www.instagram.com/albertoislasv2018/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "melissa-vargas": {
       "name": "Melissa Vargas",
@@ -4236,7 +4472,11 @@
     },
     "mayte-zaldivar": {
       "name": "Mayte Zaldívar",
-      "origin": "Málaga"
+      "origin": "Málaga",
+      "socials": {
+        "instagram": "https://www.instagram.com/mzaldivargarcia/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "fernando-marcos": {
       "name": "Fernando Marcos",
@@ -4250,7 +4490,11 @@
     },
     "saray-montoya": {
       "name": "Saray Montoya",
-      "origin": "Sevilla"
+      "origin": "Sevilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/saray_montoyaa_/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "adrian-rodriguez": {
       "name": "Adrián Rodríguez",
@@ -4654,7 +4898,11 @@
     },
     "paco-de-benito": {
       "name": "Paco de Benito",
-      "origin": "Toledo"
+      "origin": "Toledo",
+      "socials": {
+        "instagram": "https://www.instagram.com/pacodbenito/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carla-barber": {
       "name": "Carla Barber",
@@ -4664,12 +4912,20 @@
     "dulce-delapiedra": {
       "name": "Dulce Delapiedra",
       "origin": "Sevilla",
-      "job": "Empleada de Isabel Pantoja"
+      "job": "Empleada de Isabel Pantoja",
+      "socials": {
+        "instagram": "https://www.instagram.com/dulce_sv16/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mario-d-amico": {
       "name": "Mario D'Amico",
       "origin": "Milán",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/damico_mario/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "cristian-nieto": {
       "name": "Cristian Nieto",
@@ -4683,7 +4939,11 @@
     "el-dioni": {
       "name": "El Dioni",
       "job": "Ladrón de un furgón blindado",
-      "origin": "Madrid"
+      "origin": "Madrid",
+      "socials": {
+        "instagram": "https://www.instagram.com/el_dioni_oficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "nacho-vidal": {
       "name": "Nacho Vidal",
@@ -4715,12 +4975,20 @@
     "suhaila-jad": {
       "name": "Suhaila Jad",
       "origin": "Madrid",
-      "job": "Tronista de MyHyV"
+      "job": "Tronista de MyHyV",
+      "socials": {
+        "instagram": "https://www.instagram.com/suhailajad/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "elisa-de-panicis": {
       "name": "Elisa De Panicis",
       "origin": "Milán",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/elisadepanicis/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carmen-lomana": {
       "name": "Carmen Lomana",
@@ -4747,7 +5015,11 @@
     },
     "arantxa-bustos": {
       "name": "Arantxa Bustos",
-      "origin": "Madrid"
+      "origin": "Madrid",
+      "socials": {
+        "instagram": "https://www.instagram.com/arantxabustos/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jose-labrador": {
       "name": "José Labrador",
@@ -4760,7 +5032,11 @@
     "carmen-gahona": {
       "name": "Carmen Gahona",
       "origin": "Sevilla",
-      "job": "Expareja de Chiquetete"
+      "job": "Expareja de Chiquetete",
+      "socials": {
+        "instagram": "https://www.instagram.com/carmengahona/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "rasel-abad": {
       "name": "Rasel Abad",
@@ -4774,11 +5050,19 @@
     "rafa-lomana": {
       "name": "Rafa Lomana",
       "origin": "Cantabria",
-      "job": "Político y hermano de Carmen Lomana"
+      "job": "Político y hermano de Carmen Lomana",
+      "socials": {
+        "instagram": "https://www.instagram.com/rafalomanaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "yong-li": {
       "name": "Yong Li",
-      "origin": "Guipúzcoa"
+      "origin": "Guipúzcoa",
+      "socials": {
+        "instagram": "https://www.instagram.com/yongliou/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "nacho-montes": {
       "name": "Nacho Montes",
@@ -4798,7 +5082,11 @@
     "rebeca-pous": {
       "name": "Rebeca Pous",
       "origin": "Barcelona",
-      "job": "Cantante"
+      "job": "Cantante",
+      "socials": {
+        "instagram": "https://www.instagram.com/rebeca_music/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "katia-aveiro": {
       "name": "Kátia Aveiro",
@@ -4808,7 +5096,11 @@
     "viviana-figueredo": {
       "name": "Viviana Figueredo",
       "origin": "Asunción",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/vivi15figueredo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "diego-matamoros": {
       "name": "Diego Matamoros",
@@ -4833,7 +5125,11 @@
     "aran-aznar": {
       "name": "Aran Aznar",
       "origin": "Madrid",
-      "job": "Sobrina de José María Aznar"
+      "job": "Sobrina de José María Aznar",
+      "socials": {
+        "instagram": "https://www.instagram.com/aran_aznar_official/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pascual-fernandez": {
       "name": "Pascual Fernández",
@@ -4852,7 +5148,11 @@
     "rosi-arcas": {
       "name": "Rosi Arcas",
       "origin": "Córdoba",
-      "job": "Dependienta"
+      "job": "Dependienta",
+      "socials": {
+        "instagram": "https://www.instagram.com/rosi_arcas/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "tatiana-delgado": {
       "name": "Tatiana Delgado",
@@ -4871,12 +5171,20 @@
     "jeyko-vigil": {
       "name": "Jeyko Vigil",
       "origin": "Madrid",
-      "job": "Bailarín"
+      "job": "Bailarín",
+      "socials": {
+        "instagram": "https://www.instagram.com/jeykoofficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "toni-genil": {
       "name": "Tony Genil",
       "origin": "Córdoba",
-      "job": "Artista de la farándula"
+      "job": "Artista de la farándula",
+      "socials": {
+        "instagram": "https://www.instagram.com/tonygenil/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "arturo-requejo": {
       "name": "Arturo Requejo",
@@ -4933,7 +5241,11 @@
     "jacobo-ostos": {
       "name": "Jacobo Ostos",
       "origin": "Madrid",
-      "job": "Hijo de Jaime Ostos"
+      "job": "Hijo de Jaime Ostos",
+      "socials": {
+        "instagram": "https://www.instagram.com/jacoboostosdj/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ivonne-orsini": {
       "name": "Ivonne Orsini",
@@ -4974,7 +5286,11 @@
     "begona-alonso": {
       "name": "Begoña Alonso",
       "origin": "Vizcaya",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/begoalonsoof/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "olfo-bose": {
       "name": "Olfo Bosé",
@@ -4989,27 +5305,50 @@
     "roberto-liano": {
       "name": "Roberto Liaño",
       "origin": "Cantabria",
-      "job": "Modelo, personalidad de prensa rosa"
+      "job": "Modelo, personalidad de prensa rosa",
+      "socials": {
+        "instagram": "https://www.instagram.com/robertolianooficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "michel-gurfi": {
       "name": "Michel Gurfi",
       "origin": "Buenos Aires",
-      "job": "Actor"
+      "job": "Actor",
+      "socials": {
+        "instagram": "https://www.instagram.com/michelgurfi/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "leo-segarra": {
       "name": "Leo Segarra",
       "origin": "Valencia",
-      "job": "Cantante, concursante de OT 2006"
+      "job": "Cantante, concursante de OT 2006",
+      "photo": {
+        "src": "https://live.staticflickr.com/2316/2115885310_abcdde38ed_b.jpg",
+        "page": "https://www.flickr.com/photos/49503148006@N01/2115885310",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "author": "hywell (Flickr)"
+      }
     },
     "lely-cespedes": {
       "name": "Lely Céspedes",
       "origin": "Málaga",
-      "job": "Exmodelo y azafata"
+      "job": "Exmodelo y azafata",
+      "socials": {
+        "instagram": "https://www.instagram.com/lelycespedes/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "nekal-haidari": {
       "name": "Nekal Haidari",
       "origin": "Madrid",
-      "job": "Jugadora de baloncesto"
+      "job": "Jugadora de baloncesto",
+      "socials": {
+        "instagram": "https://www.instagram.com/nekal/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "michel-olivares": {
       "name": "Michel Olivares",
@@ -5032,7 +5371,11 @@
     "ojani-noa": {
       "name": "Ojani Noa",
       "origin": "La Habana",
-      "job": "Actor y modelo"
+      "job": "Actor y modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/ojaninoa1/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "felisa-gomez": {
       "name": "Felisa Gómez",
@@ -5058,7 +5401,11 @@
       "name": "Juanito Oiarzabal",
       "origin": "Álava",
       "job": "Alpinista",
-      "commons": "File:Juanito Oiarzabal ME.jpg"
+      "commons": "File:Juanito Oiarzabal ME.jpg",
+      "socials": {
+        "instagram": "https://www.instagram.com/oiarzabal_juanito/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "rebecca-loos": {
       "name": "Rebecca Loos",
@@ -5083,7 +5430,11 @@
     "valerio-pino": {
       "name": "Valerio Pino",
       "origin": "Calabria",
-      "job": "Bailarín y modelo"
+      "job": "Bailarín y modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/valeriopino.official/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sofia-cristo": {
       "name": "Sofía Cristo",
@@ -5102,7 +5453,11 @@
     "chiqui-marti": {
       "name": "Chiqui Martí",
       "origin": "Barcelona",
-      "job": "Bailarina"
+      "job": "Bailarina",
+      "socials": {
+        "instagram": "https://www.instagram.com/chiquimarti/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "angela-bustillo": {
       "name": "Ángela Bustillo",
@@ -5956,8 +6311,8 @@
     },
     "aida-soltera-isla-8": {
       "name": "Aída Vila",
-      "origin": "Alicante",
       "job": "Biotecnóloga",
+      "origin": "Alicante",
       "socials": {
         "instagram": "https://www.instagram.com/aidagvila/"
       },
@@ -6230,7 +6585,11 @@
     "sabela-soltera-isla-4": {
       "name": "Sabela Rodríguez",
       "origin": "Vigo",
-      "job": "Dependienta"
+      "job": "Dependienta",
+      "socials": {
+        "instagram": "https://www.instagram.com/sabela_rl/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "vanessa-soltera-isla-4": {
       "name": "Vanessa Pesce",
@@ -6318,7 +6677,11 @@
     "stiven-soltero-isla-4": {
       "name": "Stiven Iniesta",
       "origin": "Murcia",
-      "job": "Técnico de control calidad"
+      "job": "Técnico de control calidad",
+      "socials": {
+        "instagram": "https://www.instagram.com/stiveniniesta/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sergio-soltero-isla-4": {
       "name": "Sergio Beré",
@@ -6368,7 +6731,11 @@
     "suso-soltero-isla-4": {
       "name": "Suso Olivares",
       "origin": "Las Palmas",
-      "job": "Entrenador personal"
+      "job": "Entrenador personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/suso_olivares/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sevi-soltero-isla-4": {
       "name": "Sevi Sánchez",
@@ -6469,7 +6836,11 @@
     "lia-roman": {
       "name": "Lía Román",
       "origin": "Málaga",
-      "job": "Gimnasta rítmica"
+      "job": "Gimnasta rítmica",
+      "socials": {
+        "instagram": "https://www.instagram.com/lia_rc/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "yun-soltera-isla-2": {
       "name": "Yun Estevan",
@@ -6588,7 +6959,11 @@
     },
     "josema-yuste": {
       "name": "Josema Yuste",
-      "job": "Actor y humorista, exintegrante de Martes y Trece"
+      "job": "Actor y humorista, exintegrante de Martes y Trece",
+      "socials": {
+        "instagram": "https://www.instagram.com/josema.yuste/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carolina-ferre": {
       "name": "Carolina Ferre",
@@ -6776,7 +7151,11 @@
     },
     "raul-perez": {
       "name": "Raúl Pérez",
-      "job": "Imitador y humorista"
+      "job": "Imitador y humorista",
+      "socials": {
+        "instagram": "https://www.instagram.com/raulperez_76/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pepa-aniorte": {
       "name": "Pepa Aniorte",
@@ -6922,7 +7301,11 @@
     },
     "el-monaguillo": {
       "name": "El Monaguillo",
-      "job": "Humorista y actor"
+      "job": "Humorista y actor",
+      "socials": {
+        "instagram": "https://www.instagram.com/elmonaguillo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "agoney-hernandez": {
       "name": "Agoney",
@@ -7313,7 +7696,11 @@
     },
     "marey-ot-2": {
       "name": "Inma Marente (Marey)",
-      "origin": "Cádiz"
+      "origin": "Cádiz",
+      "socials": {
+        "instagram": "https://www.instagram.com/inmamarente/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "cristie-ot-2": {
       "name": "Cristie Sánchez",
@@ -7321,11 +7708,19 @@
     },
     "enrique-ot-2": {
       "name": "Enrique Anaut",
-      "origin": "Pamplona"
+      "origin": "Pamplona",
+      "socials": {
+        "instagram": "https://www.instagram.com/enrique_anaut/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "miguel-ot-2": {
       "name": "Miguel Ángel Silva",
-      "origin": "Ibiza"
+      "origin": "Ibiza",
+      "socials": {
+        "instagram": "https://www.instagram.com/mangelsilva/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mai-meneses": {
       "name": "Mai Meneses",
@@ -7359,7 +7754,11 @@
     },
     "miguel-cadenas": {
       "name": "Miguel Cadenas",
-      "origin": "Huelva"
+      "origin": "Huelva",
+      "socials": {
+        "instagram": "https://www.instagram.com/miguelcadenas/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "davinia-cuevas": {
       "name": "Davinia Cuevas",
@@ -7400,7 +7799,11 @@
     },
     "borja-ot-3": {
       "name": "Borja Voces",
-      "origin": "Madrid"
+      "origin": "Madrid",
+      "socials": {
+        "instagram": "https://www.instagram.com/borjavoces/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "israel-ot-3": {
       "name": "Israel González",
@@ -7443,7 +7846,11 @@
       "origin": "Las Palmas de Gran Canaria"
     },
     "victor-estevez": {
-      "name": "Víctor Estévez"
+      "name": "Víctor Estévez",
+      "socials": {
+        "instagram": "https://www.instagram.com/estevezvictor/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "idaira-ot-4": {
       "name": "Idaira Fernández",
@@ -7485,11 +7892,19 @@
     },
     "trizia-ot-4": {
       "name": "Trizia Alonso",
-      "origin": "Sevilla"
+      "origin": "Sevilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/triziartist/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "janina-ot-4": {
       "name": "Janina Foronda (Jia Miles)",
-      "origin": "Las Palmas de Gran Canaria"
+      "origin": "Las Palmas de Gran Canaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/janinaforonda/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "migue-ot-4": {
       "name": "Migue"
@@ -7504,7 +7919,11 @@
     },
     "moritz-weisskopf": {
       "name": "Moritz Weisskopf",
-      "origin": "Almogía"
+      "origin": "Almogía",
+      "socials": {
+        "instagram": "https://www.instagram.com/moritz.weisskopf/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jose-galisteo": {
       "name": "José Galisteo",
@@ -7516,7 +7935,11 @@
     },
     "eva-ot-5": {
       "name": "Eva Carreras",
-      "origin": "Vigo"
+      "origin": "Vigo",
+      "socials": {
+        "instagram": "https://www.instagram.com/evamcarreras/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "vanessa-ot-5": {
       "name": "Vanessa González",
@@ -7529,7 +7952,11 @@
     },
     "mercedes-ot-5": {
       "name": "Mercedes Durán",
-      "origin": "Chiclana de la Frontera"
+      "origin": "Chiclana de la Frontera",
+      "socials": {
+        "instagram": "https://www.instagram.com/mercedesduran82/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "cristina-ot-5": {
       "name": "Cristina Esteban",
@@ -7572,7 +7999,11 @@
     "manu-castellano": {
       "name": "Manu Castellano",
       "origin": "Villa del Río",
-      "commons": "File:Manu castellano.jpg"
+      "commons": "File:Manu castellano.jpg",
+      "socials": {
+        "instagram": "https://www.instagram.com/_manucastellano/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "sandra-criado": {
       "name": "Sandra Criado",
@@ -7580,7 +8011,11 @@
     },
     "mimi-segura": {
       "name": "Mimi Segura",
-      "origin": "Melilla"
+      "origin": "Melilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/mimisegura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "noelia-ot-6": {
       "name": "Noelia Cano",
@@ -7600,7 +8035,11 @@
     },
     "reke-ot-6": {
       "name": "José María Requena (Reke)",
-      "origin": "Cartagena"
+      "origin": "Cartagena",
+      "socials": {
+        "instagram": "https://www.instagram.com/reke_teke/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "esther-ot-6": {
       "name": "Esther Aranda",
@@ -7616,7 +8055,11 @@
     },
     "ruben-ot-6": {
       "name": "Rubén Noel",
-      "origin": "San Baudilio de Llobregat"
+      "origin": "San Baudilio de Llobregat",
+      "socials": {
+        "instagram": "https://www.instagram.com/ruben_noel/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "paula-ot-6": {
       "name": "Paula Ortiz",
@@ -7655,7 +8098,11 @@
     },
     "angel-capel": {
       "name": "Ángel Capel",
-      "origin": "Albox"
+      "origin": "Albox",
+      "socials": {
+        "instagram": "https://www.instagram.com/angelcapel/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "patricia-navarro": {
       "name": "Patricia Navarro",
@@ -7707,7 +8154,11 @@
     },
     "maxi-ot-7": {
       "name": "Maximilian Giménez",
-      "origin": "Reus"
+      "origin": "Reus",
+      "socials": {
+        "instagram": "https://www.instagram.com/maximiliangimenez/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "nazaret-ot-7": {
       "name": "Nazaret Tebar",
@@ -7739,7 +8190,11 @@
     },
     "alex-forriols": {
       "name": "Álex Forriols",
-      "origin": "Valencia"
+      "origin": "Valencia",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexforriols/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mario-jefferson": {
       "name": "Mario Jefferson",
@@ -7760,7 +8215,11 @@
     },
     "nicco-ot-8": {
       "name": "Raquel San Nicolás (Niccó)",
-      "origin": "Santa Cruz de Tenerife"
+      "origin": "Santa Cruz de Tenerife",
+      "socials": {
+        "instagram": "https://www.instagram.com/raquelsannicolas/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "josh-prada": {
       "name": "Josh Prada",
@@ -7816,7 +8275,11 @@
     },
     "sira-ot-8": {
       "name": "Sira Mayo",
-      "origin": "Güímar"
+      "origin": "Güímar",
+      "socials": {
+        "instagram": "https://www.instagram.com/siramayomusic/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alexxa-ot-8": {
       "name": "Alexxa"
@@ -8099,11 +8562,19 @@
     },
     "eli-ot-11": {
       "name": "Eli Rosex (Liane)",
-      "origin": "Las Palmas de Gran Canaria"
+      "origin": "Las Palmas de Gran Canaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/soy_eliot2020/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ariadna-ot-11": {
       "name": "Ariadna Tortosa",
-      "origin": "San Juan Despí"
+      "origin": "San Juan Despí",
+      "socials": {
+        "instagram": "https://www.instagram.com/ariadnatortosa_/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "valery-ot-11": {
       "name": "Valery"
@@ -8164,7 +8635,11 @@
     },
     "cris-ot-12": {
       "name": "Cris Helia",
-      "origin": "San Cristóbal de La Laguna"
+      "origin": "San Cristóbal de La Laguna",
+      "socials": {
+        "instagram": "https://www.instagram.com/crisheliaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "violeta-ot-12": {
       "name": "Violeta Hódar",
@@ -8345,7 +8820,11 @@
     "virginia-troconis": {
       "name": "Virginia Troconis",
       "origin": "Venezuela",
-      "job": "Exmodelo"
+      "job": "Exmodelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/virtroconis/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "manuel-diaz-el-cordobes": {
       "name": "Manuel Díaz «El Cordobés»",
@@ -8360,7 +8839,11 @@
       "name": "Estefanía Luyk",
       "origin": "Madrid",
       "job": "Modelo y empresaria",
-      "commons": "File:Estefanía Luyk - Seminci 2016.jpg"
+      "commons": "File:Estefanía Luyk - Seminci 2016.jpg",
+      "socials": {
+        "instagram": "https://www.instagram.com/estefanialuyk/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "fonsi-nieto": {
       "name": "Fonsi Nieto",
@@ -8565,7 +9048,11 @@
     "lucia-dominguin-bose": {
       "name": "Lucía Dominguín Bosé",
       "job": "Empresaria",
-      "origin": "Valencia"
+      "origin": "Valencia",
+      "socials": {
+        "instagram": "https://www.instagram.com/luciadominguinbose/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "juan-jose-ballesta": {
       "name": "Juan José Ballesta",
@@ -8599,7 +9086,11 @@
       "job": "Actriz"
     },
     "willy-barcenas": {
-      "name": "Willy Bárcenas"
+      "name": "Willy Bárcenas",
+      "socials": {
+        "instagram": "https://www.instagram.com/guillermo.barcenas/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "juanma-castano": {
       "name": "Juanma Castaño",
@@ -8744,7 +9235,11 @@
     "xavier-deltell": {
       "name": "Xavier Deltell",
       "origin": "Lérida",
-      "job": "Humorista y actor"
+      "job": "Humorista y actor",
+      "socials": {
+        "instagram": "https://www.instagram.com/xdeltell/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pepe-barroso-silva": {
       "name": "Pepe Barroso Silva",
@@ -9102,17 +9597,29 @@
     "alicia-costura-1": {
       "name": "Alicia Cao",
       "origin": "Madrid",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/aliciacostura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "antonio-costura-1": {
       "name": "Antonio Segura",
       "origin": "Almería",
-      "job": "Profesor de Dibujo"
+      "job": "Profesor de Dibujo",
+      "socials": {
+        "instagram": "https://www.instagram.com/antonioseguracostura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "luisa-costura-1": {
       "name": "Luisa Reyes",
       "origin": "Cádiz",
-      "job": "Ama de casa"
+      "job": "Ama de casa",
+      "socials": {
+        "instagram": "https://www.instagram.com/luisa_costura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jaime-costura-1": {
       "name": "Jaime Guillén",
@@ -9132,17 +9639,29 @@
     "sergio-costura-1": {
       "name": "Sergio Rives",
       "origin": "Valencia",
-      "job": "Dependiente"
+      "job": "Dependiente",
+      "socials": {
+        "instagram": "https://www.instagram.com/sergiocostura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "vicente-costura-1": {
       "name": "Vicente Rives",
       "origin": "Valencia",
-      "job": "Dependiente"
+      "job": "Dependiente",
+      "socials": {
+        "instagram": "https://www.instagram.com/vicentecostura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "vanessa-costura-1": {
       "name": "Vanessa Silvano",
       "origin": "Guipúzcoa",
-      "job": "Profesora de Religión"
+      "job": "Profesora de Religión",
+      "socials": {
+        "instagram": "https://www.instagram.com/vanessa_costura/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "shaoran-costura-1": {
       "name": "Shaoran Meléndez",
@@ -9152,12 +9671,20 @@
     "rosa-costura-2": {
       "name": "Rosa León",
       "origin": "Sevilla",
-      "job": "Decoradora"
+      "job": "Decoradora",
+      "socials": {
+        "instagram": "https://www.instagram.com/rosaleondesigner/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "isabel-costura-2": {
       "name": "Isabel Gomila",
       "origin": "Barcelona",
-      "job": "Empresaria"
+      "job": "Empresaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/isabelgomilaig/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "amparito-costura-2": {
       "name": "Amparo Amparito Ordaz",
@@ -9177,12 +9704,20 @@
     "saray-costura-2": {
       "name": "Saray Asuero",
       "origin": "Huelva",
-      "job": "Dependienta"
+      "job": "Dependienta",
+      "socials": {
+        "instagram": "https://www.instagram.com/sarayaragonnn/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alejandro-costura-2": {
       "name": "Alejandro San Martín",
       "origin": "Málaga",
-      "job": "Actor y comercial"
+      "job": "Actor y comercial",
+      "socials": {
+        "instagram": "https://www.instagram.com/alejandrosanmartinshop/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "anastasia-costura-2": {
       "name": "Anastasia Nash",
@@ -9207,12 +9742,20 @@
     "begona-costura-3": {
       "name": "Begoña Voces",
       "origin": "Zamora",
-      "job": "Cocinera"
+      "job": "Cocinera",
+      "socials": {
+        "instagram": "https://www.instagram.com/begonamdlc3/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "margarita-costura-3": {
       "name": "Margarita Fernández-Ballesteros",
       "origin": "Sevilla",
-      "job": "Deportista de élite"
+      "job": "Deportista de élite",
+      "socials": {
+        "instagram": "https://www.instagram.com/margafbimoulage/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "david-costura-3": {
       "name": "David Aguilera",
@@ -9227,7 +9770,11 @@
     "borja-costura-3": {
       "name": "Borja Hernández",
       "origin": "Bilbao",
-      "job": "Estudiante de Moda"
+      "job": "Estudiante de Moda",
+      "socials": {
+        "instagram": "https://www.instagram.com/borjamdlc3/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "xiaona-costura-3": {
       "name": "Xiaona Dai",
@@ -9242,12 +9789,20 @@
     "fran-costura-3": {
       "name": "Fran Serrano",
       "origin": "Málaga",
-      "job": "Peluquero"
+      "job": "Peluquero",
+      "socials": {
+        "instagram": "https://www.instagram.com/franmdlc3/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "arantxa-costura-3": {
       "name": "Arantxa Salmerón",
       "origin": "Barcelona",
-      "job": "Exbailarina"
+      "job": "Exbailarina",
+      "socials": {
+        "instagram": "https://www.instagram.com/arantxasalmeron/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "marc-costura-3": {
       "name": "Marc Vidal",
@@ -9262,7 +9817,11 @@
     "ancor-montaner": {
       "name": "Ancor Montaner",
       "origin": "Valencia",
-      "job": "Profesor de Bellas Artes"
+      "job": "Profesor de Bellas Artes",
+      "socials": {
+        "instagram": "https://www.instagram.com/ancormontaner/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "yelimar-costura-4": {
       "name": "Yelimar Moreno",
@@ -9277,7 +9836,11 @@
     "laura-costura-4": {
       "name": "Laura Manzano",
       "origin": "Madrid",
-      "job": "Administrativa y camarera"
+      "job": "Administrativa y camarera",
+      "socials": {
+        "instagram": "https://www.instagram.com/lauramdlc4/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mily-costura-4": {
       "name": "Emilia Mily Moreno",
@@ -9312,12 +9875,20 @@
     "elena-costura-4": {
       "name": "Elena Cerisuelo",
       "origin": "Valencia",
-      "job": "Profesora de Baile y azafata"
+      "job": "Profesora de Baile y azafata",
+      "socials": {
+        "instagram": "https://www.instagram.com/helena.cerisuelo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "lluis-mengual": {
       "name": "Lluís Mengual",
       "origin": "Barcelona",
-      "job": "Ayudante de atelier"
+      "job": "Ayudante de atelier",
+      "socials": {
+        "instagram": "https://www.instagram.com/lluismengualatelier/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pablo-costura-5": {
       "name": "Pablo Bosch",
@@ -9346,7 +9917,11 @@
     "anthony-costura-5": {
       "name": "Anthony Azevedo",
       "origin": "Madrid",
-      "job": "Diseñador"
+      "job": "Diseñador",
+      "socials": {
+        "instagram": "https://www.instagram.com/azevedocouture/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "mj-costura-5": {
       "name": "MJ Quintana",
@@ -9489,7 +10064,11 @@
     "alonso-caparros": {
       "name": "Alonso Caparrós",
       "origin": "Madrid",
-      "job": "Presentador de TV"
+      "job": "Presentador de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/alonso_caparros/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "paquita-torres": {
       "name": "Paquita Torres",
@@ -9539,7 +10118,11 @@
     },
     "fernando-acaso": {
       "name": "Fernando Acaso",
-      "job": "Periodista y presentador de TV"
+      "job": "Periodista y presentador de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/fernandoacaso_escueladoblaje/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jordi-gomez": {
       "name": "Jordi Gómez",
@@ -9555,11 +10138,19 @@
     },
     "two-yupa": {
       "name": "Two Yupa",
-      "job": "Modelo y DJ, ex de Rappel"
+      "job": "Modelo y DJ, ex de Rappel",
+      "socials": {
+        "instagram": "https://www.instagram.com/twoyupa/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "blanca-pesadilla-3": {
       "name": "Blanca de Borbón",
-      "job": "Hija de Leandro de Borbón"
+      "job": "Hija de Leandro de Borbón",
+      "socials": {
+        "instagram": "https://www.instagram.com/blancadborbon/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "regina-pesadilla-3": {
       "name": "Regina Do Santos",
@@ -9583,7 +10174,11 @@
     },
     "raul-pesadilla-3": {
       "name": "Raúl Hidalgo",
-      "job": "Modelo y presentador de TV"
+      "job": "Modelo y presentador de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/raulhidalgoo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "brenda-pesadilla-3": {
       "name": "Brenda Cerdá",
@@ -9599,11 +10194,19 @@
     },
     "ivan-pesadilla-4": {
       "name": "Iván Molina",
-      "job": "Finalista de Insiders 1"
+      "job": "Finalista de Insiders 1",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivanmolinaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "israel-pesadilla-4": {
       "name": "Israel Arroyo",
-      "job": "Vidente"
+      "job": "Vidente",
+      "socials": {
+        "instagram": "https://www.instagram.com/israelarroyo_oficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "dani-pesadilla-4": {
       "name": "Dani García Primo"
@@ -9621,7 +10224,11 @@
       "job": "Cantante de Locomía"
     },
     "raquel-lozano": {
-      "name": "Raquel Lozano"
+      "name": "Raquel Lozano",
+      "socials": {
+        "instagram": "https://www.instagram.com/raquelozanoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "marina-pesadilla-4": {
       "name": "Marina Ruiz",
@@ -9629,7 +10236,11 @@
     },
     "nadia-jemez": {
       "name": "Nadia Jémez",
-      "job": "Hija de Paco Jémez"
+      "job": "Hija de Paco Jémez",
+      "socials": {
+        "instagram": "https://www.instagram.com/nadiajemez/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "borja-estrada": {
       "name": "Borja Estrada",
@@ -9652,10 +10263,18 @@
       "name": "Mar López"
     },
     "silvina-magari": {
-      "name": "Silvina Magari"
+      "name": "Silvina Magari",
+      "socials": {
+        "instagram": "https://www.instagram.com/silvinamagari/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "maria-jose-galera": {
-      "name": "María José Galera"
+      "name": "María José Galera",
+      "socials": {
+        "instagram": "https://www.instagram.com/galeramariajose/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "pablo-sebastian": {
       "name": "Pablo Sebastián",
@@ -9671,11 +10290,11 @@
     },
     "isa-bermejo": {
       "name": "Isabel Bermejo",
-      "job": "Emprendedora"
-    },
-    "aida-vila": {
-      "name": "Aida Vila",
-      "job": "Biotecnóloga e Influencer"
+      "job": "Emprendedora",
+      "socials": {
+        "instagram": "https://www.instagram.com/issabelbc/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "manuel-delgado": {
       "name": "Manuel Delgado",
@@ -9687,23 +10306,43 @@
     },
     "angel-santiago": {
       "name": "Ángel Santiago",
-      "job": "Entrenador personal y nutricionista"
+      "job": "Entrenador personal y nutricionista",
+      "socials": {
+        "instagram": "https://www.instagram.com/angelmsantiago/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "javi-ramon": {
       "name": "Javi Ramón",
-      "job": "Entrenador Personal"
+      "job": "Entrenador Personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/javiramon14/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "paula-di-martino": {
       "name": "Paula Di Martino",
-      "job": "Abogada"
+      "job": "Abogada",
+      "socials": {
+        "instagram": "https://www.instagram.com/pauladimartino/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alejandro-calvo": {
       "name": "Alejandro Calvo",
-      "job": "Creador de contenido digital"
+      "job": "Creador de contenido digital",
+      "socials": {
+        "instagram": "https://www.instagram.com/alejandro__calvo/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ramon-pit": {
       "name": "Ramón Pit",
-      "job": "Modelo e influencer"
+      "job": "Modelo e influencer",
+      "socials": {
+        "instagram": "https://www.instagram.com/ram_pit/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "cristina-pedroche": {
       "name": "Cristina Pedroche"
@@ -9771,7 +10410,11 @@
     "joy-soltero-isla-1": {
       "name": "Joy Jara",
       "origin": "Madrid",
-      "job": "Entrenador fitness"
+      "job": "Entrenador fitness",
+      "socials": {
+        "instagram": "https://www.instagram.com/joy_jara/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "toni-canto": {
       "name": "Toni Cantó",
@@ -10342,7 +10985,11 @@
     "carla-divinity": {
       "name": "Carla Divinity",
       "origin": "Barcelona",
-      "job": "Dueña de centro de belleza"
+      "job": "Dueña de centro de belleza",
+      "socials": {
+        "instagram": "https://www.instagram.com/carla_divinity/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "lara-blanchard": {
       "name": "Lara Blanchard",
@@ -10380,7 +11027,11 @@
     "nahia-iglesias": {
       "name": "Nahia Iglesias",
       "origin": "Las Palmas",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/nahiaiglesiass/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alba-mendez": {
       "name": "Alba Méndez",
@@ -10533,7 +11184,11 @@
     "sofia-perona": {
       "name": "Sofía Perona",
       "origin": "Castellón",
-      "job": "Influencer"
+      "job": "Influencer",
+      "socials": {
+        "instagram": "https://www.instagram.com/sofiaperonabarba/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "yuleima-sosa": {
       "name": "Yuleima Sosa",
@@ -10570,7 +11225,11 @@
     "manu-mourenza": {
       "name": "Manu Mourenza",
       "origin": "Las Palmas",
-      "job": "Militar"
+      "job": "Militar",
+      "socials": {
+        "instagram": "https://www.instagram.com/manu.mvs/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "alpha-nzango": {
       "name": "Alpha Nzango",
@@ -10604,7 +11263,11 @@
     "pamela-de-los-santos": {
       "name": "Pamela de los Santos",
       "origin": "Sevilla",
-      "job": "Peluqueras"
+      "job": "Peluqueras",
+      "socials": {
+        "instagram": "https://www.instagram.com/pameladelossantos/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "agustin": {
       "name": "Agustín",
@@ -10645,7 +11308,11 @@
     "pilar-ayllon": {
       "name": "Pilar Ayllón",
       "origin": "Madrid",
-      "job": "Estudiante"
+      "job": "Estudiante",
+      "socials": {
+        "instagram": "https://www.instagram.com/pilarayllon_pro/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "dobromira-marianova": {
       "name": "Dobromira Marianova",
@@ -10920,12 +11587,20 @@
     "adans-peres": {
       "name": "Adans Peres",
       "origin": "Islas Baleares",
-      "job": "Exmarido de Estefanía de Mónaco"
+      "job": "Exmarido de Estefanía de Mónaco",
+      "socials": {
+        "instagram": "https://www.instagram.com/adansperes/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "isabel-pisano": {
       "name": "Isabel Pisano",
       "origin": "Montevideo",
-      "job": "Periodista, actriz y escritora"
+      "job": "Periodista, actriz y escritora",
+      "socials": {
+        "instagram": "https://www.instagram.com/isabel_pisano/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jacqueline-aguilera": {
       "name": "Jacqueline Aguilera",
@@ -10936,22 +11611,38 @@
     "lalo-maradona": {
       "name": "Lalo Maradona",
       "origin": "Buenos Aires",
-      "job": "Futbolista"
+      "job": "Futbolista",
+      "socials": {
+        "instagram": "https://www.instagram.com/lalomaradonaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "king-africa": {
       "name": "King África",
       "origin": "Buenos Aires",
-      "job": "Cantante"
+      "job": "Cantante",
+      "socials": {
+        "instagram": "https://www.instagram.com/kingafricaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "martin-pareja-obregon": {
       "name": "Martín Pareja-Obregón",
       "origin": "Huelva",
-      "job": "Torero"
+      "job": "Torero",
+      "socials": {
+        "instagram": "https://www.instagram.com/martinparejaobreg/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "adi-villaespesa": {
       "name": "Adi Villaespesa",
       "origin": "Málaga",
-      "job": "Periodista"
+      "job": "Periodista",
+      "socials": {
+        "instagram": "https://www.instagram.com/adivillaespesaoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "lara-rodriguez": {
       "name": "Lara Rodríguez",
@@ -11090,7 +11781,11 @@
     "adriana-ortemberg": {
       "name": "Adriana Ortemberg",
       "origin": "Barcelona",
-      "job": "Periodista"
+      "job": "Periodista",
+      "socials": {
+        "instagram": "https://www.instagram.com/adriana_ortemberg/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "ricardo-agullo": {
       "name": "Ricardo Agulló",
@@ -11125,7 +11820,11 @@
     "jesus-de-manuel": {
       "name": "Jesús de Manuel",
       "origin": "Ciudad Real",
-      "job": "Cantante, concursante de OT 2005"
+      "job": "Cantante, concursante de OT 2005",
+      "socials": {
+        "instagram": "https://www.instagram.com/jesusdemanuel/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "jordi-rosello": {
       "name": "Jordi Roselló",
@@ -11166,7 +11865,11 @@
     "esmeralda-marugan": {
       "name": "Esmeralda Marugán",
       "origin": "Segovia",
-      "job": "Periodista"
+      "job": "Periodista",
+      "socials": {
+        "instagram": "https://www.instagram.com/esmeraldamarugan/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "deborah-arenas": {
       "name": "Déborah Arenas",
@@ -11186,7 +11889,11 @@
     "beatriz-trapote": {
       "name": "Beatriz Trapote",
       "origin": "Madrid",
-      "job": "Reportera"
+      "job": "Reportera",
+      "socials": {
+        "instagram": "https://www.instagram.com/beatrapote/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "miguel-angel-perdiguero": {
       "name": "Miguel Ángel Perdiguero",
@@ -11283,7 +11990,11 @@
     },
     "victor-polo": {
       "name": "Víctor Polo",
-      "origin": "Barcelona"
+      "origin": "Barcelona",
+      "socials": {
+        "instagram": "https://www.instagram.com/victorpolor/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "daniel-oviedo": {
       "name": "Daniel Oviedo",
