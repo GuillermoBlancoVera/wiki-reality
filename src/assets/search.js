@@ -12,7 +12,9 @@
   const load = async () => {
     if (index) return index;
     const data = await fetch(`${base}/search-index.json`).then((r) => r.json());
-    index = data.map((p) => ({ ...p, k: norm(p.n) }));
+    const av = (c) => !c ? '' : c.startsWith('p:') ? `<span class="mini-avatar mini-igp"><iframe src="https://www.instagram.com/${c.slice(2)}/embed/" scrolling="no" frameborder="0" tabindex="-1" title=""></iframe></span>`
+      : c.startsWith('c:') ? `<span class="mini-avatar mini-ig"><iframe src="https://www.instagram.com/p/${c.slice(2)}/embed/" scrolling="no" frameborder="0" tabindex="-1" title=""></iframe></span>` : c;
+    index = data.map(([id, n, s, h]) => ({ n, s, u: `${base}/personas/${id}/`, h: av(h), k: norm(n) }));
     return index;
   };
   // Resalta la coincidencia respetando las tildes del nombre original

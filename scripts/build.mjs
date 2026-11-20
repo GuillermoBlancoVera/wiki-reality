@@ -9,7 +9,7 @@ import { designs, designFonts, designCss } from './designs.mjs';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data');
 const OUT = join(ROOT, 'dist');
-const BASE = (process.env.BASE_PATH ?? '/wiki-reality').replace(/\/$/, '');
+const BASE = (process.env.BASE_PATH ?? '/wiki-reality').trim().replace(/\/$/, '');
 const SITE_URL = (process.env.SITE_URL ?? 'https://guillermoblancovera.github.io').replace(/\/$/, '');
 
 const readJson = (p) => JSON.parse(readFileSync(p, 'utf8'));
@@ -470,6 +470,8 @@ page('aviso-legal/', layout({
 </ul>
 <h2>Solicitudes de corrección o retirada</h2>
 <p>Si apareces en esta web y quieres corregir o retirar información, escríbenos${site.contactEmail ? ` a <a href="mailto:${esc(site.contactEmail)}">${esc(site.contactEmail)}</a>` : ' (dirección de contacto pendiente de configurar)'}. Atendemos las solicitudes lo antes posible.</p>
+<h2>Protección de la base de datos</h2>
+<p>La selección, ordenación y estructura de los datos de esta web constituyen una base de datos protegida por los artículos 12 y 133 y siguientes de la Ley de Propiedad Intelectual. No se permite la extracción o reutilización de la totalidad o de una parte sustancial de su contenido, ni la extracción repetida y sistemática de partes no sustanciales, por medios automáticos o manuales, sin autorización previa por escrito. La consulta y el enlace a páginas individuales son libres.</p>
 <p>Marcas como Gran Hermano, Supervivientes o La isla de las tentaciones pertenecen a sus titulares. Esta web no está afiliada a ninguna cadena ni productora.</p></section>`,
 }));
 
@@ -501,11 +503,12 @@ cpSync(join(ROOT, 'src', 'assets'), join(OUT, 'assets'), { recursive: true });
 writeFileSync(join(OUT, 'assets', 'designs.css'), designCss);
 
 // Índice para el buscador
-const searchIndex = allIds.map((id) => ({
-  id, n: people[id].name, u: url(`personas/${id}/`),
-  s: [...new Set((appearances[id] ?? []).map((a) => a.realityName))].join(' · '),
-  h: miniAvatar(id),
-}));
+// Formato compacto: [slug, nombre, programas, avatar]; avatar = "p:usuario" / "c:código" de Instagram o HTML
+const searchIndex = allIds.map((id) => [
+  id, people[id].name,
+  [...new Set((appearances[id] ?? []).map((a) => a.realityName))].join(' · '),
+  photos[id] ? miniAvatar(id) : igCode(id) ? `c:${igCode(id)}` : igUser(id) ? `p:${igUser(id)}` : miniAvatar(id),
+]);
 writeFileSync(join(OUT, 'search-index.json'), JSON.stringify(searchIndex));
 
 // Sitemap y robots
@@ -514,7 +517,11 @@ const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 ${Object.keys(pages).filter((p) => !p.endsWith('.html') && !p.startsWith('revisar-fotos')).map((p) => `<url><loc>${SITE_URL}${url(p)}</loc></url>`).join('\n')}
 </urlset>`;
 writeFileSync(join(OUT, 'sitemap.xml'), sitemap);
-writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nDisallow: ${url('revisar-fotos/')}\nSitemap: ${SITE_URL}${url('sitemap.xml')}\n`);
+// Buscadores sí; robots de copia masiva y de entrenamiento de IA, no
+const BLOCKED_BOTS = ['GPTBot', 'ChatGPT-User', 'OAI-SearchBot', 'CCBot', 'ClaudeBot', 'anthropic-ai', 'Claude-Web', 'Google-Extended', 'PerplexityBot', 'Bytespider', 'Amazonbot', 'Applebot-Extended', 'meta-externalagent', 'FacebookBot', 'Diffbot', 'Omgilibot', 'DataForSeoBot', 'AhrefsBot', 'SemrushBot', 'MJ12bot', 'DotBot', 'PetalBot', 'Scrapy', 'HTTrack', 'ia_archiver', 'cohere-ai', 'Timpibot', 'ImagesiftBot'];
+writeFileSync(join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nDisallow: ${url('revisar-fotos/')}\nDisallow: ${url('search-index.json')}\n\n${BLOCKED_BOTS.map((b) => `User-agent: ${b}`).join('\n')}\nDisallow: /\n\nSitemap: ${SITE_URL}${url('sitemap.xml')}\n`);
+// Cabeceras para Cloudflare Pages (GitHub Pages las ignora)
+writeFileSync(join(OUT, '_headers'), `/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  X-Frame-Options: SAMEORIGIN\n${url('search-index.json')}\n  X-Robots-Tag: noindex\n  Cache-Control: public, max-age=3600\n${url('revisar-fotos/')}*\n  X-Robots-Tag: noindex\n`);
 writeFileSync(join(OUT, '.nojekyll'), '');
 
 console.log(`OK: ${Object.keys(pages).length} páginas, ${allIds.length} personas, ${realities.length} realities → dist/`);
