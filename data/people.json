@@ -450,22 +450,38 @@
     "claudia-isla-3": {
       "name": "Claudia Acevedo",
       "origin": "Las Palmas",
-      "job": "Estudiante de Cine"
+      "job": "Estudiante de Cine",
+      "socials": {
+        "instagram": "https://www.instagram.com/claudiacevedob/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "raul-isla-3": {
       "name": "Raúl Ginés",
       "origin": "Las Palmas",
-      "job": "Ingeniero de las Ciencias del Mar"
+      "job": "Ingeniero de las Ciencias del Mar",
+      "socials": {
+        "instagram": "https://www.instagram.com/raulginessanchz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "lara-isla-3": {
       "name": "Lara Tronti",
       "origin": "Pontevedra",
-      "job": "Dependienta"
+      "job": "Dependienta",
+      "socials": {
+        "instagram": "https://www.instagram.com/laratronti/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "hugo-isla-3": {
       "name": "Hugo Pérez",
       "origin": "Pontevedra",
-      "job": "Camarero"
+      "job": "Camarero",
+      "socials": {
+        "instagram": "https://www.instagram.com/hugoperezcabaleiro/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "marina-garcia": {
       "name": "Marina García",
@@ -1389,7 +1405,11 @@
       "bio": "Se dio a conocer en Mujeres y Hombres y Viceversa, donde fue pretendiente y tronista. Concursó en Supervivientes 2020, en La casa de los vecinos de al lado (2025) y fue tentador VIP en La isla de las tentaciones 9. En 2026 participó en Supervivientes All Stars.",
       "bioSource": "https://www.mediasetinfinity.es/personajes/supervivientes/albert-barranco_MS000000111672_t346iPDmsTWD4cko6I8lDvp",
       "origin": "Barcelona",
-      "job": "Empresario y influencer"
+      "job": "Empresario y influencer",
+      "socials": {
+        "instagram": "https://www.instagram.com/albertbcomas/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "andrea-isla-11": {
       "name": "Andrea",
@@ -3121,7 +3141,11 @@
     "hugo-paz": {
       "name": "Hugo Paz",
       "origin": "Cádiz",
-      "job": "Modelo e influencer"
+      "job": "Modelo e influencer",
+      "socials": {
+        "instagram": "https://www.instagram.com/hugopaz4/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "francisco-sv-13": {
       "name": "Francisco"
@@ -4211,12 +4235,20 @@
     "ainhoa-soltera-isla-10": {
       "name": "Ainhoa López",
       "origin": "Córdoba",
-      "job": "Au-Pair"
+      "job": "Au-Pair",
+      "socials": {
+        "instagram": "https://www.instagram.com/ainhoalopezv/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "andrea-soltera-isla-10": {
       "name": "Andrea Tena",
       "origin": "Lleida",
-      "job": "Opositora a policía"
+      "job": "Opositora a policía",
+      "socials": {
+        "instagram": "https://www.instagram.com/xiscandrew/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "fatima-soltera-isla-10": {
       "name": "Fátima Alonso",
@@ -4229,11 +4261,19 @@
     },
     "laura-soltera-isla-10": {
       "name": "Laura Carri",
-      "origin": "Granada"
+      "origin": "Granada",
+      "socials": {
+        "instagram": "https://www.instagram.com/laurita_carri16/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "maria-soltera-isla-10": {
       "name": "María Carri",
-      "origin": "Granada"
+      "origin": "Granada",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariiacarrii16/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "jokebed-soltera-isla-10": {
       "name": "Jokebed Vives",
@@ -4266,7 +4306,11 @@
     "joan-soltero-isla-10": {
       "name": "Joan Güell",
       "origin": "Tarragona",
-      "job": "Estudiante de seguridad privada"
+      "job": "Estudiante de seguridad privada",
+      "socials": {
+        "instagram": "https://www.instagram.com/joan.guuell/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "charly-soltero-isla-10": {
       "name": "Charly Asekas",
@@ -4286,12 +4330,20 @@
     "luis-soltero-isla-10": {
       "name": "Luis Fernández",
       "origin": "Gran Canaria",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/luisfernandez__92/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "sergio-soltero-isla-10": {
       "name": "Sergio Córdoba",
       "origin": "Málaga",
-      "job": "Contable"
+      "job": "Contable",
+      "socials": {
+        "instagram": "https://www.instagram.com/sergiocordoba7/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "carlos-soltero-isla-10": {
       "name": "Carlos Sanz",
@@ -4301,7 +4353,11 @@
     "amar-soltero-isla-10": {
       "name": "Amar Hernández",
       "origin": "Cáceres",
-      "job": "Paracaidista"
+      "job": "Paracaidista",
+      "socials": {
+        "instagram": "https://www.instagram.com/amarhernandez_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "oscar-ruiz-isla": {
       "name": "Óscar Ruiz",
@@ -4323,12 +4379,20 @@
     },
     "cristina-soltera-isla-9": {
       "name": "Cristina Cebral",
-      "origin": "Las Palmas"
+      "origin": "Las Palmas",
+      "socials": {
+        "instagram": "https://www.instagram.com/crissccastillo/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "estefania-soltera-isla-9": {
       "name": "Estefanía Loxan",
       "origin": "Cartagena (Murcia)",
-      "job": "Azafata de vuelo"
+      "job": "Azafata de vuelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/estefanialoxan/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "noelia-soltera-isla-9": {
       "name": "Noelia Márquez",
@@ -4347,12 +4411,20 @@
     "soraya-soltera-isla-9": {
       "name": "Soraya Rodríguez",
       "origin": "Madrid",
-      "job": "Administrativa"
+      "job": "Administrativa",
+      "socials": {
+        "instagram": "https://www.instagram.com/sorayarodrigueezz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "vita-soltera-isla-9": {
       "name": "Alba Curto Turro «Vita»",
       "origin": "Girona",
-      "job": "Estudiante de administración"
+      "job": "Estudiante de administración",
+      "socials": {
+        "instagram": "https://www.instagram.com/albacurtoturro/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "aitor-soltero-isla-9": {
       "name": "Aitor Abad Cañero",
@@ -4371,7 +4443,11 @@
     "borja-soltero-isla-9": {
       "name": "Borja Silva",
       "origin": "Tenerife",
-      "job": "Coach biomecánica"
+      "job": "Coach biomecánica",
+      "socials": {
+        "instagram": "https://www.instagram.com/borjasilva44/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "dairon-soltero-isla-9": {
       "name": "Dairon Zayas",
@@ -4394,7 +4470,11 @@
     "juanjo-soltero-isla-9": {
       "name": "Juanjo Lara",
       "origin": "Alicante",
-      "job": "Opositor a policía"
+      "job": "Opositor a policía",
+      "socials": {
+        "instagram": "https://www.instagram.com/juanjolaraa/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "melchor-soltero-isla-9": {
       "name": "Melchor García",
@@ -4408,7 +4488,11 @@
     "kevin-soltero-isla-8": {
       "name": "Kevin Rivero",
       "origin": "Las Palmas de Gran Canaria",
-      "job": "Estudiante de Magisterio"
+      "job": "Estudiante de Magisterio",
+      "socials": {
+        "instagram": "https://www.instagram.com/kevin_rivero3/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "jesus-soltero-isla-8": {
       "name": "Jesús Alberto",
@@ -4450,7 +4534,11 @@
     "fran-soltero-isla-8": {
       "name": "Fran Martínez",
       "origin": "Almería",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/fran_martinezrodriguez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "paloma-soltera-isla-8": {
       "name": "Paloma Suárez",
@@ -4465,12 +4553,20 @@
     "miriam-soltera-isla-8": {
       "name": "Miriam Castro",
       "origin": "Alicante",
-      "job": "Empresaria"
+      "job": "Empresaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/miriamcaastroo/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "raquel-soltera-isla-8": {
       "name": "Raquel Castro",
       "origin": "Ibiza",
-      "job": "Abogada y modelo"
+      "job": "Abogada y modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/racastroneves/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "sofia-soltera-isla-8": {
       "name": "Sofía Lu Lee",
@@ -4484,7 +4580,11 @@
     "aida-soltera-isla-8": {
       "name": "Aída Vila",
       "origin": "Alicante",
-      "job": "Biotecnóloga"
+      "job": "Biotecnóloga",
+      "socials": {
+        "instagram": "https://www.instagram.com/aidagvila/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "jorge-zanetti": {
       "name": "Jorge Zanetti",
@@ -4508,7 +4608,11 @@
     "jennifer-soltera-isla-7": {
       "name": "Jennifer Macena",
       "origin": "Valencia",
-      "job": "Estudiante"
+      "job": "Estudiante",
+      "socials": {
+        "instagram": "https://www.instagram.com/jennifermacena_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "joan-miquel-isla-7": {
       "name": "Joan Miquel",
@@ -4531,7 +4635,11 @@
     "monica-soltera-isla-7": {
       "name": "Mónica Bonilla",
       "origin": "Almería",
-      "job": "Entrenadora personal"
+      "job": "Entrenadora personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/monicabonilla17/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "ricky-soltero-isla-7": {
       "name": "Ricky Costantino",
@@ -4545,12 +4653,20 @@
     "eva-soltera-isla-7": {
       "name": "Eva Bustamante",
       "origin": "Madrid",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/evabustamantejimenez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "tamara-soltera-isla-7": {
       "name": "Tamara Molina",
       "origin": "Cádiz",
-      "job": "Opositora a Guardia Civil"
+      "job": "Opositora a Guardia Civil",
+      "socials": {
+        "instagram": "https://www.instagram.com/tamaramolina__/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "julen-soltero-isla-7": {
       "name": "Julen Muñoz",
@@ -4569,7 +4685,11 @@
     "guzman-soltero-isla-7": {
       "name": "Guzmán Miranda",
       "origin": "Zamora",
-      "job": "Médico"
+      "job": "Médico",
+      "socials": {
+        "instagram": "https://www.instagram.com/guzmanmiranda_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "zaira-soltera-isla-7": {
       "name": "Zaira de la Morena",
@@ -4583,7 +4703,11 @@
     "andrea-soltera-isla-7": {
       "name": "Andrea Freitas",
       "origin": "Girona",
-      "job": "Maestra de educación infantil"
+      "job": "Maestra de educación infantil",
+      "socials": {
+        "instagram": "https://www.instagram.com/andreeafreitas/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "andrea-palas": {
       "name": "Andrea Palas",
@@ -4625,7 +4749,11 @@
     "rhayang-soltero-isla-6": {
       "name": "Rhayang Itajahy",
       "origin": "Brasil",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/rhayangitajahy/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "jennifer-soltera-isla-6": {
       "name": "Jenny Gallego",
@@ -4704,7 +4832,11 @@
     "riccardo-soltero-isla-6": {
       "name": "Riccardo Campagnaro",
       "origin": "Ibiza",
-      "job": "Informático"
+      "job": "Informático",
+      "socials": {
+        "instagram": "https://www.instagram.com/riccardino_22/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "sabela-soltera-isla-4": {
       "name": "Sabela Rodríguez",
@@ -4714,7 +4846,11 @@
     "vanessa-soltera-isla-4": {
       "name": "Vanessa Pesce",
       "origin": "Valencia",
-      "job": "Directora de Marketing"
+      "job": "Directora de Marketing",
+      "socials": {
+        "instagram": "https://www.instagram.com/vanpesce_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "czarina-soltera-isla-4": {
       "name": "Czarina Dandridge",
@@ -4728,7 +4864,11 @@
     "miriam-soltera-isla-4": {
       "name": "Miriam Herrero",
       "origin": "Barcelona",
-      "job": "Bailarina"
+      "job": "Bailarina",
+      "socials": {
+        "instagram": "https://www.instagram.com/miiriiamherrero/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "sheyla-soltera-isla-4": {
       "name": "Sheyla Monjas",
@@ -4748,7 +4888,11 @@
     "claudia-soltera-isla-4": {
       "name": "Claudia Canals",
       "origin": "Barcelona",
-      "job": "Comercial"
+      "job": "Comercial",
+      "socials": {
+        "instagram": "https://www.instagram.com/claudiacanals_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "diriany-soltera-isla-4": {
       "name": "Diriany Isabel",
@@ -4786,27 +4930,47 @@
     "sergio-soltero-isla-4": {
       "name": "Sergio Beré",
       "origin": "Alicante",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/sergioberesaluze/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "alberto-soltero-isla-4": {
       "name": "Alberto Pareja",
       "origin": "Mallorca",
-      "job": "Futbolista"
+      "job": "Futbolista",
+      "socials": {
+        "instagram": "https://www.instagram.com/albertopareja915/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "victor-soltero-isla-4": {
       "name": "Víctor González",
       "origin": "Atlanta",
-      "job": "Estudiante"
+      "job": "Estudiante",
+      "socials": {
+        "instagram": "https://www.instagram.com/victorrahl/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "ivan-soltero-isla-4": {
       "name": "Iván Alcaraz",
       "origin": "Ibiza",
-      "job": "RRPP"
+      "job": "RRPP",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivanalcaraz10/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "alvaro-soltero-isla-4": {
       "name": "Álvaro Arenas",
       "origin": "Barcelona",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/alvaroarenas7/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "suso-soltero-isla-4": {
       "name": "Suso Olivares",
@@ -7811,22 +7975,38 @@
     "jusseth-medina": {
       "name": "Jusseth Medina",
       "origin": "Barcelona",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/jussethmedina/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "lewis-leadbetter": {
       "name": "Lewis Leadbetter",
       "origin": "Tenerife",
-      "job": "Camarero"
+      "job": "Camarero",
+      "socials": {
+        "instagram": "https://www.instagram.com/lewisurfer/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "antonio-lopez": {
       "name": "Antonio López",
       "origin": "Huelva",
-      "job": "Comercial"
+      "job": "Comercial",
+      "socials": {
+        "instagram": "https://www.instagram.com/alopezsolis/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "dayanel-diez": {
       "name": "Dayanel Diez",
       "origin": "Madrid",
-      "job": "Agente de seguros"
+      "job": "Agente de seguros",
+      "socials": {
+        "instagram": "https://www.instagram.com/dayaneldiez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "daniel-gamez": {
       "name": "Daniel Gámez",
@@ -7836,12 +8016,20 @@
     "julian-requena": {
       "name": "Julián Requena",
       "origin": "Valencia",
-      "job": "Empresario"
+      "job": "Empresario",
+      "socials": {
+        "instagram": "https://www.instagram.com/julianrequenaperez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "bryan-lopez": {
       "name": "Bryan López",
       "origin": "Madrid",
-      "job": "Entrenador personal"
+      "job": "Entrenador personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/bryan_slopez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "andrea-martinez": {
       "name": "Andrea Martínez",
@@ -7881,7 +8069,11 @@
     "nerea-ramirez": {
       "name": "Nerea Ramírez",
       "origin": "Huesca",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/nerea.ramirezz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "rochu": {
       "name": "Rochu «La Loba»",
@@ -7891,7 +8083,11 @@
     "melani-soler": {
       "name": "Melani Soler",
       "origin": "Tarragona",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/melanisoler_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "carlos-algora": {
       "name": "Carlos Algora",
@@ -7901,17 +8097,29 @@
     "toni-ruiz": {
       "name": "Toni Ruiz",
       "origin": "Barcelona",
-      "job": "Dependiente"
+      "job": "Dependiente",
+      "socials": {
+        "instagram": "https://www.instagram.com/toninoruiz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "victor-lopez": {
       "name": "Víctor López",
       "origin": "Lérida",
-      "job": "Entrenador personal"
+      "job": "Entrenador personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/victorlopezgmz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "xavi-espana": {
       "name": "Xavi España",
       "origin": "Andorra la Vieja",
-      "job": "Piloto"
+      "job": "Piloto",
+      "socials": {
+        "instagram": "https://www.instagram.com/xaviespana_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "javier-hernandez": {
       "name": "Javier Hernández",
@@ -7930,12 +8138,20 @@
     "iker-de-la-llosa": {
       "name": "Íker de la Llosa",
       "origin": "Álava",
-      "job": "Policía local"
+      "job": "Policía local",
+      "socials": {
+        "instagram": "https://www.instagram.com/ikerdelallosa/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "imanol-capote": {
       "name": "Imanol Capote",
       "origin": "Madrid",
-      "job": "Hostelero"
+      "job": "Hostelero",
+      "socials": {
+        "instagram": "https://www.instagram.com/imanolcapote/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "david-arujo": {
       "name": "David Arujo",
@@ -7950,7 +8166,11 @@
     "lara-blanchard": {
       "name": "Lara Blanchard",
       "origin": "Pontevedra",
-      "job": "Historiadora y modelo"
+      "job": "Historiadora y modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/larablanchard/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "susan-teixeira": {
       "name": "Susan Teixeira",
@@ -7965,7 +8185,11 @@
     "jennifer-saumell": {
       "name": "Jennifer Saumell",
       "origin": "Tenerife",
-      "job": "Modelo"
+      "job": "Modelo",
+      "socials": {
+        "instagram": "https://www.instagram.com/jennifersaumell/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "maria-snake": {
       "name": "María Snake",
@@ -7980,7 +8204,11 @@
     "alba-mendez": {
       "name": "Alba Méndez",
       "origin": "Madrid",
-      "job": "Camarera"
+      "job": "Camarera",
+      "socials": {
+        "instagram": "https://www.instagram.com/albamndz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "bela-saalem": {
       "name": "Bela Saalem",
@@ -7990,7 +8218,11 @@
     "monica-sango": {
       "name": "Mónica Sango",
       "origin": "Zaragoza",
-      "job": "Monitora y periodista"
+      "job": "Monitora y periodista",
+      "socials": {
+        "instagram": "https://www.instagram.com/iammonicasango/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "jennifer-martinez": {
       "name": "Jennifer Martínez",
@@ -8015,7 +8247,11 @@
     "alvaro-llorens": {
       "name": "Álvaro Llorens",
       "origin": "Valencia",
-      "job": "Entrenador personal"
+      "job": "Entrenador personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/alvarollorenss/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "leon-rodriguez": {
       "name": "León Rodríguez",
@@ -8025,27 +8261,47 @@
     "brian-pulgarin": {
       "name": "Brian Pulgarín",
       "origin": "Barcelona",
-      "job": "Supervisor de logística"
+      "job": "Supervisor de logística",
+      "socials": {
+        "instagram": "https://www.instagram.com/briianps/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "edgar-pulgarin": {
       "name": "Edgar Pulgarín",
       "origin": "Barcelona",
-      "job": "Operario logístico"
+      "job": "Operario logístico",
+      "socials": {
+        "instagram": "https://www.instagram.com/eedgarps/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "edward-aponza": {
       "name": "Edward Aponza",
       "origin": "Murcia",
-      "job": "Electromecánico"
+      "job": "Electromecánico",
+      "socials": {
+        "instagram": "https://www.instagram.com/edward__ap__/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "isay-donate": {
       "name": "Isay Donate",
       "origin": "Tenerife",
-      "job": "Entrenador personal"
+      "job": "Entrenador personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/isay_donate/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "elena-vazquez": {
       "name": "Elena Vázquez",
       "origin": "Málaga",
-      "job": "Entrenadora personal"
+      "job": "Entrenadora personal",
+      "socials": {
+        "instagram": "https://www.instagram.com/elvh11/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "maria-de-los-angeles-ramos": {
       "name": "María de los Ángeles Ramos",
@@ -8055,17 +8311,29 @@
     "valeria-ardila": {
       "name": "Valeria Ardila",
       "origin": "Valencia",
-      "job": "RRPP"
+      "job": "RRPP",
+      "socials": {
+        "instagram": "https://www.instagram.com/vaaleriardila/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "carmen-saavedra": {
       "name": "Carmen Saavedra",
       "origin": "Granada",
-      "job": "Empresaria"
+      "job": "Empresaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/carmensr19/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "cristina-segura": {
       "name": "Cristina Segura",
       "origin": "Granada",
-      "job": "Opositora a profesora"
+      "job": "Opositora a profesora",
+      "socials": {
+        "instagram": "https://www.instagram.com/cristinasegurar/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "jessica-pires": {
       "name": "Jessica Pires",
@@ -8075,7 +8343,11 @@
     "mona-grande": {
       "name": "Mona Grande",
       "origin": "Barcelona",
-      "job": "Auxiliar de medicina estética"
+      "job": "Auxiliar de medicina estética",
+      "socials": {
+        "instagram": "https://www.instagram.com/mona.grande/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "sofia-perona": {
       "name": "Sofía Perona",
@@ -8085,7 +8357,11 @@
     "yuleima-sosa": {
       "name": "Yuleima Sosa",
       "origin": "Las Palmas",
-      "job": "Estudiante de Turismo"
+      "job": "Estudiante de Turismo",
+      "socials": {
+        "instagram": "https://www.instagram.com/yuleimass/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "irene-rodriguez": {
       "name": "Irene Rodríguez",
@@ -8095,12 +8371,20 @@
     "maxi-marie-probst": {
       "name": "Maxi Marie Probst",
       "origin": "Las Palmas",
-      "job": "Modelo internacional"
+      "job": "Modelo internacional",
+      "socials": {
+        "instagram": "https://www.instagram.com/maximarieprobst/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "saul-pina": {
       "name": "Saúl Pina",
       "origin": "Zaragoza",
-      "job": "Profesor de primaria"
+      "job": "Profesor de primaria",
+      "socials": {
+        "instagram": "https://www.instagram.com/saulpinacubero/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "manu-mourenza": {
       "name": "Manu Mourenza",
@@ -8120,7 +8404,11 @@
     "agusti-sarrias": {
       "name": "Agustí Sarrias",
       "origin": "Barcelona",
-      "job": "Estudiante de Ciencias del mar"
+      "job": "Estudiante de Ciencias del mar",
+      "socials": {
+        "instagram": "https://www.instagram.com/agusti.sarrias/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "mari-jimenez": {
       "name": "Mari Jiménez",
