@@ -2214,7 +2214,8 @@
       "page": "https://commons.wikimedia.org/wiki/File:Juancamus.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "author": "Juancamus"
+      "author": "Juancamus",
+      "wikidata": "http://www.wikidata.org/entity/Q9015295"
     },
     "alejandro-ot-1": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Alejandro_Parre%C3%B1o_-_Concierto_OT_Sant_Jordi.jpg/330px-Alejandro_Parre%C3%B1o_-_Concierto_OT_Sant_Jordi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2349,7 +2350,8 @@
       "page": "https://commons.wikimedia.org/wiki/File:YotuelRomero20090915.jpg",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "author": "Kotoviski photograph by Henryk Kotowski"
+      "author": "Kotoviski photograph by Henryk Kotowski",
+      "wikidata": "http://www.wikidata.org/entity/Q2017399"
     },
     "alvaro-costura-4": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%C3%81lvaro_Guerrero_2021.jpg/330px-%C3%81lvaro_Guerrero_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2380,8 +2382,7 @@
       "page": "https://commons.wikimedia.org/wiki/File:Pipi_Estrada_2019.jpg",
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "author": "https://www.youtube.com/channel/UClC-QfBuTr95NB7_mKP_ItA",
-      "wikidata": "http://www.wikidata.org/entity/Q6076588"
+      "author": "https://www.youtube.com/channel/UClC-QfBuTr95NB7_mKP_ItA"
     },
     "pepe-da-rosa-jr": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Jos%C3%A9_Mar%C3%ADa_Da-Rosa.JPG/330px-Jos%C3%A9_Mar%C3%ADa_Da-Rosa.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2396,7 +2397,8 @@
       "page": "https://commons.wikimedia.org/wiki/File:Miss_Mundo_1995,_Jacqueline_Aguilera.jpg",
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-      "author": "Miss Venezuela Noticierio blog"
+      "author": "Miss Venezuela Noticierio blog",
+      "wikidata": "http://www.wikidata.org/entity/Q270525"
     },
     "javier-hernandez": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%AD%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%B5%D1%81_%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%B3%D0%B5%D1%81%2C_%D0%A5%D0%B0%D0%B2%D1%8C%D0%B5%D1%80.jpg/330px-%D0%AD%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%B5%D1%81_%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%B3%D0%B5%D1%81%2C_%D0%A5%D0%B0%D0%B2%D1%8C%D0%B5%D1%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2411,7 +2413,8 @@
       "page": "https://commons.wikimedia.org/wiki/File:FM_Can_Vidalet._Preg%C3%B3_%2B_actuaci%C3%B3_Rosario_Mohedano-16.jpg",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-      "author": "Ajuntament d'Esplugues de Llobregat"
+      "author": "Ajuntament d'Esplugues de Llobregat",
+      "wikidata": "http://www.wikidata.org/entity/Q6112389"
     },
     "aida-yespica": {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Aida_Yespica_2013_Derivate_000.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -2426,14 +2429,16 @@
       "page": "https://commons.wikimedia.org/wiki/File:Fabio_Testi_AWFF14_(cropped).jpg",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "author": "Carlosjvives"
+      "author": "Carlosjvives",
+      "wikidata": "http://www.wikidata.org/entity/Q739291"
     },
     "cristina-piaget": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Cristina_Piaget_2015_%28cropped%29.jpg/330px-Cristina_Piaget_2015_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "page": "https://commons.wikimedia.org/wiki/File:Cristina_Piaget_2015_(cropped).jpg",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "author": "https://www.flickr.com/photos/133040481@N06/"
+      "author": "https://www.flickr.com/photos/133040481@N06/",
+      "wikidata": "http://www.wikidata.org/entity/Q5791510"
     },
     "carlos-orellana": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Carlos_Orellana_en_1954_%28cropped%29.jpg/330px-Carlos_Orellana_en_1954_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2899,6 +2904,146 @@
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "author": "Isavalega"
+    },
+    "los-chunguitos": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Los_Chunguitos_en_Extrem%C3%BAsica_2009.jpg/330px-Los_Chunguitos_en_Extrem%C3%BAsica_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Los_Chunguitos_en_Extrem%C3%BAsica_2009.jpg",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "author": "BigSus"
+    },
+    "manu-castellano": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Manu_castellano.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Manu_castellano.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Tommy"
+    },
+    "juanito-oiarzabal": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Juanito_Oiarzabal_ME.jpg/330px-Juanito_Oiarzabal_ME.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Juanito_Oiarzabal_ME.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "Javierme Javier Mediavilla Ezquibela (crop and editing by Lucas, same licence)"
+    },
+    "sandra-ot-4": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Sandra_Polop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Sandra_Polop.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "LidiaSP"
+    },
+    "david-gallardo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/David_Gallardo.JPG/330px-David_Gallardo.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:David_Gallardo.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Getbackers"
+    },
+    "aylen-vip-5": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Copihue_de_Oro_2018_-_Ayl%C3%A9n_Milla_-_01.jpg/330px-Copihue_de_Oro_2018_-_Ayl%C3%A9n_Milla_-_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Copihue_de_Oro_2018_-_Ayl%C3%A9n_Milla_-_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Carlos Figueroa Rojas"
+    },
+    "javier-fernandez": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Javier_Fern%C3%A1ndez_-_2018_Olympics.jpg/330px-Javier_Fern%C3%A1ndez_-_2018_Olympics.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Javier_Fern%C3%A1ndez_-_2018_Olympics.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "David W. Carmichael"
+    },
+    "antonia-dell-atte": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Antonia_Dell%C2%B4Atte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Antonia_Dell%C2%B4Atte.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "Cofradía_Botillo_3.jpg: Luis Linares Merayo (cedida al Foro Cultural Provincia de El Bierzo ) derivative work: FCPB (talk)"
+    },
+    "norma-duval": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Norma-Duval-p1000033.jpg/330px-Norma-Duval-p1000033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Norma-Duval-p1000033.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "author": "El Pantera"
+    },
+    "carl-lewis": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Carl_Lewis_2011_Shankbone.JPG/330px-Carl_Lewis_2011_Shankbone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Carl_Lewis_2011_Shankbone.JPG",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "author": "David Shankbone"
+    },
+    "mel-b": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Mel_B_%286330979387%29.jpg/330px-Mel_B_%286330979387%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mel_B_(6330979387).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "Eva Rinaldi"
+    },
+    "estefania-luyk": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Estefan%C3%ADa_Luyk_-_Seminci_2016.jpg/330px-Estefan%C3%ADa_Luyk_-_Seminci_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Estefan%C3%ADa_Luyk_-_Seminci_2016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ruben Ortega"
+    },
+    "gerard-ot-11": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Gerard_rodriguez_2020.jpg/330px-Gerard_rodriguez_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Gerard_rodriguez_2020.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "author": "andie zenemi"
+    },
+    "jorge-lorenzo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Jorge_Lorenzo_2019_%28cropped%29.jpg/330px-Jorge_Lorenzo_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Jorge_Lorenzo_2019_(cropped).jpg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "author": "#TeamEG00"
+    },
+    "maximo-huerta": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/M%C3%A1ximo_Huerta.jpg/330px-M%C3%A1ximo_Huerta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:M%C3%A1ximo_Huerta.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Ikerdvm13"
+    },
+    "omar-ot-12": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Omar_Samba_en_la_gira_Operaci%C3%B3n_Triunfo_2023_en_Murcia.jpg/330px-Omar_Samba_en_la_gira_Operaci%C3%B3n_Triunfo_2023_en_Murcia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Omar_Samba_en_la_gira_Operaci%C3%B3n_Triunfo_2023_en_Murcia.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "author": "Anidae"
+    },
+    "maialen-gurbindo": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Maialen_Gurbindo_%28cropped%29.jpg/330px-Maialen_Gurbindo_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Maialen_Gurbindo_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "12345Maria12345"
+    },
+    "denna-ot-12": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Denna_cantante_2024.jpg/330px-Denna_cantante_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Denna_cantante_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Denna"
+    },
+    "miguel-angel-perdiguero": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Miguel_%C3%81ngel_Perdiguero_%28Concejal_del_Partido_Independiente_de_Arroyomolinos_PIArr%29%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Miguel_%C3%81ngel_Perdiguero_(Concejal_del_Partido_Independiente_de_Arroyomolinos_PIArr)).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "author": "IndependienteSiempre"
+    },
+    "martina-navratilova": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Martina_Navratilova_%287490733436%29.jpg/330px-Martina_Navratilova_%287490733436%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Martina_Navratilova_(7490733436).jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "author": "Andrew Campbell"
     }
   }
 }

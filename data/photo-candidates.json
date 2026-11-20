@@ -188,7 +188,27 @@
     "john-guts": "2026-11-20",
     "rosa-garcia-caro": "2026-11-20",
     "flor-aguilar": "2026-11-20",
-    "coyote-dax": "2026-11-20"
+    "coyote-dax": "2026-11-20",
+    "inigo-gonzalez": "2026-11-20",
+    "yolanda-mora": "2026-11-20",
+    "brito-arceo": "2026-11-20",
+    "adans-peres": "2026-11-20",
+    "isabel-pisano": "2026-11-20",
+    "lalo-maradona": "2026-11-20",
+    "king-africa": "2026-11-20",
+    "martin-pareja-obregon": "2026-11-20",
+    "adi-villaespesa": "2026-11-20",
+    "lara-rodriguez": "2026-11-20",
+    "samira-jalil": "2026-11-20",
+    "alejandro-vip-5": "2026-11-20",
+    "aless-vip-5": "2026-11-20",
+    "tutto-vip-5": "2026-11-20",
+    "tono-vip-5": "2026-11-20",
+    "marta-castro": "2026-11-20",
+    "lia-romero": "2026-11-20",
+    "cristina-porta": "2026-11-20",
+    "katrin-ortega": "2026-11-20",
+    "paloma-gonzalez": "2026-11-20"
   },
   "people": {
     "jesus-vazquez": [
@@ -333,18 +353,6 @@
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "source": "wikimedia"
-      }
-    ],
-    "carolina-sobe": [
-      {
-        "src": "https://live.staticflickr.com/508/32658874195_b2c59e7a69_b.jpg",
-        "thumb": "https://api.openverse.org/v1/images/473302f4-b1a5-4fb2-877a-64e83aeb8473/thumb/",
-        "page": "https://www.flickr.com/photos/67314964@N04/32658874195",
-        "title": "FITUR GAY (LGBT) 2017 WORLD PRIDE EDITION - Dña. Carolina Sobe - Cantante",
-        "author": "Diversity Consulting International",
-        "license": "Public domain",
-        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-        "source": "flickr"
       }
     ],
     "ylenia-padilla": [
@@ -819,38 +827,6 @@
         "source": "wikimedia"
       }
     ],
-    "coman-mitogo": [
-      {
-        "src": "https://live.staticflickr.com/8743/16647837803_1d99442362_b.jpg",
-        "thumb": "https://api.openverse.org/v1/images/ec872c0d-ad3a-4018-bd55-146053222f4b/thumb/",
-        "page": "https://www.flickr.com/photos/132763201@N07/16647837803",
-        "title": "sala-masai-coman-mitogo-19-04-2015-025",
-        "author": "comanmitogo",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "flickr"
-      },
-      {
-        "src": "https://live.staticflickr.com/8685/17266268942_e733b1a1b8_b.jpg",
-        "thumb": "https://api.openverse.org/v1/images/5832dedd-2af1-4053-b088-d8f66d545923/thumb/",
-        "page": "https://www.flickr.com/photos/132763201@N07/17266268942",
-        "title": "sala-masai-coman-mitogo-19-04-2015-026",
-        "author": "comanmitogo",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "flickr"
-      },
-      {
-        "src": "https://live.staticflickr.com/7614/16647829753_7e840927b2_b.jpg",
-        "thumb": "https://api.openverse.org/v1/images/d32ebaa2-1f49-4ca8-bc26-6bc10881d5d8/thumb/",
-        "page": "https://www.flickr.com/photos/132763201@N07/16647829753",
-        "title": "sala-masai-coman-mitogo-19-04-2015-028",
-        "author": "comanmitogo",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "flickr"
-      }
-    ],
     "angela-portero": [
       {
         "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/%C3%81ngela_Portero_2023.jpg",
@@ -1039,70 +1015,6 @@
         "source": "wikimedia"
       }
     ],
-    "mel-b": [
-      {
-        "src": "https://live.staticflickr.com/6049/6228313455_e64b2e86a9.jpg",
-        "thumb": "https://api.openverse.org/v1/images/1986e341-89ff-4446-8174-50809bca21e0/thumb/",
-        "page": "https://www.flickr.com/photos/58820009@N05/6228313455",
-        "title": "Mel B",
-        "author": "Eva Rinaldi Celebrity Photographer",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "flickr"
-      },
-      {
-        "src": "https://live.staticflickr.com/6228/6228888760_c6dc78a390.jpg",
-        "thumb": "https://api.openverse.org/v1/images/4841fbd5-8c33-47c8-9684-862a5c1ab1f9/thumb/",
-        "page": "https://www.flickr.com/photos/58820009@N05/6228888760",
-        "title": "Mel B",
-        "author": "Eva Rinaldi Celebrity Photographer",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "flickr"
-      },
-      {
-        "src": "https://live.staticflickr.com/6213/6331732762_c36a74e21f.jpg",
-        "thumb": "https://api.openverse.org/v1/images/4daf9605-513c-42fa-a23f-c3c0c0a62d07/thumb/",
-        "page": "https://www.flickr.com/photos/58820009@N05/6331732762",
-        "title": "Mel B",
-        "author": "Eva Rinaldi Celebrity Photographer",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "flickr"
-      }
-    ],
-    "carl-lewis": [
-      {
-        "src": "https://live.staticflickr.com/8371/8424517646_0bf0e749b9_b.jpg",
-        "thumb": "https://api.openverse.org/v1/images/676b40b3-b291-4ecb-993b-09e30688bd09/thumb/",
-        "page": "https://www.flickr.com/photos/66463488@N06/8424517646",
-        "title": "Carl Lewis",
-        "author": "Doha Stadium Plus",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "source": "flickr"
-      },
-      {
-        "src": "https://live.staticflickr.com/33/63333521_68608b6846.jpg",
-        "thumb": "https://api.openverse.org/v1/images/e7caeb27-0164-45da-ae4d-3fa24a70a791/thumb/",
-        "page": "https://www.flickr.com/photos/34525677@N00/63333521",
-        "title": "Carl Lewis' Nike",
-        "author": "peter_panamint",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "source": "flickr"
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carl_Lewis_Doha_%28cropped%29.jpg",
-        "thumb": "https://api.openverse.org/v1/images/2406138e-9f18-44ec-bd05-a76a0cabb466/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=50782190",
-        "title": "Carl Lewis Doha (cropped)",
-        "author": "{{{1}}}",
-        "license": "CC BY 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-        "source": "wikimedia"
-      }
-    ],
     "celia-villalobos": [
       {
         "src": "https://live.staticflickr.com/65535/52249041412_3473798520_b.jpg",
@@ -1179,28 +1091,6 @@
         "source": "wikimedia"
       }
     ],
-    "maximo-huerta": [
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/El_novelista_M%C3%A1ximo_Huerta_en_el_Caf%C3%A9_Comercial.jpg",
-        "thumb": "https://api.openverse.org/v1/images/98067056-91e0-46ed-9086-932820319109/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=95127047",
-        "title": "File:El novelista Máximo Huerta en el Café Comercial.jpg",
-        "author": "Màxim Huerta",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "source": "wikimedia"
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/M%C3%A1ximo_Huerta_en_el_plat%C3%B3_de_A_Partir_de_Hoy_%28TVE%29.jpg",
-        "thumb": "https://api.openverse.org/v1/images/4144326c-7c6d-412d-bf79-dfaefac6d2b7/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=95127046",
-        "title": "File:Máximo Huerta en el plató de A Partir de Hoy (TVE).jpg",
-        "author": "Màxim Huerta",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-        "source": "wikimedia"
-      }
-    ],
     "jose-luis-rodriguez-el-puma": [
       {
         "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jos%C3%A9_Luis_Rodr%C3%ADguez_%22El_Puma%22_2022.jpg",
@@ -1223,60 +1113,6 @@
         "license": "CC BY-SA 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
         "source": "flickr"
-      }
-    ],
-    "martina-navratilova": [
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tennis_Nederland_tegen_Verenigde_Staten_in_Den_Haag_Betty_St%C3%B6ve_%28links%29_en_Martina_Navr%C3%A1tilov%C3%A1%2C_Bestanddeelnr_930-9117.jpg",
-        "thumb": "https://api.openverse.org/v1/images/81cb68de-04d5-4d9c-b587-7eb528a3f88a/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=67694700",
-        "title": "Tennis Nederland tegen Verenigde Staten in Den Haag Betty Stöve (links) en Martina Navrátilová, Bestanddeelnr 930-9117",
-        "author": "Hans van Dijk for Anefo",
-        "license": "CC0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "source": "wikimedia"
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pat_Cash%2C_Chanda_Rubin%2C_Martina_Navr%C3%A1tilov%C3%A1_%26_Michael_Chang.jpg",
-        "thumb": "https://api.openverse.org/v1/images/db387a38-5609-42c0-b9f9-a6982a68c41a/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=11497795",
-        "title": "Pat Cash, Chanda Rubin, Martina Navrátilová & Michael Chang",
-        "author": "robbiesaurus",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "wikimedia"
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Martina_Navr%C3%A1tilov%C3%A1_%26_Tracy_Austin_at_the_2010_US_Open_01.jpg",
-        "thumb": "https://api.openverse.org/v1/images/3be6a863-4daf-4c3f-9e7c-2c29c89dd69c/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=11497901",
-        "title": "Martina Navrátilová & Tracy Austin at the 2010 US Open 01",
-        "author": "Robbie Mendelson",
-        "license": "CC BY-SA 2.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-        "source": "wikimedia"
-      }
-    ],
-    "norma-duval": [
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Norma-duval-baila-puedas.jpg",
-        "thumb": "https://api.openverse.org/v1/images/23cb125f-e59d-4f4e-9cf8-7bffd102b7bf/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=146450287",
-        "title": "Norma-duval-baila-puedas",
-        "author": "Birgitte Nyborg Borgen",
-        "license": "CC0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
-        "source": "wikimedia"
-      },
-      {
-        "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Norma-Duval-p1000033.jpg",
-        "thumb": "https://api.openverse.org/v1/images/28a8a688-8fec-4168-bcf7-ac86ed459d2d/thumb/",
-        "page": "https://commons.wikimedia.org/w/index.php?curid=9383193",
-        "title": "File:Norma-Duval-p1000033.jpg",
-        "author": "El Pantera",
-        "license": "CC BY-SA 2.5",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-        "source": "wikimedia"
       }
     ],
     "yulen-pereira": [
@@ -1462,6 +1298,108 @@
         "author": "Ederim",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "king-africa": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Zaragoza_-_Pilares_2025_-_King_%C3%81frica.jpg",
+        "thumb": "https://api.openverse.org/v1/images/6b9f78c2-f4fe-46a6-a639-845df6186dab/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=176480060",
+        "title": "Zaragoza - Pilares 2025 - King África",
+        "author": "Ecelan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "lara-rodriguez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Lara_Rodr%C3%ADguez_Pe%C3%B1a_2019.jpg",
+        "thumb": "https://api.openverse.org/v1/images/171662ca-029f-47b8-bb0e-0dd1218c183c/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=78229394",
+        "title": "Lara Rodríguez Peña 2019",
+        "author": "Lalín Deza",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "alejandro-vip-5": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Alejandro_Abad_Lara_Terr%C3%B3n.jpg",
+        "thumb": "https://api.openverse.org/v1/images/5af9caea-cb9b-4744-818a-574121002dea/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=95269246",
+        "title": "File:Alejandro Abad Lara Terrón.jpg",
+        "author": "https://www.porlalibreedomex.com/?p=21411",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "marta-castro": [
+      {
+        "src": "https://live.staticflickr.com/65535/52538063965_b33df43abe_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/595eefb7-0d10-47b5-be06-a3c9dc235028/thumb/",
+        "page": "https://www.flickr.com/photos/140703387@N02/52538063965",
+        "title": "Recurso de la Ley 'Si es Si' ante en Tribunal Constitucional con Javier Ortega, Marta Castro y Carla Toscano '",
+        "author": "VOX España",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/65535/51984701014_8e0b4fabb7_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/f2a2a90e-7f9d-4c31-bdd9-945fa8c4b5bc/thumb/",
+        "page": "https://www.flickr.com/photos/140703387@N02/51984701014",
+        "title": "Marta Castro en el Tribunal de Justicia de la Unión Europea 5.04.2022",
+        "author": "VOX España",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/65535/51842328516_ecdbdb47b8_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/296d04c6-dd2d-4078-a711-a3a8a64d7253/thumb/",
+        "page": "https://www.flickr.com/photos/140703387@N02/51842328516",
+        "title": "Marta Castro, Vicesecretaria Jurídica VOX",
+        "author": "VOX España",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": "flickr"
+      }
+    ],
+    "cristina-porta": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Cristina_Porta.jpg",
+        "thumb": "https://api.openverse.org/v1/images/a44ee714-346c-44a7-89f8-72747ad6422f/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=155380916",
+        "title": "Cristina Porta",
+        "author": "Mafalditaeditora",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/544/18723959756_91d544e43d_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/b2052d83-4bd1-4f13-8092-7f013752b630/thumb/",
+        "page": "https://www.flickr.com/photos/111076799@N03/18723959756",
+        "title": "4520 LA MOTOBARCA 'CRISTINA' PORTA I TURISTI FARE UN GIRO INTORNO AL ARCIPELAGO BRIJUNI. FAZANA, CROAZIA.",
+        "author": "LITTLE KONSTANTIN",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "paloma-gonzalez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Entrevista_a_Paloma_Gonz%C3%A1lez_en_LA_VERDAD_%282022%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/af87f660-a8db-4c9b-ba2f-881562239dba/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=188926409",
+        "title": "Entrevista a Paloma González en LA VERDAD (2022)",
+        "author": "Ayuntamiento de Cartagena Periódico LA VERDAD",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
         "source": "wikimedia"
       }
     ]
