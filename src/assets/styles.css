@@ -322,3 +322,6 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .row-arrow.next { right: calc(4vw - 22px); }
 .row-arrow[hidden] { display: none; }
 @media (hover: none), (max-width: 720px) { .row-arrow { display: none; } .row-posters .poster { width: 160px; } }
+
+.couple-facts { font-size: .85rem; color: var(--muted); margin: .5rem 0 0; }
+.couple-facts .src { font-size: .75rem; }

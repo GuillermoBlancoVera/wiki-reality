@@ -35,7 +35,10 @@
           "story": "Álex y Fiama salieron juntos de la hoguera final. Con el tiempo, la relación terminó fuera del programa.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Se conocieron en Mujeres y hombres y viceversa, donde él era tronista y ella pretendiente. Querían comprobar si podían confiar del todo el uno en el otro antes de casarse.",
-          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/"
+          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/",
+          "together": "5 meses",
+          "after": "Separados. Fiama inicia una relación con Joy",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "jose-sanchez",
@@ -44,7 +47,10 @@
           "story": "José y Adelina salieron juntos de la isla y llegaron a comprometerse, aunque más adelante rompieron.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Llevaban ocho meses de noviazgo y querían poner su relación a prueba.",
-          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/"
+          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/",
+          "together": "8 meses",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "fani-carbajo",
@@ -53,7 +59,10 @@
           "story": "Durante la experiencia Fani se acercó al tentador Rubén Sánchez, una de las historias más comentadas de la primera edición. Christofer abandonó la hoguera final sin ella.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Llevaban siete años juntos y se conocieron en la discoteca donde trabajaban. Ella se definía como muy celosa y la desconfianza marcaba la relación.",
-          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/"
+          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/",
+          "together": "7 años",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "susana-molina",
@@ -62,7 +71,10 @@
           "story": "Susana puso fin a la relación en la hoguera final después de ver el comportamiento de Gonzalo en la villa de los chicos.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Llevaban seis años de relación y se conocieron en Gran Hermano 14. Antes de entrar ya reconocían que la relación había vivido momentos mejores.",
-          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/"
+          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/",
+          "together": "6 años",
+          "after": "Separados",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "andrea-gasca",
@@ -71,7 +83,10 @@
           "story": "Andrea e Ismael rompieron en la hoguera final tras el acercamiento de Andrea a un tentador durante la experiencia.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Se conocieron en First Dates y llevaban unos dos años juntos. Los celos de él eran el principal problema de la pareja.",
-          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/"
+          "backgroundSource": "https://www.formulatv.com/noticias/82434/la-isla-de-las-tentaciones-parejas/",
+          "together": "1 año y medio",
+          "after": "Separados. Andrea continúa su relación con Óscar",
+          "afterLabel": "6 meses después"
         }
       ],
       "singles": [
@@ -86,6 +101,78 @@
         {
           "id": "ruben-sanchez",
           "role": "Soltero"
+        },
+        {
+          "id": "jusseth-medina",
+          "role": "Soltero"
+        },
+        {
+          "id": "lewis-leadbetter",
+          "role": "Soltero"
+        },
+        {
+          "id": "antonio-lopez",
+          "role": "Soltero"
+        },
+        {
+          "id": "dayanel-diez",
+          "role": "Soltero"
+        },
+        {
+          "id": "daniel-gamez",
+          "role": "Soltero"
+        },
+        {
+          "id": "julian-requena",
+          "role": "Soltero"
+        },
+        {
+          "id": "bryan-lopez",
+          "role": "Soltero"
+        },
+        {
+          "id": "andrea-martinez",
+          "role": "Soltera"
+        },
+        {
+          "id": "jenny-martinez",
+          "role": "Soltera"
+        },
+        {
+          "id": "katerina-safarova",
+          "role": "Soltera"
+        },
+        {
+          "id": "lourdes-figueroa",
+          "role": "Soltera"
+        },
+        {
+          "id": "andreina-veliz",
+          "role": "Soltera"
+        },
+        {
+          "id": "geniris-mena",
+          "role": "Soltera"
+        },
+        {
+          "id": "miriam-fernandez",
+          "role": "Soltera"
+        },
+        {
+          "id": "casandra-dodero",
+          "role": "Soltera"
+        },
+        {
+          "id": "nerea-ramirez",
+          "role": "Soltera"
+        },
+        {
+          "id": "rochu",
+          "role": "Soltera"
+        },
+        {
+          "id": "melani-soler",
+          "role": "Soltera"
         }
       ],
       "singlesSource": "https://www.espinof.com/listas/que-ha-sido-parejas-primera-edicion-isla-tentaciones",
@@ -108,6 +195,111 @@
           "with": "oscar-ruiz-isla",
           "text": "Salió de la isla con él",
           "source": "https://www.espinof.com/listas/que-ha-sido-parejas-primera-edicion-isla-tentaciones"
+        },
+        {
+          "who": "alex-bueno",
+          "with": "jenny-martinez",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "fiama-rodriguez",
+          "with": "joy-soltero-isla-1",
+          "text": "Tuvieron 6 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "gonzalo-montoya",
+          "with": "katerina-safarova",
+          "text": "Tuvieron 6 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "susana-molina",
+          "with": "lewis-leadbetter",
+          "text": "Tuvieron 5 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ismael-isla-1",
+          "with": "andreina-veliz",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ismael-isla-1",
+          "with": "miriam-fernandez",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ismael-isla-1",
+          "with": "andrea-martinez",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "andrea-gasca",
+          "with": "oscar-ruiz-isla",
+          "text": "Tuvieron 7 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "jose-sanchez",
+          "with": "geniris-mena",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "jose-sanchez",
+          "with": "lourdes-figueroa",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "adelina-seres",
+          "with": "julian-requena",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "adelina-seres",
+          "with": "jusseth-medina",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "fani-carbajo",
+          "with": "ruben-sanchez",
+          "text": "Tuvieron 7 citas en el programa. Fani eligió a Rubén en su decisión final, pero salió del programa sin pareja",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "christofer-guzman",
+          "with": "jenny-martinez",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "christofer-guzman",
+          "with": "geniris-mena",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
         }
       ]
     },
@@ -126,7 +318,10 @@
           "story": "Ángel e Inma fueron de las pocas parejas de la segunda edición que salieron juntas de la isla.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Llevaban un año juntos. Inma se definía como muy celosa. Abandonaron el programa juntos.",
-          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
+          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/",
+          "together": "1 año",
+          "after": "Separados",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "patry-guimeras",
@@ -135,7 +330,10 @@
           "story": "Patri y Alessandro salieron juntos y mantuvieron la relación un tiempo después del programa, hasta que rompieron.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Entraron tras el abandono de Inma y Ángel. Llevaban poco más de un año juntos, y él era conocido por Gran Hermano 12+1.",
-          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
+          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/",
+          "together": "1 año",
+          "after": "Juntos",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "melyssa-pinto",
@@ -144,7 +342,10 @@
           "story": "Melyssa dejó a Tom en la hoguera de confrontación tras ver su comportamiento con la tentadora Sandra Pica.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Se conocieron en Mujeres y hombres y viceversa, donde Melyssa eligió a Tom. Llevaban ocho meses juntos y se habían mudado a Marruecos, el país de él.",
-          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
+          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/",
+          "together": "8 meses",
+          "after": "Separados. Tom continúa conociendo a Sandra",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "melodie-penalver",
@@ -153,7 +354,10 @@
           "story": "Melodie y Cristian rompieron en la hoguera final.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Elche y llevaban nueve años juntos. Empezaron cuando cada uno salía con el mejor amigo del otro.",
-          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
+          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/",
+          "together": "9 años",
+          "after": "Separados. Melodie continúa su relación con Beltrán. Cristian continúa conociendo a Andrea",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "pablo-moya",
@@ -162,7 +366,10 @@
           "story": "Pablo y Mayka rompieron en la hoguera final.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Murcia y llevaban tres años juntos. Los celos y las inseguridades marcaban la relación.",
-          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
+          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/",
+          "together": "3 años",
+          "after": "Separados. Mayka finaliza su relación con Óscar",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "marta-penate",
@@ -171,7 +378,10 @@
           "story": "Marta y Lester pusieron fin a su relación en la hoguera final.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Se conocieron en 2009 y llevaban más de una década juntos, con varias crisis y una reconciliación en 2019. Marta ya era conocida por Gran Hermano 16.",
-          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/"
+          "backgroundSource": "https://www.formulatv.com/noticias/parejas-la-isla-de-las-tentaciones-2-103149/",
+          "together": "11 años",
+          "after": "Separados. Lester continúa su relación con Patri. Marta continúa conociendo a Dani",
+          "afterLabel": "3 meses después"
         }
       ],
       "notes": "Andrea Gasca y Óscar Ruiz volvieron como solteros.",
@@ -257,7 +467,93 @@
           "role": "Soltera"
         }
       ],
-      "singlesSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34107359/solteros-isla-tentaciones-segunda-edicion/"
+      "singlesSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34107359/solteros-isla-tentaciones-segunda-edicion/",
+      "links": [
+        {
+          "who": "alessandro-livi",
+          "with": "lia-roman",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "patry-guimeras",
+          "with": "jorge-javier-diaz",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "cristian-jerez",
+          "with": "andrea-gasca",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "melodie-penalver",
+          "with": "beltran-san-jorge",
+          "text": "Tuvieron 4 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lester-duque",
+          "with": "patricia-perez-isla-2",
+          "text": "Tuvieron 2 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "marta-penate",
+          "with": "dani-garcia-isla-2",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "pablo-moya",
+          "with": "dorothy-collado",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "mayka-rivera",
+          "with": "oscar-ruiz-isla",
+          "text": "Tuvieron 4 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "tom-brusse",
+          "with": "sandra-pica",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "melyssa-pinto",
+          "with": "david-castello",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "angel-de-los-santos",
+          "with": "lia-roman",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "inma-campano",
+          "with": "kevin-van-krimpen",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        }
+      ]
     },
     {
       "number": 3,
@@ -274,7 +570,10 @@
           "story": "Claudia y Raúl salieron juntos de la isla; tiempo después se separaron.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Son de Las Palmas de Gran Canaria y llevaban tres años juntos. Empezaron con una relación abierta, hasta que Claudia quiso una relación tradicional.",
-          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/"
+          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/",
+          "together": "2 años y medio",
+          "after": "Separados. Regresan juntos como pareja abierta",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "lara-isla-3",
@@ -283,7 +582,10 @@
           "story": "Lara y Hugo salieron juntos y, tras el programa, se comprometieron.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Llevaban cuatro años juntos, con varias rupturas. Hugo era conocido por Gran Hermano 15 y ambos se reconocían muy celosos.",
-          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/"
+          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/",
+          "together": "4 años",
+          "after": "Juntos. Hugo le pide matrimonio a Lara Tronti",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "marina-garcia",
@@ -292,16 +594,22 @@
           "story": "Marina se acercó durante la experiencia al tentador Isaac Torres «Lobo» y la pareja rompió en la isla. Después se reconciliaron.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Son sevillanos y llevaban cinco años juntos, la pareja más veterana de su edición, tras superar dos rupturas.",
-          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/"
+          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/",
+          "together": "5 años y medio",
+          "after": "Separados. Marina inicia una relación con Isaac Torres \"Lobo\"",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "lola-isla-3",
-          "b": "diego-isla-3",
+          "b": "diego-perez",
           "outcome": "Salieron por separado",
           "story": "Lola y Diego cortaron durante el programa.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Su relación empezó en Mujeres y hombres y viceversa. Llegaron con la confianza dañada por un videoclip de Diego.",
-          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/"
+          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/",
+          "together": "3 años",
+          "after": "Separados",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "lucia-sanchez",
@@ -310,10 +618,211 @@
           "story": "Lucía y Manuel cortaron durante el programa.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Puerto Real (Cádiz) y llevaban tres años juntos. Lucía había perdonado una infidelidad de Manuel, pero seguía desconfiando.",
-          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/"
+          "backgroundSource": "https://www.diezminutos.es/famosos-corazon/famosos-espanoles/g34489770/la-isla-de-las-tentaciones-tercera-edicion-concursantes/",
+          "together": "3 años y medio",
+          "after": "Separados. Manuel finaliza su relación con Fiama Rodríguez",
+          "afterLabel": "6 meses después"
         }
       ],
-      "notes": "Isaac Torres «Lobo» participó como tentador."
+      "notes": "Isaac Torres «Lobo» participó como tentador.",
+      "singles": [
+        {
+          "id": "carlos-algora",
+          "role": "Soltero"
+        },
+        {
+          "id": "isaac-torres",
+          "role": "Soltero"
+        },
+        {
+          "id": "toni-ruiz",
+          "role": "Soltero"
+        },
+        {
+          "id": "ruben-sanchez",
+          "role": "Soltero"
+        },
+        {
+          "id": "victor-lopez",
+          "role": "Soltero"
+        },
+        {
+          "id": "xavi-espana",
+          "role": "Soltero"
+        },
+        {
+          "id": "javier-hernandez",
+          "role": "Soltero"
+        },
+        {
+          "id": "simone-coppola",
+          "role": "Soltero"
+        },
+        {
+          "id": "iker-de-la-llosa",
+          "role": "Soltero"
+        },
+        {
+          "id": "imanol-capote",
+          "role": "Soltero"
+        },
+        {
+          "id": "david-arujo",
+          "role": "Soltero"
+        },
+        {
+          "id": "carla-divinity",
+          "role": "Soltera"
+        },
+        {
+          "id": "lara-blanchard",
+          "role": "Soltera"
+        },
+        {
+          "id": "susan-teixeira",
+          "role": "Soltera"
+        },
+        {
+          "id": "stefany-martinez",
+          "role": "Soltera"
+        },
+        {
+          "id": "jennifer-saumell",
+          "role": "Soltera"
+        },
+        {
+          "id": "maria-snake",
+          "role": "Soltera"
+        },
+        {
+          "id": "nahia-iglesias",
+          "role": "Soltera"
+        },
+        {
+          "id": "fiama-rodriguez",
+          "role": "Soltera"
+        },
+        {
+          "id": "alba-mendez",
+          "role": "Soltera"
+        },
+        {
+          "id": "bela-saalem",
+          "role": "Soltera"
+        },
+        {
+          "id": "monica-sango",
+          "role": "Soltera"
+        }
+      ],
+      "singlesSource": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+      "links": [
+        {
+          "who": "diego-perez",
+          "with": "jennifer-saumell",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "diego-perez",
+          "with": "carla-divinity",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lola-isla-3",
+          "with": "simone-coppola",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lola-isla-3",
+          "with": "carlos-algora",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "hugo-isla-3",
+          "with": "susan-teixeira",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lara-isla-3",
+          "with": "ruben-sanchez",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "jesus-sanchez",
+          "with": "stefany-martinez",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "marina-garcia",
+          "with": "isaac-torres",
+          "text": "Tuvieron 5 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "raul-isla-3",
+          "with": "lara-blanchard",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "claudia-isla-3",
+          "with": "toni-ruiz",
+          "text": "Tuvieron 5 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "manuel-gonzalez",
+          "with": "nahia-iglesias",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "manuel-gonzalez",
+          "with": "stefany-martinez",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "manuel-gonzalez",
+          "with": "fiama-rodriguez",
+          "text": "Tuvieron 1 cita en el programa. Abandonaron juntos el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lucia-sanchez",
+          "with": "victor-lopez",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lucia-sanchez",
+          "with": "carlos-algora",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        }
+      ]
     },
     {
       "number": 4,
@@ -330,7 +839,10 @@
           "story": "Darío rompió con Sandra en la isla tras ver imágenes de ella con el tentador Rubo. Fuera del programa retomaron la relación.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Alicante y llevaban año y medio juntos. Darío quería que Sandra confiara en él pese a su fama de mujeriego.",
-          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
+          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html",
+          "together": "1 año y medio",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "rosario-cerdan",
@@ -339,7 +851,10 @@
           "story": "Rosario y Álvaro rompieron en las hogueras finales.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Elche y llevaban cuatro años juntos.",
-          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
+          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html",
+          "together": "4 años",
+          "after": "Separados",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "gal-la-mora",
@@ -348,7 +863,10 @@
           "story": "Gal·la y Nico rompieron en las hogueras finales.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Castellón y llevaban dos años y medio juntos; él es futbolista. Entraron para comprobar si su amor era real después de superar una crisis al principio de la relación.",
-          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
+          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html",
+          "together": "2 años y medio",
+          "after": "Separados. Nico empieza una relación con Miriam",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "zoe-mba",
@@ -356,7 +874,10 @@
           "story": "Zoe y Josué se conocieron en Mujeres y hombres y viceversa antes de llegar a la isla. Tras el programa, la relación terminó.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Se conocieron en Mujeres y hombres y viceversa y llevaban seis meses juntos. Querían superar los celos y la desconfianza.",
-          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
+          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html",
+          "together": "6 meses",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "tania-medina",
@@ -364,7 +885,10 @@
           "story": "Tania y Alejandro no siguieron juntos después del programa.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Son de Las Palmas de Gran Canaria, llevaban dos años juntos y estaban prometidos. Se conocieron en un certamen de belleza y aseguraban que ninguna tentación les separaría.",
-          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
+          "backgroundSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html",
+          "together": "2 años",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         }
       ],
       "notes": "Resultado de algunas parejas pendiente de verificar.",
@@ -448,9 +972,117 @@
         {
           "id": "sevi-soltero-isla-4",
           "role": "Soltero"
+        },
+        {
+          "id": "simone-coppola",
+          "role": "Soltero"
+        },
+        {
+          "id": "jennifer-martinez",
+          "role": "Soltera"
         }
       ],
-      "singlesSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html"
+      "singlesSource": "https://www.vozpopuli.com/television/isla-tentaciones-4-parejas-solteras.html",
+      "links": [
+        {
+          "who": "alejandro-nieto",
+          "with": "vanessa-soltera-isla-4",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alejandro-nieto",
+          "with": "carolina-soltera-isla-4",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alejandro-nieto",
+          "with": "claudia-soltera-isla-4",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alejandro-nieto",
+          "with": "jennifer-martinez",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "tania-medina",
+          "with": "stiven-soltero-isla-4",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alvaro-boix",
+          "with": "sabela-soltera-isla-4",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "rosario-cerdan",
+          "with": "suso-soltero-isla-4",
+          "text": "Tuvieron 4 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "josue-bernal",
+          "with": "diriany-soltera-isla-4",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "zoe-mba",
+          "with": "simone-coppola",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "nico-craiu",
+          "with": "rosana-soltera-isla-4",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "nico-craiu",
+          "with": "miriam-soltera-isla-4",
+          "text": "Tuvieron 5 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "gal-la-mora",
+          "with": "miguel-soltero-isla-4",
+          "text": "Tuvieron 4 citas en el programa. Gal·la eligió a Miguel en su decisión final, pero salió del programa sin pareja",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "dario-selles",
+          "with": "vanessa-soltera-isla-4",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "sandra-ferriz",
+          "with": "rubo-soltero-isla-4",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        }
+      ]
     },
     {
       "number": 5,
@@ -470,7 +1102,10 @@
           "story": "Claudia se acercó al tentador Álvaro Boix durante la experiencia, pero la pareja salió junta de la hoguera final. Más adelante se separaron.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Barcelona y llevaban año y medio juntos tras conocerse en una discoteca. Ella sentía que la relación se había vuelto demasiado dependiente.",
-          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/"
+          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/",
+          "together": "1 año y medio",
+          "after": "Separados",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "paola-monzani",
@@ -479,7 +1114,10 @@
           "story": "Paola y Andreu decidieron seguir adelante como pareja y salieron juntos.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Mallorca y llevaban dos años y medio juntos; él es cantautor. Los rumores sobre él y sus reticencias a convivir generaban inseguridad en ella.",
-          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/"
+          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/",
+          "together": "2 años y medio",
+          "after": "Juntos",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "sara-garcia",
@@ -488,23 +1126,32 @@
           "story": "Sara y Manu abandonaron el programa antes de tiempo, pero juntos.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Son de Alicante y llevaban ocho meses juntos. Ambos tenían dudas que querían aclarar.",
-          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/"
+          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/",
+          "together": "8 meses",
+          "after": "Separados. Manuel inicia una relación con Carmen",
+          "afterLabel": "3 meses después"
         },
         {
-          "a": "tania-isla-5",
+          "a": "tania-deniz",
           "b": "samuel-chavez",
           "outcome": "Salieron por separado",
           "story": "Tania y Samuel rompieron en las hogueras finales, aunque después volvieron.",
           "storySource": "https://www.elespanol.com/corazon/bluper/unicas-parejas-isla-tentaciones-siguen-juntas-acabaron-mal-telecinco/826917805_0.html",
           "background": "Son de Tenerife y llevaban dos años y medio juntos. Unos mensajes de él a una amiga de ella hicieron que perdiera la confianza.",
-          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/"
+          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/",
+          "together": "2 años y medio",
+          "after": "Separados",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "ana-isla-5",
           "b": "cristian-isla-5",
           "outcome": "Salieron por separado",
           "story": "Ana y Cristian rompieron en las hogueras finales.",
-          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html"
+          "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
+          "together": "3 años",
+          "after": "Separados. Cristian inicia una relación con María de los Ángeles",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "laura-isla-5",
@@ -513,13 +1160,214 @@
           "story": "Laura y Mario rompieron en las hogueras finales.",
           "storySource": "https://www.telecinco.es/la-isla-de-las-tentaciones/20230117/parejas-juntas-rupturas-todas-ediciones_18_08447327.html",
           "background": "Llevaban año y medio juntos. Los miedos por el pasado y la desconfianza eran su principal problema.",
-          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/"
+          "backgroundSource": "https://www.hola.com/actualidad/20220921217538/isla-tentaciones-5-concursantes-novedades-al/",
+          "together": "1 año y medio",
+          "after": "Separados",
+          "afterLabel": "3 meses después"
         }
       ],
       "covers": [
         {
           "post": "https://www.instagram.com/p/Cmbna5fIHYS/",
           "caption": "Las parejas de la edición"
+        }
+      ],
+      "singles": [
+        {
+          "id": "alvaro-boix",
+          "role": "Soltero"
+        },
+        {
+          "id": "hugo-paz",
+          "role": "Soltero"
+        },
+        {
+          "id": "aitor-lopez",
+          "role": "Soltero"
+        },
+        {
+          "id": "adrian-ramirez",
+          "role": "Soltero"
+        },
+        {
+          "id": "vladimir-giraldez",
+          "role": "Soltero"
+        },
+        {
+          "id": "alvaro-llorens",
+          "role": "Soltero"
+        },
+        {
+          "id": "leon-rodriguez",
+          "role": "Soltero"
+        },
+        {
+          "id": "brian-pulgarin",
+          "role": "Soltero"
+        },
+        {
+          "id": "edgar-pulgarin",
+          "role": "Soltero"
+        },
+        {
+          "id": "edward-aponza",
+          "role": "Soltero"
+        },
+        {
+          "id": "isay-donate",
+          "role": "Soltero"
+        },
+        {
+          "id": "elena-vazquez",
+          "role": "Soltera"
+        },
+        {
+          "id": "maria-de-los-angeles-ramos",
+          "role": "Soltera"
+        },
+        {
+          "id": "valeria-ardila",
+          "role": "Soltera"
+        },
+        {
+          "id": "carmen-saavedra",
+          "role": "Soltera"
+        },
+        {
+          "id": "cristina-segura",
+          "role": "Soltera"
+        },
+        {
+          "id": "jessica-pires",
+          "role": "Soltera"
+        },
+        {
+          "id": "mona-grande",
+          "role": "Soltera"
+        },
+        {
+          "id": "sofia-perona",
+          "role": "Soltera"
+        },
+        {
+          "id": "yuleima-sosa",
+          "role": "Soltera"
+        },
+        {
+          "id": "irene-rodriguez",
+          "role": "Soltera"
+        },
+        {
+          "id": "maxi-marie-probst",
+          "role": "Soltera"
+        }
+      ],
+      "singlesSource": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+      "links": [
+        {
+          "who": "andreu-martorell",
+          "with": "cristina-segura",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "paola-monzani",
+          "with": "vladimir-giraldez",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "cristian-isla-5",
+          "with": "maria-de-los-angeles-ramos",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ana-isla-5",
+          "with": "alvaro-boix",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ana-isla-5",
+          "with": "vladimir-giraldez",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "javi-redondo",
+          "with": "sofia-perona",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "claudia-martinez",
+          "with": "alvaro-boix",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "mario-gonzalez",
+          "with": "valeria-ardila",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "laura-isla-5",
+          "with": "adrian-ramirez",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "samuel-chavez",
+          "with": "elena-vazquez",
+          "text": "Tuvieron 5 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "tania-deniz",
+          "with": "hugo-paz",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "manu-ubeda",
+          "with": "maria-de-los-angeles-ramos",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "manu-ubeda",
+          "with": "jessica-pires",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "sara-garcia",
+          "with": "vladimir-giraldez",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "sara-garcia",
+          "with": "alvaro-llorens",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
         }
       ]
     },
@@ -539,7 +1387,10 @@
           "storySource": "https://www.elindependiente.com/?p=2932850",
           "background": "Son de Benidorm, llevaban dos años juntos y se conocieron por redes sociales.",
           "backgroundSource": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-6-descubre-cinco-parejas-modelos-futbolista_1_9859632.html",
-          "igPost": "https://www.instagram.com/p/CnSn1PJo4kd/"
+          "igPost": "https://www.instagram.com/p/CnSn1PJo4kd/",
+          "together": "2 años y medio",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "marina-lopez",
@@ -549,7 +1400,10 @@
           "storySource": "https://www.elindependiente.com/?p=2932850",
           "background": "Son de Madrid y llevaban un año juntos; él es futbolista. Los celos de Marina eran la gran prueba de la pareja.",
           "backgroundSource": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-6-descubre-cinco-parejas-modelos-futbolista_1_9859632.html",
-          "igPost": "https://www.instagram.com/p/CnSpO89INNu/"
+          "igPost": "https://www.instagram.com/p/CnSpO89INNu/",
+          "together": "1 año",
+          "after": "Juntos. En el mismo reencuentro finaliza su relación. Separados",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "naomi-asensi",
@@ -559,7 +1413,10 @@
           "storySource": "https://www.elindependiente.com/?p=2932850",
           "background": "Son de Valencia y llevaban dos años juntos. Eran amigos antes de empezar la relación y querían formar una familia.",
           "backgroundSource": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-6-descubre-cinco-parejas-modelos-futbolista_1_9859632.html",
-          "igPost": "https://www.instagram.com/p/CnSq6IBoVx_/"
+          "igPost": "https://www.instagram.com/p/CnSq6IBoVx_/",
+          "together": "2 años y medio",
+          "after": "Juntos",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "laura-boado",
@@ -569,14 +1426,20 @@
           "storySource": "https://www.elindependiente.com/?p=2932850",
           "background": "Se conocieron en el certamen Míster España y llevaban un año juntos. Un beso que él ocultó dejó reproches y desconfianza.",
           "backgroundSource": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-6-descubre-cinco-parejas-modelos-futbolista_1_9859632.html",
-          "igPost": "https://www.instagram.com/p/CnSmJXdIqCI/"
+          "igPost": "https://www.instagram.com/p/CnSmJXdIqCI/",
+          "together": "9 meses",
+          "after": "Separados. Laura inicia una relación con Saúl",
+          "afterLabel": "6 meses después"
         },
         {
           "a": "elena-adsuara",
           "b": "david-vaquero",
           "background": "Llevaban dos años juntos y se conocieron por Instagram. Se consideraban una pareja ejemplar.",
           "backgroundSource": "https://www.eldiario.es/vertele/noticias/isla-tentaciones-6-descubre-cinco-parejas-modelos-futbolista_1_9859632.html",
-          "igPost": "https://www.instagram.com/p/CnSspgVoPV-/"
+          "igPost": "https://www.instagram.com/p/CnSspgVoPV-/",
+          "together": "2 años",
+          "after": "Separados. David continúa conociendo a María",
+          "afterLabel": "6 meses después"
         }
       ],
       "singles": [
@@ -589,7 +1452,7 @@
           "role": "Soltera"
         },
         {
-          "id": "maria-soltera-isla-6",
+          "id": "maria-aguilar",
           "role": "Soltera"
         },
         {
@@ -647,6 +1510,22 @@
         {
           "id": "riccardo-soltero-isla-6",
           "role": "Soltero"
+        },
+        {
+          "id": "saul-pina",
+          "role": "Soltero"
+        },
+        {
+          "id": "miguel-soltero-isla-4",
+          "role": "Soltero"
+        },
+        {
+          "id": "manu-mourenza",
+          "role": "Soltero"
+        },
+        {
+          "id": "miriam-soltera-isla-4",
+          "role": "Soltera"
         }
       ],
       "singlesSource": "https://www.espinof.com/listas/isla-tentaciones-6-conocemos-a-solteros-solteras-nueva-edicion-primera-tentadora-trans-dos-amantes-trios-todos-encantados-conocerse/amp",
@@ -654,6 +1533,78 @@
         {
           "post": "https://www.instagram.com/p/CnSl6TVIDSJ/",
           "caption": "Las parejas de la edición"
+        }
+      ],
+      "links": [
+        {
+          "who": "adrian-blanch",
+          "with": "keyla-soltera-isla-6",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "naomi-asensi",
+          "with": "manuel-soltero-isla-6",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alejandro-perez",
+          "with": "irene-soltera-isla-6",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "laura-boado",
+          "with": "saul-pina",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alex-sanchez",
+          "with": "yaiza-soltera-isla-6",
+          "text": "Tuvieron 5 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "marina-lopez",
+          "with": "manu-mourenza",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "manuel-villena",
+          "with": "miriam-soltera-isla-4",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "lydia-perez",
+          "with": "miguel-soltero-isla-6",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "david-vaquero",
+          "with": "maria-aguilar",
+          "text": "Tuvieron 2 citas en el programa. Abandonaron juntos el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "elena-adsuara",
+          "with": "samuel-soltero-isla-6",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
         }
       ]
     },
@@ -670,7 +1621,10 @@
           "b": "alex-girona",
           "outcome": "Salieron por separado: Álex se fue con la tentadora Gabriela",
           "story": "En la hoguera final Álex anunció que se iba con la tentadora Gabriela, y Marieta salió sola.",
-          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/"
+          "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
+          "together": "1 año y medio",
+          "after": "Separados. Álex finaliza su relación con Gabriella",
+          "afterLabel": "8 meses después"
         },
         {
           "a": "mariona-ferre",
@@ -680,7 +1634,10 @@
           "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
           "background": "Son de Tarragona, llevaban cuatro años juntos y se conocieron en la agencia de modelos donde trabajan. Entraron en sustitución de Andrea y Álvaro.",
           "backgroundSource": "https://www.formulatv.com/noticias/la-isla-de-las-tentaciones-7-nuevos-mariona-adrian-126263/",
-          "igPost": "https://www.instagram.com/p/C2Mu2PvIiHt/"
+          "igPost": "https://www.instagram.com/p/C2Mu2PvIiHt/",
+          "together": "4 años",
+          "after": "Juntos. Adrián tiene dudas sobre su relación con Mariona",
+          "afterLabel": "8 meses después"
         },
         {
           "a": "maria-aguilar",
@@ -689,16 +1646,22 @@
           "story": "María y David salieron juntos de la República Dominicana.",
           "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
           "background": "Se conocieron en la edición anterior del programa.",
-          "backgroundSource": "https://www.sensacine.com/noticias/series/noticia-1000056407/"
+          "backgroundSource": "https://www.sensacine.com/noticias/series/noticia-1000056407/",
+          "together": "8 meses",
+          "after": "Juntos",
+          "afterLabel": "8 meses después"
         },
         {
           "a": "ana-isla-7",
-          "b": "borja-isla-7",
+          "b": "borja-gonzalez",
           "outcome": "Salieron juntos",
           "story": "Ana y Borja salieron juntos de la isla, con planes de boda.",
           "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
           "background": "Se conocieron en Valencia y llevaban tres años y medio juntos. La relación empezó cuando ambos tenían otra pareja.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/",
+          "together": "3 años y medio",
+          "after": "Juntos. Ana está embarazada de Borja",
+          "afterLabel": "8 meses después"
         },
         {
           "a": "ruth-isla-7",
@@ -707,7 +1670,10 @@
           "story": "Ruth y Niko abandonaron la experiencia al poco de empezar la edición.",
           "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
           "background": "Se conocieron por redes sociales; ella es de Tenerife y él, colombiano. Llevaban un año juntos.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/",
+          "together": "1 año",
+          "after": "Juntos",
+          "afterLabel": "8 meses después"
         },
         {
           "a": "alba-casillas",
@@ -716,7 +1682,10 @@
           "story": "Alba y Roberto abandonaron la experiencia al poco de empezar la edición.",
           "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
           "background": "Son de Madrid, llevaban un año juntos y se fueron a vivir juntos a los tres meses.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/",
+          "together": "1 año",
+          "after": "Separados",
+          "afterLabel": "8 meses después"
         },
         {
           "a": "andrea-isla-7",
@@ -725,7 +1694,10 @@
           "story": "Andrea y Álvaro abandonaron la experiencia al poco de empezar la edición.",
           "storySource": "https://www.diezminutos.es/teleprograma/programas-tv/g60192398/hoguera-final-parejas-la-isla-de-las-tentaciones-sandra-barneda/",
           "background": "Son de Málaga y llevaban dos años juntos. Él empezó la relación poco después de dejar a su anterior pareja.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a46100713/la-isla-de-las-tentaciones-7-parejas-participantes-estreno/",
+          "together": "2 años",
+          "after": "Separados. En el mismo reencuentro deciden darse otra oportunidad. Juntos",
+          "afterLabel": "8 meses después"
         }
       ],
       "singles": [
@@ -754,7 +1726,7 @@
           "role": "Soltero"
         },
         {
-          "id": "sergio-soltero-isla-7",
+          "id": "sergio-aguilera",
           "role": "Soltero"
         },
         {
@@ -770,7 +1742,7 @@
           "role": "Soltero"
         },
         {
-          "id": "miguel-soltero-isla-7",
+          "id": "miguel-isla-10",
           "role": "Soltero"
         },
         {
@@ -804,6 +1776,26 @@
         {
           "id": "andrea-palas",
           "role": "Soltera"
+        },
+        {
+          "id": "alvaro-boix",
+          "role": "Soltero"
+        },
+        {
+          "id": "manuel-soltero-isla-6",
+          "role": "Soltero"
+        },
+        {
+          "id": "alpha-nzango",
+          "role": "Soltero"
+        },
+        {
+          "id": "valeria-ardila",
+          "role": "Soltera"
+        },
+        {
+          "id": "paula-sanchez",
+          "role": "Soltera"
         }
       ],
       "singlesSource": "https://www.espinof.com/listas/isla-tentaciones-7-estos-solteros-solteras-que-vienen-a-tentar-a-parejas-nueva-edicion-reality",
@@ -815,6 +1807,99 @@
         {
           "post": "https://www.instagram.com/p/C2Z0fvFoD8o/",
           "caption": "Los chicos de la edición"
+        }
+      ],
+      "links": [
+        {
+          "who": "adrian-aguado",
+          "with": "monica-soltera-isla-7",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "mariona-ferre",
+          "with": "julen-soltero-isla-7",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alex-girona",
+          "with": "gabriela-soltera-isla-7",
+          "text": "Tuvieron 3 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "marieta-diaz",
+          "with": "sergio-aguilera",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ana-isla-7",
+          "with": "manuel-soltero-isla-6",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "david-vaquero",
+          "with": "zaira-soltera-isla-7",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "maria-aguilar",
+          "with": "sergio-aguilera",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "maria-aguilar",
+          "with": "ricky-soltero-isla-7",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "maria-aguilar",
+          "with": "alvaro-boix",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "niko-isla-7",
+          "with": "tamara-soltera-isla-7",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ruth-isla-7",
+          "with": "jorge-zanetti",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alvaro-isla-7",
+          "with": "monica-soltera-isla-7",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "andrea-isla-7",
+          "with": "ricky-soltero-isla-7",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
         }
       ]
     },
@@ -834,17 +1919,23 @@
           "storySource": "https://www.sensacine.com/television/noticias/noticia-1000132089.html",
           "background": "Son de Palma de Mallorca y llevaban cuatro años juntos, con una ruptura por medio. Entraron para que Eros demostrara su fidelidad.",
           "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8",
-          "igPost": "https://www.instagram.com/p/DDzIGeho7N0/"
+          "igPost": "https://www.instagram.com/p/DDzIGeho7N0/",
+          "together": "4 años",
+          "after": "Separados. Torres finaliza su relación con Bayan",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "alba-isla-8",
-          "b": "gerard-isla-8",
+          "b": "gerard-arias",
           "outcome": "Salieron por separado: Alba decidió irse sola",
           "story": "En la hoguera final Alba tenía claro que quería irse sola.",
           "storySource": "https://www.sensacine.com/television/noticias/noticia-1000132089.html",
           "background": "Llevaban un año juntos. Tras una ruptura por el miedo de Gerard al compromiso y los celos, entraron para que él demostrara que estaba dispuesto a comprometerse.",
           "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8",
-          "igPost": "https://www.instagram.com/p/DDzKad7IJ7e/"
+          "igPost": "https://www.instagram.com/p/DDzKad7IJ7e/",
+          "together": "1 año",
+          "after": "Separados",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "anita-williams",
@@ -854,7 +1945,10 @@
           "storySource": "https://www.espinof.com/reality/isla-tentaciones-8-pone-fin-a-agonia-montoya-anita-queda-reencuentro-3-meses-despues",
           "background": "Ella es de Barcelona y él de Sevilla; llevaban un año juntos. Querían poner a prueba la relación antes de formar una familia.",
           "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8",
-          "igPost": "https://www.instagram.com/p/DDzMzfKoso-/"
+          "igPost": "https://www.instagram.com/p/DDzMzfKoso-/",
+          "together": "1 año",
+          "after": "Separados",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "sthefany-isla-8",
@@ -862,7 +1956,10 @@
           "outcome": "Salieron juntos",
           "story": "Tadeo y Sthefany se reconciliaron en la hoguera final y salieron juntos.",
           "storySource": "https://www.espinof.com/reality/isla-tentaciones-8-pone-fin-a-agonia-montoya-anita-queda-reencuentro-3-meses-despues",
-          "igPost": "https://www.instagram.com/p/DFNIBd7OQff/"
+          "igPost": "https://www.instagram.com/p/DFNIBd7OQff/",
+          "together": "2 años",
+          "after": "Juntos",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "andrea-isla-8",
@@ -870,20 +1967,29 @@
           "outcome": "Salieron juntos",
           "background": "Son de Barcelona, llevaban tres años juntos y se conocieron en el trabajo. Entraron para ver si se echaban de menos separados.",
           "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8",
-          "igPost": "https://www.instagram.com/p/DDzPiK0Ivke/"
+          "igPost": "https://www.instagram.com/p/DDzPiK0Ivke/",
+          "together": "3 años",
+          "after": "Juntos",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "ana-isla-8",
           "b": "fran-isla-8",
           "background": "Son de Vigo y llevaban año y medio juntos. Los celos marcaban la relación y entraron para que ella confiara plenamente en él.",
-          "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8"
+          "backgroundSource": "https://www.espinof.com/reality/isla-tentaciones-presenta-a-cinco-nuevas-parejas-que-intentaran-convencerse-su-fidelidad-temporada-8",
+          "together": "1 año y medio",
+          "after": "Juntos. Ana termina su relación con Fran. Separados",
+          "afterLabel": "3 meses después"
         },
         {
           "a": "alba-garcia-isla-8",
           "b": "alvaro-rubio",
           "outcome": "Abandonaron el programa cada uno por su lado",
           "story": "Ambos cayeron en la tentación durante el programa y abandonaron por separado. Álvaro llegó al reencuentro con Mayeli Díaz, con quien entró como pareja en la edición siguiente.",
-          "storySource": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/"
+          "storySource": "https://www.hola.com/actualidad/20250311819230/la-isla-de-las-tentaciones-tres-meses-despues-parejas-reencuentros/",
+          "together": "2 años y medio",
+          "after": "Separados. Álvaro inicia una relación con Mayeli. Solos",
+          "afterLabel": "3 meses después"
         }
       ],
       "notes": "Montoya volvió a la isla en la 10ª edición como invitado. Gabriella Barbu y Manuel González (3ª edición) se reincorporaron como solteros.",
@@ -961,7 +2067,7 @@
           "role": "Soltera"
         },
         {
-          "id": "simone-soltero-isla-8",
+          "id": "simone-coppola",
           "role": "Soltero"
         },
         {
@@ -971,6 +2077,14 @@
         {
           "id": "manuel-gonzalez",
           "role": "Soltero VIP"
+        },
+        {
+          "id": "agusti-sarrias",
+          "role": "Soltero"
+        },
+        {
+          "id": "gabriela-soltera-isla-7",
+          "role": "Soltera"
         }
       ],
       "singlesSource": "https://www.espinof.com/listas/telecinco-se-adelanta-al-estreno-isla-tentaciones-revela-a-tentadores-tentadoras-su-nueva-temporada",
@@ -1031,9 +2145,114 @@
         },
         {
           "who": "sthefany-isla-8",
-          "with": "simone-soltero-isla-8",
+          "with": "simone-coppola",
           "text": "Cayó en la tentación con él",
           "source": "https://theobjective.com/medios/television/2025-03-10/parejas-juntas-no-edicion-isla-tentaciones/"
+        },
+        {
+          "who": "alvaro-rubio",
+          "with": "erika-soltera-isla-8",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alba-garcia-isla-8",
+          "with": "borja-gomez",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "eros-isla-8",
+          "with": "erika-soltera-isla-8",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "eros-isla-8",
+          "with": "claudia-sanchez-isla",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "bayan-isla-8",
+          "with": "ruben-torres",
+          "text": "Tuvieron 4 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "jose-carlos-montoya",
+          "with": "gabriela-soltera-isla-7",
+          "text": "Tuvieron 5 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "anita-williams",
+          "with": "manuel-gonzalez",
+          "text": "Tuvieron 5 citas en el programa. Anita eligió a Manuel en su decisión final, pero salió del programa sin pareja",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "tadeo-isla-8",
+          "with": "mayeli-diaz",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "sthefany-isla-8",
+          "with": "simone-coppola",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "joel-isla-8",
+          "with": "nataly-nunez",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "andrea-isla-8",
+          "with": "borja-gomez",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "gerard-arias",
+          "with": "aida-soltera-isla-8",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "gerard-arias",
+          "with": "claudia-sanchez-isla",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "fran-isla-8",
+          "with": "claudia-sanchez-isla",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "ana-isla-8",
+          "with": "ruben-torres",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
         }
       ]
     },
@@ -1052,7 +2271,10 @@
           "story": "En las hogueras finales Sandra se fue con Andrea Canel y Juanpi salió solo.",
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
           "background": "Son de Cádiz, llevaban año y medio juntos y se conocieron por redes sociales. Sandra quería comprobar si Juanpi había cambiado.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/",
+          "together": "1 año y 3 meses",
+          "after": "Separados. Sandra finaliza su relación con Andrea. Juanpi inicia una relación con Mara",
+          "afterLabel": "4 meses después"
         },
         {
           "a": "nieves-tristan",
@@ -1061,7 +2283,10 @@
           "story": "Nieves y Lorenzo fueron expulsados como pareja y salieron juntos de la experiencia.",
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
           "background": "Son de Almería y llevaban casi dos años juntos. Lorenzo ya le había pedido matrimonio y querían confirmar que estaban hechos el uno para el otro.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/",
+          "together": "1 año y 8 meses",
+          "after": "Juntos",
+          "afterLabel": "4 meses después"
         },
         {
           "a": "helena-arauz",
@@ -1071,7 +2296,10 @@
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
           "background": "Son de Madrid y llevaban un año juntos. Describían su relación como caótica, con celos y desconfianza.",
           "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/",
-          "igPost": "https://www.instagram.com/p/DQT4zQJDBzt/"
+          "igPost": "https://www.instagram.com/p/DQT4zQJDBzt/",
+          "together": "1 año",
+          "after": "Juntos",
+          "afterLabel": "4 meses después"
         },
         {
           "a": "claudia-chacon",
@@ -1079,7 +2307,10 @@
           "story": "Claudia y Gilbert siguieron en el programa pese a lo ocurrido durante la convivencia.",
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
           "background": "Son de Mallorca, se conocían desde el instituto y llevaban año y medio juntos. Querían equilibrar una relación que ellos mismos veían desigual.",
-          "backgroundSource": "https://www.menorca.info/vips/television/2025/11/03/2500685/asi-son-claudia-gilbert-pareja-mallorquina-isla-tentaciones-conocen-desde-instituto-tienen-perrita-llamada-chloe.html"
+          "backgroundSource": "https://www.menorca.info/vips/television/2025/11/03/2500685/asi-son-claudia-gilbert-pareja-mallorquina-isla-tentaciones-conocen-desde-instituto-tienen-perrita-llamada-chloe.html",
+          "together": "1 año y medio",
+          "after": "Separados",
+          "afterLabel": "4 meses después"
         },
         {
           "a": "almudena-porras",
@@ -1087,7 +2318,10 @@
           "story": "Almudena y Darío llegaron por separado al reencuentro.",
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
           "background": "Son de Málaga y llevaban 11 años juntos, desde la adolescencia. Querían dar el paso hacia la boda y la familia.",
-          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/"
+          "backgroundSource": "https://www.diezminutos.es/teleprograma/programas-tv/a69175196/la-isla-de-las-tentaciones-9-parejas-telecinco-estreno/",
+          "together": "11 años",
+          "after": "Separados. Almudena inicia una relación con Borja. Darío comienza a conocer a Érika",
+          "afterLabel": "4 meses después"
         },
         {
           "a": "mayeli-diaz",
@@ -1095,7 +2329,10 @@
           "outcome": "Entraron con la edición empezada",
           "story": "Mayeli y Álvaro entraron con la edición ya empezada y volvieron a estar juntos en el reencuentro.",
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
-          "igPost": "https://www.instagram.com/p/DRJ3Ia3DJBB/"
+          "igPost": "https://www.instagram.com/p/DRJ3Ia3DJBB/",
+          "together": "8 meses",
+          "after": "Juntos, esperando un hijo",
+          "afterLabel": "4 meses después"
         },
         {
           "a": "andrea-canel",
@@ -1103,7 +2340,10 @@
           "outcome": "Entraron con la edición empezada; Andrea se fue con Sandra Barrios",
           "story": "Andrea y Enrique entraron con la edición empezada. Andrea terminó saliendo con Sandra Barrios.",
           "storySource": "https://www.formulatv.com/programas/la-isla-de-las-tentaciones/la-isla-de-las-tentaciones-9/",
-          "igPost": "https://www.instagram.com/p/DRz_AxcCN8f/"
+          "igPost": "https://www.instagram.com/p/DRz_AxcCN8f/",
+          "together": "1 año y medio",
+          "after": "Juntos",
+          "afterLabel": "4 meses después"
         }
       ],
       "notes": "Resultado de algunas parejas pendiente de verificar.",
@@ -1121,7 +2361,7 @@
           "role": "Soltera"
         },
         {
-          "id": "mara-soltera-isla-9",
+          "id": "mara-isla-11",
           "role": "Soltera"
         },
         {
@@ -1149,7 +2389,7 @@
           "role": "Soltero"
         },
         {
-          "id": "andrea-soltero-isla-9",
+          "id": "andrea-sabatini",
           "role": "Soltero"
         },
         {
@@ -1171,6 +2411,22 @@
         {
           "id": "melchor-soltero-isla-9",
           "role": "Soltero"
+        },
+        {
+          "id": "gerard-arias",
+          "role": "Soltero"
+        },
+        {
+          "id": "albert-barranco",
+          "role": "Soltero"
+        },
+        {
+          "id": "erika-soltera-isla-8",
+          "role": "Soltera"
+        },
+        {
+          "id": "mari-jimenez",
+          "role": "Soltera"
         }
       ],
       "singlesSource": "https://www.elindependiente.com/series-y-television/2025/10/22/isla-tentaciones-solteros-solteras-edicion/",
@@ -1178,6 +2434,99 @@
         {
           "post": "https://www.instagram.com/p/DQ7UPBRjEv5/",
           "caption": "Participantes de la edición"
+        }
+      ],
+      "links": [
+        {
+          "who": "dario-linero",
+          "with": "cristina-soltera-isla-9",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "almudena-porras",
+          "with": "borja-soltero-isla-9",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "enrique-cofino",
+          "with": "erika-soltera-isla-8",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "andrea-canel",
+          "with": "gerard-arias",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "gilbert-mina",
+          "with": "noelia-soltera-isla-9",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "claudia-chacon",
+          "with": "gerard-arias",
+          "text": "Tuvieron 4 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "juanpi-vega",
+          "with": "mara-isla-11",
+          "text": "Tuvieron 3 citas en el programa. Juanpi eligió a Mara en su decisión final, pero salió del programa sin pareja",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "sandra-barrios",
+          "with": "andrea-sabatini",
+          "text": "Tuvieron 4 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "rodri-lopez",
+          "with": "olatz-soltera-isla-9",
+          "text": "Tuvieron 3 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "helena-arauz",
+          "with": "albert-barranco",
+          "text": "Tuvieron 2 citas en el programa. Salieron juntos del programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "alvaro-rubio",
+          "with": "erika-soltera-isla-8",
+          "text": "Tuvieron 2 citas en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "mayeli-diaz",
+          "with": "aitor-soltero-isla-9",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
+        },
+        {
+          "who": "nieves-tristan",
+          "with": "aitor-soltero-isla-9",
+          "text": "Tuvieron 1 cita en el programa",
+          "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
+          "auto": "wiki"
         }
       ]
     },
@@ -1205,15 +2554,17 @@
           "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/",
           "background": "Creadores de contenido; se conocieron en Marbella y llevaban menos de un año juntos. Entraron con la edición empezada, tras la salida de José y Nerea.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
-          "igPost": "https://www.instagram.com/p/DXY82rWiPss/"
+          "igPost": "https://www.instagram.com/p/DXY82rWiPss/",
+          "together": "1 año y medio"
         },
         {
-          "a": "bayan-isla-10",
+          "a": "bayan-isla-8",
           "b": "miguel-isla-10",
           "outcome": "Salieron juntos",
           "story": "Bayan y Miguel fueron la única pareja de la edición que volvió junta a España.",
           "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/",
-          "igPost": "https://www.instagram.com/p/DYmJwDmCv2O/"
+          "igPost": "https://www.instagram.com/p/DYmJwDmCv2O/",
+          "together": "11 meses"
         },
         {
           "a": "leila-isla-10",
@@ -1223,7 +2574,8 @@
           "storySource": "https://www.formulatv.com/noticias/hogueras-finales-isla-tentaciones-10-137434/",
           "background": "Son de Gran Canaria y llevaban 11 años juntos, la relación más larga de la edición.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
-          "igPost": "https://www.instagram.com/p/DWgzpgWiGuZ/"
+          "igPost": "https://www.instagram.com/p/DWgzpgWiGuZ/",
+          "together": "11 años"
         },
         {
           "a": "nerea-isla-10",
@@ -1231,28 +2583,32 @@
           "outcome": "Expulsados de la experiencia; les sustituyeron Lucas y Yuli",
           "background": "Llevaban un año juntos y antes habían participado juntos en Jugando con fuego.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
-          "igPost": "https://www.instagram.com/p/DWgPKZPiNvm/"
+          "igPost": "https://www.instagram.com/p/DWgPKZPiNvm/",
+          "together": "1 año"
         },
         {
           "a": "mar-isla-10",
           "b": "christian-isla-10",
           "background": "Son de Palma de Mallorca y llevaban cuatro años juntos.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
-          "igPost": "https://www.instagram.com/p/DWgnoQ0iIsT/"
+          "igPost": "https://www.instagram.com/p/DWgnoQ0iIsT/",
+          "together": "4 años"
         },
         {
           "a": "julia-garrigos",
           "b": "luis-caparros",
           "background": "Son de Alicante y llevaban un año juntos.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
-          "igPost": "https://www.instagram.com/p/DWgYkxtCPZn/"
+          "igPost": "https://www.instagram.com/p/DWgYkxtCPZn/",
+          "together": "1 año"
         },
         {
           "a": "ainhoa-isla-10",
           "b": "alex-isla-10",
           "background": "Son de Ibiza y llevaban año y medio juntos.",
           "backgroundSource": "https://www.vozpopuli.com/dolcevita/la-isla-de-las-tentaciones-10-quienes-son-las-parejas-su-edad-de-donde-son-y-las-tentadoras-y-tentadores.html",
-          "igPost": "https://www.instagram.com/p/DWhDhWzjTpD/"
+          "igPost": "https://www.instagram.com/p/DWhDhWzjTpD/",
+          "together": "9 meses"
         }
       ],
       "singles": [
