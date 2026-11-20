@@ -95,7 +95,7 @@ for (const [rid, file, pick] of SRC) {
       if (force || (norm(p.name).split(' ').length === 1 && w.n.split(' ').length > 1)) { p.name = w.nick && norm(w.nick) !== norm(w.full) && !/^[A-Z]/.test(w.nick) ? `${w.full} «${w.nick}»` : w.full; stats.names++; }
       const o = oi >= 0 ? clean(x.r[oi] ?? '') : '', j = ji >= 0 ? clean(x.r[ji] ?? '') : '';
       if (!p.origin && o && !/^(España|Desconocido)$/i.test(o) && !/^\d/.test(o)) { p.origin = o; stats.origin++; }
-      if (!p.job && j && !/^\d/.test(j) && j.length < 90 && !/^(Participante|Concursante|Ganador|Ganadora)/i.test(j)) { p.job = j; stats.job++; }
+      if (!p.job && j && !/^\d/.test(j) && j.length < 90 && !/^(Participante|Concursante|Ganador|Ganadora)/i.test(j) && !/acusad|condenad|amante|c[aá]rcel|prisi[oó]n|delito/i.test(j)) { p.job = j; stats.job++; }
     }
     const miss = rows.filter((x) => !usedRow.has(x));
     if (ADD) {

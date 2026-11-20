@@ -3220,12 +3220,14 @@
     "jose-salazar": {
       "name": "José Salazar",
       "origin": "Badajoz",
-      "job": "Cantantes de Los Chunguitos"
+      "job": "Cantantes de Los Chunguitos",
+      "commons": "File:La música más rumbera llena la noche del domingo en San Isidro 01.jpg"
     },
     "juan-salazar": {
       "name": "Juan Salazar",
       "origin": "Badajoz",
-      "job": "Cantantes de Los Chunguitos"
+      "job": "Cantantes de Los Chunguitos",
+      "commons": "File:La música más rumbera llena la noche del domingo en San Isidro 02.jpg"
     },
     "rappel": {
       "name": "Rappel",
@@ -3242,8 +3244,7 @@
         "instagram": "https://www.instagram.com/fnicolasgi/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Madrid",
-      "job": "Acusado de falsedad documental"
+      "origin": "Madrid"
     },
     "raquel-bollo": {
       "name": "Raquel Bollo",
@@ -3790,8 +3791,7 @@
     },
     "patricia-donoso": {
       "name": "Patricia Donoso",
-      "origin": "Los Ángeles",
-      "job": "Examante de José Ortega Cano"
+      "origin": "Los Ángeles"
     },
     "nacho-palau": {
       "name": "Nacho Palau",
@@ -4194,8 +4194,7 @@
     },
     "mayte-zaldivar": {
       "name": "Mayte Zaldívar",
-      "origin": "Málaga",
-      "job": "Condenada en Caso Malaya"
+      "origin": "Málaga"
     },
     "fernando-marcos": {
       "name": "Fernando Marcos",
