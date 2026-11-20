@@ -5,7 +5,7 @@ import { parse } from './fetch-isla-wiki.mjs';
 const cfg = JSON.parse(readFileSync('data/raw/wiki-pages.json', 'utf8'));
 const UA = { 'User-Agent': 'wiki-reality-bot/1.0 (static site generator)' };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-const api = async (q) => { for (let i = 0; i < 6; i++) { await sleep(1500 + i * 4000); const r = await fetch('https://es.wikipedia.org/w/api.php?format=json&formatversion=2&' + q, { headers: UA }); if (r.ok) return r.json(); if (r.status !== 429 && r.status < 500) throw new Error('HTTP ' + r.status); } throw new Error('HTTP 429 persistente'); };
+const api = async (q) => { for (let i = 0; i < 6; i++) { await sleep(1500 + i * 4000); const r = await fetch('https://es.wikipedia.org/w/api.php?format=json&formatversion=2&' + q, { headers: UA }); if (r.ok) { const j = await r.json(); if (!j.error) return j; console.log('API:', JSON.stringify(j.error).slice(0, 200)); continue; } if (r.status !== 429 && r.status < 500) throw new Error('HTTP ' + r.status); } throw new Error('HTTP 429 persistente'); };
 const slug = (t) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 mkdirSync('data/raw/wiki', { recursive: true });
 if (cfg.prefixes?.length) {
