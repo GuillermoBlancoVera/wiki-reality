@@ -307,3 +307,8 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .avatar.av-igp iframe { transform: scale(calc(var(--s) / 56)) translate(-24px, -45px); }
 .avatar.big.av-igp { --s: 140; width: 140px; height: 140px; }
 .mini-igp iframe { transform: scale(.6786) translate(-24px, -45px); }
+
+.cover-embeds { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 400px)); gap: 1rem; }
+.cover-embeds figure { margin: 0; }
+.cover-embeds iframe { width: 100%; height: 560px; border: 1px solid var(--border); border-radius: 12px; background: #fff; }
+.cover-embeds figcaption { font-size: .85rem; color: var(--muted); margin-top: .35rem; }

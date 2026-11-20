@@ -457,10 +457,18 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "ana-isla-5": {
-      "name": "Ana"
+      "name": "Ana",
+      "socials": {
+        "instagram": "https://www.instagram.com/ananicls/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "cristian-isla-5": {
-      "name": "Cristian"
+      "name": "Cristian",
+      "socials": {
+        "instagram": "https://www.instagram.com/cristian__lr/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "laura-isla-5": {
       "name": "Laura Casabela",
@@ -482,7 +490,11 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "maria-aguilar": {
-      "name": "María Aguilar"
+      "name": "María Aguilar",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariabrunn/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "david-vaquero": {
       "name": "David Vaquero",
@@ -492,13 +504,25 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "ana-isla-7": {
-      "name": "Ana"
+      "name": "Ana",
+      "socials": {
+        "instagram": "https://www.instagram.com/analopez/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "borja-isla-7": {
-      "name": "Borja"
+      "name": "Borja",
+      "socials": {
+        "instagram": "https://www.instagram.com/borjagonzalez/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "ruth-isla-7": {
-      "name": "Ruth"
+      "name": "Ruth",
+      "socials": {
+        "instagram": "https://www.instagram.com/ruuthgleez/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "niko-isla-7": {
       "name": "Niko",
@@ -515,10 +539,18 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "andrea-isla-7": {
-      "name": "Andrea"
+      "name": "Andrea",
+      "socials": {
+        "instagram": "https://www.instagram.com/andreabuueno/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "alvaro-isla-7": {
-      "name": "Álvaro"
+      "name": "Álvaro",
+      "socials": {
+        "instagram": "https://www.instagram.com/alvaroalvrz6/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "bayan-isla-8": {
       "name": "Bayan Al Masri",
@@ -527,7 +559,11 @@
           "id": "ruben-torres",
           "relation": "Salieron juntos de la hoguera final (La Isla, 8ª edición)"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/bayanalmasrii/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "eros-isla-8": {
       "name": "Eros Vidal",
@@ -544,16 +580,32 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "alba-isla-10": {
-      "name": "Alba"
+      "name": "Alba",
+      "socials": {
+        "instagram": "https://www.instagram.com/albasann/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "david-isla-10": {
-      "name": "David"
+      "name": "David",
+      "socials": {
+        "instagram": "https://www.instagram.com/daviddasava/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "bayan-isla-10": {
-      "name": "Bayan"
+      "name": "Bayan",
+      "socials": {
+        "instagram": "https://www.instagram.com/bayanalmasrii/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "miguel-isla-10": {
-      "name": "Miguel"
+      "name": "Miguel",
+      "socials": {
+        "instagram": "https://www.instagram.com/miguelvmartinez/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "leila-isla-10": {
       "name": "Leila León",
@@ -648,7 +700,11 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "miguel-isla-11": {
-      "name": "Miguel"
+      "name": "Miguel",
+      "socials": {
+        "instagram": "https://www.instagram.com/miguelmoreenov/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "lydia-perez": {
       "name": "Lydia Pérez",
@@ -658,7 +714,11 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "manuel-villena": {
-      "name": "Manuel Villena"
+      "name": "Manuel Villena",
+      "socials": {
+        "instagram": "https://www.instagram.com/manuvillena_/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "marina-lopez": {
       "name": "Marina López",
@@ -688,13 +748,25 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "adrian-blanch": {
-      "name": "Adrián Blanch"
+      "name": "Adrián Blanch",
+      "socials": {
+        "instagram": "https://www.instagram.com/adrianblanch/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "laura-boado": {
-      "name": "Laura Boado"
+      "name": "Laura Boado",
+      "socials": {
+        "instagram": "https://www.instagram.com/lauraboado/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "alejandro-perez": {
-      "name": "Alejandro Pérez"
+      "name": "Alejandro Pérez",
+      "socials": {
+        "instagram": "https://www.instagram.com/alejandroperezmoro/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "anita-williams": {
       "name": "Anita Williams",
@@ -730,7 +802,11 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "joel-isla-8": {
-      "name": "Joel Benedicto"
+      "name": "Joel Benedicto",
+      "socials": {
+        "instagram": "https://www.instagram.com/joelbenedictoo/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "sandra-barrios": {
       "name": "Sandra Barrios",
@@ -1096,7 +1172,11 @@
       ]
     },
     "marieta-diaz": {
-      "name": "Marieta Díaz"
+      "name": "Marieta Díaz",
+      "socials": {
+        "instagram": "https://www.instagram.com/iammarieta_/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "koldo-gh-1": {
       "name": "Koldo"
@@ -3320,7 +3400,11 @@
       }
     },
     "rober": {
-      "name": "Rober"
+      "name": "Rober",
+      "socials": {
+        "instagram": "https://www.instagram.com/roberarand/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "lucas-mera": {
       "name": "Lucas Mera",
@@ -3342,7 +3426,11 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "ana-isla-8": {
-      "name": "Ana Luiza"
+      "name": "Ana Luiza",
+      "socials": {
+        "instagram": "https://www.instagram.com/analuiza_alls/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "fran-isla-8": {
       "name": "Fran"
@@ -3523,7 +3611,11 @@
     },
     "fatima-soltera-isla-10": {
       "name": "Fátima",
-      "origin": "Mojácar (Almería)"
+      "origin": "Mojácar (Almería)",
+      "socials": {
+        "instagram": "https://www.instagram.com/fatyalons13/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "laura-soltera-isla-10": {
       "name": "Laura",
@@ -3599,7 +3691,11 @@
     },
     "alba-soltera-isla-9": {
       "name": "Alba",
-      "origin": "Málaga"
+      "origin": "Málaga",
+      "socials": {
+        "instagram": "https://www.instagram.com/vilaaa21_/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "cristina-soltera-isla-9": {
       "name": "Cristina",
@@ -3635,7 +3731,11 @@
     },
     "aitor-soltero-isla-9": {
       "name": "Aitor",
-      "origin": "Barcelona"
+      "origin": "Barcelona",
+      "socials": {
+        "instagram": "https://www.instagram.com/aitorabad_/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "andrea-calush": {
       "name": "Andrea Calush",
@@ -3683,7 +3783,11 @@
     },
     "jesus-soltero-isla-8": {
       "name": "Jesús",
-      "origin": "Córdoba"
+      "origin": "Córdoba",
+      "socials": {
+        "instagram": "https://www.instagram.com/jesusgueflo/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "david-montoya-isla-8": {
       "name": "David Montoya",
@@ -3695,7 +3799,11 @@
     },
     "erika-soltera-isla-8": {
       "name": "Erika",
-      "origin": "Sevilla"
+      "origin": "Sevilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/erikaportillo14/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "guille-soltero-isla-8": {
       "name": "Guille",
@@ -3727,7 +3835,11 @@
     },
     "sofia-soltera-isla-8": {
       "name": "Sofía",
-      "origin": "Tenerife"
+      "origin": "Tenerife",
+      "socials": {
+        "instagram": "https://www.instagram.com/sofialulee_oficial/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "aida-soltera-isla-8": {
       "name": "Aída",
@@ -3763,11 +3875,19 @@
     },
     "sergio-soltero-isla-7": {
       "name": "Sergio",
-      "origin": "Granada"
+      "origin": "Granada",
+      "socials": {
+        "instagram": "https://www.instagram.com/sergioaguilera.27/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "gabriela-soltera-isla-7": {
       "name": "Gabriela",
-      "origin": "Murcia"
+      "origin": "Murcia",
+      "socials": {
+        "instagram": "https://www.instagram.com/gabriellahahlingag/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "monica-soltera-isla-7": {
       "name": "Mónica",
@@ -3826,15 +3946,27 @@
     },
     "miguel-soltero-isla-6": {
       "name": "Miguel",
-      "origin": "Málaga"
+      "origin": "Málaga",
+      "socials": {
+        "instagram": "https://www.instagram.com/migueldehoyos/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "yaiza-soltera-isla-6": {
       "name": "Yaiza",
-      "origin": "Málaga"
+      "origin": "Málaga",
+      "socials": {
+        "instagram": "https://www.instagram.com/yai.tejera/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "maria-soltera-isla-6": {
       "name": "María",
-      "origin": "Málaga"
+      "origin": "Málaga",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariabrunn/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "yuismel-soltero-isla-6": {
       "name": "Yuismel",
@@ -3842,7 +3974,11 @@
     },
     "irene-soltera-isla-6": {
       "name": "Irene",
-      "origin": "Madrid"
+      "origin": "Madrid",
+      "socials": {
+        "instagram": "https://www.instagram.com/iree_c13/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "rhayang-soltero-isla-6": {
       "name": "Rhayang",
@@ -3870,18 +4006,34 @@
     },
     "vicky-soltera-isla-6": {
       "name": "Vicky",
-      "origin": "Sevilla"
+      "origin": "Sevilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/vickycdiiaz/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "victoria-soltera-isla-6": {
       "name": "Victoria",
-      "origin": "Sevilla"
+      "origin": "Sevilla",
+      "socials": {
+        "instagram": "https://www.instagram.com/victoriaacostaa._/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "manuel-soltero-isla-6": {
-      "name": "Manuel"
+      "name": "Manuel",
+      "socials": {
+        "instagram": "https://www.instagram.com/_manuelnapoli/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "belen-soltera-isla-6": {
       "name": "Belén",
-      "origin": "Castellón"
+      "origin": "Castellón",
+      "socials": {
+        "instagram": "https://www.instagram.com/indiabelenlopez/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "samuel-soltero-isla-6": {
       "name": "Samuel",
@@ -6037,13 +6189,21 @@
       "name": "Christian Gálvez"
     },
     "alba-garcia-isla-8": {
-      "name": "Alba García"
+      "name": "Alba García",
+      "socials": {
+        "instagram": "https://www.instagram.com/albagarciamol/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "gabriella-soltera-isla-8": {
       "name": "Gabriella"
     },
     "simone-soltero-isla-8": {
-      "name": "Simone"
+      "name": "Simone",
+      "socials": {
+        "instagram": "https://www.instagram.com/simonecoppola9/"
+      },
+      "socialsSource": "Etiquetado por el perfil oficial @islatentaciones"
     },
     "joy-soltero-isla-1": {
       "name": "Joy"

@@ -188,6 +188,7 @@ const coupleBlock = (c, extra = '') => `
           <span class="outcome ${outcomeClass(c.outcome)}">${esc(c.outcome ?? 'Hoguera final: pendiente de completar')}</span></div>
       </div>
       ${coupleStory(c)}
+      ${c.igPost ? `<p class="story-source"><a href="${esc(c.igPost)}" rel="noopener nofollow" target="_blank">Foto oficial de la pareja en Instagram</a></p>` : ''}
     </div>`;
 // historias por persona
 const coupleOf = {};
@@ -354,6 +355,7 @@ ${r.official ? `<section class="block official"><h2>En la web oficial</h2><p cla
 <section class="block"><h2>Parejas</h2>
   <div class="couples">${e.couples.map((c) => coupleBlock(c)).join('')}</div>
 </section>` : '';
+    const covers = e.covers?.length ? `<section class="block"><h2>Fotos oficiales</h2><div class="cover-embeds">${e.covers.map((c) => `<figure><iframe src="${esc(c.post)}embed/" title="${esc(c.caption)}" scrolling="no" frameborder="0" loading="lazy"></iframe><figcaption>${esc(c.caption)} · <a href="${esc(c.post)}" rel="noopener nofollow" target="_blank">Instagram del programa</a></figcaption></figure>`).join('')}</div></section>` : '';
     const masks = e.masks?.length ? `<section class="block"><h2>Máscaras</h2>${e.panel?.length ? `<p><strong>Investigadores:</strong> ${esc(e.panel.join(', '))}</p>` : ''}<ul class="mask-list">${e.masks.map((m) => `<li><strong>${esc(m.mask)}</strong><span>${personLink(m.id)}</span><span class="muted">${esc(m.result)}</span></li>`).join('')}</ul>${srcLink(e.source)}</section>` : '';
     const participants = e.participants?.length ? `
 <section class="block"><h2>${e.participants.some((p) => p.eliminatedOrder) ? 'Resto de concursantes, del último en salir al primero' : 'Concursantes'}</h2>
@@ -370,7 +372,7 @@ ${r.official ? `<section class="block official"><h2>En la web oficial</h2><p cla
 <nav class="crumbs"><a href="${url(`${r.id}/`)}">${esc(r.name)}</a> › ${esc(e.title)}</nav>
 <section class="reality-hero small"><div><p class="eyebrow">${esc(r.name)}</p><h1 class="reality-title">${esc(e.title)}</h1></div></section>
 <section class="block"><dl class="facts">${facts}</dl>${e.notes ? `<p class="muted">${esc(e.notes)}</p>` : ''}</section>
-${podium}${masks}${couples}${links}${singles}${participants}${mediaList('Programas', e.episodes, e)}${mediaList('Debates', e.debates, e)}`,
+${covers}${podium}${masks}${couples}${links}${singles}${participants}${mediaList('Programas', e.episodes, e)}${mediaList('Debates', e.debates, e)}`,
     }));
   }
 }
