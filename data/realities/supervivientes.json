@@ -36,13 +36,13 @@
   "editions": [
     {
       "number": 1,
-      "title": "1.ª edición",
+      "title": "1ª edición",
       "year": 2000,
       "winner": "xavier-monjonell"
     },
     {
       "number": 2,
-      "title": "2.ª edición",
+      "title": "2ª edición",
       "year": 2001,
       "winner": "alfredo-cortina"
     },
@@ -1417,7 +1417,7 @@
       "participants": [
         {
           "id": "jose-manuel-soto",
-          "role": "4.º puesto",
+          "role": "4º puesto",
           "eliminatedOrder": 4
         },
         {
@@ -1507,7 +1507,7 @@
       "participants": [
         {
           "id": "tony-spina",
-          "role": "4.º puesto"
+          "role": "4º puesto"
         }
       ],
       "group": "All Stars"
@@ -1527,7 +1527,7 @@
       "participants": [
         {
           "id": "omar-sanchez",
-          "role": "4.º puesto"
+          "role": "4º puesto"
         }
       ],
       "group": "All Stars"
