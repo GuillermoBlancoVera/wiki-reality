@@ -1,0 +1,34 @@
+{
+  "_doc": "Generado por scripts/update-person-news.mjs. Titulares que mencionan a cada persona.",
+  "checked": {
+    "monica-naranjo": "2026-11-20T08:53:34.362Z"
+  },
+  "people": {
+    "monica-naranjo": [
+      {
+        "title": "Mónica Naranjo se moja y sorprende cuando dice cuál es la mejor voz del país: \"La oyes y... ¡uf!\"",
+        "source": "El Nacional.cat",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPekFaMm1ZdzEtZkdjLVFNZWstSVNkNmdvRmpfbVRiLTZKMFRSQzgyYW96U2RzVFJMd3dYR3l5ZFh4SUx3UlNsUFVRbnlvLWNSS3BXS3M2NEdPX1l0bzIyczRPS0lUMWNHRU1nN2t5Y2hucEU5SU9JM2E4THlDa0c4Mzctb3JITE9oWExSempmSnF0ZHBZQ0I2VER1STAyTFdpUzBhOEttcGRtUjRQQUVhN1BB?oc=5",
+        "date": "2026-11-18T12:14:11.000Z"
+      },
+      {
+        "title": "Mónica Naranjo explica por qué no volverá a publicar un disco de golpe: «Se quema en dos meses»",
+        "source": "Cadena Dial",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ2VmSHR6Y2VFTFV0Q2VLcllyTFcySWZpOGs5MWp1Wk9pbkZ1WnlqTThCVlJjSmlqODFlTFJtTVV0TWx1OTFITElHOUpCZWwxODQwZXdpY09icmdyWHZacklETEt0cjJHWEZ4M1pneFNhLThldTlpSTNYVUZKbWl0YUJNaW9iaWE3TExKTEdNWjRPMzA0NzhNRmxwZ1JpMExxaWYyVGhtZl91QXQ4dGs3MW5yZ29ZWVd4RGFkdFRZUFM3b2FqWEljNW96SXV5bUNQM1HSAdcBQVVfeXFMUF9Ya1JjSUN1WF9xcGJqS2gtNmNaREd4QndEOGx1NTV4RTVZd1hreVhZX0hBYkxMMjFwWjZMdy1IYlZja3gzLWF0ZnBZV0dYVEJDZGhIMjNXTnRnU3piWVBRcjB3RnZBVW9TODVURlI2NmszSV9ncXFDRF8tSEd3VWxRaThEay1iX09ZZHkxV3NGelAtYmNLNU5SREp5Z2VoY0s2UTZyRDgzYXpKV2Q5NktfdEp6ejFBcGVNZkNiS3Q5alRnOERzMVhjU3RfN1R1dkxRcjdtWE0?oc=5",
+        "date": "2026-11-17T06:37:45.000Z"
+      },
+      {
+        "title": "Mónica Naranjo, cantante (52 años): “Desayuno fruta de temporada, medio litro de té y una tostada con aceite y",
+        "source": "Diario AS",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWG1TUk0zWGRNaWtFSFVIR1BMZDlhZUtqbXAwRFVqdUNjQnZkYnNxaFZULTNpSl9BRHpHZXBocDBYRHF0V1AxOVZOQWR6Nzh5d0NRMTZScUhvVVQ0Z3ZRSVllaGM2dk8wRWJxMEItc2h0eDRXYTR3SWdKZkFpOHB2aG5tN2NFSWFYQjRvX3ViaVExX2VDY0doOVFpSDNYVjNFUnJiYkEwUmRTUmRBUEFONG1hY1NHYVRyZloyeUNfVktOMDhaOUR3UUpIQ1Y4MzFjaS1MNjNsaGxnNEFMN2FodGQ2R3Z0LUZ2Zm9qcWM3UVctb3PSAYcCQVVfeXFMTVJMbkhYUGswVllPQTZqMGE1NlpoUWJWSV9UWFBPOVVGV21zQjI2dHBIV1VPdXhiMzgtMEdNcmEteURUV29MVUNWUzBvcEVVWDB1WHEwSUpnYnNta3BULW5qUUpzOHpfZmtuNjUzYWZJTU1ka04tU2JfbXZGbFEtNDhub0xCS1pJM2M3dHhkclZsVEFtaWNBUmJuMVE1SzVPeFJRNzhmdE9jV3FCdEtSUEpFR3NXZldPRVl5TkdXZm1sTXZEX1RNYlJZaVRiQVVnNDRhUE5SdWdyT0dRaHRTSFdxMWoyYXE4RXVIVmpxU3lmNzhRbVg4TEFCbXctZlRwbDNQTWlKdnM?oc=5",
+        "date": "2026-11-08T08:00:00.000Z"
+      },
+      {
+        "title": "Mónica Naranjo recuerda 'con miedo' su paso por la 'Isla de las Tentaciones': 'Pensé que me iban a pegar'",
+        "source": "El Periódico",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmQ5VnFVSEUwTWhZT2J5RXdGblNvVkJPY2Ntc2J6LWZiMUg5NFlYWkxXWHBTSngySmJMZzBfQkh4REhqN0hLX3lzdUszRG00cjBfbkF2aFNvWWJKTE50MXM4cHZBclNOUnJhOW1mV0dUMDZfUTVEMFdRNWxxdDVqTVZUTm00bVdfVVVmQ1p0NjNoX0ZfR0NJUlUtT0trQ1FKSnlvNWNLWlRrZWp1ZU92QVlDX1AtbTZMY19kYXJqU3Y?oc=5",
+        "date": "2026-09-25T07:00:00.000Z"
+      }
+    ]
+  }
+}

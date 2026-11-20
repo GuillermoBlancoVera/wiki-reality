@@ -102,7 +102,45 @@
     "julius-bienert": "2026-11-20",
     "carmen-lopez": "2026-11-20",
     "darek-dabrowski": "2026-11-20",
-    "techi-cabrera": "2026-11-20"
+    "techi-cabrera": "2026-11-20",
+    "monica-naranjo": "2026-11-20",
+    "maica-benedicto": "2026-11-20",
+    "miguel-torres": "2026-11-20",
+    "david-fernandez": "2026-11-20",
+    "miguel-frigenti": "2026-11-20",
+    "julian-contreras": "2026-11-20",
+    "aramis-fuster": "2026-11-20",
+    "noemi-salazar": "2026-11-20",
+    "estela-grande": "2026-11-20",
+    "antonio-david-flores": "2026-11-20",
+    "hugo-castejon": "2026-11-20",
+    "pol-badia": "2026-11-20",
+    "el-cejas": "2026-11-20",
+    "dinio-garcia": "2026-11-20",
+    "naomi-asensi": "2026-11-20",
+    "albert-infante": "2026-11-20",
+    "michael-terlizzi": "2026-11-20",
+    "pilar-llori": "2026-11-20",
+    "zeus-montiel": "2026-11-20",
+    "susana-bianca": "2026-11-20",
+    "alex-caniggia": "2026-11-20",
+    "gustavo-guillermo": "2026-11-20",
+    "sol-macaluso": "2026-11-20",
+    "luca-dazi": "2026-11-20",
+    "mar-flores": "2026-11-20",
+    "jose-manuel-calderon": "2026-11-20",
+    "mel-b": "2026-11-20",
+    "ana-boyer": "2026-11-20",
+    "barbara-rey": "2026-11-20",
+    "maria-jose-campanario": "2026-11-20",
+    "carl-lewis": "2026-11-20",
+    "lydia-lozano": "2026-11-20",
+    "virginia-troconis": "2026-11-20",
+    "estefania-luyk": "2026-11-20",
+    "antonia-dell-atte": "2026-11-20",
+    "juan-avellaneda": "2026-11-20",
+    "jose-miguel-antunez": "2026-11-20",
+    "celia-villalobos": "2026-11-20"
   },
   "people": {
     "jesus-vazquez": [
@@ -1101,6 +1139,236 @@
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
         "source": "wikimedia"
+      }
+    ],
+    "maica-benedicto": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Maica-benedicto-en-el-plato-de-gran-hermano-19.webp",
+        "thumb": "https://api.openverse.org/v1/images/335a1310-8918-4886-83cc-c8b2945b4904/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=179263192",
+        "title": "Maica-benedicto-en-el-plato-de-gran-hermano-19",
+        "author": "Maica Benedicto",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "miguel-torres": [
+      {
+        "src": "https://live.staticflickr.com/3730/11829891115_d4ed3e2f2e_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/58f09218-97ac-47a3-8045-61822b908578/thumb/",
+        "page": "https://www.flickr.com/photos/9345958@N05/11829891115",
+        "title": "Viña Miguel Torres",
+        "author": "Sol Robayo S. Journeys for the Soul VIAJES",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Miguel_Torres_-_240422_190037_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/24533160-ae41-4a93-a982-ec1ead9242f8/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=150868791",
+        "title": "25th Laureus World Sports Awards - Red Carpet - Miguel Torres - 240422 190037 (cropped)",
+        "author": "Barcex",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://live.staticflickr.com/3729/10186991095_80d94e7a81_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/a0854b52-355b-4b38-a209-26b31b534582/thumb/",
+        "page": "https://www.flickr.com/photos/62243473@N05/10186991095",
+        "title": "Miguel Torres Chile Santa Digna Estelado Sparkling Rosé",
+        "author": "Fareham Wine",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "david-fernandez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/David_Fern%C3%A1ndez_Ortiz_-_Rodolfo_Chikilicuatre_-_ESC_2008.jpg",
+        "thumb": "https://api.openverse.org/v1/images/6601c160-17eb-4491-9ab7-571b3cc2a19f/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=4117102",
+        "title": "David Fernández Ortiz - Rodolfo Chikilicuatre - ESC 2008",
+        "author": "Daniel Aragay from Terrassa (Barcelona), Catalunya, Spain",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "miguel-frigenti": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Miguel-Frigenti-en-el-plato-de-gran-hermano.png",
+        "thumb": "https://api.openverse.org/v1/images/4718eec8-6f16-4f31-8aae-2f5257dbdcd6/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=179263592",
+        "title": "Miguel-Frigenti-en-el-plato-de-gran-hermano",
+        "author": "Miguel Frigenti",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "mar-flores": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mar-Flores-04-1.jpg",
+        "thumb": "https://api.openverse.org/v1/images/af0883c3-c9e7-402f-a4fb-d8dbb891a1e9/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=174352141",
+        "title": "Mar-Flores-04-1",
+        "author": "PauloJAG1976",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Mar_Flores_sensualidad_y_libertad.jpg",
+        "thumb": "https://api.openverse.org/v1/images/fc81ac44-603e-41f9-8d7b-8b9d8345e226/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=142574173",
+        "title": "Mar Flores sensualidad y libertad",
+        "author": "Mar Flores",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      }
+    ],
+    "jose-manuel-calderon": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jos%C3%A9_Manuel_Calder%C3%B3n_-_01.jpg",
+        "thumb": "https://api.openverse.org/v1/images/e38d9b7f-a69c-439e-9ee5-21b26e4dc9a0/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=22559823",
+        "title": "José Manuel Calderón - 01",
+        "author": "Carlos Delgado",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jos%C3%A9_Manuel_Calder%C3%B3n_in_2006.jpg",
+        "thumb": "https://api.openverse.org/v1/images/8aaca23e-167a-4076-9123-99a9898d3470/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=1912963",
+        "title": "José Manuel Calderón in 2006",
+        "author": "John Maynard from Toronto, Canada",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "mel-b": [
+      {
+        "src": "https://live.staticflickr.com/6049/6228313455_e64b2e86a9.jpg",
+        "thumb": "https://api.openverse.org/v1/images/1986e341-89ff-4446-8174-50809bca21e0/thumb/",
+        "page": "https://www.flickr.com/photos/58820009@N05/6228313455",
+        "title": "Mel B",
+        "author": "Eva Rinaldi Celebrity Photographer",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/6228/6228888760_c6dc78a390.jpg",
+        "thumb": "https://api.openverse.org/v1/images/4841fbd5-8c33-47c8-9684-862a5c1ab1f9/thumb/",
+        "page": "https://www.flickr.com/photos/58820009@N05/6228888760",
+        "title": "Mel B",
+        "author": "Eva Rinaldi Celebrity Photographer",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/6213/6331732762_c36a74e21f.jpg",
+        "thumb": "https://api.openverse.org/v1/images/4daf9605-513c-42fa-a23f-c3c0c0a62d07/thumb/",
+        "page": "https://www.flickr.com/photos/58820009@N05/6331732762",
+        "title": "Mel B",
+        "author": "Eva Rinaldi Celebrity Photographer",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "carl-lewis": [
+      {
+        "src": "https://live.staticflickr.com/8371/8424517646_0bf0e749b9_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/676b40b3-b291-4ecb-993b-09e30688bd09/thumb/",
+        "page": "https://www.flickr.com/photos/66463488@N06/8424517646",
+        "title": "Carl Lewis",
+        "author": "Doha Stadium Plus",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/33/63333521_68608b6846.jpg",
+        "thumb": "https://api.openverse.org/v1/images/e7caeb27-0164-45da-ae4d-3fa24a70a791/thumb/",
+        "page": "https://www.flickr.com/photos/34525677@N00/63333521",
+        "title": "Carl Lewis' Nike",
+        "author": "peter_panamint",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Carl_Lewis_Doha_%28cropped%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/2406138e-9f18-44ec-bd05-a76a0cabb466/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=50782190",
+        "title": "Carl Lewis Doha (cropped)",
+        "author": "{{{1}}}",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "lydia-lozano": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lydia_Lozano_2023.jpg",
+        "thumb": "https://api.openverse.org/v1/images/96af5218-4eed-40f3-9eda-72e4f965eb2d/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=136081091",
+        "title": "Lydia Lozano 2023",
+        "author": "Ederim",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Lydia_Lozano.jpg",
+        "thumb": "https://api.openverse.org/v1/images/50d1a33c-25af-43a8-918d-fb186080f7f3/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=156674038",
+        "title": "Lydia Lozano",
+        "author": "Mafalditaeditora",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "celia-villalobos": [
+      {
+        "src": "https://live.staticflickr.com/65535/52249041412_3473798520_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/d7b18568-b4e9-478e-a48f-abedd4230eec/thumb/",
+        "page": "https://www.flickr.com/photos/68782198@N02/52249041412",
+        "title": "2022_07_29 Entrega de la Medalla de la Ciudad de Málaga a Celia Villalobos",
+        "author": "Junta de Andalucía",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/65535/52250028848_afcdca5054_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/dbac0fc4-cd8a-4b60-a98a-f9234a157d84/thumb/",
+        "page": "https://www.flickr.com/photos/68782198@N02/52250028848",
+        "title": "2022_07_29 Entrega de la Medalla de la Ciudad de Málaga a Celia Villalobos",
+        "author": "Junta de Andalucía",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/65535/52250018231_125ff0047a_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/ce640c1d-2350-476d-86f7-9de9a3d9c8c1/thumb/",
+        "page": "https://www.flickr.com/photos/68782198@N02/52250018231",
+        "title": "2022_07_29 Entrega de la Medalla de la Ciudad de Málaga a Celia Villalobos",
+        "author": "Junta de Andalucía",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": "flickr"
       }
     ]
   }

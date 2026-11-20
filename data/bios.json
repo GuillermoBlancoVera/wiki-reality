@@ -1,0 +1,2590 @@
+{
+  "_doc": "Generado por scripts/update-socials.mjs desde Wikidata (CC0). Para escribir una biografía a mano usa \"bio\" en people.json.",
+  "people": {
+    "susana-molina": {
+      "desc": "modelo e influencer española",
+      "born": "1990-02-24",
+      "place": "Murcia",
+      "wikidata": "http://www.wikidata.org/entity/Q106709909"
+    },
+    "kiko-hernandez": {
+      "desc": "colaborador de televisión y actor español",
+      "born": "1976-08-26",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Kiko_Hern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q11929856"
+    },
+    "natacha-jaitt": {
+      "desc": "modelo, vedette, actriz, guionista, y conductora de radio y televisión argentina",
+      "born": "1977-08-13",
+      "place": "Buenos Aires",
+      "wiki": "https://es.wikipedia.org/wiki/Natacha_Jaitt",
+      "wikidata": "http://www.wikidata.org/entity/Q6038407"
+    },
+    "daniel-santos": {
+      "desc": "cantante y compositor portorriqueño",
+      "born": "1916-02-05",
+      "place": "Santurce",
+      "wiki": "https://es.wikipedia.org/wiki/Daniel_Santos",
+      "wikidata": "http://www.wikidata.org/entity/Q995629"
+    },
+    "carmen-russo": {
+      "desc": "actriz y cantante italiana",
+      "born": "1959-10-03",
+      "place": "Génova",
+      "wiki": "https://es.wikipedia.org/wiki/Carmen_Russo",
+      "wikidata": "http://www.wikidata.org/entity/Q451650"
+    },
+    "miriam-sanchez": {
+      "desc": "modelo española",
+      "born": "1996-01-10",
+      "wikidata": "http://www.wikidata.org/entity/Q101822517"
+    },
+    "maite-zuniga": {
+      "desc": "atleta española",
+      "born": "1964-12-28",
+      "place": "Éibar",
+      "wiki": "https://es.wikipedia.org/wiki/Maite_Z%C3%BA%C3%B1iga",
+      "wikidata": "http://www.wikidata.org/entity/Q457666"
+    },
+    "abraham-garcia": {
+      "desc": "músico venezolano",
+      "born": "1955-03-05",
+      "place": "Caracas",
+      "wikidata": "http://www.wikidata.org/entity/Q135448464"
+    },
+    "sofia-suescun": {
+      "desc": "Personalidad televisiva e influencer española",
+      "born": "1996-07-04",
+      "place": "Pamplona",
+      "wiki": "https://es.wikipedia.org/wiki/Sof%C3%ADa_Suescun",
+      "wikidata": "http://www.wikidata.org/entity/Q106315099"
+    },
+    "omar-montes": {
+      "desc": "cantante español",
+      "born": "1988-06-22",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Omar_Montes",
+      "wikidata": "http://www.wikidata.org/entity/Q88664635"
+    },
+    "olga-moreno": {
+      "desc": "futbolista española",
+      "born": "1979-07-09",
+      "place": "Barcelona",
+      "wikidata": "http://www.wikidata.org/entity/Q7086638"
+    },
+    "alejandro-nieto": {
+      "desc": "Modelo español",
+      "born": "1990-02-14",
+      "place": "El Puerto de Santa María",
+      "wikidata": "http://www.wikidata.org/entity/Q111596687"
+    },
+    "pedro-garcia-aguado": {
+      "desc": "waterpolista y personalidad de televisión español",
+      "born": "1968-12-09",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Pedro_Garc%C3%ADa_Aguado",
+      "wikidata": "http://www.wikidata.org/entity/Q1608634"
+    },
+    "marta-penate": {
+      "desc": "influencer española",
+      "born": "1990-12-05",
+      "place": "Las Palmas de Gran Canaria",
+      "wikidata": "http://www.wikidata.org/entity/Q126911887"
+    },
+    "lucia-sanchez": {
+      "desc": "futbolista española",
+      "born": "1997-01-26",
+      "wikidata": "http://www.wikidata.org/entity/Q98071294"
+    },
+    "alba-isla-8": {
+      "desc": "actriz española",
+      "born": "1987-01-01",
+      "place": "Las Palmas de Gran Canaria",
+      "wiki": "https://es.wikipedia.org/wiki/Alba_Rodr%C3%ADguez",
+      "wikidata": "http://www.wikidata.org/entity/Q5662458"
+    },
+    "alejandro-perez": {
+      "desc": "actor",
+      "wikidata": "http://www.wikidata.org/entity/Q28065471"
+    },
+    "ruben-torres": {
+      "desc": "exfutbolista y entrenador de fútbol femenino",
+      "born": "1935-01-01",
+      "place": "Provincia de Tucumán",
+      "wiki": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Torres",
+      "wikidata": "http://www.wikidata.org/entity/Q75076108"
+    },
+    "marlene-mourreau": {
+      "desc": "vedette, modelo, actriz y presentadora de televisión francesa",
+      "born": "1969-04-19",
+      "place": "Neuilly-sur-Seine",
+      "wiki": "https://es.wikipedia.org/wiki/Marl%C3%A8ne_Mourreau",
+      "wikidata": "http://www.wikidata.org/entity/Q3294484"
+    },
+    "ivonne-armant": {
+      "desc": "Actriz y presentadora hispanomexicana",
+      "wiki": "https://es.wikipedia.org/wiki/Ivonne_Armant",
+      "wikidata": "http://www.wikidata.org/entity/Q60825845"
+    },
+    "belen-esteban": {
+      "desc": "personalidad televisiva española",
+      "born": "1973-11-09",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Bel%C3%A9n_Esteban",
+      "wikidata": "http://www.wikidata.org/entity/Q2895223"
+    },
+    "alyson-eckmann": {
+      "desc": "Presentadora, reportera, actriz, cantante y locutora de radio estadounidense",
+      "born": "1990-11-08",
+      "place": "Seattle",
+      "wiki": "https://es.wikipedia.org/wiki/Alyson_Eckmann",
+      "wikidata": "http://www.wikidata.org/entity/Q16298940"
+    },
+    "miriam-saavedra": {
+      "desc": "colaboradora de televisión",
+      "born": "1993-12-30",
+      "place": "Lima",
+      "wiki": "https://es.wikipedia.org/wiki/Miriam_Saavedra",
+      "wikidata": "http://www.wikidata.org/entity/Q60148089"
+    },
+    "carlos-lozano": {
+      "desc": "presentador español",
+      "born": "1962-11-27",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Carlos_Lozano",
+      "wikidata": "http://www.wikidata.org/entity/Q5750748"
+    },
+    "gianmarco-onestini": {
+      "desc": "modelo y personalidad televisiva italiana",
+      "born": "1996-10-24",
+      "place": "Castel San Pietro Terme",
+      "wikidata": "http://www.wikidata.org/entity/Q138656253"
+    },
+    "alvaro-munoz-escassi": {
+      "desc": "Jinete y jugador de polo español",
+      "born": "1973-10-27",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/%C3%81lvaro_Mu%C3%B1oz_Escassi",
+      "wikidata": "http://www.wikidata.org/entity/Q6172861"
+    },
+    "carmen-alcayde": {
+      "desc": "periodista y presentadora de televisión española",
+      "born": "1973-06-15",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Carmen_Alcayde",
+      "wikidata": "http://www.wikidata.org/entity/Q5043419"
+    },
+    "gala-caldirola": {
+      "desc": "Modelos de España",
+      "born": "1992-10-15",
+      "place": "Alicante",
+      "wiki": "https://es.wikipedia.org/wiki/Gala_Caldirola",
+      "wikidata": "http://www.wikidata.org/entity/Q133308247"
+    },
+    "terelu-campos": {
+      "desc": "presentadora de televisión y tertuliana española",
+      "born": "1965-08-31",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Terelu_Campos",
+      "wikidata": "http://www.wikidata.org/entity/Q6142486"
+    },
+    "beatriz-rico": {
+      "desc": "Actriz",
+      "born": "1970-02-25",
+      "place": "Avilés",
+      "wiki": "https://es.wikipedia.org/wiki/Beatriz_Rico",
+      "wikidata": "http://www.wikidata.org/entity/Q2893026"
+    },
+    "miri-perez-cabrero": {
+      "desc": "actriz y modelo española",
+      "born": "1993-12-15",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Miri_P%C3%A9rez-Cabrero",
+      "wikidata": "http://www.wikidata.org/entity/Q108287573"
+    },
+    "victor-janeiro": {
+      "desc": "Torero y personaje mediático español",
+      "born": "1979-04-05",
+      "place": "Ubrique",
+      "wiki": "https://es.wikipedia.org/wiki/V%C3%ADctor_Janeiro",
+      "wikidata": "http://www.wikidata.org/entity/Q16647455"
+    },
+    "matias-fernandez": {
+      "desc": "futbolista chileno",
+      "born": "1986-05-15",
+      "place": "Buenos Aires",
+      "wiki": "https://es.wikipedia.org/wiki/Mat%C3%ADas_Fern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q310657"
+    },
+    "fran-jimenez": {
+      "desc": "actor de voz español",
+      "wikidata": "http://www.wikidata.org/entity/Q97441189"
+    },
+    "lucia-parreno": {
+      "desc": "cantante española",
+      "born": "1991-02-10",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Luc%C3%ADa_Parre%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q24034949"
+    },
+    "raquel-martin": {
+      "desc": "futbolista española",
+      "born": "2003-03-08",
+      "wikidata": "http://www.wikidata.org/entity/Q105723291"
+    },
+    "maite-galdeano": {
+      "desc": "personalidad televisiva española",
+      "born": "1969-04-22",
+      "place": "Pamplona",
+      "wiki": "https://es.wikipedia.org/wiki/Maite_Galdeano",
+      "wikidata": "http://www.wikidata.org/entity/Q127687313"
+    },
+    "carlota-prado": {
+      "desc": "concursante de Gran Hermano España",
+      "born": "1993-01-01",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Carlota_Prado",
+      "wikidata": "http://www.wikidata.org/entity/Q106916420"
+    },
+    "kiko-rodriguez": {
+      "desc": "cantante dominicano",
+      "wikidata": "http://www.wikidata.org/entity/Q125556537"
+    },
+    "amor-romeira": {
+      "desc": "personalidad televisiva de España",
+      "born": "1989-02-13",
+      "place": "Puerto del Rosario",
+      "wiki": "https://es.wikipedia.org/wiki/Amor_Romeira",
+      "wikidata": "http://www.wikidata.org/entity/Q115867929"
+    },
+    "angela-portero": {
+      "desc": "Periodista española",
+      "born": "1966-03-07",
+      "place": "Santiago de Compostela",
+      "wiki": "https://es.wikipedia.org/wiki/%C3%81ngela_Portero",
+      "wikidata": "http://www.wikidata.org/entity/Q16301630"
+    },
+    "ares-teixido": {
+      "desc": "presentadora de televisión española",
+      "born": "1987-01-19",
+      "place": "Lérida",
+      "wiki": "https://es.wikipedia.org/wiki/Ares_Teixid%C3%B3",
+      "wikidata": "http://www.wikidata.org/entity/Q21279289"
+    },
+    "israel-lancho": {
+      "desc": "torero español",
+      "born": "1979-09-13",
+      "place": "Badajoz",
+      "wiki": "https://es.wikipedia.org/wiki/Israel_Lancho",
+      "wikidata": "http://www.wikidata.org/entity/Q3155651"
+    },
+    "victor-sandoval": {
+      "desc": "presentador y colaborador de televisión español",
+      "born": "1967-01-16",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/V%C3%ADctor_Sandoval_(presentador)",
+      "wikidata": "http://www.wikidata.org/entity/Q6165733"
+    },
+    "kiko-rivera": {
+      "desc": "cantante y personaje mediático español",
+      "born": "1984-02-09",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Kiko_Rivera",
+      "wikidata": "http://www.wikidata.org/entity/Q5959626"
+    },
+    "olvido-hormigos": {
+      "desc": "colaboradora de televisión española",
+      "born": "1971-02-16",
+      "place": "Los Yébenes",
+      "wiki": "https://es.wikipedia.org/wiki/Olvido_Hormigos",
+      "wikidata": "http://www.wikidata.org/entity/Q16300773"
+    },
+    "jose-salazar": {
+      "desc": "atleta venezolano",
+      "born": "1957-09-12",
+      "wikidata": "http://www.wikidata.org/entity/Q6293951"
+    },
+    "raquel-bollo": {
+      "desc": "colaboradora de televisión, empresaria y modelo española",
+      "born": "1975-11-04",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Raquel_Bollo",
+      "wikidata": "http://www.wikidata.org/entity/Q22350907"
+    },
+    "charlotte-caniggia": {
+      "desc": "modelo argentina",
+      "born": "1993-02-15",
+      "place": "Buenos Aires",
+      "wiki": "https://es.wikipedia.org/wiki/Charlotte_Caniggia",
+      "wikidata": "http://www.wikidata.org/entity/Q19320241"
+    },
+    "lucia-hoyos": {
+      "desc": "Modelo, actriz y presentadora española",
+      "born": "1975-03-05",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Luc%C3%ADa_Hoyos",
+      "wikidata": "http://www.wikidata.org/entity/Q21915463"
+    },
+    "carmen-lopez": {
+      "desc": "futbolista mexicana",
+      "born": "2005-03-17",
+      "place": "Texas",
+      "wikidata": "http://www.wikidata.org/entity/Q140096637"
+    },
+    "el-koala": {
+      "desc": "músico español",
+      "born": "1969-10-15",
+      "place": "Rincón de la Victoria",
+      "wiki": "https://es.wikipedia.org/wiki/El_Koala",
+      "wikidata": "http://www.wikidata.org/entity/Q1324291"
+    },
+    "monica-hoyos": {
+      "desc": "presentadora de televisión peruana",
+      "born": "1977-01-15",
+      "place": "Bellavista",
+      "wiki": "https://es.wikipedia.org/wiki/M%C3%B3nica_Hoyos",
+      "wikidata": "http://www.wikidata.org/entity/Q6036187"
+    },
+    "angel-garo": {
+      "desc": "actor y humorista español",
+      "born": "1965-01-12",
+      "place": "La Línea de la Concepción",
+      "wiki": "https://es.wikipedia.org/wiki/%C3%81ngel_Gar%C3%B3",
+      "wikidata": "http://www.wikidata.org/entity/Q251641"
+    },
+    "oriana-marzoli": {
+      "desc": "Personalidad de televisión e influencer",
+      "born": "1992-03-13",
+      "place": "Caracas",
+      "wiki": "https://es.wikipedia.org/wiki/Oriana_Gonz%C3%A1lez_Marzoli",
+      "wikidata": "http://www.wikidata.org/entity/Q117195502"
+    },
+    "alba-carrillo": {
+      "desc": "modelo, presentadora y colaboradora de televisión española",
+      "born": "1986-07-31",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Alba_Carrillo",
+      "wikidata": "http://www.wikidata.org/entity/Q25094538"
+    },
+    "mila-ximenez": {
+      "desc": "colaboradora de televisión y personalidad mediática española",
+      "born": "1952-05-21",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Mila_Xim%C3%A9nez",
+      "wikidata": "http://www.wikidata.org/entity/Q6016223"
+    },
+    "antonio-david-flores": {
+      "desc": "Colaborador de televisión y Youtuber español",
+      "born": "1975-04-24",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Antonio_David_Flores",
+      "wikidata": "http://www.wikidata.org/entity/Q40786865"
+    },
+    "irene-junquera": {
+      "desc": "periodista deportiva española",
+      "born": "1985-12-14",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Irene_Junquera",
+      "wikidata": "http://www.wikidata.org/entity/Q22327181"
+    },
+    "dinio-garcia": {
+      "desc": "cantante y actor pornográfico cubano",
+      "born": "1972-02-14",
+      "place": "La Habana",
+      "wiki": "https://es.wikipedia.org/wiki/Dinio_Garc%C3%ADa",
+      "wikidata": "http://www.wikidata.org/entity/Q5278337"
+    },
+    "anabel-pantoja": {
+      "desc": "Personalidad televisiva",
+      "born": "1986-07-15",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Anabel_Pantoja",
+      "wikidata": "http://www.wikidata.org/entity/Q107265609"
+    },
+    "laura-bozzo": {
+      "desc": "presentadora de televisión, abogada y escritora peruanomexicana",
+      "born": "1951-08-19",
+      "place": "Callao",
+      "wiki": "https://es.wikipedia.org/wiki/Laura_Bozzo",
+      "wikidata": "http://www.wikidata.org/entity/Q6498726"
+    },
+    "raquel-arias": {
+      "desc": "política española",
+      "born": "1966-04-02",
+      "place": "Proendos",
+      "wikidata": "http://www.wikidata.org/entity/Q17024032"
+    },
+    "sergio-garrido": {
+      "desc": "político venezolano",
+      "born": "1967-11-02",
+      "place": "Barinas",
+      "wiki": "https://es.wikipedia.org/wiki/Sergio_Garrido",
+      "wikidata": "http://www.wikidata.org/entity/Q110089384"
+    },
+    "kiko-matamoros": {
+      "desc": "colaborador de televisión, tertuliano y representante artístico",
+      "born": "1956-12-27",
+      "place": "Rumania",
+      "wiki": "https://es.wikipedia.org/wiki/Kiko_Matamoros",
+      "wikidata": "http://www.wikidata.org/entity/Q19824060"
+    },
+    "mariana-rodriguez": {
+      "desc": "actriz venezolana",
+      "born": "1991-03-05",
+      "place": "Caracas",
+      "wikidata": "http://www.wikidata.org/entity/Q27078171"
+    },
+    "tania-medina": {
+      "desc": "cirujana, presentadora, escritora, artista y modelo dominicana",
+      "born": "1986-04-12",
+      "place": "Santiago de los Caballeros",
+      "wiki": "https://es.wikipedia.org/wiki/Tania_Medina",
+      "wikidata": "http://www.wikidata.org/entity/Q16221906"
+    },
+    "ainhoa-cantalapiedra": {
+      "desc": "cantante y compositora española",
+      "born": "1980-09-25",
+      "place": "Galdácano",
+      "wiki": "https://es.wikipedia.org/wiki/Ainhoa_Cantalapiedra",
+      "wikidata": "http://www.wikidata.org/entity/Q3391130"
+    },
+    "lara-sajen": {
+      "desc": "artista hispano-argentina",
+      "born": "1977-09-22",
+      "place": "Campana",
+      "wiki": "https://es.wikipedia.org/wiki/Lara_Sajen",
+      "wikidata": "http://www.wikidata.org/entity/Q20644666"
+    },
+    "sylvia-pantoja": {
+      "desc": "cantante española",
+      "born": "1969-05-11",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Sylvia_Pantoja",
+      "wikidata": "http://www.wikidata.org/entity/Q9080851"
+    },
+    "agustin-bravo": {
+      "desc": "presentador de radio y televisión español",
+      "born": "1961-03-07",
+      "place": "Almaraz",
+      "wiki": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Bravo",
+      "wikidata": "http://www.wikidata.org/entity/Q5660568"
+    },
+    "elena-rodriguez": {
+      "desc": "política española",
+      "wikidata": "http://www.wikidata.org/entity/Q131301383"
+    },
+    "antonio-pavon": {
+      "desc": "torero y personalidad de televisión español",
+      "born": "1982-01-06",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Antonio_Pav%C3%B3n_Gal%C3%A1n",
+      "wikidata": "http://www.wikidata.org/entity/Q127272488"
+    },
+    "vicky-larraz": {
+      "desc": "cantante española",
+      "born": "1962-08-26",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Vicky_Larraz",
+      "wikidata": "http://www.wikidata.org/entity/Q6161443"
+    },
+    "isabel-pantoja": {
+      "desc": "cantante española",
+      "born": "1956-08-02",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Isabel_Pantoja",
+      "wikidata": "http://www.wikidata.org/entity/Q2423005"
+    },
+    "chelo-garcia-cortes": {
+      "desc": "colaboradora de televisión y escritora española (n.1951)",
+      "born": "1951-12-03",
+      "place": "Orense",
+      "wiki": "https://es.wikipedia.org/wiki/Chelo_Garc%C3%ADa-Cort%C3%A9s",
+      "wikidata": "http://www.wikidata.org/entity/Q8345183"
+    },
+    "lidia-santos": {
+      "desc": "futbolista española",
+      "born": "2002-03-26",
+      "wikidata": "http://www.wikidata.org/entity/Q105721577"
+    },
+    "toni-salazar": {
+      "desc": "cantante española",
+      "born": "1963-03-14",
+      "place": "Badajoz",
+      "wiki": "https://es.wikipedia.org/wiki/To%C3%B1i_Salazar",
+      "wikidata": "http://www.wikidata.org/entity/Q9628122"
+    },
+    "encarna-salazar": {
+      "desc": "cantante española",
+      "born": "1961-01-10",
+      "place": "Badajoz",
+      "wiki": "https://es.wikipedia.org/wiki/Encarna_Salazar",
+      "wikidata": "http://www.wikidata.org/entity/Q16301897"
+    },
+    "loly-alvarez": {
+      "desc": "Personalidad televisiva y cantante española",
+      "born": "1970-10-18",
+      "place": "Toledo",
+      "wiki": "https://es.wikipedia.org/wiki/Loly_%C3%81lvarez",
+      "wikidata": "http://www.wikidata.org/entity/Q131748868"
+    },
+    "sergio-carvajal": {
+      "desc": "modelo español",
+      "born": "1993-11-27",
+      "place": "Tarragona",
+      "wikidata": "http://www.wikidata.org/entity/Q73226187"
+    },
+    "romina-malaspina": {
+      "desc": "Presentadora, modelo y cantante argentina",
+      "born": "1994-07-07",
+      "place": "Mar del Plata",
+      "wiki": "https://es.wikipedia.org/wiki/Romina_Malaspina",
+      "wikidata": "http://www.wikidata.org/entity/Q96741538"
+    },
+    "melissa-vargas": {
+      "desc": "tenista de mesa peruana",
+      "born": "1985-01-01",
+      "wikidata": "http://www.wikidata.org/entity/Q141516593"
+    },
+    "maria-lapiedra": {
+      "desc": "Influencer, escritora, actriz y modelo española",
+      "born": "1984-07-19",
+      "place": "Mollerusa",
+      "wikidata": "http://www.wikidata.org/entity/Q17032235"
+    },
+    "arantxa-del-sol": {
+      "desc": "Modelo y presentadora española",
+      "born": "1972-05-20",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Arancha_del_Sol",
+      "wikidata": "http://www.wikidata.org/entity/Q5702286"
+    },
+    "carmen-borrego": {
+      "desc": "directora y colaboradora de programas de televisión española",
+      "born": "1966-11-10",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Carmen_Borrego",
+      "wikidata": "http://www.wikidata.org/entity/Q107077720"
+    },
+    "miguel-frigenti": {
+      "desc": "Colaborador de televisión español",
+      "born": "1987-10-31",
+      "place": "Talavera de la Reina",
+      "wiki": "https://es.wikipedia.org/wiki/Miguel_Frigenti",
+      "wikidata": "http://www.wikidata.org/entity/Q106890096"
+    },
+    "bigote-arrocet": {
+      "desc": "humorista argentino",
+      "born": "1949-11-29",
+      "place": "Buenos Aires",
+      "wiki": "https://es.wikipedia.org/wiki/Bigote_Arrocet",
+      "wikidata": "http://www.wikidata.org/entity/Q859737"
+    },
+    "leticia-sabater": {
+      "desc": "presentadora, cantante y actriz española",
+      "born": "1966-06-21",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Leticia_Sabater",
+      "wikidata": "http://www.wikidata.org/entity/Q11054192"
+    },
+    "eliad-cohen": {
+      "desc": "actor y modelo israelí",
+      "born": "1988-05-11",
+      "place": "Acre",
+      "wiki": "https://es.wikipedia.org/wiki/Eliad_Cohen",
+      "wikidata": "http://www.wikidata.org/entity/Q3722919"
+    },
+    "carla-barber": {
+      "desc": "modelo y médica española",
+      "born": "1990-05-18",
+      "place": "Las Palmas de Gran Canaria",
+      "wiki": "https://es.wikipedia.org/wiki/Carla_Barber",
+      "wikidata": "http://www.wikidata.org/entity/Q20744865"
+    },
+    "mario-d-amico": {
+      "desc": "modelo italiano",
+      "born": "1983-01-01",
+      "place": "Milán",
+      "wiki": "https://es.wikipedia.org/wiki/Mario_D%27Amico",
+      "wikidata": "http://www.wikidata.org/entity/Q23839124"
+    },
+    "nacho-vidal": {
+      "desc": "actor pornográfico español",
+      "born": "1973-12-30",
+      "place": "Mataró",
+      "wiki": "https://es.wikipedia.org/wiki/Nacho_Vidal_(actor_pornogr%C3%A1fico)",
+      "wikidata": "http://www.wikidata.org/entity/Q1255380"
+    },
+    "carmen-lomana": {
+      "desc": "empresaria española",
+      "born": "1948-08-01",
+      "place": "León",
+      "wiki": "https://es.wikipedia.org/wiki/Carmen_Lomana",
+      "wikidata": "http://www.wikidata.org/entity/Q442835"
+    },
+    "noel-bayarri": {
+      "desc": "influencer y personaje televisivo español",
+      "wiki": "https://es.wikipedia.org/wiki/Noel_Bayarri",
+      "wikidata": "http://www.wikidata.org/entity/Q137831009"
+    },
+    "isabel-rabago": {
+      "desc": "Periodista española",
+      "born": "1974-04-01",
+      "place": "Ferrol",
+      "wiki": "https://es.wikipedia.org/wiki/Isabel_R%C3%A1bago",
+      "wikidata": "http://www.wikidata.org/entity/Q19972736"
+    },
+    "rafa-lomana": {
+      "desc": "político español",
+      "born": "1965-01-01",
+      "place": "Santander",
+      "wiki": "https://es.wikipedia.org/wiki/Rafa_Lomana",
+      "wikidata": "http://www.wikidata.org/entity/Q27908505"
+    },
+    "nacho-montes": {
+      "desc": "periodista español",
+      "born": "1970-07-21",
+      "place": "Madrid",
+      "wikidata": "http://www.wikidata.org/entity/Q105611655"
+    },
+    "katia-aveiro": {
+      "desc": "cantante portuguesa",
+      "born": "1977-10-05",
+      "place": "Funchal",
+      "wiki": "https://es.wikipedia.org/wiki/K%C3%A1tia_Aveiro",
+      "wikidata": "http://www.wikidata.org/entity/Q2165781"
+    },
+    "diego-matamoros": {
+      "desc": "actor canadiense",
+      "place": "Río de Janeiro",
+      "wikidata": "http://www.wikidata.org/entity/Q27996338"
+    },
+    "bibiana-fernandez": {
+      "desc": "actriz, presentadora y tertuliana española",
+      "born": "1954-02-13",
+      "place": "Tánger",
+      "wiki": "https://es.wikipedia.org/wiki/Bibiana_Fern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q2595673"
+    },
+    "la-pelopony": {
+      "desc": "cantante española",
+      "born": "1994-06-14",
+      "place": "Sabadell",
+      "wikidata": "http://www.wikidata.org/entity/Q17274671"
+    },
+    "tatiana-delgado": {
+      "desc": "Política venezolana",
+      "born": "1901-01-01",
+      "wiki": "https://es.wikipedia.org/wiki/Tatiana_Delgado",
+      "wikidata": "http://www.wikidata.org/entity/Q110280905"
+    },
+    "sonia-monroy": {
+      "desc": "actriz, cantante y colaboradora de televisión española",
+      "born": "1972-10-01",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Sonia_Monroy",
+      "wikidata": "http://www.wikidata.org/entity/Q6117847"
+    },
+    "alberto-garcia": {
+      "desc": "nadador mexicano",
+      "born": "1957-07-22",
+      "wikidata": "http://www.wikidata.org/entity/Q4712042"
+    },
+    "tamara-gorro": {
+      "desc": "colaboradora de televisión española",
+      "born": "1987-01-18",
+      "place": "Segovia",
+      "wiki": "https://es.wikipedia.org/wiki/Tamara_Gorro",
+      "wikidata": "http://www.wikidata.org/entity/Q18987086"
+    },
+    "reyes-estevez": {
+      "desc": "atleta español",
+      "born": "1976-08-02",
+      "place": "Cornellá de Llobregat",
+      "wiki": "https://es.wikipedia.org/wiki/Reyes_Est%C3%A9vez",
+      "wikidata": "http://www.wikidata.org/entity/Q529230"
+    },
+    "ivonne-orsini": {
+      "desc": "modelo puertorriqueña",
+      "born": "1988-04-06",
+      "place": "Bayamón",
+      "wikidata": "http://www.wikidata.org/entity/Q6099306"
+    },
+    "santi-abad": {
+      "desc": "baloncestista español",
+      "born": "1969-07-24",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Santi_Abad",
+      "wikidata": "http://www.wikidata.org/entity/Q2254019"
+    },
+    "daniela-blume": {
+      "desc": "sexóloga y locutora de radio catalana",
+      "born": "1985-02-09",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Daniela_Blume",
+      "wikidata": "http://www.wikidata.org/entity/Q6740799"
+    },
+    "wilma-gonzalez": {
+      "desc": "modelo erótica y actriz española",
+      "born": "1984-05-24",
+      "place": "Palma de Mallorca",
+      "wiki": "https://es.wikipedia.org/wiki/Wilma_Gonz%C3%A1lez",
+      "wikidata": "http://www.wikidata.org/entity/Q4020258"
+    },
+    "ivan-santos": {
+      "desc": "actor español",
+      "born": "1978-11-11",
+      "place": "Torrejón de Ardoz",
+      "wiki": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Santos_(actor)",
+      "wikidata": "http://www.wikidata.org/entity/Q5923557"
+    },
+    "michel-gurfi": {
+      "desc": "actor argentino",
+      "born": "1982-12-03",
+      "place": "Buenos Aires",
+      "wiki": "https://es.wikipedia.org/wiki/Michel_Gurfi",
+      "wikidata": "http://www.wikidata.org/entity/Q3856390"
+    },
+    "michel-olivares": {
+      "desc": "modelo español",
+      "born": "1979-09-29",
+      "wiki": "https://es.wikipedia.org/wiki/Michel_Olivares",
+      "wikidata": "http://www.wikidata.org/entity/Q6012965"
+    },
+    "patxi-salinas": {
+      "desc": "futbolista español",
+      "born": "1963-11-17",
+      "place": "Bilbao",
+      "wiki": "https://es.wikipedia.org/wiki/Patxi_Salinas",
+      "wikidata": "http://www.wikidata.org/entity/Q2606664"
+    },
+    "karmele-marchante": {
+      "desc": "Periodista española",
+      "born": "1946-09-15",
+      "place": "Tortosa",
+      "wiki": "https://es.wikipedia.org/wiki/Karmele_Marchante",
+      "wikidata": "http://www.wikidata.org/entity/Q5397535"
+    },
+    "ojani-noa": {
+      "desc": "actor estadounidense",
+      "born": "1974-06-11",
+      "wikidata": "http://www.wikidata.org/entity/Q24488369"
+    },
+    "estela-gimenez": {
+      "desc": "gimnasta rítmica española",
+      "born": "1979-03-29",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Estela_Gim%C3%A9nez",
+      "wikidata": "http://www.wikidata.org/entity/Q440123"
+    },
+    "rebecca-loos": {
+      "desc": "actriz y modelo española",
+      "born": "1977-06-19",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Rebecca_Loos",
+      "wikidata": "http://www.wikidata.org/entity/Q2027664"
+    },
+    "javian-anton": {
+      "desc": "cantante español",
+      "born": "1974-09-18",
+      "place": "Dos Hermanas",
+      "wikidata": "http://www.wikidata.org/entity/Q27651510"
+    },
+    "elizabeth-thompson": {
+      "desc": "artista uruguaya",
+      "born": "1930-05-31",
+      "place": "Montevideo",
+      "wikidata": "http://www.wikidata.org/entity/Q42387101"
+    },
+    "chiqui-marti": {
+      "desc": "Bailarina y stripper española",
+      "born": "1971-07-23",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Chiqui_Mart%C3%AD",
+      "wikidata": "http://www.wikidata.org/entity/Q2917423"
+    },
+    "toni-elias": {
+      "desc": "piloto de motociclismo español",
+      "born": "1983-03-26",
+      "place": "Manresa",
+      "wiki": "https://es.wikipedia.org/wiki/Toni_El%C3%ADas",
+      "wikidata": "http://www.wikidata.org/entity/Q380326"
+    },
+    "aratz-lakuntza": {
+      "desc": "Deportista español",
+      "wiki": "https://es.wikipedia.org/wiki/Aratz_Lakuntza",
+      "wikidata": "http://www.wikidata.org/entity/Q138456499"
+    },
+    "ingrid-betancor": {
+      "desc": "Periodista y presentadora de TV.",
+      "wiki": "https://es.wikipedia.org/wiki/Ingrid_Betancor",
+      "wikidata": "http://www.wikidata.org/entity/Q138456509"
+    },
+    "ivonne-reyes": {
+      "desc": "actriz y modelo venezolana",
+      "born": "1967-10-08",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Ivonne_Reyes",
+      "wikidata": "http://www.wikidata.org/entity/Q3344836"
+    },
+    "marisa-jara": {
+      "desc": "modelo y actriz española",
+      "born": "1980-02-01",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Marisa_Jara",
+      "wikidata": "http://www.wikidata.org/entity/Q3849318"
+    },
+    "gabriela-guillen": {
+      "desc": "futbolista costarricense",
+      "born": "1992-03-01",
+      "place": "Cantón de Tibás",
+      "wiki": "https://es.wikipedia.org/wiki/Gabriela_Guill%C3%A9n",
+      "wikidata": "http://www.wikidata.org/entity/Q20090833"
+    },
+    "keyla-soltera-isla-6": {
+      "desc": "modelo española",
+      "place": "Las Palmas de Gran Canaria",
+      "wikidata": "http://www.wikidata.org/entity/Q124080293"
+    },
+    "patricia-perez-isla-2": {
+      "desc": "presentadora de televisión española",
+      "born": "1973-12-05",
+      "place": "La Cañiza",
+      "wiki": "https://es.wikipedia.org/wiki/Patricia_P%C3%A9rez_(presentadora_de_televisi%C3%B3n)",
+      "wikidata": "http://www.wikidata.org/entity/Q11698377"
+    },
+    "jesus-vazquez": {
+      "desc": "presentador de televisión español",
+      "born": "1965-09-09",
+      "place": "Ferrol",
+      "wiki": "https://es.wikipedia.org/wiki/Jes%C3%BAs_V%C3%A1zquez",
+      "wikidata": "http://www.wikidata.org/entity/Q942570"
+    },
+    "jordi-gonzalez": {
+      "desc": "periodista y presentador de televisión español",
+      "born": "1961-09-26",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Jordi_Gonz%C3%A1lez",
+      "wikidata": "http://www.wikidata.org/entity/Q3323593"
+    },
+    "jorge-javier-vazquez": {
+      "desc": "presentador de televisión, escritor y actor español",
+      "born": "1970-07-25",
+      "place": "Badalona",
+      "wiki": "https://es.wikipedia.org/wiki/Jorge_Javier_V%C3%A1zquez",
+      "wikidata": "http://www.wikidata.org/entity/Q3328870"
+    },
+    "laura-madrueno": {
+      "desc": "Periodista y presentadora de televisión de España",
+      "born": "1986-03-05",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Laura_Madrue%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q125226505"
+    },
+    "marta-flich": {
+      "desc": "presentadora y actriz española",
+      "born": "1978-07-21",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Marta_Flich",
+      "wikidata": "http://www.wikidata.org/entity/Q29569810"
+    },
+    "sandra-barneda": {
+      "desc": "periodista y presentadora española",
+      "born": "1975-10-04",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Sandra_Barneda",
+      "wikidata": "http://www.wikidata.org/entity/Q5934860"
+    },
+    "angy-fernandez": {
+      "desc": "cantante y actriz española",
+      "born": "1990-09-05",
+      "place": "Palma de Mallorca",
+      "wiki": "https://es.wikipedia.org/wiki/Angy_Fern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q270264"
+    },
+    "julio-iglesias-jr": {
+      "desc": "cantante español",
+      "born": "1973-02-25",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Julio_Iglesias_Jr.",
+      "wikidata": "http://www.wikidata.org/entity/Q1832274"
+    },
+    "carolina-ferre": {
+      "desc": "periodista española",
+      "born": "1974-08-27",
+      "place": "Cocentaina",
+      "wiki": "https://es.wikipedia.org/wiki/Carolina_Ferre",
+      "wikidata": "http://www.wikidata.org/entity/Q8338780"
+    },
+    "daniel-diges": {
+      "desc": "actor y cantante español",
+      "born": "1981-01-17",
+      "place": "Alcalá de Henares",
+      "wiki": "https://es.wikipedia.org/wiki/Daniel_Diges",
+      "wikidata": "http://www.wikidata.org/entity/Q313571"
+    },
+    "arturo-valls": {
+      "desc": "humorista, actor y presentador de televisión español",
+      "born": "1975-03-24",
+      "place": "La Punta",
+      "wiki": "https://es.wikipedia.org/wiki/Arturo_Valls",
+      "wikidata": "http://www.wikidata.org/entity/Q3327786"
+    },
+    "maria-del-monte": {
+      "desc": "Cantante y presentadora española (n. 1962)",
+      "born": "1962-04-26",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Mar%C3%ADa_del_Monte",
+      "wikidata": "http://www.wikidata.org/entity/Q793723"
+    },
+    "angeles-munoz": {
+      "desc": "cantante, vocalista y compositora",
+      "born": "1974-08-20",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/%C3%81ngeles_Mu%C3%B1oz_(cantante)",
+      "wikidata": "http://www.wikidata.org/entity/Q6173699"
+    },
+    "javier-herrero": {
+      "desc": "cantante español",
+      "born": "1960-11-07",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Javier_Herrero_(cantante)",
+      "wikidata": "http://www.wikidata.org/entity/Q5927850"
+    },
+    "xuso-jones": {
+      "desc": "cantante, influencer y presentador español",
+      "born": "1989-06-16",
+      "place": "Murcia",
+      "wiki": "https://es.wikipedia.org/wiki/Xuso_Jones",
+      "wikidata": "http://www.wikidata.org/entity/Q15921532"
+    },
+    "llum-barrera": {
+      "desc": "actriz española",
+      "born": "1968-11-30",
+      "place": "Alcudia",
+      "wiki": "https://es.wikipedia.org/wiki/Llum_Barrera",
+      "wikidata": "http://www.wikidata.org/entity/Q11689356"
+    },
+    "florentino-fernandez": {
+      "desc": "actor español",
+      "born": "1972-11-09",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Florentino_Fern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q3074157"
+    },
+    "santi-rodriguez": {
+      "desc": "actor y cómico español",
+      "born": "1965-07-27",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Santi_Rodr%C3%ADguez",
+      "wikidata": "http://www.wikidata.org/entity/Q6120778"
+    },
+    "angela-carrasco": {
+      "desc": "cantante, actriz y profesora de canto dominicana",
+      "born": "1951-01-23",
+      "place": "Dajabón",
+      "wiki": "https://es.wikipedia.org/wiki/%C3%81ngela_Carrasco",
+      "wikidata": "http://www.wikidata.org/entity/Q252016"
+    },
+    "ruth-lorenzo": {
+      "desc": "cantante española",
+      "born": "1982-11-10",
+      "place": "Las Torres de Cotillas",
+      "wiki": "https://es.wikipedia.org/wiki/Ruth_Lorenzo",
+      "wikidata": "http://www.wikidata.org/entity/Q6723363"
+    },
+    "edu-soto": {
+      "desc": "actor y humorista español",
+      "born": "1978-05-20",
+      "place": "Mataró",
+      "wiki": "https://es.wikipedia.org/wiki/Edu_Soto",
+      "wikidata": "http://www.wikidata.org/entity/Q11681279"
+    },
+    "pablo-puyol": {
+      "desc": "Actor y cantante español",
+      "born": "1975-12-26",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Pablo_Puyol",
+      "wikidata": "http://www.wikidata.org/entity/Q902817"
+    },
+    "ana-morgade": {
+      "desc": "actriz, cómica y presentadora española",
+      "born": "1979-11-08",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Ana_Morgade",
+      "wikidata": "http://www.wikidata.org/entity/Q8198107"
+    },
+    "silvia-abril": {
+      "desc": "actriz española",
+      "born": "1971-04-10",
+      "place": "Mataró",
+      "wiki": "https://es.wikipedia.org/wiki/Silvia_Abril",
+      "wikidata": "http://www.wikidata.org/entity/Q129501"
+    },
+    "blas-canto": {
+      "desc": "cantante y compositor español",
+      "born": "1991-10-26",
+      "place": "Ricote",
+      "wiki": "https://es.wikipedia.org/wiki/Blas_Cant%C3%B3",
+      "wikidata": "http://www.wikidata.org/entity/Q4925264"
+    },
+    "rosa-lopez": {
+      "desc": "cantante española",
+      "born": "1981-01-14",
+      "place": "Láchar",
+      "wiki": "https://es.wikipedia.org/wiki/Rosa_L%C3%B3pez",
+      "wikidata": "http://www.wikidata.org/entity/Q270817"
+    },
+    "lorena-gomez": {
+      "desc": "cantante y actriz española",
+      "born": "1986-04-12",
+      "place": "Lérida",
+      "wiki": "https://es.wikipedia.org/wiki/Lorena_G%C3%B3mez_(cantante)",
+      "wikidata": "http://www.wikidata.org/entity/Q3392375"
+    },
+    "beatriz-luengo": {
+      "desc": "música española",
+      "born": "1982-12-23",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Beatriz_Luengo",
+      "wikidata": "http://www.wikidata.org/entity/Q297598"
+    },
+    "canco-rodriguez": {
+      "desc": "actor español",
+      "born": "1977-07-08",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Canco_Rodr%C3%ADguez",
+      "wikidata": "http://www.wikidata.org/entity/Q5747266"
+    },
+    "esther-arroyo": {
+      "desc": "actriz y modelo española",
+      "born": "1968-03-29",
+      "place": "Cádiz",
+      "wiki": "https://es.wikipedia.org/wiki/Esther_Arroyo",
+      "wikidata": "http://www.wikidata.org/entity/Q2449273"
+    },
+    "yolanda-ramos": {
+      "desc": "actriz, presentadora y humorista española",
+      "born": "1968-09-04",
+      "place": "Sardañola del Vallés",
+      "wiki": "https://es.wikipedia.org/wiki/Yolanda_Ramos",
+      "wikidata": "http://www.wikidata.org/entity/Q3572483"
+    },
+    "miquel-fernandez": {
+      "desc": "actor y cantante español",
+      "born": "1980-02-13",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Miquel_Fern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q6017881"
+    },
+    "lucia-gil": {
+      "desc": "cantante y actriz española",
+      "born": "1998-05-29",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Luc%C3%ADa_Gil",
+      "wikidata": "http://www.wikidata.org/entity/Q2081469"
+    },
+    "diana-navarro": {
+      "desc": "Cantante española",
+      "born": "1978-04-21",
+      "place": "Huelin",
+      "wiki": "https://es.wikipedia.org/wiki/Diana_Navarro",
+      "wikidata": "http://www.wikidata.org/entity/Q3390525"
+    },
+    "pepa-aniorte": {
+      "desc": "actriz española",
+      "born": "1972-09-06",
+      "place": "Orihuela",
+      "wiki": "https://es.wikipedia.org/wiki/Pepa_Aniorte",
+      "wikidata": "http://www.wikidata.org/entity/Q3814531"
+    },
+    "la-terremoto-de-alcorcon": {
+      "desc": "Cantante y actriz española",
+      "born": "1977-09-17",
+      "place": "Alcorcón",
+      "wiki": "https://es.wikipedia.org/wiki/La_Terremoto_de_Alcorc%C3%B3n",
+      "wikidata": "http://www.wikidata.org/entity/Q3089692"
+    },
+    "david-amor": {
+      "desc": "actor, presentador, humorista y ex jugador de balonmano",
+      "born": "1980-04-12",
+      "place": "Salceda de Caselas",
+      "wiki": "https://es.wikipedia.org/wiki/David_Amor",
+      "wikidata": "http://www.wikidata.org/entity/Q12386956"
+    },
+    "maria-villalon": {
+      "desc": "cantante y compositora española",
+      "born": "1989-04-01",
+      "place": "Ronda",
+      "wiki": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Villal%C3%B3n",
+      "wikidata": "http://www.wikidata.org/entity/Q5646491"
+    },
+    "carlos-baute": {
+      "desc": "cantante, compositor y actor venezolano",
+      "born": "1974-03-08",
+      "place": "Caracas",
+      "wiki": "https://es.wikipedia.org/wiki/Carlos_Baute",
+      "wikidata": "http://www.wikidata.org/entity/Q632239"
+    },
+    "soraya-arnelas": {
+      "desc": "cantante, compositora, actriz y modelo española",
+      "born": "1982-09-13",
+      "place": "Valencia de Alcántara",
+      "wiki": "https://es.wikipedia.org/wiki/Soraya_Arnelas",
+      "wikidata": "http://www.wikidata.org/entity/Q230340"
+    },
+    "jordi-coll": {
+      "desc": "actor, cantante, bailarín y modelo español",
+      "born": "1985-09-06",
+      "place": "Mataró",
+      "wiki": "https://es.wikipedia.org/wiki/Jordi_Coll",
+      "wikidata": "http://www.wikidata.org/entity/Q2885122"
+    },
+    "brays-efe": {
+      "desc": "actor español",
+      "born": "1988-09-30",
+      "place": "Las Palmas de Gran Canaria",
+      "wiki": "https://es.wikipedia.org/wiki/Brays_Efe",
+      "wikidata": "http://www.wikidata.org/entity/Q28482664"
+    },
+    "anabel-alonso": {
+      "desc": "actriz, presentadora y humorista española",
+      "born": "1964-11-11",
+      "place": "Baracaldo",
+      "wiki": "https://es.wikipedia.org/wiki/Anabel_Alonso",
+      "wikidata": "http://www.wikidata.org/entity/Q4750585"
+    },
+    "manu-sanchez": {
+      "desc": "futbolista español",
+      "born": "2000-08-24",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Manuel_S%C3%A1nchez_de_la_Pe%C3%B1a",
+      "wikidata": "http://www.wikidata.org/entity/Q78515852"
+    },
+    "jose-corbacho": {
+      "desc": "actor, humorista y presentador de televisión español",
+      "born": "1965-12-12",
+      "place": "Hospitalet de Llobregat",
+      "wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Corbacho",
+      "wikidata": "http://www.wikidata.org/entity/Q580414"
+    },
+    "belinda-washington": {
+      "desc": "actriz y presentadora hispano/británica",
+      "born": "1963-08-29",
+      "place": "Altrincham",
+      "wiki": "https://es.wikipedia.org/wiki/Belinda_Washington",
+      "wikidata": "http://www.wikidata.org/entity/Q8245799"
+    },
+    "mario-vaquerizo": {
+      "desc": "cantante, humorista y colaborador de radio y televisión español",
+      "born": "1974-07-05",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Mario_Vaquerizo",
+      "wikidata": "http://www.wikidata.org/entity/Q5676614"
+    },
+    "maria-pelae": {
+      "desc": "cantante y compositora española",
+      "born": "1990-03-31",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pel%C3%A1e",
+      "wikidata": "http://www.wikidata.org/entity/Q111336885"
+    },
+    "eva-soriano": {
+      "desc": "cómica española",
+      "born": "1990-03-04",
+      "place": "Reus",
+      "wiki": "https://es.wikipedia.org/wiki/Eva_Soriano",
+      "wikidata": "http://www.wikidata.org/entity/Q61424063"
+    },
+    "loles-leon": {
+      "desc": "actriz española",
+      "born": "1950-08-01",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Loles_Le%C3%B3n",
+      "wikidata": "http://www.wikidata.org/entity/Q265719"
+    },
+    "lydia-bosch": {
+      "desc": "actriz y presentadora española",
+      "born": "1963-11-26",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Lydia_Bosch",
+      "wikidata": "http://www.wikidata.org/entity/Q3320735"
+    },
+    "david-fernandez": {
+      "desc": "tenista de mesa estadounidense",
+      "born": "2000-01-01",
+      "place": "Puerto Rico",
+      "wikidata": "http://www.wikidata.org/entity/Q5233618"
+    },
+    "miriam-rodriguez": {
+      "desc": "cantante y compositora española",
+      "born": "1996-09-30",
+      "place": "Puentedeume",
+      "wiki": "https://es.wikipedia.org/wiki/Miriam_Rodr%C3%ADguez",
+      "wikidata": "http://www.wikidata.org/entity/Q54279277"
+    },
+    "andrea-guasch": {
+      "desc": "actriz española",
+      "born": "1990-12-20",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Andrea_Guasch",
+      "wikidata": "http://www.wikidata.org/entity/Q459320"
+    },
+    "alfred-garcia": {
+      "desc": "cantante, compositor, músico y productor español",
+      "born": "1997-03-14",
+      "place": "El Prat de Llobregat",
+      "wiki": "https://es.wikipedia.org/wiki/Alfred_Garc%C3%ADa",
+      "wikidata": "http://www.wikidata.org/entity/Q47517740"
+    },
+    "anne-igartiburu": {
+      "desc": "actriz y presentadora española",
+      "born": "1969-02-18",
+      "place": "Elorrio",
+      "wiki": "https://es.wikipedia.org/wiki/Anne_Igartiburu",
+      "wikidata": "http://www.wikidata.org/entity/Q270276"
+    },
+    "susi-caramelo": {
+      "desc": "cómica española",
+      "born": "1980-09-18",
+      "place": "Hospitalet de Llobregat",
+      "wiki": "https://es.wikipedia.org/wiki/Susi_Caramelo",
+      "wikidata": "http://www.wikidata.org/entity/Q95743355"
+    },
+    "agustin-jimenez": {
+      "desc": "actor y humorista español",
+      "born": "1970-09-08",
+      "place": "Cáceres",
+      "wiki": "https://es.wikipedia.org/wiki/Agust%C3%ADn_Jim%C3%A9nez",
+      "wikidata": "http://www.wikidata.org/entity/Q5660715"
+    },
+    "david-bustamante": {
+      "desc": "cantante y compositor español",
+      "born": "1982-03-25",
+      "place": "San Vicente de la Barquera",
+      "wiki": "https://es.wikipedia.org/wiki/David_Bustamante",
+      "wikidata": "http://www.wikidata.org/entity/Q953172"
+    },
+    "raoul-vazquez": {
+      "desc": "cantante y compositor español",
+      "born": "1997-03-19",
+      "place": "Montgat",
+      "wiki": "https://es.wikipedia.org/wiki/Raoul_V%C3%A1zquez",
+      "wikidata": "http://www.wikidata.org/entity/Q64760019"
+    },
+    "julia-medina": {
+      "desc": "Cantante española",
+      "born": "1994-11-27",
+      "place": "San Fernando",
+      "wiki": "https://es.wikipedia.org/wiki/Julia_Medina",
+      "wikidata": "http://www.wikidata.org/entity/Q111575498"
+    },
+    "supremme-de-luxe": {
+      "desc": "drag queen española",
+      "born": "1979-01-06",
+      "place": "Fuenlabrada",
+      "wiki": "https://es.wikipedia.org/wiki/Supremme_de_Luxe",
+      "wikidata": "http://www.wikidata.org/entity/Q106646411"
+    },
+    "raquel-sanchez-silva": {
+      "desc": "periodista, escritora y presentadora de televisión española",
+      "born": "1973-01-13",
+      "place": "Plasencia",
+      "wiki": "https://es.wikipedia.org/wiki/Raquel_S%C3%A1nchez_Silva",
+      "wikidata": "http://www.wikidata.org/entity/Q267031"
+    },
+    "juanra-bonet": {
+      "desc": "presentador de televisión",
+      "born": "1974-06-06",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Juanra_Bonet",
+      "wikidata": "http://www.wikidata.org/entity/Q5651044"
+    },
+    "valeria-ros": {
+      "desc": "cómica española",
+      "born": "1986-10-05",
+      "place": "Guecho",
+      "wiki": "https://es.wikipedia.org/wiki/Valeria_Ros",
+      "wikidata": "http://www.wikidata.org/entity/Q50360111"
+    },
+    "melani-garcia": {
+      "desc": "cantante y compositora española",
+      "born": "2007-06-10",
+      "place": "La Eliana",
+      "wiki": "https://es.wikipedia.org/wiki/Melani_Garc%C3%ADa",
+      "wikidata": "http://www.wikidata.org/entity/Q69907909"
+    },
+    "mikel-herzog-jr": {
+      "desc": "músico, cantante y actor español",
+      "born": "1995-03-24",
+      "place": "Cambrils",
+      "wikidata": "http://www.wikidata.org/entity/Q133826017"
+    },
+    "ana-guerra": {
+      "desc": "cantante, compositora, actriz y presentadora española",
+      "born": "1994-02-18",
+      "place": "San Cristóbal de La Laguna",
+      "wiki": "https://es.wikipedia.org/wiki/Ana_Guerra",
+      "wikidata": "http://www.wikidata.org/entity/Q55078258"
+    },
+    "bertin-osborne": {
+      "desc": "cantante y actor español",
+      "born": "1954-12-07",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Bert%C3%ADn_Osborne",
+      "wikidata": "http://www.wikidata.org/entity/Q828285"
+    },
+    "manu-baqueiro": {
+      "desc": "actor español",
+      "born": "1978-04-20",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Manu_Baqueiro",
+      "wikidata": "http://www.wikidata.org/entity/Q2837876"
+    },
+    "j-kbello": {
+      "desc": "cantante español",
+      "born": "1998-01-01",
+      "place": "Cádiz",
+      "wikidata": "http://www.wikidata.org/entity/Q131954248"
+    },
+    "cristina-castano": {
+      "desc": "actriz española",
+      "born": "1978-10-30",
+      "place": "Villalba",
+      "wiki": "https://es.wikipedia.org/wiki/Cristina_Casta%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q251636"
+    },
+    "anibal-gomez": {
+      "desc": "cómico y actor español",
+      "born": "1979-05-08",
+      "wiki": "https://es.wikipedia.org/wiki/An%C3%ADbal_G%C3%B3mez",
+      "wikidata": "http://www.wikidata.org/entity/Q33703931"
+    },
+    "jesulin-de-ubrique": {
+      "desc": "torero y personaje mediático español",
+      "born": "1974-01-09",
+      "place": "Ubrique",
+      "wiki": "https://es.wikipedia.org/wiki/Jesul%C3%ADn_de_Ubrique",
+      "wikidata": "http://www.wikidata.org/entity/Q3177725"
+    },
+    "paula-koops": {
+      "desc": "cantante española",
+      "born": "1998-01-04",
+      "place": "Madrid",
+      "wikidata": "http://www.wikidata.org/entity/Q117438079"
+    },
+    "leonor-lavado": {
+      "desc": "actriz, humorista e imitadora española",
+      "born": "1987-09-19",
+      "place": "Puente Genil",
+      "wiki": "https://es.wikipedia.org/wiki/Leonor_Lavado",
+      "wikidata": "http://www.wikidata.org/entity/Q29453049"
+    },
+    "maria-parrado": {
+      "desc": "cantante española",
+      "born": "2001-04-28",
+      "place": "Cádiz",
+      "wiki": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Parrado",
+      "wikidata": "http://www.wikidata.org/entity/Q28921913"
+    },
+    "david-bisbal": {
+      "desc": "cantante y compositor español",
+      "born": "1979-06-05",
+      "wiki": "https://es.wikipedia.org/wiki/David_Bisbal",
+      "wikidata": "http://www.wikidata.org/entity/Q298310"
+    },
+    "manu-tenorio": {
+      "desc": "cantante, compositor y músico español",
+      "born": "1975-04-01",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Manu_Tenorio",
+      "wikidata": "http://www.wikidata.org/entity/Q5992000"
+    },
+    "veronica-romero": {
+      "desc": "cantante, compositora y actriz española",
+      "born": "1978-07-18",
+      "wiki": "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Romero",
+      "wikidata": "http://www.wikidata.org/entity/Q5407669"
+    },
+    "nuria-fergo": {
+      "desc": "cantante y actriz española",
+      "born": "1979-04-18",
+      "place": "Nerja",
+      "wiki": "https://es.wikipedia.org/wiki/Nuria_Ferg%C3%B3",
+      "wikidata": "http://www.wikidata.org/entity/Q457348"
+    },
+    "manuel-carrasco": {
+      "desc": "Cantante y Compositor Isleño",
+      "born": "1981-01-01",
+      "place": "Isla Cristina",
+      "wiki": "https://es.wikipedia.org/wiki/Manuel_Carrasco",
+      "wikidata": "http://www.wikidata.org/entity/Q3142610"
+    },
+    "miguel-nandez": {
+      "desc": "cantante español",
+      "born": "1978-11-07",
+      "place": "Cádiz",
+      "wiki": "https://es.wikipedia.org/wiki/Miguel_N%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q5662399"
+    },
+    "hugo-salazar": {
+      "desc": "cantante y compositor español",
+      "born": "1978-03-08",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Hugo_Salazar",
+      "wikidata": "http://www.wikidata.org/entity/Q5904649"
+    },
+    "mai-meneses": {
+      "desc": "cantante española",
+      "born": "1978-01-04",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Mai_Meneses",
+      "wikidata": "http://www.wikidata.org/entity/Q3089738"
+    },
+    "sergio-rivero": {
+      "desc": "cantante español",
+      "born": "1986-04-01",
+      "place": "Las Palmas de Gran Canaria",
+      "wiki": "https://es.wikipedia.org/wiki/Sergio_Rivero",
+      "wikidata": "http://www.wikidata.org/entity/Q2375006"
+    },
+    "daniel-zueras": {
+      "desc": "cantante español",
+      "born": "1980-11-13",
+      "place": "Zaragoza",
+      "wikidata": "http://www.wikidata.org/entity/Q3014863"
+    },
+    "saray-ramirez": {
+      "desc": "cantante española",
+      "born": "1982-06-25",
+      "place": "Tuineje",
+      "wiki": "https://es.wikipedia.org/wiki/Saray_Ram%C3%ADrez",
+      "wikidata": "http://www.wikidata.org/entity/Q6121839"
+    },
+    "jose-galisteo": {
+      "desc": "cantante español",
+      "born": "1977-02-24",
+      "place": "Viladecans",
+      "wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Galisteo",
+      "wikidata": "http://www.wikidata.org/entity/Q3325093"
+    },
+    "virginia-maestro": {
+      "desc": "cantante española",
+      "born": "1982-09-29",
+      "place": "Linares",
+      "wiki": "https://es.wikipedia.org/wiki/Virginia_Maestro",
+      "wikidata": "http://www.wikidata.org/entity/Q3325098"
+    },
+    "pablo-lopez": {
+      "desc": "cantante, compositor y músico español",
+      "born": "1984-03-11",
+      "place": "Fuengirola",
+      "wiki": "https://es.wikipedia.org/wiki/Pablo_L%C3%B3pez_(cantante)",
+      "wikidata": "http://www.wikidata.org/entity/Q21480795"
+    },
+    "nahuel-sachak": {
+      "desc": "cantante paraguayo",
+      "born": "1991-09-07",
+      "place": "Guayaibí",
+      "wikidata": "http://www.wikidata.org/entity/Q6959427"
+    },
+    "alexandra-masangkay": {
+      "desc": "actriz, bailarina y cantante española",
+      "born": "1992-04-15",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Alexandra_Masangkay",
+      "wikidata": "http://www.wikidata.org/entity/Q64777701"
+    },
+    "enrique-ramil": {
+      "desc": "cantante, músico, compositor y vocal coach español",
+      "born": "1984-06-18",
+      "place": "Ares",
+      "wiki": "https://es.wikipedia.org/wiki/Enrique_Ramil",
+      "wikidata": "http://www.wikidata.org/entity/Q97688945"
+    },
+    "luis-cepeda": {
+      "desc": "cantante y compositor español",
+      "born": "1989-08-26",
+      "place": "Orense",
+      "wiki": "https://es.wikipedia.org/wiki/Cepeda_(cantante)",
+      "wikidata": "http://www.wikidata.org/entity/Q47528199"
+    },
+    "juan-antonio": {
+      "desc": "actor",
+      "wikidata": "http://www.wikidata.org/entity/Q120990443"
+    },
+    "famous-oberogo": {
+      "desc": "cantante español",
+      "born": "1999-07-23",
+      "place": "Ámsterdam",
+      "wiki": "https://es.wikipedia.org/wiki/Famous_Oberogo",
+      "wikidata": "http://www.wikidata.org/entity/Q110929442"
+    },
+    "natalia-lacunza": {
+      "desc": "cantante y compositora española",
+      "born": "1999-01-10",
+      "place": "Pamplona",
+      "wiki": "https://es.wikipedia.org/wiki/Natalia_Lacunza",
+      "wikidata": "http://www.wikidata.org/entity/Q61061921"
+    },
+    "sabela-ramil": {
+      "desc": "cantante gallega",
+      "born": "1994-10-01",
+      "place": "Bravos",
+      "wikidata": "http://www.wikidata.org/entity/Q59285879"
+    },
+    "miki-nunez": {
+      "desc": "cantante español",
+      "born": "1996-01-06",
+      "place": "Tarrasa",
+      "wiki": "https://es.wikipedia.org/wiki/Miki_N%C3%BA%C3%B1ez",
+      "wikidata": "http://www.wikidata.org/entity/Q60727325"
+    },
+    "joan-garrido": {
+      "desc": "cantante español",
+      "born": "1995-12-28",
+      "place": "Buñola",
+      "wikidata": "http://www.wikidata.org/entity/Q104385075"
+    },
+    "eva-barreiro": {
+      "desc": "cantante gallega",
+      "born": "2000-09-18",
+      "place": "Carnoedo",
+      "wikidata": "http://www.wikidata.org/entity/Q111512468"
+    },
+    "naiara-moreno": {
+      "desc": "cantante y compositora española",
+      "born": "1997-04-29",
+      "place": "Zaragoza",
+      "wiki": "https://es.wikipedia.org/wiki/Naiara_(cantante)",
+      "wikidata": "http://www.wikidata.org/entity/Q124635012"
+    },
+    "paul-thin": {
+      "desc": "cantante, compositor y productor musical español",
+      "born": "2002-12-14",
+      "place": "Armilla",
+      "wiki": "https://es.wikipedia.org/wiki/Paul_Thin",
+      "wikidata": "http://www.wikidata.org/entity/Q124666495"
+    },
+    "ruslana-panchyshyna": {
+      "desc": "cantante y compositora hispano-ucraniana",
+      "born": "2005-09-10",
+      "place": "Bielorrusia",
+      "wiki": "https://es.wikipedia.org/wiki/Ruslana_Panchyshyna",
+      "wikidata": "http://www.wikidata.org/entity/Q126454457"
+    },
+    "juanjo-bona": {
+      "desc": "cantante, jotero y compositor español",
+      "born": "2003-11-10",
+      "place": "Magallón",
+      "wiki": "https://es.wikipedia.org/wiki/Juanjo_Bona",
+      "wikidata": "http://www.wikidata.org/entity/Q124856360"
+    },
+    "lucas-curotto": {
+      "desc": "cantante y compositor uruguayo",
+      "place": "Montevideo",
+      "wiki": "https://es.wikipedia.org/wiki/Lucas_Curotto",
+      "wikidata": "http://www.wikidata.org/entity/Q130388476"
+    },
+    "martin-urrutia": {
+      "desc": "cantante, compositor y actor español",
+      "born": "2005-03-30",
+      "place": "Guecho",
+      "wiki": "https://es.wikipedia.org/wiki/Martin_Urrutia",
+      "wikidata": "http://www.wikidata.org/entity/Q123503938"
+    },
+    "olivia-bay": {
+      "desc": "Cantante",
+      "born": "2005-11-24",
+      "wikidata": "http://www.wikidata.org/entity/Q139383625"
+    },
+    "guille-toledano": {
+      "desc": "cantante español",
+      "born": "2001-06-15",
+      "place": "Cabanillas del Campo",
+      "wiki": "https://es.wikipedia.org/wiki/Guille_Toledano",
+      "wikidata": "http://www.wikidata.org/entity/Q141608789"
+    },
+    "claudia-arenas": {
+      "desc": "Cantante española",
+      "born": "2006-04-08",
+      "place": "provincia de Alicante",
+      "wikidata": "http://www.wikidata.org/entity/Q141616224"
+    },
+    "guillo-rist": {
+      "desc": "cantante catalán",
+      "place": "Matadepera",
+      "wikidata": "http://www.wikidata.org/entity/Q136260109"
+    },
+    "maria-cruz": {
+      "desc": "cantante y bailarina española",
+      "place": "Las Palmas de Gran Canaria",
+      "wikidata": "http://www.wikidata.org/entity/Q142080964"
+    },
+    "salma-de-diego": {
+      "desc": "cantante española",
+      "born": "2005-10-14",
+      "place": "Finestrat",
+      "wikidata": "http://www.wikidata.org/entity/Q139622787"
+    },
+    "ivan-rojo": {
+      "desc": "cantante español",
+      "place": "Tudela de Duero",
+      "wikidata": "http://www.wikidata.org/entity/Q139416741"
+    },
+    "miguel-angel-munoz": {
+      "desc": "actor español",
+      "born": "1983-07-04",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Mu%C3%B1oz",
+      "wikidata": "http://www.wikidata.org/entity/Q1078846"
+    },
+    "cayetana-guillen-cuervo": {
+      "desc": "periodista, actriz y presentadora española",
+      "born": "1969-06-13",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Cayetana_Guill%C3%A9n_Cuervo",
+      "wikidata": "http://www.wikidata.org/entity/Q2943402"
+    },
+    "fernando-tejero": {
+      "desc": "actor español",
+      "born": "1967-02-24",
+      "place": "Córdoba",
+      "wiki": "https://es.wikipedia.org/wiki/Fernando_Tejero",
+      "wikidata": "http://www.wikidata.org/entity/Q581617"
+    },
+    "fonsi-nieto": {
+      "desc": "piloto de motociclismo español",
+      "born": "1978-12-02",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Fonsi_Nieto",
+      "wikidata": "http://www.wikidata.org/entity/Q1002728"
+    },
+    "nina-pastori": {
+      "desc": "cantante española",
+      "born": "1978-01-15",
+      "place": "San Fernando",
+      "wiki": "https://es.wikipedia.org/wiki/Ni%C3%B1a_Pastori",
+      "wikidata": "http://www.wikidata.org/entity/Q270828"
+    },
+    "saul-craviotto": {
+      "desc": "Piragüista español",
+      "born": "1984-11-03",
+      "place": "Lérida",
+      "wiki": "https://es.wikipedia.org/wiki/Sa%C3%BAl_Craviotto",
+      "wikidata": "http://www.wikidata.org/entity/Q2440819"
+    },
+    "juan-betancourt": {
+      "desc": "actor y modelo cubano",
+      "born": "1990-09-22",
+      "place": "La Habana",
+      "wiki": "https://es.wikipedia.org/wiki/Juan_Betancourt",
+      "wikidata": "http://www.wikidata.org/entity/Q42732709"
+    },
+    "pepon-nieto": {
+      "desc": "actor español",
+      "born": "1967-01-20",
+      "place": "Estepona",
+      "wiki": "https://es.wikipedia.org/wiki/Pep%C3%B3n_Nieto",
+      "wikidata": "http://www.wikidata.org/entity/Q276662"
+    },
+    "marina-san-jose": {
+      "desc": "actriz española",
+      "born": "1983-09-16",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Marina_San_Jos%C3%A9",
+      "wikidata": "http://www.wikidata.org/entity/Q5998319"
+    },
+    "usun-yoon": {
+      "desc": "actriz y modelo surcoreana",
+      "born": "1977-05-27",
+      "place": "Busan",
+      "wiki": "https://es.wikipedia.org/wiki/Usun_Yoon",
+      "wikidata": "http://www.wikidata.org/entity/Q494783"
+    },
+    "ona-carbonell": {
+      "desc": "nadadora de sincronizada española",
+      "born": "1990-06-05",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Ona_Carbonell",
+      "wikidata": "http://www.wikidata.org/entity/Q952382"
+    },
+    "paz-vega": {
+      "desc": "actriz y modelo española",
+      "born": "1976-01-02",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Paz_Vega",
+      "wikidata": "http://www.wikidata.org/entity/Q234618"
+    },
+    "boris-izaguirre": {
+      "desc": "Escritor, periodista, presentador venezolano (n.1965)",
+      "born": "1965-09-29",
+      "place": "Caracas",
+      "wiki": "https://es.wikipedia.org/wiki/Boris_Izaguirre",
+      "wikidata": "http://www.wikidata.org/entity/Q708841"
+    },
+    "oscar-higares": {
+      "desc": "torero, actor y modelo español",
+      "born": "1971-06-26",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/%C3%93scar_Higares",
+      "wikidata": "http://www.wikidata.org/entity/Q3593649"
+    },
+    "ivan-massague": {
+      "desc": "actor español",
+      "born": "1976-09-04",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Massagu%C3%A9",
+      "wikidata": "http://www.wikidata.org/entity/Q5923495"
+    },
+    "dafne-fernandez": {
+      "desc": "actriz y bailarina española",
+      "born": "1985-03-31",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Dafne_Fern%C3%A1ndez",
+      "wikidata": "http://www.wikidata.org/entity/Q451891"
+    },
+    "paula-prendes": {
+      "desc": "actriz, presentadora y periodista española",
+      "born": "1983-01-21",
+      "place": "Gijón",
+      "wiki": "https://es.wikipedia.org/wiki/Paula_Prendes",
+      "wikidata": "http://www.wikidata.org/entity/Q6067390"
+    },
+    "felix-gomez": {
+      "desc": "actor español",
+      "born": "1977-09-05",
+      "place": "Carmona",
+      "wiki": "https://es.wikipedia.org/wiki/F%C3%A9lix_G%C3%B3mez",
+      "wikidata": "http://www.wikidata.org/entity/Q5396686"
+    },
+    "vicky-martin-berrocal": {
+      "desc": "Diseñadora de moda, presentadora de televisión y actriz española",
+      "born": "1973-03-10",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Vicky_Mart%C3%ADn_Berrocal",
+      "wikidata": "http://www.wikidata.org/entity/Q24034674"
+    },
+    "juan-avellaneda": {
+      "desc": "diseñador de modas español",
+      "wikidata": "http://www.wikidata.org/entity/Q117711675"
+    },
+    "ana-obregon": {
+      "desc": "actriz española",
+      "born": "1953-01-01",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Ana_Obreg%C3%B3n",
+      "wikidata": "http://www.wikidata.org/entity/Q975692"
+    },
+    "ana-milan": {
+      "desc": "actriz española",
+      "born": "1973-11-03",
+      "place": "Alicante",
+      "wiki": "https://es.wikipedia.org/wiki/Ana_Mil%C3%A1n",
+      "wikidata": "http://www.wikidata.org/entity/Q2543638"
+    },
+    "almudena-cid": {
+      "desc": "gimnasta rítmica española",
+      "born": "1980-06-15",
+      "place": "Vitoria",
+      "wiki": "https://es.wikipedia.org/wiki/Almudena_Cid",
+      "wikidata": "http://www.wikidata.org/entity/Q2469606"
+    },
+    "elena-furiase": {
+      "desc": "actriz española",
+      "born": "1988-03-09",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Elena_Furiase",
+      "wikidata": "http://www.wikidata.org/entity/Q918335"
+    },
+    "marta-torne": {
+      "desc": "actriz y presentadora española",
+      "born": "1978-03-10",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Marta_Torn%C3%A9",
+      "wikidata": "http://www.wikidata.org/entity/Q924080"
+    },
+    "jose-miguel-antunez": {
+      "desc": "baloncestista español",
+      "born": "1967-02-21",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Miguel_Ant%C3%BAnez",
+      "wikidata": "http://www.wikidata.org/entity/Q577171"
+    },
+    "raquel-merono": {
+      "desc": "actriz española",
+      "born": "1975-08-08",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Raquel_Mero%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q6100480"
+    },
+    "celia-villalobos": {
+      "desc": "política española",
+      "born": "1949-04-18",
+      "place": "Benalmádena",
+      "wiki": "https://es.wikipedia.org/wiki/Celia_Villalobos",
+      "wikidata": "http://www.wikidata.org/entity/Q2612928"
+    },
+    "gonzalo-miro": {
+      "desc": "presentador de televisión español",
+      "born": "1981-02-23",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Gonzalo_Mir%C3%B3",
+      "wikidata": "http://www.wikidata.org/entity/Q5883115"
+    },
+    "lucia-dominguin-bose": {
+      "desc": "empresaria española",
+      "born": "1957-08-19",
+      "wikidata": "http://www.wikidata.org/entity/Q54371829"
+    },
+    "juan-jose-ballesta": {
+      "desc": "actor español",
+      "born": "1987-11-12",
+      "place": "Parla",
+      "wiki": "https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Ballesta",
+      "wikidata": "http://www.wikidata.org/entity/Q3110797"
+    },
+    "melani-olivares": {
+      "desc": "actriz española",
+      "born": "1973-02-18",
+      "place": "Badalona",
+      "wiki": "https://es.wikipedia.org/wiki/Melani_Olivares",
+      "wikidata": "http://www.wikidata.org/entity/Q3624816"
+    },
+    "juanma-castano": {
+      "desc": "periodista español",
+      "born": "1977-05-10",
+      "place": "Gijón",
+      "wiki": "https://es.wikipedia.org/wiki/Juanma_Casta%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q5199013"
+    },
+    "miki-nadal": {
+      "desc": "humorista y actor español",
+      "born": "1967-09-29",
+      "place": "Zaragoza",
+      "wiki": "https://es.wikipedia.org/wiki/Miki_Nadal",
+      "wikidata": "http://www.wikidata.org/entity/Q3321329"
+    },
+    "carmina-barrios": {
+      "desc": "actriz española",
+      "born": "1953-05-20",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Carmina_Barrios",
+      "wikidata": "http://www.wikidata.org/entity/Q5752752"
+    },
+    "veronica-forque": {
+      "desc": "actriz española",
+      "born": "1955-12-01",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Forqu%C3%A9",
+      "wikidata": "http://www.wikidata.org/entity/Q283436"
+    },
+    "victoria-abril": {
+      "desc": "actriz y cantante española",
+      "born": "1959-07-04",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Victoria_Abril",
+      "wikidata": "http://www.wikidata.org/entity/Q203138"
+    },
+    "julian-iantzi": {
+      "desc": "periodista español",
+      "born": "1967-11-04",
+      "place": "Woodland",
+      "wiki": "https://es.wikipedia.org/wiki/Julian_Iantzi",
+      "wikidata": "http://www.wikidata.org/entity/Q3189092"
+    },
+    "vanesa-romero": {
+      "desc": "actriz y modelo española",
+      "born": "1978-06-04",
+      "place": "Alicante",
+      "wiki": "https://es.wikipedia.org/wiki/Vanesa_Romero",
+      "wikidata": "http://www.wikidata.org/entity/Q6159524"
+    },
+    "samantha-hudson": {
+      "desc": "artista de performance e icono LGBT español",
+      "born": "1999-09-11",
+      "place": "León",
+      "wiki": "https://es.wikipedia.org/wiki/Samantha_Hudson",
+      "wikidata": "http://www.wikidata.org/entity/Q105622678"
+    },
+    "esperanza-aguirre": {
+      "desc": "política española",
+      "born": "1952-01-03",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Esperanza_Aguirre",
+      "wikidata": "http://www.wikidata.org/entity/Q2083681"
+    },
+    "lorena-castell": {
+      "desc": "presentadora de radio y televisión, cantante y actriz española",
+      "born": "1981-02-04",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Lorena_Castell",
+      "wikidata": "http://www.wikidata.org/entity/Q16300386"
+    },
+    "maria-escote": {
+      "desc": "Modista y diseñadora española",
+      "born": "1979-07-16",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Escot%C3%A9",
+      "wikidata": "http://www.wikidata.org/entity/Q70101608"
+    },
+    "nico-abad": {
+      "desc": "periodista y presentador de televisión español",
+      "born": "1970-03-27",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Nico_Abad",
+      "wikidata": "http://www.wikidata.org/entity/Q6041994"
+    },
+    "daniela-santiago": {
+      "desc": "actriz española",
+      "born": "1982-04-01",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Daniela_Santiago",
+      "wikidata": "http://www.wikidata.org/entity/Q87073184"
+    },
+    "xavier-deltell": {
+      "desc": "actor español",
+      "born": "1958-02-24",
+      "place": "Lérida",
+      "wiki": "https://es.wikipedia.org/wiki/Xavier_Deltell",
+      "wikidata": "http://www.wikidata.org/entity/Q6169126"
+    },
+    "norma-duval": {
+      "desc": "Actriz española (n.1956)",
+      "born": "1956-04-04",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Norma_Duval",
+      "wikidata": "http://www.wikidata.org/entity/Q3343718"
+    },
+    "fernando-andina": {
+      "desc": "actor español",
+      "born": "1976-05-22",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Fernando_Andina",
+      "wikidata": "http://www.wikidata.org/entity/Q971795"
+    },
+    "emmanuel-esparza": {
+      "desc": "actor español",
+      "born": "1976-03-02",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Emmanuel_Esparza",
+      "wikidata": "http://www.wikidata.org/entity/Q16298986"
+    },
+    "laura-londono": {
+      "desc": "actriz colombiana",
+      "born": "1988-02-13",
+      "place": "Medellín",
+      "wiki": "https://es.wikipedia.org/wiki/Laura_Londo%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q18419575"
+    },
+    "daniel-illescas": {
+      "desc": "modelo, influencer de viajes y personalidad televisiva español",
+      "born": "1993-03-15",
+      "place": "Santa Perpetua de Moguda",
+      "wikidata": "http://www.wikidata.org/entity/Q119362181"
+    },
+    "toni-moreno": {
+      "desc": "presentadora española",
+      "born": "1973-06-07",
+      "place": "Sanlúcar de Barrameda",
+      "wiki": "https://es.wikipedia.org/wiki/To%C3%B1i_Moreno",
+      "wikidata": "http://www.wikidata.org/entity/Q16641955"
+    },
+    "blanca-romero": {
+      "desc": "modelo española",
+      "born": "1976-06-02",
+      "place": "Gijón",
+      "wiki": "https://es.wikipedia.org/wiki/Blanca_Romero",
+      "wikidata": "http://www.wikidata.org/entity/Q600852"
+    },
+    "jorge-cadaval": {
+      "desc": "humorista español",
+      "born": "1960-10-08",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Jorge_Cadaval",
+      "wikidata": "http://www.wikidata.org/entity/Q5934662"
+    },
+    "miguel-diosdado": {
+      "desc": "actor español",
+      "born": "1985-06-04",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Miguel_Diosdado",
+      "wikidata": "http://www.wikidata.org/entity/Q6014212"
+    },
+    "eduardo-casanova": {
+      "desc": "actor español",
+      "born": "1991-03-24",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Eduardo_Casanova",
+      "wikidata": "http://www.wikidata.org/entity/Q3626210"
+    },
+    "jorge-sanz": {
+      "desc": "actor español",
+      "born": "1969-08-26",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Jorge_Sanz",
+      "wikidata": "http://www.wikidata.org/entity/Q953237"
+    },
+    "tania-llasera": {
+      "desc": "Actriz y presentadora española",
+      "born": "1979-07-21",
+      "place": "Bilbao",
+      "wiki": "https://es.wikipedia.org/wiki/Tania_Llasera",
+      "wikidata": "http://www.wikidata.org/entity/Q11704226"
+    },
+    "cesar-cadaval": {
+      "desc": "humorista español (n. 1963)",
+      "born": "1963-09-19",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/C%C3%A9sar_Cadaval",
+      "wikidata": "http://www.wikidata.org/entity/Q5796166"
+    },
+    "ines-hernand": {
+      "desc": "abogada, influencer, humorista y presentadora española",
+      "born": "1992-05-10",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/In%C3%A9s_Hernand",
+      "wikidata": "http://www.wikidata.org/entity/Q110734916"
+    },
+    "francis-lorenzo": {
+      "desc": "actor y presentador español",
+      "born": "1960-09-24",
+      "place": "Pontevedra",
+      "wiki": "https://es.wikipedia.org/wiki/Francis_Lorenzo",
+      "wikidata": "http://www.wikidata.org/entity/Q2110953"
+    },
+    "pocholo-martinez-bordiu": {
+      "desc": "Aristócrata, economista, empresario español",
+      "born": "1962-10-22",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Pocholo_Mart%C3%ADnez-Bordi%C3%BA",
+      "wikidata": "http://www.wikidata.org/entity/Q5686936"
+    },
+    "hiba-abouk": {
+      "desc": "actriz española",
+      "born": "1986-10-30",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Hiba_Abouk",
+      "wikidata": "http://www.wikidata.org/entity/Q5896998"
+    },
+    "jose-lamuno": {
+      "desc": "actor español",
+      "born": "1987-01-23",
+      "place": "Oviedo",
+      "wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Lamu%C3%B1o",
+      "wikidata": "http://www.wikidata.org/entity/Q1517292"
+    },
+    "itziar-miranda": {
+      "desc": "actriz española",
+      "born": "1978-09-21",
+      "place": "Zaragoza",
+      "wiki": "https://es.wikipedia.org/wiki/Itziar_Miranda",
+      "wikidata": "http://www.wikidata.org/entity/Q9010112"
+    },
+    "ruben-ochandiano": {
+      "desc": "actor español",
+      "born": "1980-10-03",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Ochandiano",
+      "wikidata": "http://www.wikidata.org/entity/Q3446594"
+    },
+    "nerea-garmendia": {
+      "desc": "Actriz y presentadora española",
+      "born": "1979-10-29",
+      "place": "Beasáin",
+      "wiki": "https://es.wikipedia.org/wiki/Nerea_Garmendia",
+      "wikidata": "http://www.wikidata.org/entity/Q3822308"
+    },
+    "juan-luis-cano": {
+      "desc": "periodista español",
+      "born": "1960-05-06",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Juan_Luis_Cano",
+      "wikidata": "http://www.wikidata.org/entity/Q5950745"
+    },
+    "marilo-montero": {
+      "desc": "periodista y presentadora de televisión española",
+      "born": "1965-07-28",
+      "place": "Estella",
+      "wiki": "https://es.wikipedia.org/wiki/Maril%C3%B3_Montero",
+      "wikidata": "http://www.wikidata.org/entity/Q5558699"
+    },
+    "miguel-torres": {
+      "desc": "nadador español",
+      "born": "1946-01-24",
+      "place": "Sabadell",
+      "wiki": "https://es.wikipedia.org/wiki/Miquel_Torres",
+      "wikidata": "http://www.wikidata.org/entity/Q6844828"
+    },
+    "mala-rodriguez": {
+      "desc": "rapera española",
+      "born": "1979-02-13",
+      "place": "Jerez de la Frontera",
+      "wiki": "https://es.wikipedia.org/wiki/Mala_Rodr%C3%ADguez",
+      "wikidata": "http://www.wikidata.org/entity/Q257403"
+    },
+    "alejo-sauras": {
+      "desc": "actor español",
+      "born": "1979-06-29",
+      "place": "Palma de Mallorca",
+      "wiki": "https://es.wikipedia.org/wiki/Alejo_Sauras",
+      "wikidata": "http://www.wikidata.org/entity/Q1269332"
+    },
+    "masi-rodriguez": {
+      "desc": "locutora, cantante y actriz española",
+      "born": "1994-05-23",
+      "place": "Málaga",
+      "wikidata": "http://www.wikidata.org/entity/Q110979294"
+    },
+    "valeria-vegas": {
+      "desc": "escritora, periodista y documentalista española",
+      "born": "1985-08-08",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Valeria_Vegas",
+      "wikidata": "http://www.wikidata.org/entity/Q61538759"
+    },
+    "charo-reina": {
+      "desc": "cantante española",
+      "born": "1960-04-05",
+      "place": "Distrito Macarena",
+      "wiki": "https://es.wikipedia.org/wiki/Charo_Reina",
+      "wikidata": "http://www.wikidata.org/entity/Q16301723"
+    },
+    "shangay-lily": {
+      "desc": "artivista y drag queen española",
+      "born": "1963-03-01",
+      "place": "Málaga",
+      "wiki": "https://es.wikipedia.org/wiki/Shangay_Lily",
+      "wikidata": "http://www.wikidata.org/entity/Q3391659"
+    },
+    "ernesto-calzadilla": {
+      "desc": "actor venezolano",
+      "born": "1974-09-05",
+      "place": "Caracas",
+      "wiki": "https://es.wikipedia.org/wiki/Ernesto_Calzadilla",
+      "wikidata": "http://www.wikidata.org/entity/Q5394137"
+    },
+    "alonso-caparros": {
+      "desc": "Periodista y presentador de televisión",
+      "born": "1970-11-24",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Alonso_Caparr%C3%B3s",
+      "wikidata": "http://www.wikidata.org/entity/Q5670063"
+    },
+    "paquita-torres": {
+      "desc": "Modelo española (n. 1946)",
+      "born": "1948-04-22",
+      "place": "Bailén",
+      "wiki": "https://es.wikipedia.org/wiki/Paquita_Torres",
+      "wikidata": "http://www.wikidata.org/entity/Q3894952"
+    },
+    "mari-cielo-pajares": {
+      "desc": "actriz española",
+      "born": "1976-05-30",
+      "wikidata": "http://www.wikidata.org/entity/Q108548113"
+    },
+    "david-meca": {
+      "desc": "nadador español",
+      "born": "1974-02-01",
+      "place": "Sabadell",
+      "wiki": "https://es.wikipedia.org/wiki/David_Meca",
+      "wikidata": "http://www.wikidata.org/entity/Q164175"
+    },
+    "fernando-acaso": {
+      "desc": "actor español",
+      "born": "1963-11-28",
+      "place": "Madrid",
+      "wikidata": "http://www.wikidata.org/entity/Q10281216"
+    },
+    "jordi-gomez": {
+      "desc": "futbolista español",
+      "born": "1985-05-24",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Jordi_G%C3%B3mez",
+      "wikidata": "http://www.wikidata.org/entity/Q443770"
+    },
+    "susana-estrada": {
+      "desc": "Vedette, actriz de cine y cantante española",
+      "born": "1949-06-18",
+      "place": "Gijón",
+      "wiki": "https://es.wikipedia.org/wiki/Susana_Estrada",
+      "wikidata": "http://www.wikidata.org/entity/Q6136322"
+    },
+    "selena-leo": {
+      "desc": "cantante española",
+      "born": "1975-08-23",
+      "place": "Castellón de la Plana",
+      "wikidata": "http://www.wikidata.org/entity/Q6124287"
+    },
+    "pablo-sebastian": {
+      "desc": "periodista español",
+      "born": "1947-01-01",
+      "place": "Córdoba",
+      "wiki": "https://es.wikipedia.org/wiki/Pablo_Sebasti%C3%A1n",
+      "wikidata": "http://www.wikidata.org/entity/Q6056443"
+    },
+    "cristina-pedroche": {
+      "desc": "actriz, modelo y presentadora de televisión española",
+      "born": "1988-10-30",
+      "place": "Vallecas",
+      "wiki": "https://es.wikipedia.org/wiki/Cristina_Pedroche",
+      "wikidata": "http://www.wikidata.org/entity/Q2656441"
+    },
+    "jaime-bores": {
+      "desc": "presentador de televisión español",
+      "born": "1968-05-12",
+      "place": "San Sebastián",
+      "wiki": "https://es.wikipedia.org/wiki/Jaime_Bores",
+      "wikidata": "http://www.wikidata.org/entity/Q5577498"
+    },
+    "ion-aramendi": {
+      "desc": "presentador de televisión español",
+      "born": "1977-02-11",
+      "place": "San Sebastián",
+      "wiki": "https://es.wikipedia.org/wiki/Ion_Aramendi",
+      "wikidata": "http://www.wikidata.org/entity/Q57037832"
+    },
+    "lara-alvarez": {
+      "desc": "periodista y presentadora española",
+      "born": "1986-05-29",
+      "place": "Gijón",
+      "wiki": "https://es.wikipedia.org/wiki/Lara_%C3%81lvarez",
+      "wikidata": "http://www.wikidata.org/entity/Q9020301"
+    },
+    "nagore-robles": {
+      "desc": "presentadora de televisión y creadora de contenido española",
+      "born": "1983-02-10",
+      "place": "Basauri",
+      "wiki": "https://es.wikipedia.org/wiki/Nagore_Robles",
+      "wikidata": "http://www.wikidata.org/entity/Q24279402"
+    },
+    "pilar-rubio": {
+      "desc": "presentadora, modelo y actriz española",
+      "born": "1978-03-17",
+      "place": "Torrejón de Ardoz",
+      "wiki": "https://es.wikipedia.org/wiki/Pilar_Rubio",
+      "wikidata": "http://www.wikidata.org/entity/Q3049386"
+    },
+    "manel-fuentes": {
+      "desc": "periodista, presentador y humorista español",
+      "born": "1971-01-14",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Manel_Fuentes",
+      "wikidata": "http://www.wikidata.org/entity/Q3390836"
+    },
+    "eva-gonzalez": {
+      "desc": "Modelo y presentadora española",
+      "born": "1980-11-05",
+      "place": "Mairena del Alcor",
+      "wiki": "https://es.wikipedia.org/wiki/Eva_Gonz%C3%A1lez_(modelo)",
+      "wikidata": "http://www.wikidata.org/entity/Q629328"
+    },
+    "toni-canto": {
+      "desc": "político y actor español",
+      "born": "1965-01-14",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Toni_Cant%C3%B3",
+      "wikidata": "http://www.wikidata.org/entity/Q947070"
+    },
+    "al-bano": {
+      "desc": "cantante italiano",
+      "born": "1943-05-20",
+      "place": "Cellino San Marco",
+      "wiki": "https://es.wikipedia.org/wiki/Al_Bano",
+      "wikidata": "http://www.wikidata.org/entity/Q263621"
+    },
+    "pastora-soler": {
+      "desc": "cantante española",
+      "born": "1978-09-28",
+      "place": "Coria del Río",
+      "wiki": "https://es.wikipedia.org/wiki/Pastora_Soler",
+      "wikidata": "http://www.wikidata.org/entity/Q234677"
+    },
+    "georgina-rodriguez": {
+      "desc": "modelo hispanoargentina",
+      "born": "1994-01-27",
+      "place": "Buenos Aires",
+      "wiki": "https://es.wikipedia.org/wiki/Georgina_Rodr%C3%ADguez",
+      "wikidata": "http://www.wikidata.org/entity/Q33729164"
+    },
+    "monica-carrillo": {
+      "desc": "periodista española",
+      "born": "1976-09-16",
+      "wiki": "https://es.wikipedia.org/wiki/M%C3%B3nica_Carrillo",
+      "wikidata": "http://www.wikidata.org/entity/Q9048207"
+    },
+    "maria-pombo": {
+      "desc": "influencer y empresaria española",
+      "born": "1994-10-17",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Pombo",
+      "wikidata": "http://www.wikidata.org/entity/Q124847728"
+    },
+    "mar-flores": {
+      "desc": "modelo y presentadora española",
+      "born": "1969-06-11",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Mar_Flores",
+      "wikidata": "http://www.wikidata.org/entity/Q9028403"
+    },
+    "josep-pedrerol": {
+      "desc": "periodista y presentador deportivo español",
+      "born": "1965-09-10",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Josep_Pedrerol",
+      "wikidata": "http://www.wikidata.org/entity/Q9013308"
+    },
+    "eva-hache": {
+      "desc": "actriz, cómica y presentadora española",
+      "born": "1971-08-07",
+      "place": "Segovia",
+      "wiki": "https://es.wikipedia.org/wiki/Eva_Hache",
+      "wikidata": "http://www.wikidata.org/entity/Q5301769"
+    },
+    "paloma-san-basilio": {
+      "desc": "cantante española",
+      "born": "1950-11-22",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Paloma_San_Basilio",
+      "wikidata": "http://www.wikidata.org/entity/Q444019"
+    },
+    "isabel-preysler": {
+      "desc": "socialite y modelo hispanofilipina",
+      "born": "1951-02-18",
+      "place": "Manila",
+      "wiki": "https://es.wikipedia.org/wiki/Isabel_Preysler",
+      "wikidata": "http://www.wikidata.org/entity/Q437710"
+    },
+    "la-toya-jackson": {
+      "desc": "cantante estadounidense",
+      "born": "1956-05-29",
+      "place": "Gary",
+      "wiki": "https://es.wikipedia.org/wiki/La_Toya_Jackson",
+      "wikidata": "http://www.wikidata.org/entity/Q217427"
+    },
+    "pepe-reina": {
+      "desc": "futbolista español",
+      "born": "1982-08-31",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Pepe_Reina",
+      "wikidata": "http://www.wikidata.org/entity/Q163666"
+    },
+    "ana-torroja": {
+      "desc": "cantante española",
+      "born": "1959-12-28",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Ana_Torroja",
+      "wikidata": "http://www.wikidata.org/entity/Q270873"
+    },
+    "fernando-morientes": {
+      "desc": "futbolista español",
+      "born": "1976-04-05",
+      "place": "Cilleros",
+      "wiki": "https://es.wikipedia.org/wiki/Fernando_Morientes",
+      "wikidata": "http://www.wikidata.org/entity/Q45567"
+    },
+    "sabrina-salerno": {
+      "desc": "cantante, actriz y modelo italiana (n. 1968)",
+      "born": "1968-03-15",
+      "place": "Génova",
+      "wiki": "https://es.wikipedia.org/wiki/Sabrina_Salerno",
+      "wikidata": "http://www.wikidata.org/entity/Q232479"
+    },
+    "paco-tous": {
+      "desc": "actor español",
+      "born": "1964-05-10",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Paco_Tous",
+      "wikidata": "http://www.wikidata.org/entity/Q3826907"
+    },
+    "paula-echevarria": {
+      "desc": "actriz española",
+      "born": "1977-08-07",
+      "place": "Candás",
+      "wiki": "https://es.wikipedia.org/wiki/Paula_Echevarr%C3%ADa",
+      "wikidata": "http://www.wikidata.org/entity/Q5008096"
+    },
+    "naty-abascal": {
+      "desc": "socialité y exmodelo española",
+      "born": "1943-04-02",
+      "place": "Sevilla",
+      "wiki": "https://es.wikipedia.org/wiki/Naty_Abascal",
+      "wikidata": "http://www.wikidata.org/entity/Q6969987"
+    },
+    "bo-derek": {
+      "desc": "actriz estadounidense",
+      "born": "1956-11-20",
+      "place": "Long Beach",
+      "wiki": "https://es.wikipedia.org/wiki/Bo_Derek",
+      "wikidata": "http://www.wikidata.org/entity/Q229477"
+    },
+    "feliciano-lopez": {
+      "desc": "tenista español",
+      "born": "1981-09-20",
+      "place": "Toledo",
+      "wiki": "https://es.wikipedia.org/wiki/Feliciano_L%C3%B3pez",
+      "wikidata": "http://www.wikidata.org/entity/Q223695"
+    },
+    "el-rubius": {
+      "desc": "youtuber y streamer hispano-noruego",
+      "born": "1990-02-13",
+      "place": "Mijas",
+      "wiki": "https://es.wikipedia.org/wiki/El_Rubius",
+      "wikidata": "http://www.wikidata.org/entity/Q20746902"
+    },
+    "jose-ramon-de-la-morena": {
+      "desc": "Periodista deportivo español",
+      "born": "1956-11-21",
+      "place": "Brunete",
+      "wiki": "https://es.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%B3n_de_la_Morena",
+      "wikidata": "http://www.wikidata.org/entity/Q6293843"
+    },
+    "valeria-mazza": {
+      "desc": "modelo, presentadora y empresaria argentina",
+      "born": "1972-02-17",
+      "place": "Rosario",
+      "wiki": "https://es.wikipedia.org/wiki/Valeria_Mazza",
+      "wikidata": "http://www.wikidata.org/entity/Q794267"
+    },
+    "tori-spelling": {
+      "desc": "actriz estadounidense",
+      "born": "1973-05-16",
+      "place": "Los Ángeles",
+      "wiki": "https://es.wikipedia.org/wiki/Tori_Spelling",
+      "wikidata": "http://www.wikidata.org/entity/Q229050"
+    },
+    "arantxa-sanchez-vicario": {
+      "desc": "tenista española",
+      "born": "1971-12-18",
+      "place": "Barcelona",
+      "wiki": "https://es.wikipedia.org/wiki/Arantxa_S%C3%A1nchez_Vicario",
+      "wikidata": "http://www.wikidata.org/entity/Q188080"
+    },
+    "adriana-ugarte": {
+      "desc": "actriz española",
+      "born": "1985-01-17",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Adriana_Ugarte",
+      "wikidata": "http://www.wikidata.org/entity/Q375245"
+    },
+    "esther-canadas": {
+      "desc": "modelo y actriz española",
+      "born": "1977-03-01",
+      "place": "Albacete",
+      "wiki": "https://es.wikipedia.org/wiki/Esther_Ca%C3%B1adas",
+      "wikidata": "http://www.wikidata.org/entity/Q268947"
+    },
+    "ana-peleteiro": {
+      "desc": "atleta española",
+      "born": "1995-03-03",
+      "place": "La Coruña",
+      "wiki": "https://es.wikipedia.org/wiki/Ana_Peleteiro",
+      "wikidata": "http://www.wikidata.org/entity/Q951366"
+    },
+    "antonio-lobato": {
+      "desc": "periodista español",
+      "born": "1965-09-07",
+      "place": "Oviedo",
+      "wiki": "https://es.wikipedia.org/wiki/Antonio_Lobato",
+      "wikidata": "http://www.wikidata.org/entity/Q3329893"
+    },
+    "fernando-verdasco": {
+      "desc": "tenista español",
+      "born": "1983-11-15",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Fernando_Verdasco",
+      "wikidata": "http://www.wikidata.org/entity/Q191740"
+    },
+    "david-hasselhoff": {
+      "desc": "actor y cantante estadounidense",
+      "born": "1952-07-17",
+      "place": "Baltimore",
+      "wiki": "https://es.wikipedia.org/wiki/David_Hasselhoff",
+      "wikidata": "http://www.wikidata.org/entity/Q201927"
+    },
+    "miguel-angel-revilla": {
+      "desc": "político español",
+      "born": "1943-01-23",
+      "place": "Salceda",
+      "wiki": "https://es.wikipedia.org/wiki/Miguel_%C3%81ngel_Revilla",
+      "wikidata": "http://www.wikidata.org/entity/Q2733616"
+    },
+    "manuela-carmena": {
+      "desc": "jueza, abogada laboralista y política española",
+      "born": "1944-02-09",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Manuela_Carmena",
+      "wikidata": "http://www.wikidata.org/entity/Q19592761"
+    },
+    "leire-martinez": {
+      "desc": "cantante y actriz española",
+      "born": "1979-06-22",
+      "place": "San Sebastián",
+      "wiki": "https://es.wikipedia.org/wiki/Leire_Mart%C3%ADnez",
+      "wikidata": "http://www.wikidata.org/entity/Q1152388"
+    },
+    "nacho-duato": {
+      "desc": "bailarín de ballet y coreógrafo español",
+      "born": "1957-01-08",
+      "place": "Valencia",
+      "wiki": "https://es.wikipedia.org/wiki/Nacho_Duato",
+      "wikidata": "http://www.wikidata.org/entity/Q931574"
+    },
+    "david-cantero": {
+      "desc": "periodista español",
+      "born": "1961-03-01",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/David_Cantero",
+      "wikidata": "http://www.wikidata.org/entity/Q3703129"
+    },
+    "lydia-lozano": {
+      "desc": "periodista española",
+      "born": "1960-12-12",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Lydia_Lozano",
+      "wikidata": "http://www.wikidata.org/entity/Q9025736"
+    },
+    "begona-villacis": {
+      "desc": "abogada y política española",
+      "born": "1977-11-04",
+      "place": "Madrid",
+      "wiki": "https://es.wikipedia.org/wiki/Bego%C3%B1a_Villac%C3%ADs",
+      "wikidata": "http://www.wikidata.org/entity/Q19788667"
+    },
+    "tomas-roncero": {
+      "desc": "periodista deportivo español",
+      "born": "1965-05-09",
+      "place": "Herencia",
+      "wiki": "https://es.wikipedia.org/wiki/Tom%C3%A1s_Roncero",
+      "wikidata": "http://www.wikidata.org/entity/Q6148632"
+    },
+    "samantha-fox": {
+      "desc": "actriz pornográfica estadounidense",
+      "born": "1950-12-03",
+      "place": "Nueva York",
+      "wiki": "https://es.wikipedia.org/wiki/Samantha_Fox_(actriz_pornogr%C3%A1fica)",
+      "wikidata": "http://www.wikidata.org/entity/Q469523"
+    },
+    "salva-reina": {
+      "desc": "actor y humorista español",
+      "born": "1978-04-09",
+      "place": "Las Palmas de Gran Canaria",
+      "wiki": "https://es.wikipedia.org/wiki/Salva_Reina",
+      "wikidata": "http://www.wikidata.org/entity/Q20021106"
+    },
+    "bernd-schuster": {
+      "desc": "futbolista y entrenador alemán",
+      "born": "1959-12-22",
+      "place": "Augsburgo",
+      "wiki": "https://es.wikipedia.org/wiki/Bernd_Schuster",
+      "wikidata": "http://www.wikidata.org/entity/Q44389"
+    },
+    "elle-macpherson": {
+      "desc": "actriz y modelo australiana",
+      "born": "1964-03-29",
+      "place": "Killara",
+      "wiki": "https://es.wikipedia.org/wiki/Elle_Macpherson",
+      "wikidata": "http://www.wikidata.org/entity/Q224097"
+    }
+  }
+}
