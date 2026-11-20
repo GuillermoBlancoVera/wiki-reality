@@ -40,6 +40,8 @@ jobs:
       - name: Buscar fotos candidatas con licencia libre (Openverse)
         if: github.event_name != 'push'
         run: node scripts/update-photo-candidates.mjs
+        env:
+          MAX_QUERIES: 20
 
       - name: Actualizar visores de Getty Images
         run: node scripts/update-getty.mjs
