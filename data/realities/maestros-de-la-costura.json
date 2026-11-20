@@ -71,7 +71,7 @@
       ],
       "participants": [
         {
-          "id": "lara-costura-2",
+          "id": "lara-sajen",
           "role": "Concursante"
         },
         {
@@ -157,7 +157,7 @@
       "presenter": "Raquel Sánchez Silva",
       "winner": "ancor-montaner",
       "finalists": [
-        "lluis-costura-4",
+        "lluis-mengual",
         "yelimar-costura-4",
         "gabriel-costura-4"
       ],
@@ -203,7 +203,7 @@
       "presenter": "Raquel Sánchez Silva",
       "winner": "lluis-mengual",
       "finalists": [
-        "borja-costura-5",
+        "borja-costura-3",
         "pablo-costura-5",
         "lili-costura-5"
       ],
@@ -217,7 +217,7 @@
           "role": "Concursante"
         },
         {
-          "id": "isabel-costura-5",
+          "id": "isabel-costura-2",
           "role": "Concursante"
         },
         {
@@ -237,11 +237,11 @@
           "role": "Concursante"
         },
         {
-          "id": "margarita-costura-5",
+          "id": "margarita-costura-3",
           "role": "Concursante"
         },
         {
-          "id": "laura-costura-5",
+          "id": "laura-costura-4",
           "role": "Concursante"
         }
       ]

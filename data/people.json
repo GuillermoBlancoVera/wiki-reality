@@ -388,7 +388,9 @@
       "job": "Monitor de esquí"
     },
     "alfredo-cortina": {
-      "name": "Alfredo Cortina"
+      "name": "Alfredo Cortina",
+      "origin": "Valencia",
+      "job": "Golfista"
     },
     "carmen-russo": {
       "name": "Carmen Russo",
@@ -897,14 +899,14 @@
     },
     "nacho-de-borbon": {
       "name": "Ignacio de Borbón",
+      "origin": "Madrid",
+      "job": "Modelo y participante de LIDLT 11",
       "socials": {
         "instagram": "https://www.instagram.com/nachodeborbon/"
       },
       "officialUrl": "https://www.mediasetinfinity.es/personajes/gran-hermano-vip/nacho-de-borbon_MS000000111805_t7uCpsqU4Lr7vumsWY8CjN9",
       "bio": "Su primer reality fue Supervivientes 2022, donde quedó cuarto. Participó en La isla de las tentaciones 11 con Náyades Lospitao y en 2026 entró en GH VIP 9. Es pariente lejano del rey Felipe VI por una rama de la familia Borbón vinculada al ducado de Sevilla.",
-      "bioSource": "https://www.mediasetinfinity.es/personajes/gran-hermano-vip/nacho-de-borbon_MS000000111805_t7uCpsqU4Lr7vumsWY8CjN9",
-      "origin": "Madrid",
-      "job": "Modelo y participante de LIDLT 11"
+      "bioSource": "https://www.mediasetinfinity.es/personajes/gran-hermano-vip/nacho-de-borbon_MS000000111805_t7uCpsqU4Lr7vumsWY8CjN9"
     },
     "paula-isla-11": {
       "name": "Paula Lily",
@@ -1287,8 +1289,9 @@
     },
     "alyson-eckmann": {
       "name": "Alyson Eckmann",
-      "origin": "Seattle",
-      "job": "Reportera y presentadora de TV"
+      "job": "Reportera y presentadora de TV",
+      "commons": "File:Alyson Eckmann. (21458763400).jpg",
+      "origin": "Seattle"
     },
     "miriam-saavedra": {
       "name": "Miriam Saavedra",
@@ -1307,6 +1310,7 @@
     },
     "maria-jesus-ruiz": {
       "name": "María Jesús Ruiz",
+      "job": "Modelo, Miss España 2004",
       "socials": {
         "instagram": "https://www.instagram.com/mariajesusruizg/"
       },
@@ -1314,8 +1318,7 @@
       "officialUrl": "https://www.mediasetinfinity.es/personajes/supervivientes/maria-jesus-ruiz_MS000000111672_tRNDTR8RAsSzn3CVQjQmaZ",
       "bio": "Modelo, ganó el certamen de Miss España en 2004. Fue séptima en Supervivientes 2018, ganó la primera edición de GH Dúo (2019) y concursó en La casa fuerte (2020) junto a su madre. Después ha sido colaboradora en programas de Telecinco. En 2026 participó en Supervivientes All Stars.",
       "bioSource": "https://www.mediasetinfinity.es/personajes/supervivientes/maria-jesus-ruiz_MS000000111672_tRNDTR8RAsSzn3CVQjQmaZ",
-      "origin": "Jaén",
-      "job": "Modelo, Miss España 2004"
+      "origin": "Jaén"
     },
     "carlos-lozano": {
       "name": "Carlos Lozano",
@@ -1374,12 +1377,12 @@
     },
     "alvaro-munoz-escassi": {
       "name": "Álvaro Muñoz Escassi",
+      "job": "Jinete y jugador de polo",
       "socials": {
         "instagram": "https://www.instagram.com/alvaroescassi/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Sevilla",
-      "job": "Jinete y jugador de polo"
+      "origin": "Sevilla"
     },
     "damian-quintero": {
       "name": "Damián Quintero",
@@ -1559,12 +1562,14 @@
     },
     "victor-janeiro": {
       "name": "Víctor Janeiro",
+      "job": "Torero",
       "officialUrl": "https://www.mediasetinfinity.es/personajes/supervivientes/victor-janeiro_MS000000111672_t57UOuzMkHeNQwkZPdAyak1",
       "bio": "Torero, hermano de Jesulín de Ubrique. Ganó Supervivientes en 2005 y Pesadilla en El Paraíso en 2022, y fue tercero en ¡Mira quién salta! (2013). Está casado desde 2013 con la periodista Beatriz Trapote. En 2026 fue finalista de Supervivientes All Stars.",
       "bioSource": "https://www.mediasetinfinity.es/personajes/supervivientes/victor-janeiro_MS000000111672_t57UOuzMkHeNQwkZPdAyak1"
     },
     "omar-sanchez": {
       "name": "Omar Sánchez",
+      "job": "Marido de Anabel Pantoja",
       "socialsAuto": false,
       "officialUrl": "https://www.mediasetinfinity.es/personajes/supervivientes/omar-sanchez_MS000000111672_t1FeTjJJDAb0JjkrhfZ5pRm",
       "bio": "Canario y profesor de deportes acuáticos, se dio a conocer como pareja de Anabel Pantoja, con quien se casó en 2021; se separaron meses después. Concursó en Supervivientes 2021 y en Pesadilla en El Paraíso (2022), y en 2026 volvió a la televisión en Supervivientes All Stars.",
@@ -1573,8 +1578,7 @@
         "instagram": "https://www.instagram.com/omar_sancheze33/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv",
-      "origin": "Las Palmas",
-      "job": "Marido de Anabel Pantoja"
+      "origin": "Las Palmas"
     },
     "yaiza-isla-6": {
       "name": "Yaiza",
@@ -1646,15 +1650,6 @@
       "name": "Mabel Garrido",
       "origin": "Cuenca",
       "job": "Auxiliar de enfermería"
-    },
-    "inigo-gh-1": {
-      "name": "Íñigo González",
-      "origin": "Ceuta",
-      "job": "Estudiante",
-      "socials": {
-        "instagram": "https://www.instagram.com/igonzalezsosa/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "marina-gh-1": {
       "name": "Marina Díez",
@@ -1753,11 +1748,6 @@
       "name": "Carlos Navarro",
       "origin": "Barcelona",
       "job": "Pastelero en paro"
-    },
-    "marta-gh-2": {
-      "name": "Marta López",
-      "origin": "Zamora",
-      "job": "Hostelera"
     },
     "javier-gh-3": {
       "name": "Javier Estrada",
@@ -1909,11 +1899,11 @@
     },
     "aida-nizar": {
       "name": "Aída Nízar",
+      "origin": "Valladolid",
       "socials": {
         "instagram": "https://www.instagram.com/aidanizaraida/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Valladolid",
       "job": "Estudiante de Derecho"
     },
     "diana-gh-6": {
@@ -2420,11 +2410,6 @@
       "origin": "Alicante",
       "job": "Bloguera de maquillaje y moda"
     },
-    "pol-gh-17": {
-      "name": "Pol Badía",
-      "origin": "Barcelona",
-      "job": "Estudiante de INEF y luchador profesional"
-    },
     "candelas-gh-17": {
       "name": "Candelas Suárez",
       "origin": "Asturias",
@@ -2575,15 +2560,6 @@
       "origin": "Tarragona",
       "job": "Estudiante de Administración"
     },
-    "oscar-gh-19": {
-      "name": "Óscar Landa",
-      "socials": {
-        "instagram": "https://www.instagram.com/osquitar_landa/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "San Sebastián",
-      "job": "Profesor de equitación"
-    },
     "ruvens-gh-19": {
       "name": "Ruvens Pérez",
       "origin": "Albacete",
@@ -2671,24 +2647,6 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
       "origin": "Bilbao",
       "job": "Dependienta y camarera"
-    },
-    "vanessa-gh-19": {
-      "name": "Vanessa Bouza",
-      "socials": {
-        "instagram": "https://www.instagram.com/vanessa.bouza_/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "La Coruña",
-      "job": "Cantante de orquesta"
-    },
-    "javier-gh-19": {
-      "name": "Javier Mouzo",
-      "socials": {
-        "instagram": "https://www.instagram.com/javier.mouzo.1/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "La Coruña",
-      "job": "Cantante de orquesta"
     },
     "silvia-gh-19": {
       "name": "Silvia Rolek",
@@ -2833,11 +2791,6 @@
       "origin": "Ciudad Real",
       "job": "Administrativa"
     },
-    "liz-gh-10": {
-      "name": "Liz Emiliano",
-      "origin": "Guipúzcoa",
-      "job": "Modelo internacional"
-    },
     "julio-gh-10": {
       "name": "Julio"
     },
@@ -2918,11 +2871,6 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
-    "arturo-gh-11": {
-      "name": "Arturo Requejo",
-      "origin": "Guipúzcoa",
-      "job": "Albañil"
-    },
     "siscu-gh-11": {
       "name": "Siscu Castillo",
       "origin": "Barcelona",
@@ -2964,11 +2912,6 @@
       "origin": "Granada",
       "job": "Dependienta"
     },
-    "nagore-gh-11": {
-      "name": "Nagore Robles",
-      "origin": "Vizcaya",
-      "job": "Representante de moda"
-    },
     "hans-gh-11": {
       "name": "Hans Marcus",
       "origin": "Madrid",
@@ -2991,12 +2934,12 @@
     },
     "marta-lopez": {
       "name": "Marta López",
+      "origin": "La Coruña",
+      "job": "Dependienta",
       "socials": {
         "instagram": "https://www.instagram.com/martalopeztv/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "La Coruña",
-      "job": "Dependienta"
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "damaso-angulo": {
       "name": "Dámaso Angulo",
@@ -3286,12 +3229,12 @@
     },
     "rappel": {
       "name": "Rappel",
+      "job": "Vidente",
       "socials": {
         "instagram": "https://www.instagram.com/rappelfuturologo/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
-      "origin": "Madrid",
-      "job": "Vidente"
+      "origin": "Madrid"
     },
     "francisco-nicolas": {
       "name": "Francisco Nicolás",
@@ -3336,7 +3279,8 @@
     },
     "liz-emiliano": {
       "name": "Liz Emiliano",
-      "origin": "Madrid"
+      "origin": "Madrid",
+      "job": "Modelo internacional"
     },
     "javier-tudela": {
       "name": "Javier Tudela",
@@ -3362,12 +3306,6 @@
       "origin": "Alicante",
       "job": "Concejala de Ciudadanos"
     },
-    "daniela-vip-5": {
-      "name": "Daniela Blume",
-      "origin": "Barcelona",
-      "job": "Locutora de radio y colaboradora de TV",
-      "commons": "File:Daniela Blume 2017.jpg"
-    },
     "irma-vip-5": {
       "name": "Irma Soriano",
       "origin": "Jaén",
@@ -3390,22 +3328,13 @@
     },
     "marco-vip-5": {
       "name": "Marco Ferri",
-      "origin": "Milán",
-      "job": "Modelo y concursante de realities"
+      "job": "Modelo y concursante de realities",
+      "origin": "Milán"
     },
     "aylen-vip-5": {
       "name": "Aylén Milla",
       "origin": "Buenos Aires",
       "job": "Modelo y concursante de realities"
-    },
-    "aida-vip-5": {
-      "name": "Aída Nízar",
-      "origin": "Valladolid"
-    },
-    "ivonne-vip-5": {
-      "name": "Ivonne Reyes",
-      "origin": "Madrid",
-      "job": "Actriz, modelo y presentadora de TV"
     },
     "sergio-vip-5": {
       "name": "Sergio Ayala",
@@ -3434,11 +3363,6 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
-    "alonso-vip-5": {
-      "name": "Alonso Caparrós",
-      "origin": "Madrid",
-      "job": "Presentador de TV"
-    },
     "tutto-vip-5": {
       "name": "Tutto Durán",
       "origin": "Las Palmas",
@@ -3464,12 +3388,12 @@
     },
     "monica-hoyos": {
       "name": "Mónica Hoyos",
+      "job": "Actriz y colaboradora de TV",
       "socials": {
         "instagram": "https://www.instagram.com/monicahoyoss/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Callao",
-      "job": "Actriz y colaboradora de TV"
+      "origin": "Callao"
     },
     "aurah-ruiz": {
       "name": "Aurah Ruiz",
@@ -3553,12 +3477,12 @@
     },
     "antonio-david-flores": {
       "name": "Antonio David Flores",
+      "job": "Exmarido de Rocío Carrasco",
       "socials": {
         "instagram": "https://www.instagram.com/antoniodavidflores/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Málaga",
-      "job": "Exmarido de Rocío Carrasco"
+      "origin": "Málaga"
     },
     "hugo-castejon": {
       "name": "Hugo Castejón",
@@ -3576,11 +3500,12 @@
     },
     "pol-badia": {
       "name": "Pol Badía",
+      "origin": "Barcelona",
+      "job": "Estudiante de INEF y luchador profesional",
       "socials": {
         "instagram": "https://www.instagram.com/pol_badia/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Barcelona"
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "el-cejas": {
       "name": "El Cejas",
@@ -3969,7 +3894,8 @@
     "lara-sajen": {
       "name": "Lara Sajen",
       "origin": "Buenos Aires",
-      "job": "Cantante y artista"
+      "job": "Cantante y artista",
+      "commons": "File:ElviraFolguera0536.jpg"
     },
     "palito-dominguin": {
       "name": "Palito Dominguín",
@@ -4241,11 +4167,6 @@
         "instagram": "https://www.instagram.com/hugopaz4/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
-    },
-    "francisco-sv-13": {
-      "name": "Francisco",
-      "origin": "Alicante",
-      "job": "Cantante"
     },
     "romina-malaspina": {
       "name": "Romina Malaspina",
@@ -4579,7 +4500,8 @@
         "instagram": "https://www.instagram.com/javier.mouzo.1/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "La Coruña"
+      "origin": "La Coruña",
+      "job": "Cantante de orquesta"
     },
     "ana-herminia-illas": {
       "name": "Ana Herminia Illas",
@@ -4596,7 +4518,8 @@
         "instagram": "https://www.instagram.com/vanessa.bouza_/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "La Coruña"
+      "origin": "La Coruña",
+      "job": "Cantante de orquesta"
     },
     "ivan-gonzalez": {
       "name": "Iván González",
@@ -4626,13 +4549,13 @@
       "job": "Actriz y modelo"
     },
     "gloria-camila": {
-      "name": "Gloria Camila",
+      "name": "Gloria Camila Ortega",
+      "job": "Hija de Rocío Jurado",
       "socials": {
         "instagram": "https://www.instagram.com/gloriacamilaortega/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv",
-      "origin": "Sevilla",
-      "job": "Hija de Rocío Jurado"
+      "origin": "Sevilla"
     },
     "bigote-arrocet": {
       "name": "Bigote Arrocet",
@@ -4641,8 +4564,8 @@
     },
     "leticia-sabater": {
       "name": "Leticia Sabater",
-      "origin": "Barcelona",
-      "job": "Presentadora de TV, actriz y cantante"
+      "job": "Presentadora de TV, actriz y cantante",
+      "origin": "Barcelona"
     },
     "janet-capdevila": {
       "name": "Janet Capdevila",
@@ -4677,9 +4600,9 @@
       "job": "Madre de Alba Carrillo"
     },
     "steisy": {
-      "name": "Patricia Pérez",
-      "origin": "Granada",
-      "job": "Tronista de MyHyV"
+      "name": "Steisy",
+      "job": "Tronista de MyHyV",
+      "origin": "Granada"
     },
     "paco-de-benito": {
       "name": "Paco de Benito",
@@ -4711,8 +4634,8 @@
     },
     "el-dioni": {
       "name": "El Dioni",
-      "origin": "Madrid",
-      "job": "Ladrón de un furgón blindado"
+      "job": "Ladrón de un furgón blindado",
+      "origin": "Madrid"
     },
     "nacho-vidal": {
       "name": "Nacho Vidal",
@@ -4793,8 +4716,12 @@
     },
     "rasel-abad": {
       "name": "Rasel Abad",
-      "origin": "Sevilla",
-      "job": "Cantante"
+      "socials": {
+        "instagram": "https://www.instagram.com/raseloficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @tucaramesuena",
+      "job": "Cantante",
+      "origin": "Sevilla"
     },
     "rafa-lomana": {
       "name": "Rafa Lomana",
@@ -4905,14 +4832,15 @@
     },
     "arturo-requejo": {
       "name": "Arturo Requejo",
+      "origin": "Guipúzcoa",
+      "job": "Albañil",
       "socials": {
         "instagram": "https://www.instagram.com/arturoecolife/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
       "officialUrl": "https://www.mediasetinfinity.es/personajes/gran-hermano-vip/arturo-requejo-_MS000000111805_t1OLFSQ0N13AAxSeMdiUY1f",
       "bio": "Nacido en Irún (Guipúzcoa) en 1976. Ha participado en Supervivientes 2011, Mujeres y Hombres y Viceversa y ¡Mira quién salta!. En 2026 entró como concursante en GH VIP 9.",
-      "bioSource": "https://www.mediasetinfinity.es/personajes/gran-hermano-vip/arturo-requejo-_MS000000111805_t1OLFSQ0N13AAxSeMdiUY1f",
-      "origin": "Guipúzcoa"
+      "bioSource": "https://www.mediasetinfinity.es/personajes/gran-hermano-vip/arturo-requejo-_MS000000111805_t1OLFSQ0N13AAxSeMdiUY1f"
     },
     "carolina-cordoba": {
       "name": "Carolina Córdoba",
@@ -4977,7 +4905,8 @@
     "daniela-blume": {
       "name": "Daniela Blume",
       "origin": "Barcelona",
-      "job": "Colaboradora de radio y TV"
+      "job": "Colaboradora de radio y TV",
+      "commons": "File:Daniela Blume 2017.jpg"
     },
     "cuca-garcia-de-vinuesa": {
       "name": "Cuca García de Vinuesa",
@@ -5202,12 +5131,12 @@
     },
     "ivonne-reyes": {
       "name": "Ivonne Reyes",
+      "origin": "Caracas",
+      "job": "Presentadora de TV, actriz y modelo",
       "socials": {
         "instagram": "https://www.instagram.com/ivonnereyest/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv",
-      "origin": "Caracas",
-      "job": "Presentadora de TV, actriz y modelo"
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "marisa-jara": {
       "name": "Marisa Jara",
@@ -5835,15 +5764,6 @@
       "name": "Andrea Calush",
       "origin": "Fuerteventura",
       "job": "Monitor de ocio y tiempo libre"
-    },
-    "borja-soltero-isla-9": {
-      "name": "Borja Silva",
-      "origin": "Tenerife",
-      "job": "Coach biomecánica",
-      "socials": {
-        "instagram": "https://www.instagram.com/borjasilva44/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "dairon-soltero-isla-9": {
       "name": "Dairon Zayas",
@@ -6599,6 +6519,7 @@
     },
     "francisco": {
       "name": "Francisco",
+      "origin": "Alicante",
       "job": "Cantante"
     },
     "roko": {
@@ -6636,6 +6557,7 @@
     },
     "edurne": {
       "name": "Edurne",
+      "origin": "Collado Villalba",
       "job": "Cantante, finalista de OT 2005"
     },
     "melody": {
@@ -6864,6 +6786,7 @@
     },
     "jorge-gonzalez": {
       "name": "Jorge González",
+      "origin": "Villarejo de Salvanés",
       "socials": {
         "instagram": "https://www.instagram.com/jorgegonzalezoficial/"
       },
@@ -6941,14 +6864,6 @@
     "eva-soriano": {
       "name": "Eva Soriano",
       "job": "Humorista y presentadora"
-    },
-    "rasel": {
-      "name": "Rasel Abad",
-      "socials": {
-        "instagram": "https://www.instagram.com/raseloficial/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @tucaramesuena",
-      "job": "Cantante"
     },
     "loles-leon": {
       "name": "Loles León",
@@ -7111,6 +7026,7 @@
         "instagram": "https://www.instagram.com/giselaoficial/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @tucaramesuena",
+      "origin": "Bruch",
       "job": "Cantante, concursante de OT 2001"
     },
     "bertin-osborne": {
@@ -7189,10 +7105,6 @@
       "name": "David Bisbal",
       "origin": "Almería"
     },
-    "chenoa-ot-1": {
-      "name": "Chenoa",
-      "origin": "Palma de Mallorca"
-    },
     "manu-tenorio": {
       "name": "Manu Tenorio",
       "origin": "Sevilla"
@@ -7205,14 +7117,6 @@
     "nuria-fergo": {
       "name": "Nuria Fergó",
       "origin": "Nerja"
-    },
-    "gisela-ot-1": {
-      "name": "Gisela",
-      "socials": {
-        "instagram": "https://www.instagram.com/giselaoficial/"
-      },
-      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
-      "origin": "Bruch"
     },
     "naim-ot-1": {
       "name": "Naím Thomas",
@@ -7464,10 +7368,6 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
       "origin": "San Cristóbal de La Laguna"
     },
-    "edurne-ot-4": {
-      "name": "Edurne",
-      "origin": "Collado Villalba"
-    },
     "lidia-ot-4": {
       "name": "Lidia Reyes",
       "origin": "Córdoba"
@@ -7496,10 +7396,6 @@
     "hector-ot-4": {
       "name": "Héctor Rojo",
       "origin": "Alicante"
-    },
-    "jesus-ot-4": {
-      "name": "Jesús de Manuel",
-      "origin": "Puertollano"
     },
     "trizia-ot-4": {
       "name": "Trizia Alonso",
@@ -7531,10 +7427,6 @@
     "ismael-ot-5": {
       "name": "Ismael García",
       "origin": "Mataró"
-    },
-    "jorge-ot-5": {
-      "name": "Jorge González",
-      "origin": "Villarejo de Salvanés"
     },
     "eva-ot-5": {
       "name": "Eva Carreras",
@@ -7602,10 +7494,6 @@
     "mimi-segura": {
       "name": "Mimi Segura",
       "origin": "Melilla"
-    },
-    "ivan-ot-6": {
-      "name": "Iván Santos",
-      "origin": "Villanueva y Geltrú"
     },
     "noelia-ot-6": {
       "name": "Noelia Cano",
@@ -7818,10 +7706,6 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo",
       "origin": "Santa Brígida"
-    },
-    "geno-ot-8": {
-      "name": "Geno Machado",
-      "origin": "Las Palmas de Gran Canaria"
     },
     "enrique-ramil": {
       "name": "Enrique Ramil",
@@ -8586,8 +8470,8 @@
     },
     "lucia-dominguin-bose": {
       "name": "Lucía Dominguín Bosé",
-      "origin": "Valencia",
-      "job": "Empresaria"
+      "job": "Empresaria",
+      "origin": "Valencia"
     },
     "juan-jose-ballesta": {
       "name": "Juan José Ballesta",
@@ -9175,12 +9059,6 @@
       "origin": "Barcelona",
       "job": "Fisioterapeuta"
     },
-    "lara-costura-2": {
-      "name": "Lara Sajen",
-      "origin": "Madrid",
-      "job": "Cantante",
-      "commons": "File:ElviraFolguera0536.jpg"
-    },
     "sergio-costura-2": {
       "name": "Sergio Calvo",
       "origin": "Zaragoza",
@@ -9276,11 +9154,6 @@
       "origin": "Valencia",
       "job": "Profesor de Bellas Artes"
     },
-    "lluis-costura-4": {
-      "name": "Lluís Mengual",
-      "origin": "Barcelona",
-      "job": "Ayudante de atelier"
-    },
     "yelimar-costura-4": {
       "name": "Yelimar Moreno",
       "origin": "Barcelona",
@@ -9336,11 +9209,6 @@
       "origin": "Barcelona",
       "job": "Ayudante de atelier"
     },
-    "borja-costura-5": {
-      "name": "Borja Hernández",
-      "origin": "Bilbao",
-      "job": "Estudiante de Moda,"
-    },
     "pablo-costura-5": {
       "name": "Pablo Bosch",
       "origin": "Valencia"
@@ -9354,11 +9222,6 @@
       "name": "Caterina Pascual",
       "origin": "Mallorca",
       "job": "Diseñadora"
-    },
-    "isabel-costura-5": {
-      "name": "Isabel Gomila",
-      "origin": "Barcelona",
-      "job": "Empresaria"
     },
     "judith-costura-5": {
       "name": "Judith Díaz",
@@ -9379,16 +9242,6 @@
       "name": "MJ Quintana",
       "origin": "Albacete",
       "job": "Diseñadora"
-    },
-    "margarita-costura-5": {
-      "name": "Margarita Fernández-Ballesteros",
-      "origin": "Sevilla",
-      "job": "Deportista de élite, MDLC3"
-    },
-    "laura-costura-5": {
-      "name": "Laura Manzano",
-      "origin": "Madrid",
-      "job": "Administrativa y camarera, MDLC4"
     },
     "angel-costura-6": {
       "name": "Ángel Corrales",
@@ -9489,6 +9342,7 @@
     },
     "alonso-caparros": {
       "name": "Alonso Caparrós",
+      "origin": "Madrid",
       "job": "Presentador de TV"
     },
     "paquita-torres": {
@@ -9524,17 +9378,9 @@
       "name": "Paco Arévalo",
       "job": "Humorista y actor"
     },
-    "rappel-pesadilla-2": {
-      "name": "Rappel",
-      "job": "Vidente"
-    },
     "lucia-pesadilla-2": {
       "name": "Lucía",
       "job": "Cantante"
-    },
-    "m-jesus-r": {
-      "name": "María Jesús Ruiz",
-      "job": "Actriz, Miss España 2004"
     },
     "alicia-machado": {
       "name": "Alicia Machado",
@@ -9565,9 +9411,6 @@
       "name": "Two Yupa",
       "job": "Modelo y DJ, ex de Rappel"
     },
-    "nagore-pesadilla-3": {
-      "name": "Nagore Robles"
-    },
     "blanca-pesadilla-3": {
       "name": "Blanca de Borbón",
       "job": "Hija de Leandro de Borbón"
@@ -9588,29 +9431,13 @@
       "name": "Úrsula Aguilar",
       "job": "Modelo, Miss Málaga 2009"
     },
-    "alvaro-pesadilla-3": {
-      "name": "Álvaro Muñoz Escassi",
-      "job": "Jinete y jugador de polo"
-    },
     "reche-pesadilla-3": {
       "name": "Pedro Reche",
       "job": "Tronista de MyHyV"
     },
-    "dioni-pesadilla-3": {
-      "name": "El Dioni",
-      "job": "Ladrón de un furgón blindado"
-    },
-    "a-david": {
-      "name": "Antonio David Flores",
-      "job": "Exmarido de Rocío Carrasco"
-    },
     "raul-pesadilla-3": {
       "name": "Raúl Hidalgo",
       "job": "Modelo y presentador de TV"
-    },
-    "leticia-pesadilla-3": {
-      "name": "Leticia Sabater",
-      "job": "Presentadora de TV, actriz y cantante"
     },
     "brenda-pesadilla-3": {
       "name": "Brenda Cerdá",
@@ -9619,17 +9446,6 @@
     "sonia-pesadilla-3": {
       "name": "Sonia Baby",
       "job": "Acróbata vaginal"
-    },
-    "barbara-pesadilla-3": {
-      "name": "Bárbara Rey",
-      "job": "Actriz y vedette"
-    },
-    "victor-pesadilla-4": {
-      "name": "Víctor Janeiro",
-      "job": "Torero"
-    },
-    "bea-pesadilla-4": {
-      "name": "Beatriz Retamal"
     },
     "daniela-pesadilla-4": {
       "name": "Daniela Requena",
@@ -9646,36 +9462,13 @@
     "dani-pesadilla-4": {
       "name": "Dani García Primo"
     },
-    "manuel-pesadilla-4": {
-      "name": "Manuel González"
-    },
     "danna-pesadilla-4": {
       "name": "Danna Ponce",
       "job": "Influencer"
     },
-    "omar-pesadilla-4": {
-      "name": "Omar Sánchez",
-      "job": "Exmarido de Anabel Pantoja"
-    },
-    "steisy-pesadilla-4": {
-      "name": "Patricia Pérez,",
-      "job": "Tronista de MyHyV"
-    },
-    "lucia-pesadilla-4": {
-      "name": "Lucía Dominguín Bosé",
-      "job": "Hija de Lucía Bosé y Luis Miguel Dominguín"
-    },
-    "marco-pesadilla-4": {
-      "name": "Marco Ferri",
-      "job": "Modelo y concursante de realities"
-    },
     "juan-pesadilla-4": {
       "name": "Juan Alfonso Milán",
       "job": "Biznieto de Alfonso XIII"
-    },
-    "gloria-pesadilla-4": {
-      "name": "Gloria Camila Ortega",
-      "job": "Hija de José Ortega Cano y Rocío Jurado"
     },
     "xavier-pesadilla-4": {
       "name": "Xavier Font",
@@ -9688,18 +9481,9 @@
       "name": "Marina Ruiz",
       "job": "Tronista de MyHyV"
     },
-    "alyson-pesadilla-4": {
-      "name": "Alyson Eckmann",
-      "job": "Reportera, presentadora de TV y Ganadora de Gran Hermano VIP 5",
-      "commons": "File:Alyson Eckmann. (21458763400).jpg"
-    },
     "nadia-jemez": {
       "name": "Nadia Jémez",
       "job": "Hija de Paco Jémez"
-    },
-    "monica-pesadilla-4": {
-      "name": "Mónica Hoyos",
-      "job": "Actriz y colaboradora de TV"
     },
     "borja-estrada": {
       "name": "Borja Estrada",
@@ -9779,7 +9563,8 @@
       "name": "Cristina Pedroche"
     },
     "chenoa": {
-      "name": "Chenoa"
+      "name": "Chenoa",
+      "origin": "Palma de Mallorca"
     },
     "jaime-bores": {
       "name": "Jaime Bores"
@@ -9800,7 +9585,8 @@
     },
     "nagore-robles": {
       "name": "Nagore Robles",
-      "origin": "Vizcaya"
+      "origin": "Vizcaya",
+      "job": "Representante de moda"
     },
     "pilar-rubio": {
       "name": "Pilar Rubio"
@@ -10026,6 +9812,7 @@
     },
     "barbara-rey": {
       "name": "Bárbara Rey",
+      "job": "Actriz y vedette",
       "socials": {
         "instagram": "https://www.instagram.com/barbararey_oficial/"
       },
@@ -10922,7 +10709,11 @@
     "inigo-gonzalez": {
       "name": "Íñigo González",
       "origin": "Sevilla",
-      "job": "Concursante de Gran Hermano 1"
+      "job": "Concursante de Gran Hermano 1",
+      "socials": {
+        "instagram": "https://www.instagram.com/igonzalezsosa/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "fabio-testi": {
       "name": "Fabio Testi",
@@ -11080,11 +10871,6 @@
       "name": "María Elena Alconchel",
       "origin": "Granada",
       "job": "Maestra de escuela"
-    },
-    "freddy-cortina": {
-      "name": "Freddy Cortina",
-      "origin": "Valencia",
-      "job": "Golfista"
     },
     "antonio-amate": {
       "name": "Antonio Amate",
@@ -11308,7 +11094,11 @@
     "borja-silva": {
       "name": "Borja Silva",
       "origin": "Huelva",
-      "job": "Participante de LIDLT 9"
+      "job": "Participante de LIDLT 9",
+      "socials": {
+        "instagram": "https://www.instagram.com/borjasilva44/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "alejandra-de-la-croix": {
       "name": "Alejandra de la Croix",
@@ -11330,11 +11120,6 @@
         "instagram": "https://www.instagram.com/jesus_gmlrs/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @tucarameSuena"
-    },
-    "nacho-de-borbon-ghv-9": {
-      "name": "Nacho de Borbón",
-      "origin": "Madrid",
-      "job": "Modelo y participante de LIDLT 11"
     }
   }
 }

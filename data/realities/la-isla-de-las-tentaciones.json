@@ -2393,7 +2393,7 @@
           "role": "Soltero"
         },
         {
-          "id": "borja-soltero-isla-9",
+          "id": "borja-silva",
           "role": "Soltero"
         },
         {
@@ -2446,7 +2446,7 @@
         },
         {
           "who": "almudena-porras",
-          "with": "borja-soltero-isla-9",
+          "with": "borja-silva",
           "text": "Tuvieron 4 citas en el programa",
           "source": "https://es.wikipedia.org/wiki/La_isla_de_las_tentaciones",
           "auto": "wiki"
