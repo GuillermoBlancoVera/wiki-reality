@@ -1528,9 +1528,54 @@
         {
           "id": "omar-sanchez",
           "role": "4º puesto"
+        },
+        {
+          "id": "rosa-benito",
+          "role": "Concursante"
+        },
+        {
+          "id": "ivana-icardi",
+          "role": "Concursante"
+        },
+        {
+          "id": "arkano",
+          "role": "Concursante"
+        },
+        {
+          "id": "damian-quintero",
+          "role": "Concursante"
+        },
+        {
+          "id": "maria-jesus-ruiz",
+          "role": "Concursante"
+        },
+        {
+          "id": "albert-barranco",
+          "role": "Abandonó"
+        },
+        {
+          "id": "yulen-pereira",
+          "role": "Concursante"
+        },
+        {
+          "id": "laura-cuevas",
+          "role": "Concursante"
+        },
+        {
+          "id": "lola-ortiz",
+          "role": "Concursante"
+        },
+        {
+          "id": "ruben-torres",
+          "role": "Concursante"
+        },
+        {
+          "id": "marta-penate",
+          "role": "Concursante"
         }
       ],
-      "group": "All Stars"
+      "group": "All Stars",
+      "notes": "Orden de expulsión del resto de concursantes pendiente de completar."
     }
   ],
   "notes": "Finalistas de las ediciones anteriores a 2025 y orden de expulsiones pendientes de completar.",

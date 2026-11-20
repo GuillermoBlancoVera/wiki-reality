@@ -570,7 +570,69 @@
       "title": "Gran Hermano VIP 9",
       "year": 2026,
       "presenter": "Jorge Javier Vázquez",
-      "notes": "Edición en emisión."
+      "notes": "Edición en emisión. Lista de concursantes según la web oficial del programa.",
+      "participants": [
+        {
+          "id": "lia-romero",
+          "role": "Concursante"
+        },
+        {
+          "id": "nacho-de-borbon",
+          "role": "Concursante"
+        },
+        {
+          "id": "nayades-isla-11",
+          "role": "Concursante"
+        },
+        {
+          "id": "cristina-porta",
+          "role": "Concursante"
+        },
+        {
+          "id": "katrin-ortega",
+          "role": "Concursante"
+        },
+        {
+          "id": "raquel-mosquera",
+          "role": "Concursante"
+        },
+        {
+          "id": "paloma-gonzalez",
+          "role": "Concursante"
+        },
+        {
+          "id": "gianmarco-onestini",
+          "role": "Concursante"
+        },
+        {
+          "id": "carlos-corbacho",
+          "role": "Concursante"
+        },
+        {
+          "id": "robert-mendoza",
+          "role": "Concursante"
+        },
+        {
+          "id": "raquel-bollo",
+          "role": "Concursante"
+        },
+        {
+          "id": "belen-esteban",
+          "role": "Concursante"
+        },
+        {
+          "id": "pipi-estrada",
+          "role": "Concursante"
+        },
+        {
+          "id": "karmele-marchante",
+          "role": "Concursante"
+        },
+        {
+          "id": "arturo-requejo",
+          "role": "Concursante"
+        }
+      ]
     }
   ],
   "official": {
