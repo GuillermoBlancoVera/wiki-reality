@@ -229,7 +229,11 @@
     "nuria-yanez": {
       "name": "Nuria Yáñez",
       "origin": "Tarragona",
-      "job": "Recepcionista de camping"
+      "job": "Recepcionista de camping",
+      "socials": {
+        "instagram": "https://www.instagram.com/fresitanuria/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "david-gallardo": {
       "name": "David Gallardo",
@@ -1260,7 +1264,11 @@
     "paula-gonzalez": {
       "name": "Paula González",
       "origin": "Barcelona",
-      "job": "Dependienta"
+      "job": "Dependienta",
+      "socials": {
+        "instagram": "https://www.instagram.com/paulagonzalez_oficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "beatriz-retamal": {
       "name": "Beatriz Retamal",
@@ -2381,7 +2389,11 @@
     "aritz-castro": {
       "name": "Aritz Castro",
       "origin": "Vizcaya",
-      "job": "Artesano y guía turístico"
+      "job": "Artesano y guía turístico",
+      "socials": {
+        "instagram": "https://www.instagram.com/aritzcastrooficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "niedziela-raluy": {
       "name": "Niedziela Raluy",
@@ -2617,7 +2629,11 @@
     "miriam-gh-18": {
       "name": "Miriam Santiago",
       "origin": "La Coruña",
-      "job": "Estudiante e instructora de artes marciales"
+      "job": "Estudiante e instructora de artes marciales",
+      "socials": {
+        "instagram": "https://www.instagram.com/miriamsantiagogh18/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "carlos-gh-18": {
       "name": "Carlos"
@@ -2650,7 +2666,11 @@
     "miguel-gh-18": {
       "name": "Miguel del Villar",
       "origin": "Navarra",
-      "job": "Zapatero"
+      "job": "Zapatero",
+      "socials": {
+        "instagram": "https://www.instagram.com/miguel_gh18/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "cristian-gh-18": {
       "name": "Cristian Fernández",
@@ -4394,7 +4414,11 @@
     "aneth-acosta": {
       "name": "Aneth Acosta",
       "origin": "Lima",
-      "job": "Amiga de Isa Pantoja"
+      "job": "Amiga de Isa Pantoja",
+      "socials": {
+        "instagram": "https://www.instagram.com/anethstyle/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "toni-salazar": {
       "name": "Toñi Salazar",
@@ -5390,7 +5414,11 @@
     "miguel-such": {
       "name": "Miguel Such",
       "origin": "Islas Baleares",
-      "job": "Presentador de TV"
+      "job": "Presentador de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/miguelsuch/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "estela-gimenez": {
       "name": "Estela Giménez",
@@ -8423,7 +8451,11 @@
     },
     "damion-ot-10": {
       "name": "Damion Frost",
-      "origin": "Adeje"
+      "origin": "Adeje",
+      "socials": {
+        "instagram": "https://www.instagram.com/damiontriunfito/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "dave-ot-10": {
       "name": "Dave Zulueta",
@@ -10026,7 +10058,11 @@
     },
     "loreto-pesadilla-1": {
       "name": "Loreto Valverde",
-      "job": "Actriz y presentadora de TV"
+      "job": "Actriz y presentadora de TV",
+      "socials": {
+        "instagram": "https://www.instagram.com/loretovalverdeoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "fran-pesadilla-1": {
       "name": "Fran Murcia",
@@ -11566,7 +11602,11 @@
     "yolanda-mora": {
       "name": "Yolanda Mora",
       "origin": "Madrid",
-      "job": "Mujer de Lauren Postigo"
+      "job": "Mujer de Lauren Postigo",
+      "socials": {
+        "instagram": "https://www.instagram.com/yolandamoracomedia/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "brito-arceo": {
       "name": "Brito Arceo",
@@ -11845,7 +11885,11 @@
     "marta-valverde": {
       "name": "Marta Valverde",
       "origin": "Valladolid",
-      "job": "Actriz"
+      "job": "Actriz",
+      "socials": {
+        "instagram": "https://www.instagram.com/martavalverdeoficial/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "angel-herrero": {
       "name": "Ángel Herrero",
@@ -11962,7 +12006,11 @@
     "nerea-echaide": {
       "name": "Nerea Echaide",
       "origin": "Guipúzcoa",
-      "job": "Camarera"
+      "job": "Camarera",
+      "socials": {
+        "instagram": "https://www.instagram.com/nerea_echaide/"
+      },
+      "socialsSource": "Perfil público localizado por nombre y programa"
     },
     "consuelo-berlanga": {
       "name": "Consuelo Berlanga",
