@@ -1,0 +1,885 @@
+{
+  "id": "mask-singer",
+  "name": "Mask Singer: Adivina quién canta",
+  "short": "Mask Singer",
+  "tagline": "Famosos que cantan ocultos tras una máscara",
+  "description": "Concurso musical en el que personas famosas cantan ocultas bajo un disfraz y una máscara mientras un equipo de investigadores intenta adivinar quién es. Quien pierde cada duelo se quita la máscara y revela su identidad. Adaptación del formato surcoreano King of Mask Singer.",
+  "channel": "Antena 3",
+  "since": 2020,
+  "theme": "masksinger",
+  "newsQuery": "\"Mask Singer\" Antena 3",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta",
+    "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_1",
+    "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_2",
+    "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_3",
+    "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_4",
+    "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_5"
+  ],
+  "editions": [
+    {
+      "number": 1,
+      "title": "Temporada 1",
+      "year": 2020,
+      "dates": "4 nov 2020 - 23 dic 2020",
+      "presenter": "Arturo Valls",
+      "panel": [
+        "Javier Calvo",
+        "Javier Ambrossi",
+        "Malú",
+        "José Mota"
+      ],
+      "winner": "paz-vega",
+      "finalists": [
+        "genoveva-casanova",
+        "toni-canto",
+        "jorge-lorenzo"
+      ],
+      "participants": [
+        {
+          "id": "al-bano",
+          "role": "Máscara: Girasol",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "pastora-soler",
+          "role": "Máscara: Pavo Real",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "terelu-campos",
+          "role": "Máscara: Cerdita",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "fernando-tejero",
+          "role": "Máscara: Monstruo",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "maximo-huerta",
+          "role": "Máscara: Gamba",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "norma-duval",
+          "role": "Máscara: Unicornio",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "pepe-navarro",
+          "role": "Máscara: Pulpo",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "georgina-rodriguez",
+          "role": "Máscara: León",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "monica-carrillo",
+          "role": "Máscara invitada: Mariquita"
+        },
+        {
+          "id": "cristina-pedroche",
+          "role": "Máscara invitada: Robot"
+        }
+      ],
+      "masks": [
+        {
+          "mask": "Catrina",
+          "id": "paz-vega",
+          "result": "Ganador/a"
+        },
+        {
+          "mask": "Caniche",
+          "id": "genoveva-casanova",
+          "result": "2.º puesto"
+        },
+        {
+          "mask": "Camaleón",
+          "id": "toni-canto",
+          "result": "3.er puesto"
+        },
+        {
+          "mask": "Cuervo",
+          "id": "jorge-lorenzo",
+          "result": "4.º puesto"
+        },
+        {
+          "mask": "Girasol",
+          "id": "al-bano",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Pavo Real",
+          "id": "pastora-soler",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Cerdita",
+          "id": "terelu-campos",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Monstruo",
+          "id": "fernando-tejero",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Gamba",
+          "id": "maximo-huerta",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Unicornio",
+          "id": "norma-duval",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Pulpo",
+          "id": "pepe-navarro",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "León",
+          "id": "georgina-rodriguez",
+          "result": "Desenmascarado/a en el programa 1"
+        },
+        {
+          "mask": "Mariquita",
+          "id": "monica-carrillo",
+          "result": "Máscara invitada"
+        },
+        {
+          "mask": "Robot",
+          "id": "cristina-pedroche",
+          "result": "Máscara invitada"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_1"
+    },
+    {
+      "number": 2,
+      "title": "Temporada 2",
+      "year": 2021,
+      "dates": "24 may 2021 - 29 jul 2021",
+      "presenter": "Arturo Valls",
+      "panel": [
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Paz Vega",
+        "José Mota"
+      ],
+      "winner": "joaquin-cortes",
+      "finalists": [
+        "willy-barcenas",
+        "maria-pombo",
+        "anne-igartiburu"
+      ],
+      "participants": [
+        {
+          "id": "bertin-osborne",
+          "role": "Máscara: Cocodrilo",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "maria-zurita",
+          "role": "Máscara: Dragona",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "mar-flores",
+          "role": "Máscara: Flamenco",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "jose-manuel-calderon",
+          "role": "Máscara: Perro",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "mel-b",
+          "role": "Máscara: Medusa",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "josep-pedrerol",
+          "role": "Máscara: Rana",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "eva-hache",
+          "role": "Máscara: Cactus",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "paloma-san-basilio",
+          "role": "Máscara: Ángel",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "esperanza-aguirre",
+          "role": "Máscara: Mariposa",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "isabel-preysler",
+          "role": "Máscara: Gatita",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "la-toya-jackson",
+          "role": "Máscara: Menina",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "tamara-gorro",
+          "role": "Máscara invitada: Dama Centella"
+        },
+        {
+          "id": "pepe-reina",
+          "role": "Máscara invitada: Pingüino"
+        },
+        {
+          "id": "ainhoa-arteta",
+          "role": "Máscara invitada: Paella"
+        }
+      ],
+      "masks": [
+        {
+          "mask": "Erizo",
+          "id": "joaquin-cortes",
+          "result": "Ganador/a"
+        },
+        {
+          "mask": "Plátano",
+          "id": "willy-barcenas",
+          "result": "2.º puesto"
+        },
+        {
+          "mask": "Huevo",
+          "id": "maria-pombo",
+          "result": "3.er puesto"
+        },
+        {
+          "mask": "Monstruita",
+          "id": "anne-igartiburu",
+          "result": "4.º puesto"
+        },
+        {
+          "mask": "Cocodrilo",
+          "id": "bertin-osborne",
+          "result": "Desenmascarado/a en el programa 8"
+        },
+        {
+          "mask": "Dragona",
+          "id": "maria-zurita",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Flamenco",
+          "id": "mar-flores",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Perro",
+          "id": "jose-manuel-calderon",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Medusa",
+          "id": "mel-b",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Rana",
+          "id": "josep-pedrerol",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Cactus",
+          "id": "eva-hache",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Ángel",
+          "id": "paloma-san-basilio",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Mariposa",
+          "id": "esperanza-aguirre",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Gatita",
+          "id": "isabel-preysler",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Menina",
+          "id": "la-toya-jackson",
+          "result": "Desenmascarado/a en el programa 1"
+        },
+        {
+          "mask": "Dama Centella",
+          "id": "tamara-gorro",
+          "result": "Máscara invitada"
+        },
+        {
+          "mask": "Pingüino",
+          "id": "pepe-reina",
+          "result": "Máscara invitada"
+        },
+        {
+          "mask": "Paella",
+          "id": "ainhoa-arteta",
+          "result": "Máscara invitada"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_2"
+    },
+    {
+      "number": 3,
+      "title": "Temporada 3",
+      "year": 2023,
+      "dates": "10 may 2023 - 5 jul 2023",
+      "presenter": "Arturo Valls",
+      "panel": [
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Mónica Naranjo",
+        "Ana Obregón"
+      ],
+      "winner": "ana-torroja",
+      "finalists": [
+        "fernando-morientes",
+        "sabrina-salerno",
+        "paco-tous"
+      ],
+      "participants": [
+        {
+          "id": "alaska",
+          "role": "Máscara: Hada",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "dulceida",
+          "role": "Máscara: Bebé",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "ana-milan",
+          "role": "Máscara: Cupcake",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "miguel-torres",
+          "role": "Máscara: Alienígenas",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "paula-echevarria",
+          "role": "Máscara: Alienígenas",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "naty-abascal",
+          "role": "Máscara: Banderilla",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "bo-derek",
+          "role": "Máscara: Sirena",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "feliciano-lopez",
+          "role": "Máscara: Esqueleto",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "el-rubius",
+          "role": "Máscara: Tigre",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "jose-ramon-de-la-morena",
+          "role": "Máscara: Gnomo",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "valeria-mazza",
+          "role": "Máscara: Matrioska",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "tori-spelling",
+          "role": "Máscara: Arlequín",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "arantxa-sanchez-vicario",
+          "role": "Máscara: Faraona",
+          "eliminatedOrder": 16
+        }
+      ],
+      "masks": [
+        {
+          "mask": "Ratita",
+          "id": "ana-torroja",
+          "result": "Ganador/a"
+        },
+        {
+          "mask": "Gorila",
+          "id": "fernando-morientes",
+          "result": "Ganador/a"
+        },
+        {
+          "mask": "Caballito de Mar",
+          "id": "sabrina-salerno",
+          "result": "3.er puesto"
+        },
+        {
+          "mask": "Gallo",
+          "id": "paco-tous",
+          "result": "4.º puesto"
+        },
+        {
+          "mask": "Hada",
+          "id": "alaska",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Bebé",
+          "id": "dulceida",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Cupcake",
+          "id": "ana-milan",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Alienígenas",
+          "id": "miguel-torres",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Alienígenas",
+          "id": "paula-echevarria",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Banderilla",
+          "id": "naty-abascal",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Sirena",
+          "id": "bo-derek",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Esqueleto",
+          "id": "feliciano-lopez",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Tigre",
+          "id": "el-rubius",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Gnomo",
+          "id": "jose-ramon-de-la-morena",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Matrioska",
+          "id": "valeria-mazza",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Arlequín",
+          "id": "tori-spelling",
+          "result": "Desenmascarado/a en el programa 1"
+        },
+        {
+          "mask": "Faraona",
+          "id": "arantxa-sanchez-vicario",
+          "result": "Desenmascarado/a en el programa 1"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_3",
+      "notes": "La final la ganaron dos máscaras a la vez: Ana Torroja y Fernando Morientes."
+    },
+    {
+      "number": 4,
+      "title": "Temporada 4",
+      "year": 2024,
+      "dates": "16 oct 2024 - 11 dic 2024",
+      "presenter": "Arturo Valls",
+      "panel": [
+        "Javier Ambrossi",
+        "Javier Calvo",
+        "Alaska",
+        "Ana Milán"
+      ],
+      "winner": "abraham-mateo",
+      "finalists": [
+        "adriana-ugarte",
+        "manuel-diaz-el-cordobes"
+      ],
+      "participants": [
+        {
+          "id": "esther-canadas",
+          "role": "Máscara: Rinoceronte",
+          "eliminatedOrder": 4
+        },
+        {
+          "id": "ana-peleteiro",
+          "role": "Máscara: Helado",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "antonio-lobato",
+          "role": "Máscara: Churros",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "gloria-serra",
+          "role": "Máscara: Piña",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "ana-boyer",
+          "role": "Máscara: Corazón",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "fernando-verdasco",
+          "role": "Máscara: Corazón",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "barbara-rey",
+          "role": "Máscara: Troll",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "david-hasselhoff",
+          "role": "Máscara: Hipopótamo",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "maria-jose-campanario",
+          "role": "Máscara: Oveja",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "miguel-angel-revilla",
+          "role": "Máscara: Brócoli",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "manuela-carmena",
+          "role": "Máscara: Patita de Goma",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "jose-luis-rodriguez-el-puma",
+          "role": "Máscara: Aguacate",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "ana-obregon",
+          "role": "Máscara: Palomitas",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "carl-lewis",
+          "role": "Máscara: Panda",
+          "eliminatedOrder": 16
+        }
+      ],
+      "masks": [
+        {
+          "mask": "Mosca",
+          "id": "abraham-mateo",
+          "result": "Ganador/a"
+        },
+        {
+          "mask": "Cobra",
+          "id": "adriana-ugarte",
+          "result": "2.º puesto"
+        },
+        {
+          "mask": "Tiburón",
+          "id": "manuel-diaz-el-cordobes",
+          "result": "3.er puesto"
+        },
+        {
+          "mask": "Rinoceronte",
+          "id": "esther-canadas",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Helado",
+          "id": "ana-peleteiro",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Churros",
+          "id": "antonio-lobato",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Piña",
+          "id": "gloria-serra",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Corazón",
+          "id": "ana-boyer",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Corazón",
+          "id": "fernando-verdasco",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Troll",
+          "id": "barbara-rey",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Hipopótamo",
+          "id": "david-hasselhoff",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Oveja",
+          "id": "maria-jose-campanario",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Brócoli",
+          "id": "miguel-angel-revilla",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Patita de Goma",
+          "id": "manuela-carmena",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Aguacate",
+          "id": "jose-luis-rodriguez-el-puma",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Palomitas",
+          "id": "ana-obregon",
+          "result": "Desenmascarado/a en el programa 1"
+        },
+        {
+          "mask": "Panda",
+          "id": "carl-lewis",
+          "result": "Desenmascarado/a en el programa 1"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_4"
+    },
+    {
+      "number": 5,
+      "title": "Temporada 5",
+      "year": 2026,
+      "dates": "8 abr 2026 - 27 may 2026",
+      "presenter": "Arturo Valls",
+      "panel": [
+        "Boris Izaguirre",
+        "Ruth Lorenzo",
+        "Juan y Medio",
+        "Ana Milán"
+      ],
+      "winner": "leire-martinez",
+      "finalists": [
+        "nacho-duato",
+        "vicky-martin-berrocal",
+        "david-cantero"
+      ],
+      "participants": [
+        {
+          "id": "silvia-abril",
+          "role": "Máscara: Mejillón",
+          "eliminatedOrder": 5
+        },
+        {
+          "id": "lola-lolita",
+          "role": "Máscara: Mofeta",
+          "eliminatedOrder": 6
+        },
+        {
+          "id": "rappel",
+          "role": "Máscara: Tortuga",
+          "eliminatedOrder": 7
+        },
+        {
+          "id": "lydia-lozano",
+          "role": "Máscara: Pizza",
+          "eliminatedOrder": 8
+        },
+        {
+          "id": "maria-del-monte",
+          "role": "Máscara: Loro",
+          "eliminatedOrder": 9
+        },
+        {
+          "id": "begona-villacis",
+          "role": "Máscara: Chihuahua",
+          "eliminatedOrder": 10
+        },
+        {
+          "id": "cayetana-guillen-cuervo",
+          "role": "Máscara: Planta Carnívora",
+          "eliminatedOrder": 11
+        },
+        {
+          "id": "tomas-roncero",
+          "role": "Máscara: Bocata Calamares",
+          "eliminatedOrder": 12
+        },
+        {
+          "id": "trancas-y-barrancas",
+          "role": "Máscara: Chanclas",
+          "eliminatedOrder": 13
+        },
+        {
+          "id": "samantha-fox",
+          "role": "Máscara: Labios",
+          "eliminatedOrder": 14
+        },
+        {
+          "id": "salva-reina",
+          "role": "Máscara: Caracol",
+          "eliminatedOrder": 15
+        },
+        {
+          "id": "martina-navratilova",
+          "role": "Máscara: Fregona",
+          "eliminatedOrder": 16
+        },
+        {
+          "id": "bernd-schuster",
+          "role": "Máscara: Semáforo",
+          "eliminatedOrder": 17
+        },
+        {
+          "id": "elle-macpherson",
+          "role": "Máscara: Micrófono",
+          "eliminatedOrder": 18
+        }
+      ],
+      "masks": [
+        {
+          "mask": "Clavel",
+          "id": "leire-martinez",
+          "result": "Ganador/a"
+        },
+        {
+          "mask": "Momia",
+          "id": "nacho-duato",
+          "result": "2.º puesto"
+        },
+        {
+          "mask": "Troglodita",
+          "id": "vicky-martin-berrocal",
+          "result": "3.er puesto"
+        },
+        {
+          "mask": "Jirafa",
+          "id": "david-cantero",
+          "result": "4.º puesto"
+        },
+        {
+          "mask": "Mejillón",
+          "id": "silvia-abril",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Mofeta",
+          "id": "lola-lolita",
+          "result": "Desenmascarado/a en el programa 7"
+        },
+        {
+          "mask": "Tortuga",
+          "id": "rappel",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Pizza",
+          "id": "lydia-lozano",
+          "result": "Desenmascarado/a en el programa 6"
+        },
+        {
+          "mask": "Loro",
+          "id": "maria-del-monte",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Chihuahua",
+          "id": "begona-villacis",
+          "result": "Desenmascarado/a en el programa 5"
+        },
+        {
+          "mask": "Planta Carnívora",
+          "id": "cayetana-guillen-cuervo",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Bocata Calamares",
+          "id": "tomas-roncero",
+          "result": "Desenmascarado/a en el programa 4"
+        },
+        {
+          "mask": "Chanclas",
+          "id": "trancas-y-barrancas",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Labios",
+          "id": "samantha-fox",
+          "result": "Desenmascarado/a en el programa 3"
+        },
+        {
+          "mask": "Caracol",
+          "id": "salva-reina",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Fregona",
+          "id": "martina-navratilova",
+          "result": "Desenmascarado/a en el programa 2"
+        },
+        {
+          "mask": "Semáforo",
+          "id": "bernd-schuster",
+          "result": "Desenmascarado/a en el programa 1"
+        },
+        {
+          "mask": "Micrófono",
+          "id": "elle-macpherson",
+          "result": "Desenmascarado/a en el programa 1"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Mask_Singer:_Adivina_qui%C3%A9n_canta_season_5"
+    }
+  ],
+  "presentersText": "Arturo Valls",
+  "presenters": [
+    "Arturo Valls"
+  ]
+}

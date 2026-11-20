@@ -1,0 +1,755 @@
+{
+ "presenter": "Arturo Valls",
+ "channel": "Antena 3",
+ "since": 2020,
+ "seasons": [
+  {
+   "number": 1,
+   "year": 2020,
+   "dates": "4 November 2020 – 23 December 2020",
+   "presenter": "Arturo Valls",
+   "panelists": [
+    "Javier Calvo",
+    "Javier Ambrossi",
+    "Malú",
+    "José Mota"
+   ],
+   "winner": "Paz Vega",
+   "contestants": [
+    {
+     "mask": "Catrina",
+     "celebrity": "Paz Vega",
+     "occupation": "Actress",
+     "result": "Winner",
+     "order": 12,
+     "guest": false
+    },
+    {
+     "mask": "Caniche",
+     "celebrity": "Genoveva Casanova",
+     "occupation": "Aristocrat",
+     "result": "Runner-up",
+     "order": 11,
+     "guest": false
+    },
+    {
+     "mask": "Camaleón",
+     "celebrity": "Toni Cantó",
+     "occupation": "Politician/Actor",
+     "result": "Third",
+     "order": 10,
+     "guest": false
+    },
+    {
+     "mask": "Cuervo",
+     "celebrity": "Jorge Lorenzo",
+     "occupation": "Former MotoGP racer",
+     "result": "Fourth",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Girasol",
+     "celebrity": "Al Bano",
+     "occupation": "Singer",
+     "result": "Eliminated ep 7",
+     "order": 8,
+     "guest": false
+    },
+    {
+     "mask": "Pavo Real",
+     "celebrity": "Pastora Soler",
+     "occupation": "Singer",
+     "result": "Eliminated ep 7",
+     "order": 7,
+     "guest": false
+    },
+    {
+     "mask": "Cerdita",
+     "celebrity": "Terelu Campos",
+     "occupation": "TV host",
+     "result": "Eliminated ep 6",
+     "order": 6,
+     "guest": false
+    },
+    {
+     "mask": "Monstruo",
+     "celebrity": "Fernando Tejero",
+     "occupation": "Actor",
+     "result": "Eliminated ep 5",
+     "order": 5,
+     "guest": false
+    },
+    {
+     "mask": "Gamba",
+     "celebrity": "Máximo Huerta",
+     "occupation": "Journalist/Ex-minister",
+     "result": "Eliminated ep 4",
+     "order": 4,
+     "guest": false
+    },
+    {
+     "mask": "Unicornio",
+     "celebrity": "Norma Duval",
+     "occupation": "Vedette/Actress",
+     "result": "Eliminated ep 3",
+     "order": 3,
+     "guest": false
+    },
+    {
+     "mask": "Pulpo",
+     "celebrity": "Pepe Navarro",
+     "occupation": "TV host/Journalist",
+     "result": "Eliminated ep 2",
+     "order": 2,
+     "guest": false
+    },
+    {
+     "mask": "León",
+     "celebrity": "Georgina Rodríguez",
+     "occupation": "Influencer",
+     "result": "Eliminated ep 1",
+     "order": 1,
+     "guest": false
+    },
+    {
+     "mask": "Mariquita",
+     "celebrity": "Mónica Carrillo",
+     "occupation": "Journalist",
+     "result": null,
+     "order": null,
+     "guest": true
+    },
+    {
+     "mask": "Robot",
+     "celebrity": "Cristina Pedroche",
+     "occupation": "TV host",
+     "result": null,
+     "order": null,
+     "guest": true
+    }
+   ]
+  },
+  {
+   "number": 2,
+   "year": 2021,
+   "dates": "24 May 2021 – 29 July 2021",
+   "presenter": "Arturo Valls",
+   "panelists": [
+    "Javier Ambrossi",
+    "Javier Calvo",
+    "Paz Vega",
+    "José Mota"
+   ],
+   "winner": "Joaquín Cortés",
+   "contestants": [
+    {
+     "mask": "Erizo",
+     "celebrity": "Joaquín Cortés",
+     "occupation": "Dancer",
+     "result": "Winner",
+     "order": 15,
+     "guest": false
+    },
+    {
+     "mask": "Plátano",
+     "celebrity": "Willy Bárcenas",
+     "occupation": "Singer",
+     "result": "Runner-up",
+     "order": 14,
+     "guest": false
+    },
+    {
+     "mask": "Huevo",
+     "celebrity": "María Pombo",
+     "occupation": "Influencer",
+     "result": "Third",
+     "order": 13,
+     "guest": false
+    },
+    {
+     "mask": "Monstruita",
+     "celebrity": "Anne Igartiburu",
+     "occupation": "TV host",
+     "result": "Fourth",
+     "order": 12,
+     "guest": false
+    },
+    {
+     "mask": "Cocodrilo",
+     "celebrity": "Bertín Osborne",
+     "occupation": "Singer/TV host",
+     "result": "Eliminated ep 8",
+     "order": 11,
+     "guest": false
+    },
+    {
+     "mask": "Dragona",
+     "celebrity": "María Zurita",
+     "occupation": "Aristocrat",
+     "result": "Eliminated ep 7",
+     "order": 10,
+     "guest": false
+    },
+    {
+     "mask": "Flamenco",
+     "celebrity": "Mar Flores",
+     "occupation": "Model",
+     "result": "Eliminated ep 6",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Perro",
+     "celebrity": "José Manuel Calderón",
+     "occupation": "Ex-basketballer",
+     "result": "Eliminated ep 6",
+     "order": 8,
+     "guest": false
+    },
+    {
+     "mask": "Medusa",
+     "celebrity": "Mel B",
+     "occupation": "Singer",
+     "result": "Eliminated ep 5",
+     "order": 7,
+     "guest": false
+    },
+    {
+     "mask": "Rana",
+     "celebrity": "Josep Pedrerol",
+     "occupation": "Sports journalist",
+     "result": "Eliminated ep 5",
+     "order": 6,
+     "guest": false
+    },
+    {
+     "mask": "Cactus",
+     "celebrity": "Eva Hache",
+     "occupation": "Comedian",
+     "result": "Eliminated ep 4",
+     "order": 5,
+     "guest": false
+    },
+    {
+     "mask": "Ángel",
+     "celebrity": "Paloma San Basilio",
+     "occupation": "Singer",
+     "result": "Eliminated ep 4",
+     "order": 4,
+     "guest": false
+    },
+    {
+     "mask": "Mariposa",
+     "celebrity": "Esperanza Aguirre",
+     "occupation": "Former senator",
+     "result": "Eliminated ep 3",
+     "order": 3,
+     "guest": false
+    },
+    {
+     "mask": "Gatita",
+     "celebrity": "Isabel Preysler",
+     "occupation": "Socialite",
+     "result": "Eliminated ep 2",
+     "order": 2,
+     "guest": false
+    },
+    {
+     "mask": "Menina",
+     "celebrity": "La Toya Jackson",
+     "occupation": "Singer",
+     "result": "Eliminated ep 1",
+     "order": 1,
+     "guest": false
+    },
+    {
+     "mask": "Dama Centella",
+     "celebrity": "Tamara Gorro",
+     "occupation": "Influencer",
+     "result": null,
+     "order": null,
+     "guest": true
+    },
+    {
+     "mask": "Pingüino",
+     "celebrity": "Pepe Reina",
+     "occupation": "Footballer",
+     "result": null,
+     "order": null,
+     "guest": true
+    },
+    {
+     "mask": "Paella",
+     "celebrity": "Ainhoa Arteta",
+     "occupation": "Opera singer",
+     "result": null,
+     "order": null,
+     "guest": true
+    }
+   ]
+  },
+  {
+   "number": 3,
+   "year": 2023,
+   "dates": "10 May 2023 – 5 July 2023",
+   "presenter": "Arturo Valls",
+   "panelists": [
+    "Javier Ambrossi",
+    "Javier Calvo",
+    "Mónica Naranjo",
+    "Ana Obregón"
+   ],
+   "winner": "Ana Torroja & Fernando Morientes",
+   "contestants": [
+    {
+     "mask": "Ratita",
+     "celebrity": "Ana Torroja",
+     "occupation": "Singer",
+     "result": "Winner",
+     "order": 16,
+     "guest": false
+    },
+    {
+     "mask": "Gorila",
+     "celebrity": "Fernando Morientes",
+     "occupation": "Ex-footballer",
+     "result": "Winner",
+     "order": 16,
+     "guest": false
+    },
+    {
+     "mask": "Caballito de Mar",
+     "celebrity": "Sabrina Salerno",
+     "occupation": "Singer",
+     "result": "Third",
+     "order": 15,
+     "guest": false
+    },
+    {
+     "mask": "Gallo",
+     "celebrity": "Paco Tous",
+     "occupation": "Actor",
+     "result": "Fourth",
+     "order": 14,
+     "guest": false
+    },
+    {
+     "mask": "Hada",
+     "celebrity": "Alaska",
+     "occupation": "Singer",
+     "result": "Eliminated ep 7",
+     "order": 13,
+     "guest": false
+    },
+    {
+     "mask": "Bebé",
+     "celebrity": "Dulceida",
+     "occupation": "Influencer",
+     "result": "Eliminated ep 7",
+     "order": 12,
+     "guest": false
+    },
+    {
+     "mask": "Cupcake",
+     "celebrity": "Ana Milán",
+     "occupation": "Actress",
+     "result": "Eliminated ep 6",
+     "order": 11,
+     "guest": false
+    },
+    {
+     "mask": "Alienígenas",
+     "celebrity": "Miguel Torres",
+     "occupation": "Ex-footballer",
+     "result": "Eliminated ep 5",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Alienígenas",
+     "celebrity": "Paula Echevarría",
+     "occupation": "Actress/model",
+     "result": "Eliminated ep 5",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Banderilla",
+     "celebrity": "Naty Abascal",
+     "occupation": "Socialite",
+     "result": "Eliminated ep 4",
+     "order": 8,
+     "guest": false
+    },
+    {
+     "mask": "Sirena",
+     "celebrity": "Bo Derek",
+     "occupation": "Actress/model",
+     "result": "Eliminated ep 4",
+     "order": 7,
+     "guest": false
+    },
+    {
+     "mask": "Esqueleto",
+     "celebrity": "Feliciano López",
+     "occupation": "Former tennis player",
+     "result": "Eliminated ep 3",
+     "order": 6,
+     "guest": false
+    },
+    {
+     "mask": "Tigre",
+     "celebrity": "El Rubius",
+     "occupation": "YouTuber",
+     "result": "Eliminated ep 3",
+     "order": 5,
+     "guest": false
+    },
+    {
+     "mask": "Gnomo",
+     "celebrity": "José Ramón de la Morena",
+     "occupation": "Sports journalist",
+     "result": "Eliminated ep 2",
+     "order": 4,
+     "guest": false
+    },
+    {
+     "mask": "Matrioska",
+     "celebrity": "Valeria Mazza",
+     "occupation": "Model",
+     "result": "Eliminated ep 2",
+     "order": 3,
+     "guest": false
+    },
+    {
+     "mask": "Arlequín",
+     "celebrity": "Tori Spelling",
+     "occupation": "Actress",
+     "result": "Eliminated ep 1",
+     "order": 2,
+     "guest": false
+    },
+    {
+     "mask": "Faraona",
+     "celebrity": "Arantxa Sánchez Vicario",
+     "occupation": "Tennis legend",
+     "result": "Eliminated ep 1",
+     "order": 1,
+     "guest": false
+    }
+   ]
+  },
+  {
+   "number": 4,
+   "year": 2024,
+   "dates": "16 October 2024 – 11 December 2024",
+   "presenter": "Arturo Valls",
+   "panelists": [
+    "Javier Ambrossi",
+    "Javier Calvo",
+    "Alaska",
+    "Ana Milán"
+   ],
+   "winner": "Abraham Mateo",
+   "contestants": [
+    {
+     "mask": "Mosca",
+     "celebrity": "Abraham Mateo",
+     "occupation": "Singer/Actor",
+     "result": "Winner",
+     "order": 16,
+     "guest": false
+    },
+    {
+     "mask": "Cobra",
+     "celebrity": "Adriana Ugarte",
+     "occupation": "Actress",
+     "result": "Runner-up",
+     "order": 15,
+     "guest": false
+    },
+    {
+     "mask": "Tiburón",
+     "celebrity": "Manuel Díaz \"El Cordobés\"",
+     "occupation": "Bullfighter",
+     "result": "Third",
+     "order": 14,
+     "guest": false
+    },
+    {
+     "mask": "Rinoceronte",
+     "celebrity": "Esther Cañadas",
+     "occupation": "Top model",
+     "result": "Eliminated ep 7",
+     "order": 13,
+     "guest": false
+    },
+    {
+     "mask": "Helado",
+     "celebrity": "Ana Peleteiro",
+     "occupation": "Triple jumper",
+     "result": "Eliminated ep 6",
+     "order": 12,
+     "guest": false
+    },
+    {
+     "mask": "Churros",
+     "celebrity": "Antonio Lobato",
+     "occupation": "Sports journalist",
+     "result": "Eliminated ep 6",
+     "order": 11,
+     "guest": false
+    },
+    {
+     "mask": "Piña",
+     "celebrity": "Glòria Serra",
+     "occupation": "Journalist",
+     "result": "Eliminated ep 5",
+     "order": 10,
+     "guest": false
+    },
+    {
+     "mask": "Corazón",
+     "celebrity": "Ana Boyer",
+     "occupation": "Socialite",
+     "result": "Eliminated ep 5",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Corazón",
+     "celebrity": "Fernando Verdasco",
+     "occupation": "Former tennis player",
+     "result": "Eliminated ep 5",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Troll",
+     "celebrity": "Bárbara Rey",
+     "occupation": "Actress",
+     "result": "Eliminated ep 4",
+     "order": 8,
+     "guest": false
+    },
+    {
+     "mask": "Hipopótamo",
+     "celebrity": "David Hasselhoff",
+     "occupation": "Actor",
+     "result": "Eliminated ep 4",
+     "order": 7,
+     "guest": false
+    },
+    {
+     "mask": "Oveja",
+     "celebrity": "María José Campanario",
+     "occupation": "Media personality",
+     "result": "Eliminated ep 3",
+     "order": 6,
+     "guest": false
+    },
+    {
+     "mask": "Brócoli",
+     "celebrity": "Miguel Ángel Revilla",
+     "occupation": "Politician",
+     "result": "Eliminated ep 3",
+     "order": 5,
+     "guest": false
+    },
+    {
+     "mask": "Patita de Goma",
+     "celebrity": "Manuela Carmena",
+     "occupation": "Judge/Former mayor",
+     "result": "Eliminated ep 2",
+     "order": 4,
+     "guest": false
+    },
+    {
+     "mask": "Aguacate",
+     "celebrity": "José Luis Rodríguez \"El Puma\"",
+     "occupation": "Singer",
+     "result": "Eliminated ep 2",
+     "order": 3,
+     "guest": false
+    },
+    {
+     "mask": "Palomitas",
+     "celebrity": "Ana Obregón",
+     "occupation": "Actress",
+     "result": "Eliminated ep 1",
+     "order": 2,
+     "guest": false
+    },
+    {
+     "mask": "Panda",
+     "celebrity": "Carl Lewis",
+     "occupation": "Former athlete",
+     "result": "Eliminated ep 1",
+     "order": 1,
+     "guest": false
+    }
+   ]
+  },
+  {
+   "number": 5,
+   "year": 2026,
+   "dates": "8 April 2026 – 27 May 2026",
+   "presenter": "Arturo Valls",
+   "panelists": [
+    "Boris Izaguirre",
+    "Ruth Lorenzo",
+    "Juan y Medio",
+    "Ana Milán"
+   ],
+   "winner": "Leire Martínez",
+   "contestants": [
+    {
+     "mask": "Clavel",
+     "celebrity": "Leire Martínez",
+     "occupation": "Singer",
+     "result": "Winner",
+     "order": 18,
+     "guest": false
+    },
+    {
+     "mask": "Momia",
+     "celebrity": "Nacho Duato",
+     "occupation": "Ballet Dancer",
+     "result": "Runner-up",
+     "order": 17,
+     "guest": false
+    },
+    {
+     "mask": "Troglodita",
+     "celebrity": "Vicky Martín Berrocal",
+     "occupation": "TV Presenter/Actress",
+     "result": "Third",
+     "order": 16,
+     "guest": false
+    },
+    {
+     "mask": "Jirafa",
+     "celebrity": "David Cantero",
+     "occupation": "Broadcaster",
+     "result": "Fourth",
+     "order": 15,
+     "guest": false
+    },
+    {
+     "mask": "Mejillón",
+     "celebrity": "Silvia Abril",
+     "occupation": "Actress/Comedian",
+     "result": "Eliminated ep 7",
+     "order": 14,
+     "guest": false
+    },
+    {
+     "mask": "Mofeta",
+     "celebrity": "Lola Lolita",
+     "occupation": "Influencer",
+     "result": "Eliminated ep 7",
+     "order": 13,
+     "guest": false
+    },
+    {
+     "mask": "Tortuga",
+     "celebrity": "Rappel",
+     "occupation": "Clairvoyant",
+     "result": "Eliminated ep 6",
+     "order": 12,
+     "guest": false
+    },
+    {
+     "mask": "Pizza",
+     "celebrity": "Lydia Lozano",
+     "occupation": "Journalist/TV Presenter",
+     "result": "Eliminated ep 6",
+     "order": 11,
+     "guest": false
+    },
+    {
+     "mask": "Loro",
+     "celebrity": "María del Monte",
+     "occupation": "Singer",
+     "result": "Eliminated ep 5",
+     "order": 10,
+     "guest": false
+    },
+    {
+     "mask": "Chihuahua",
+     "celebrity": "Begoña Villacís",
+     "occupation": "Lawyer/Former politician",
+     "result": "Eliminated ep 5",
+     "order": 9,
+     "guest": false
+    },
+    {
+     "mask": "Planta Carnívora",
+     "celebrity": "Cayetana Guillén Cuervo",
+     "occupation": "Actress/TV Presenter",
+     "result": "Eliminated ep 4",
+     "order": 8,
+     "guest": false
+    },
+    {
+     "mask": "Bocata Calamares",
+     "celebrity": "Tomás Roncero",
+     "occupation": "Sports Journalist",
+     "result": "Eliminated ep 4",
+     "order": 7,
+     "guest": false
+    },
+    {
+     "mask": "Chanclas",
+     "celebrity": "Trancas y Barrancas",
+     "occupation": "Puppets",
+     "result": "Eliminated ep 3",
+     "order": 6,
+     "guest": false
+    },
+    {
+     "mask": "Labios",
+     "celebrity": "Samantha Fox",
+     "occupation": "Singer",
+     "result": "Eliminated ep 3",
+     "order": 5,
+     "guest": false
+    },
+    {
+     "mask": "Caracol",
+     "celebrity": "Salva Reina",
+     "occupation": "Actor",
+     "result": "Eliminated ep 2",
+     "order": 4,
+     "guest": false
+    },
+    {
+     "mask": "Fregona",
+     "celebrity": "Martina Navrátilová",
+     "occupation": "Tennis player",
+     "result": "Eliminated ep 2",
+     "order": 3,
+     "guest": false
+    },
+    {
+     "mask": "Semáforo",
+     "celebrity": "Bernd Schuster",
+     "occupation": "Footballer",
+     "result": "Eliminated ep 1",
+     "order": 2,
+     "guest": false
+    },
+    {
+     "mask": "Micrófono",
+     "celebrity": "Elle Macpherson",
+     "occupation": "Model/TV Host",
+     "result": "Eliminated ep 1",
+     "order": 1,
+     "guest": false
+    }
+   ]
+  }
+ ],
+ "unread": []
+}

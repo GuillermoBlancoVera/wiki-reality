@@ -181,7 +181,7 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 /* La isla de las tentaciones: arena, coral y turquesa */
 .theme-isla { --bg: #fdf8f1; --surface: #fff; --surface-2: #f6ece0; --border: #efe2d1; --fg: #2b2320; --muted: #7a6a5f;
   --accent: #e76f51; --accent-2: #2a9d8f; --hero-a: #ffd9c4; --hero-b: #c8efe9; --poster-bg: linear-gradient(180deg, #ffb48a 0%, #ffd9a8 45%, #8fd6cc 100%); }
-.theme-isla .reality-title { font-weight: 400; color: #c4553a; }
+.theme-isla .reality-title { color: #fff; font-size: clamp(1.5rem, 4.4vw, 2.6rem); margin-bottom: 1rem; }
 /* Gran Hermano: azul televisión */
 .theme-gh { --bg: #f5f8fc; --surface: #fff; --surface-2: #e9eff8; --border: #d9e2ef; --fg: #10203d; --muted: #5a6a85;
   --accent: #1d4ed8; --accent-2: #0891b2; --hero-a: #dbe7ff; --hero-b: #e0f2fe; --poster-bg: linear-gradient(180deg, #dbe7ff, #b8cdf5); }
@@ -273,3 +273,30 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 .cand { margin: 0; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
 .cand img { width: 100%; aspect-ratio: 1; object-fit: cover; display: block; background: var(--surface-2); }
 .cand figcaption { padding: .6rem .7rem; font-size: .75rem; line-height: 1.45; word-break: break-word; }
+
+/* La Isla: logotipo tipográfico enmarcado sobre playa nocturna */
+.isla-logo { display: inline-flex; flex-direction: column; align-items: center; gap: .18em; padding: .55em .7em .5em; border: 1.5px solid rgba(255,255,255,.9); background: rgba(255,255,255,.14); color: #fff; line-height: 1; text-shadow: none; }
+.isla-l1 { font-family: 'Raleway', var(--font-body, sans-serif); font-weight: 300; font-size: .82em; letter-spacing: .04em; white-space: nowrap; }
+.isla-l1 b { font-weight: 500; font-size: 1.28em; letter-spacing: .06em; }
+.isla-l2 { font-family: 'Bodoni Moda', 'Playfair Display', serif; font-weight: 800; font-size: 1.22em; letter-spacing: .05em; white-space: nowrap; }
+.poster-isla { justify-content: center; padding-bottom: 0; }
+.poster-isla .poster-title { margin-top: auto; margin-bottom: auto; padding-top: 2.2rem; }
+.poster-isla .poster-meta { margin-bottom: 1rem; }
+.poster-isla::after { height: 30%; }
+.theme-isla .reality-hero { background: radial-gradient(120% 140% at 30% 0%, #23402f 0%, #101c15 55%, #070b08 100%); color: #f4f1e6; }
+.theme-isla .reality-hero .eyebrow, .theme-isla .reality-hero .hero-text { color: #e6e2d2; }
+
+.official-links { display: flex; flex-wrap: wrap; gap: .5rem; }
+.official-links .btn { display: inline-block; padding: .5rem .9rem; border-radius: 999px; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; font-size: .92rem; }
+.official-links .btn.ghost { background: transparent; color: var(--fg); border: 1px solid var(--border); }
+.media-list { list-style: none; padding: 0; margin: 0; display: grid; gap: .45rem; }
+.media-list li { padding: .55rem .8rem; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+.media-list .muted { font-size: .85rem; white-space: nowrap; }
+
+.mask-list { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: .5rem; }
+.mask-list li { display: flex; flex-direction: column; gap: .1rem; padding: .6rem .8rem; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+.mask-list .muted { font-size: .85rem; }
+.poster-isla .poster-title { font-size: .74rem; }
+
+.ms-sub { display: block; font-family: var(--font-body, 'Inter', sans-serif); font-size: .42em; font-weight: 700; letter-spacing: .12em; margin-top: .35em; -webkit-text-fill-color: #fff; color: #fff; }
+.theme-masksinger .reality-title .ms-sub { -webkit-text-fill-color: currentColor; color: inherit; }

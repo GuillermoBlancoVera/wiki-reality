@@ -215,7 +215,7 @@ function layout({ title, description, body, theme = 'home', path = '' }) {
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico${designFonts.map((f) => `&family=${f.replace(/ /g, '+')}${{ Montserrat: ':wght@800', Oswald: ':wght@700', 'Playfair Display': ':ital,wght@0,800;1,800' }[f] ?? ''}`).join('')}&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico&family=Raleway:wght@300;500${designFonts.map((f) => `&family=${f.replace(/ /g, '+')}${{ Montserrat: ':wght@800', Oswald: ':wght@700', 'Playfair Display': ':ital,wght@0,800;1,800', 'Bodoni Moda': ':wght@800' }[f] ?? ''}`).join('')}&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${url('assets/styles.css')}">
 <link rel="stylesheet" href="${url('assets/designs.css')}">
 </head>
@@ -238,12 +238,15 @@ ${body}
 </html>`;
 }
 
+// Programas y debates: solo título, fecha y enlace a la web oficial
+const mediaList = (h, list, e) => list?.length ? `<section class="block"><h2>${h}</h2><ol class="media-list">${list.map((m) => `<li><a href="${esc(m.url)}" rel="noopener" target="_blank">${h === 'Programas' ? `Programa ${m.n}: ` : ''}${esc(m.title)}</a> <span class="muted">${esc(m.date)}</span></li>`).join('')}</ol><p class="muted">Enlaces a <a href="${esc(e.mediaSource)}" rel="noopener" target="_blank">la web oficial</a>, donde se ven los vídeos.</p></section>` : '';
+
 // Carátula generada con CSS + SVG (sin fotos de cadenas ni de redes)
 const posterArt = Object.fromEntries(Object.entries(designs).map(([k, d]) => [k, d.art]));
 const poster = (r) => `
 <a class="poster poster-${r.theme}" href="${url(`${r.id}/`)}">
   <div class="poster-art">${posterArt[r.theme] ?? ''}</div>
-  <div class="poster-title">${esc(r.name)}</div>
+  <div class="poster-title">${designs[r.theme]?.logo ?? esc(r.name)}</div>
   <div class="poster-meta">${r.editions.length ? `${r.editions.length} ${r.editions.length === 1 ? 'edición' : 'ediciones'} · ` : ''}${r.until ? `${r.since}-${r.until}` : `desde ${r.since}`}</div>
 </a>`;
 
@@ -322,7 +325,7 @@ for (const r of realities) {
   <div class="reality-hero-art">${posterArt[r.theme] ?? ''}</div>
   <div>
     <p class="eyebrow">${esc(r.channel)} · desde ${r.since}</p>
-    <h1 class="reality-title">${esc(r.name)}</h1>
+    <h1 class="reality-title" aria-label="${esc(r.name)}">${designs[r.theme]?.logo ?? esc(r.name)}</h1>
     <p class="hero-text">${esc(r.description)}</p>
   </div>
 </section>
@@ -330,6 +333,7 @@ for (const r of realities) {
 ${r.presentersText ? `<p><strong>Presentación:</strong> ${presenterHtml({ presenter: r.presentersText })}</p>` : ''}
 ${r.notes ? `<p class="muted">${esc(r.notes)}</p>` : ''}</section>
 ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></section>` : ''}
+${r.official ? `<section class="block official"><h2>En la web oficial</h2><p class="muted">Programas completos, debates y noticias en ${esc(r.official.name)}. Son enlaces a la web de la cadena; aquí no se aloja ningún vídeo.</p><p class="official-links"><a class="btn" href="${esc(r.official.url)}" rel="noopener" target="_blank">Web oficial</a>${r.official.links.map((l) => `<a class="btn ghost" href="${esc(l.url)}" rel="noopener" target="_blank">${esc(l.name)}</a>`).join('')}</p></section>` : ''}
 <section class="block"><h2>Noticias</h2>${newsList(rNews.slice(0, 12))}</section>
 <section class="block sources"${r.sources?.length ? '' : ' hidden'}><h2>Fuentes</h2><ul>${(r.sources ?? []).map((s) => `<li><a href="${esc(s)}" rel="noopener">${esc(s)}</a></li>`).join('')}</ul></section>`,
   }));
@@ -346,6 +350,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 <section class="block"><h2>Parejas</h2>
   <div class="couples">${e.couples.map((c) => coupleBlock(c)).join('')}</div>
 </section>` : '';
+    const masks = e.masks?.length ? `<section class="block"><h2>Máscaras</h2>${e.panel?.length ? `<p><strong>Investigadores:</strong> ${esc(e.panel.join(', '))}</p>` : ''}<ul class="mask-list">${e.masks.map((m) => `<li><strong>${esc(m.mask)}</strong><span>${personLink(m.id)}</span><span class="muted">${esc(m.result)}</span></li>`).join('')}</ul>${srcLink(e.source)}</section>` : '';
     const participants = e.participants?.length ? `
 <section class="block"><h2>${e.participants.some((p) => p.eliminatedOrder) ? 'Resto de concursantes, del último en salir al primero' : 'Concursantes'}</h2>
   <ol class="participants">${e.participants.slice().sort((a, b) => (a.eliminatedOrder ?? 999) - (b.eliminatedOrder ?? 999))
@@ -361,7 +366,7 @@ ${spinoffs ? `<section class="block"><h2>Spin-offs</h2><ul>${spinoffs}</ul></sec
 <nav class="crumbs"><a href="${url(`${r.id}/`)}">${esc(r.name)}</a> › ${esc(e.title)}</nav>
 <section class="reality-hero small"><div><p class="eyebrow">${esc(r.name)}</p><h1 class="reality-title">${esc(e.title)}</h1></div></section>
 <section class="block"><dl class="facts">${facts}</dl>${e.notes ? `<p class="muted">${esc(e.notes)}</p>` : ''}</section>
-${podium}${couples}${links}${singles}${participants}`,
+${podium}${masks}${couples}${links}${singles}${participants}${mediaList('Programas', e.episodes, e)}${mediaList('Debates', e.debates, e)}`,
     }));
   }
 }
@@ -454,7 +459,7 @@ page('revisar-fotos/', layout({
   title: 'Revisar fotos candidatas', path: 'revisar-fotos/',
   body: `<meta name="robots" content="noindex"><section class="block"><h1>Fotos candidatas</h1>
 <p class="muted">Fotos con licencia de uso comercial encontradas en Openverse (Flickr y otros). No están publicadas en las fichas. Dime el número de las que sean correctas (la persona es quien dice ser y la foto es digna) y las apruebo.</p>
-<div class="cand-grid">${Object.entries(photoCandidates).filter(([id]) => people[id]).flatMap(([id, list]) => list.map((c, i) => `<figure class="cand"><img src="${esc(c.thumb)}" alt="" loading="lazy" referrerpolicy="no-referrer"><figcaption><strong>${esc(id)}#${i + 1}</strong><br><a href="${url(`personas/${id}/`)}">${esc(people[id].name)}</a><br>${esc(c.title).slice(0, 80)}<br>${esc(c.author)} · ${esc(c.license)} · <a href="${esc(c.page)}" rel="noopener nofollow" target="_blank">${esc(c.source || 'origen')}</a></figcaption></figure>`)).join('') || '<p>No hay candidatas pendientes.</p>'}</div></section>`,
+<div class="cand-grid">${Object.entries(photoCandidates).filter(([id]) => people[id]).flatMap(([id, list]) => list.map((c, i) => `<figure class="cand"><img src="${esc(c.src)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="if(!this.dataset.t){this.dataset.t=1;this.src='${esc(c.thumb)}'}"><figcaption><strong>${esc(id)}#${i + 1}</strong><br><a href="${url(`personas/${id}/`)}">${esc(people[id].name)}</a><br>${esc(c.title).slice(0, 80)}<br>${esc(c.author)} · ${esc(c.license)} · <a href="${esc(c.page)}" rel="noopener nofollow" target="_blank">${esc(c.source || 'origen')}</a></figcaption></figure>`)).join('') || '<p>No hay candidatas pendientes.</p>'}</div></section>`,
 }));
 
 page('404.html', layout({ title: 'Página no encontrada', body: `<section class="block"><h1>Página no encontrada</h1><p><a href="${url()}">Volver al inicio</a></p></section>` }));

@@ -15,9 +15,16 @@ const rays = (cx, cy, n, len, color, op = 0.18) => Array.from({ length: n }, (_,
 
 export const designs = {
   isla: {
-    font: 'Pacifico', title: 'font-size:1.55rem;font-weight:400;line-height:1.15',
-    bg: 'linear-gradient(180deg,#3b1d5e 0%,#c2327a 32%,#ff7a3d 58%,#ffc15e 70%,#0d7c8c 71%,#06414f 100%)', fg: '#fff',
-    art: svg(`<circle cx="100" cy="176" r="46" fill="#ffe08a" opacity=".95"/><rect y="188" width="200" height="80" fill="#0b6877"/><path d="M60 196h80M74 206h52M86 216h28" stroke="#ffd27a" stroke-width="3" stroke-linecap="round" opacity=".7"/>${palm(18, 250, 1.25)}${palm(182, 262, -1.05).replace('scale(-1.05)', 'scale(-1.05 1.05)')}${stars([[30, 24], [70, 14, 0.8], [120, 30], [165, 18, 0.9], [150, 52, 0.7], [44, 58, 0.7]], '#fff', 1.3)}`),
+    font: 'Bodoni Moda', title: 'font-size:1rem;font-weight:800;line-height:1',
+    logo: '<span class="isla-logo"><span class="isla-l1">la <b>ISLA</b> de las</span><span class="isla-l2">TENTACIONES</span></span>',
+    bg: '#0b1410', fg: '#fff',
+    // Playa vista desde el aire, de noche: agua oscura, espuma y arena iluminada
+    art: svg(`<defs><linearGradient id="isl-sea" x1="0" y1="0" x2=".5" y2="1"><stop offset="0" stop-color="#0c1712"/><stop offset=".55" stop-color="#1d3a2a"/><stop offset="1" stop-color="#2f5139"/></linearGradient><linearGradient id="isl-sand" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a3966a"/><stop offset=".5" stop-color="#7d7350"/><stop offset="1" stop-color="#2e2b1e"/></linearGradient><radialGradient id="isl-vig" cx=".5" cy=".5" r=".75"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".78"/></radialGradient><filter id="isl-b" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3.2"/></filter><filter id="isl-b2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.1"/></filter></defs>
+<rect width="200" height="267" fill="url(#isl-sand)"/>
+<path d="M0 0H200V118C170 132 150 108 118 126C86 144 60 122 34 138C20 146 8 144 0 150Z" fill="url(#isl-sea)"/>
+<g filter="url(#isl-b)"><path d="M0 150C8 144 20 146 34 138C60 122 86 144 118 126C150 108 170 132 200 118V132C170 146 150 124 118 142C86 160 60 138 34 154C20 162 8 160 0 164Z" fill="#cfd8c4" opacity=".55"/><path d="M0 92C30 84 52 100 84 90C120 78 150 96 200 80V88C150 104 120 88 84 99C52 109 30 94 0 101Z" fill="#6f9479" opacity=".35"/><path d="M0 46C40 38 70 54 110 44C150 34 170 46 200 40V46C170 52 150 42 110 51C70 61 40 46 0 53Z" fill="#4f7560" opacity=".3"/></g>
+<g filter="url(#isl-b2)" fill="none" stroke="#f3f5ea" stroke-linecap="round"><path d="M0 151C8 145 20 147 34 139C60 123 86 145 118 127C150 109 170 133 200 119" stroke-width="1.6" opacity=".85"/><path d="M0 158C10 153 22 155 36 147C62 132 88 153 120 136C152 119 172 141 200 128" stroke-width=".8" opacity=".45"/></g>
+<rect width="200" height="267" fill="url(#isl-vig)"/>`),
   },
   gh: {
     font: 'Bebas Neue', title: 'font-size:2rem;letter-spacing:.04em;line-height:1',
@@ -79,10 +86,11 @@ export const designs = {
     bg: 'radial-gradient(100% 70% at 50% 35%,#ff7ab8 0%,#e0125f 50%,#5c0626 100%)', fg: '#fff',
     art: svg(`<g transform="translate(100 112)"><path d="M-30 30 V-34 C-30 -62 30 -62 30 -34 V30Z" fill="#ffd978"/><path d="M-22 26 V-32 C-22 -52 22 -52 22 -32 V26Z" fill="#b3123f"/><rect x="-40" y="4" width="14" height="34" rx="5" fill="#ffd978"/><rect x="26" y="4" width="14" height="34" rx="5" fill="#ffd978"/><rect x="-34" y="26" width="68" height="14" rx="4" fill="#ffd978"/><path d="M-28 40v14M28 40v14" stroke="#ffd978" stroke-width="6" stroke-linecap="round"/></g>${heart(100, 44, 0.42, '#fff')}${heart(40, 78, 0.26, '#fff', 'opacity=".7"')}${heart(164, 92, 0.3, '#fff', 'opacity=".7"')}${heart(150, 34, 0.18, '#fff', 'opacity=".6"')}`),
   },
-  firstdates: {
-    font: 'Lobster', title: 'font-size:1.7rem;line-height:1.05',
-    bg: 'radial-gradient(100% 70% at 50% 34%,#ff4b4b 0%,#c40d2c 55%,#4d0412 100%)', fg: '#fff',
-    art: svg(`${heart(100, 132, 1.5, '#fff')}<g stroke="#c40d2c" stroke-width="4" stroke-linecap="round" fill="none"><path d="M82 78v20M76 78v10c0 5 12 5 12 0V78M82 98v26"/><path d="M118 78c8 6 8 22 0 26v20"/></g>${stars([[34, 40], [168, 46], [26, 150], [176, 160]], '#ffd0d0', 2)}`),
+  masksinger: {
+    logo: 'Mask Singer<small class="ms-sub">Adivina quién canta</small>',
+    font: 'Anton', title: 'font-size:1.9rem;letter-spacing:.04em;line-height:1;text-transform:uppercase;background:linear-gradient(180deg,#fff3b0 0%,#f5c542 45%,#a86b12 100%);-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:none',
+    bg: 'radial-gradient(110% 75% at 50% 30%,#3b1a8f 0%,#1a0b4d 50%,#05020f 100%)', fg: '#fff',
+    art: svg(`<g opacity=".22" fill="#b9a7ff"><polygon points="20,0 44,0 120,267 60,267"/><polygon points="156,0 180,0 140,267 80,267"/></g>${stars([[24, 60], [176, 70, 0.8], [40, 150, 0.7], [164, 160, 0.9], [100, 22, 0.8]], '#ffe9a0', 1.6)}<g transform="translate(100 82) scale(.82)"><path d="M-66 -18C-40 -34 -14 -30 0 -16C14 -30 40 -34 66 -18C70 10 52 34 30 34C16 34 8 22 0 12C-8 22 -16 34 -30 34C-52 34 -70 10 -66 -18Z" fill="#f5c542" stroke="#fff3b0" stroke-width="2.5"/><path d="M-46 -6C-36 -16 -20 -14 -12 -2C-20 10 -38 10 -46 -6Z" fill="#12063a"/><path d="M46 -6C36 -16 20 -14 12 -2C20 10 38 10 46 -6Z" fill="#12063a"/><path d="M-66 -18C-78 -40 -70 -58 -56 -66M66 -18C78 -40 70 -58 56 -66M0 -16V-44" stroke="#f5c542" stroke-width="3" fill="none" stroke-linecap="round"/><circle cy="-48" r="5" fill="#fff3b0"/></g>`),
   },
   loveisland: {
     font: 'Pacifico', title: 'font-size:1.6rem;font-weight:400;line-height:1.15',
@@ -106,9 +114,9 @@ export const designs = {
 export const designFonts = [...new Set(Object.values(designs).map((d) => d.font))].filter((f) => !['Fraunces', 'Pacifico'].includes(f));
 
 // CSS de carátulas (y título de la portada de cada reality) generado a partir de los diseños
-const pagePalettes = {"gh-vip": ["#a16207", "#1f2937", "#fdf0c4", "#e7e5e4"], "gh-duo": ["#be185d", "#1d4ed8", "#fbd5e8", "#dbe7ff"], "tcms": ["#9333ea", "#db2777", "#f0dcff", "#ffd9ef"], "ot": ["#1458d6", "#0891b2", "#d6e6ff", "#d2f1fb"], "masterchef": ["#d92a12", "#b45309", "#ffe0d2", "#ffedc9"], "bailando": ["#3a3fb8", "#a16207", "#dfe1ff", "#fdf0c4"], "costura": ["#c2185b", "#8a5a3c", "#fbe3e6", "#f6e6da"], "pesadilla": ["#3f8a22", "#c62828", "#dff3d0", "#d9f0ff"], "conquistador": ["#1f6f8b", "#c2410c", "#d5ebf2", "#dfeee9"], "myhyv": ["#e0125f", "#a16207", "#ffdbe9", "#fdf0c4"], "firstdates": ["#c40d2c", "#be185d", "#ffdada", "#ffe3ee"], "loveisland": ["#e11d8f", "#0e8ea3", "#ffd9ee", "#fff0bf"], "falsoamor": ["#6a2bd9", "#db2777", "#e6dcff", "#ffd9ee"], "amorfianza": ["#b3122f", "#a16207", "#ffd9df", "#fdf0c4"]};
+const pagePalettes = {"gh-vip": ["#a16207", "#1f2937", "#fdf0c4", "#e7e5e4"], "gh-duo": ["#be185d", "#1d4ed8", "#fbd5e8", "#dbe7ff"], "tcms": ["#9333ea", "#db2777", "#f0dcff", "#ffd9ef"], "ot": ["#1458d6", "#0891b2", "#d6e6ff", "#d2f1fb"], "masterchef": ["#d92a12", "#b45309", "#ffe0d2", "#ffedc9"], "bailando": ["#3a3fb8", "#a16207", "#dfe1ff", "#fdf0c4"], "costura": ["#c2185b", "#8a5a3c", "#fbe3e6", "#f6e6da"], "pesadilla": ["#3f8a22", "#c62828", "#dff3d0", "#d9f0ff"], "conquistador": ["#1f6f8b", "#c2410c", "#d5ebf2", "#dfeee9"], "myhyv": ["#e0125f", "#a16207", "#ffdbe9", "#fdf0c4"], "masksinger": ["#6d28d9", "#a16207", "#e6dcff", "#fdf0c4"], "loveisland": ["#e11d8f", "#0e8ea3", "#ffd9ee", "#fff0bf"], "falsoamor": ["#6a2bd9", "#db2777", "#e6dcff", "#ffd9ee"], "amorfianza": ["#b3122f", "#a16207", "#ffd9df", "#fdf0c4"]};
 export const designCss = Object.entries(pagePalettes).map(([k, [a, a2, ha, hb]]) => `.theme-${k} { --accent: ${a}; --accent-2: ${a2}; --hero-a: ${ha}; --hero-b: ${hb}; }`).join('\n') + Object.entries(designs).filter(([k]) => k !== 'home').map(([k, d]) => `
 .poster-${k} { background: ${d.bg}; color: ${d.fg}; }
-.poster-${k} .poster-title { font-family: '${d.font}', var(--font-display); ${d.title ?? ''} }
+${d.logo ? '' : ''}.poster-${k} .poster-title { font-family: '${d.font}', var(--font-display); ${d.title ?? ''} }
 .theme-${k} .reality-hero-art { background: ${d.bg}; }
 .theme-${k} .reality-title { font-family: '${d.font}', var(--font-display); }`).join('\n');

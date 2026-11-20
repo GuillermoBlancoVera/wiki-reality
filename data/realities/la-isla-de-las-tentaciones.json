@@ -1301,7 +1301,7 @@
       "number": 11,
       "title": "11.ª edición",
       "year": 2026,
-      "dates": "2026 (hogueras finales: 10 y 11 nov 2026)",
+      "dates": "7 sep 2026 - 16 nov 2026 (hogueras finales: 10 y 11 nov; reencuentro: 16 nov)",
       "channel": "Telecinco",
       "presenter": "Sandra Barneda",
       "couples": [
@@ -1439,7 +1439,192 @@
           "id": "fran-garcia-isla-11",
           "role": "Soltero VIP"
         }
-      ]
+      ],
+      "episodes": [
+        {
+          "n": 1,
+          "title": "Arranca la prueba definitiva del amor",
+          "date": "7 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-1-40_020039028/player/"
+        },
+        {
+          "n": 2,
+          "title": "Las primeras imágenes desatan los reproches",
+          "date": "9 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-2-40_020039056/player/"
+        },
+        {
+          "n": 3,
+          "title": "Lágrimas, celos y reproches marcan los collares de las primeras citas",
+          "date": "14 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-3-40_020039069/player/"
+        },
+        {
+          "n": 4,
+          "title": "Los chicos se enfrentan a la primera hoguera",
+          "date": "16 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-4-40_020056283/player/"
+        },
+        {
+          "n": 5,
+          "title": "La primera hoguera de las chicas",
+          "date": "21 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-5-40_020104819/player/"
+        },
+        {
+          "n": 6,
+          "title": "La hoguera de confrontación de Nando e Isa",
+          "date": "23 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-6-40_020122027/player/"
+        },
+        {
+          "n": 7,
+          "title": "Nacho llega a su límite",
+          "date": "28 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-7-40_020179332/player/"
+        },
+        {
+          "n": 8,
+          "title": "La hoguera más tensa",
+          "date": "30 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-8-40_020202867/player/"
+        },
+        {
+          "n": 9,
+          "title": "La inesperada hoguera de Rubén y su suegra",
+          "date": "5 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-9-40_020306283/player/"
+        },
+        {
+          "n": 10,
+          "title": "Una ventana a la tentación",
+          "date": "7 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-10-40_020306315/player/"
+        },
+        {
+          "n": 11,
+          "title": "Corazones rotos",
+          "date": "12 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-11-40_020350923/player/"
+        },
+        {
+          "n": 12,
+          "title": "El reencuentro de Rubén y Gema",
+          "date": "14 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-12-40_020359527/player/"
+        },
+        {
+          "n": 13,
+          "title": "Cara a cara con la tentación",
+          "date": "19 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-13-40_020395985/player/"
+        },
+        {
+          "n": 14,
+          "title": "Al límite de lo imperdonable",
+          "date": "21 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-14-40_020429039/player/"
+        },
+        {
+          "n": 15,
+          "title": "La dura hoguera de confrontación de Miguel y Mara",
+          "date": "26 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-15-40_020484876/player/"
+        },
+        {
+          "n": 16,
+          "title": "La primera hoguera mixta",
+          "date": "2 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-16-40_020494723/player/"
+        },
+        {
+          "n": 17,
+          "title": "Las hogueras mixtas dan una nueva perspectiva",
+          "date": "4 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-17-40_020547037/player/"
+        },
+        {
+          "n": 18,
+          "title": "Las hogueras de los solteros",
+          "date": "9 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-18-40_020603814/player/"
+        },
+        {
+          "n": 19,
+          "title": "Las hogueras finales",
+          "date": "10 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-19-40_020625566/player/"
+        },
+        {
+          "n": 20,
+          "title": "Las últimas hogueras finales",
+          "date": "11 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-20-40_020625583/player/"
+        },
+        {
+          "n": 21,
+          "title": "Reencuentro seis meses después",
+          "date": "16 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/programa-21-40_020677287/player/"
+        }
+      ],
+      "debates": [
+        {
+          "n": 1,
+          "title": "Debate 1",
+          "date": "18 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-1-40_020156482/player/"
+        },
+        {
+          "n": 2,
+          "title": "Debate 2",
+          "date": "25 sep 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-2-40_020198491/player/"
+        },
+        {
+          "n": 3,
+          "title": "Debate 3",
+          "date": "2 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-3-40_020253802/player/"
+        },
+        {
+          "n": 4,
+          "title": "Debate 4",
+          "date": "9 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-4-40_020319840/player/"
+        },
+        {
+          "n": 5,
+          "title": "Debate 5",
+          "date": "16 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-5-40_020373183/player/"
+        },
+        {
+          "n": 6,
+          "title": "Debate 6",
+          "date": "23 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-6-40_020473578/player/"
+        },
+        {
+          "n": 7,
+          "title": "Debate 7",
+          "date": "30 oct 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-7-40_020510433/player/"
+        },
+        {
+          "n": 8,
+          "title": "Debate 8",
+          "date": "6 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-8-40_020578195/player/"
+        },
+        {
+          "n": 9,
+          "title": "Debate final 1",
+          "date": "17 nov 2026",
+          "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/programa-9-40_020731516/player/"
+        }
+      ],
+      "mediaSource": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/"
     }
   ],
   "spinoffs": [
@@ -1449,5 +1634,39 @@
       "dates": "15 sep – 8 nov 2021",
       "presenter": "Sandra Barneda"
     }
-  ]
+  ],
+  "official": {
+    "name": "Mediaset Infinity",
+    "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/",
+    "links": [
+      {
+        "name": "Programas completos",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/episodios/"
+      },
+      {
+        "name": "Debates",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/debates/"
+      },
+      {
+        "name": "Top vídeos",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/top-videos/"
+      },
+      {
+        "name": "Noticias",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/noticias"
+      },
+      {
+        "name": "Casting",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/el-casting/"
+      },
+      {
+        "name": "Rumbo a la isla",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/rumbo-a-la-isla-de-las-tentaciones/"
+      },
+      {
+        "name": "Extra reencuentro",
+        "url": "https://www.mediasetinfinity.es/programas-tv/la-isla-de-las-tentaciones/temporada-11/extra-reencuentro/"
+      }
+    ]
+  }
 }
