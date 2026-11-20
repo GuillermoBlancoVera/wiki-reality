@@ -122,13 +122,21 @@
       ]
     },
     "ismael-beiro": {
-      "name": "Ismael Beiro"
+      "name": "Ismael Beiro",
+      "socials": {
+        "instagram": "https://www.instagram.com/ismaelbeiro/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "ania-iglesias": {
       "name": "Ania Iglesias"
     },
     "ivan-armesto": {
-      "name": "Iván Armesto"
+      "name": "Iván Armesto",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivanarmesto/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "sabrina-mahi": {
       "name": "Sabrina Mahí"
@@ -188,10 +196,18 @@
       "name": "Javier Varela"
     },
     "raquel-abad": {
-      "name": "Raquel Abad"
+      "name": "Raquel Abad",
+      "socials": {
+        "instagram": "https://www.instagram.com/raquelabadsantana/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "naiala-melo": {
-      "name": "Naiala Melo"
+      "name": "Naiala Melo",
+      "socials": {
+        "instagram": "https://www.instagram.com/naialam/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "laura-fernandez": {
       "name": "Laura Fernández"
@@ -200,7 +216,11 @@
       "name": "Miriam Constantí"
     },
     "judit-iglesias": {
-      "name": "Judit Iglesias"
+      "name": "Judit Iglesias",
+      "socials": {
+        "instagram": "https://www.instagram.com/iglesiasjudit/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "conchi-y-pamela-de-los-santos": {
       "name": "Conchi y Pamela de los Santos"
@@ -209,7 +229,11 @@
       "name": "Rodrigo Urbina"
     },
     "ivan-madrazo": {
-      "name": "Iván Madrazo"
+      "name": "Iván Madrazo",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivanmadrazogh/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "orlando-breyner": {
       "name": "Orlando Breyner"
@@ -221,7 +245,11 @@
       "name": "Ángel Muñoz"
     },
     "saray-pereira": {
-      "name": "Saray Pereira"
+      "name": "Saray Pereira",
+      "socials": {
+        "instagram": "https://www.instagram.com/saraypereiragomez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "pilarita-gomez": {
       "name": "Pilarita Gómez"
@@ -236,7 +264,11 @@
       "name": "Marcelo Ciriaco"
     },
     "pepe-flores": {
-      "name": "Pepe Flores"
+      "name": "Pepe Flores",
+      "socials": {
+        "instagram": "https://www.instagram.com/pepeflores1306/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "daniel-santos": {
       "name": "Daniel Santos"
@@ -263,10 +295,18 @@
       "name": "María José Fernández"
     },
     "rosa-benito": {
-      "name": "Rosa Benito"
+      "name": "Rosa Benito",
+      "socials": {
+        "instagram": "https://www.instagram.com/rosapepioficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "abraham-garcia": {
-      "name": "Abraham García"
+      "name": "Abraham García",
+      "socials": {
+        "instagram": "https://www.instagram.com/a.braham.g/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "christopher-mateo": {
       "name": "Christopher Mateo"
@@ -275,7 +315,11 @@
       "name": "Jorge Díaz"
     },
     "jose-luis-losa": {
-      "name": "José Luis Losa"
+      "name": "José Luis Losa",
+      "socials": {
+        "instagram": "https://www.instagram.com/jose_luislosa/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "sofia-suescun": {
       "name": "Sofía Suescun"
@@ -792,7 +836,11 @@
           "label": "8ª edición (2025)",
           "role": "Tentador"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/rubentorres___/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "paula-gonzalez": {
       "name": "Paula González"
@@ -804,10 +852,18 @@
       "name": "Hugo Sierra"
     },
     "juan-luis-quintana": {
-      "name": "Juan Luis Quintana"
+      "name": "Juan Luis Quintana",
+      "socials": {
+        "instagram": "https://www.instagram.com/juanluisqf/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "rocio-gallardo": {
-      "name": "Rocío Gallardo"
+      "name": "Rocío Gallardo",
+      "socials": {
+        "instagram": "https://www.instagram.com/rociog.25/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "marlene-mourreau": {
       "name": "Marlène Mourreau"
@@ -821,7 +877,11 @@
     },
     "laura-matamoros": {
       "name": "Laura Matamoros",
-      "getty": "584839076"
+      "getty": "584839076",
+      "socials": {
+        "instagram": "https://www.instagram.com/_lmflores/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "alyson-eckmann": {
       "name": "Alyson Eckmann"
@@ -831,10 +891,18 @@
     },
     "adara-molinero": {
       "name": "Adara Molinero",
-      "getty": "1224356255"
+      "getty": "1224356255",
+      "socials": {
+        "instagram": "https://www.instagram.com/adara_molinero/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "maria-jesus-ruiz": {
-      "name": "María Jesús Ruiz"
+      "name": "María Jesús Ruiz",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariajesusruizg/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "carlos-lozano": {
       "name": "Carlos Lozano"
@@ -849,7 +917,11 @@
           "id": "yola-berrocal",
           "relation": "Ganaron juntos El Reencuentro: 10 años después (2011)"
         }
-      ]
+      ],
+      "socials": {
+        "instagram": "https://www.instagram.com/juanmioficial_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "yola-berrocal": {
       "name": "Yola Berrocal"
@@ -867,31 +939,55 @@
       "name": "Álvaro Muñoz Escassi"
     },
     "damian-quintero": {
-      "name": "Damián Quintero"
+      "name": "Damián Quintero",
+      "socials": {
+        "instagram": "https://www.instagram.com/damianquintero/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "makoke-giaever": {
       "name": "Makoke Giaever"
     },
     "pelayo-diaz": {
-      "name": "Pelayo Díaz"
+      "name": "Pelayo Díaz",
+      "socials": {
+        "instagram": "https://www.instagram.com/pelayodiaz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "alex-adrover": {
-      "name": "Álex Adrover"
+      "name": "Álex Adrover",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexadrover/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "carmen-alcayde": {
-      "name": "Carmen Alcayde"
+      "name": "Carmen Alcayde",
+      "socials": {
+        "instagram": "https://www.instagram.com/alcayde_carmen/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "joshua-velazquez": {
       "name": "Joshua Velázquez"
     },
     "nieves-bolos": {
-      "name": "Nieves Bolós"
+      "name": "Nieves Bolós",
+      "socials": {
+        "instagram": "https://www.instagram.com/niieves_fit/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "koldo-royo": {
       "name": "Koldo Royo"
     },
     "laura-cuevas": {
-      "name": "Laura Cuevas"
+      "name": "Laura Cuevas",
+      "socials": {
+        "instagram": "https://www.instagram.com/lauracuevassoficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "almacor": {
       "name": "Almácor"
@@ -919,16 +1015,28 @@
     },
     "jessica-bueno": {
       "name": "Jessica Bueno",
-      "getty": "162050358"
+      "getty": "162050358",
+      "socials": {
+        "instagram": "https://www.instagram.com/jessica_bueno/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "miri-perez-cabrero": {
       "name": "Miri Pérez-Cabrero"
     },
     "tony-spina": {
-      "name": "Tony Spina"
+      "name": "Tony Spina",
+      "socials": {
+        "instagram": "https://www.instagram.com/tonyspina_89/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "asraf-beno": {
-      "name": "Asraf Beno"
+      "name": "Asraf Beno",
+      "socials": {
+        "instagram": "https://www.instagram.com/asraf_beno/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "victor-janeiro": {
       "name": "Víctor Janeiro"
@@ -1145,7 +1253,11 @@
       "name": "Luhay Hamido"
     },
     "aida-nizar": {
-      "name": "Aída Nízar"
+      "name": "Aída Nízar",
+      "socials": {
+        "instagram": "https://www.instagram.com/aidanizaraida/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "diana-gh-6": {
       "name": "Diana"
@@ -1238,7 +1350,11 @@
       "name": "Kristian Gómez"
     },
     "carlos-montoya": {
-      "name": "Carlos Montoya"
+      "name": "Carlos Montoya",
+      "socials": {
+        "instagram": "https://www.instagram.com/charlimontoya/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "sonia-walls": {
       "name": "Sonia Walls"
@@ -1289,10 +1405,18 @@
       "name": "Giulia Tortella"
     },
     "alejandra-gonzalez": {
-      "name": "Alejandra González"
+      "name": "Alejandra González",
+      "socials": {
+        "instagram": "https://www.instagram.com/alelegriia/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "yolanda-claramonte": {
-      "name": "Yolanda Claramonte"
+      "name": "Yolanda Claramonte",
+      "socials": {
+        "instagram": "https://www.instagram.com/loveyolii_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "azahara-luque": {
       "name": "Azahara Luque"
@@ -1313,10 +1437,18 @@
       "name": "Fran Jiménez"
     },
     "omar-suarez": {
-      "name": "Omar Suárez"
+      "name": "Omar Suárez",
+      "socials": {
+        "instagram": "https://www.instagram.com/omarsuarez__/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "vitin-aguado": {
-      "name": "Vitín Aguado"
+      "name": "Vitín Aguado",
+      "socials": {
+        "instagram": "https://www.instagram.com/vitinaguado/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "loli-pozo": {
       "name": "Loli Pozo"
@@ -1349,7 +1481,11 @@
       "name": "Han Wang"
     },
     "carlos-rengel": {
-      "name": "Carlos Rengel"
+      "name": "Carlos Rengel",
+      "socials": {
+        "instagram": "https://www.instagram.com/carlosrngel/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "dani-vera": {
       "name": "Dani Vera"
@@ -1358,16 +1494,28 @@
       "name": "Ricky Natalicchio"
     },
     "marina-landaluce": {
-      "name": "Marina Landaluce"
+      "name": "Marina Landaluce",
+      "socials": {
+        "instagram": "https://www.instagram.com/marina_gh16shh/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "suso-alvarez": {
-      "name": "Suso Álvarez"
+      "name": "Suso Álvarez",
+      "socials": {
+        "instagram": "https://www.instagram.com/susoalvarez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "raquel-martin": {
       "name": "Raquel Martín"
     },
     "amanda-rodriguez": {
-      "name": "Amanda Rodríguez"
+      "name": "Amanda Rodríguez",
+      "socials": {
+        "instagram": "https://www.instagram.com/amaaanda90/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "carolina-vico": {
       "name": "Carolina Vico"
@@ -1721,7 +1869,11 @@
       "name": "Gonzalo"
     },
     "marta-lopez": {
-      "name": "Marta López"
+      "name": "Marta López",
+      "socials": {
+        "instagram": "https://www.instagram.com/martalopeztv/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "damaso-angulo": {
       "name": "Dámaso Angulo"
@@ -1760,7 +1912,11 @@
       "name": "Arturo García"
     },
     "pepa-beltran": {
-      "name": "Pepa Beltrán"
+      "name": "Pepa Beltrán",
+      "socials": {
+        "instagram": "https://www.instagram.com/pepagh12/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "joaquin-sanz": {
       "name": "Joaquín Sanz"
@@ -1835,13 +1991,25 @@
       "name": "Zulema"
     },
     "aguasantas-vilches": {
-      "name": "Aguasantas Vilches"
+      "name": "Aguasantas Vilches",
+      "socials": {
+        "instagram": "https://www.instagram.com/aguasantasvc/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "coman-mitogo": {
-      "name": "Coman Mitogo"
+      "name": "Coman Mitogo",
+      "socials": {
+        "instagram": "https://www.instagram.com/oficoman/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "fede-rebecchi": {
-      "name": "Fede Rebecchi"
+      "name": "Fede Rebecchi",
+      "socials": {
+        "instagram": "https://www.instagram.com/fede_rebecchi/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "angela-portero": {
       "name": "Ángela Portero"
@@ -1877,7 +2045,11 @@
       "name": "Rappel"
     },
     "francisco-nicolas": {
-      "name": "Francisco Nicolás"
+      "name": "Francisco Nicolás",
+      "socials": {
+        "instagram": "https://www.instagram.com/fnicolasgi/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "raquel-bollo": {
       "name": "Raquel Bollo"
@@ -1898,7 +2070,11 @@
       "name": "Liz Emiliano"
     },
     "javier-tudela": {
-      "name": "Javier Tudela"
+      "name": "Javier Tudela",
+      "socials": {
+        "instagram": "https://www.instagram.com/javier_tudela14/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "lucia-hoyos": {
       "name": "Lucía Hoyos"
@@ -1952,17 +2128,33 @@
       "name": "Toño"
     },
     "el-koala": {
-      "name": "El Koala"
+      "name": "El Koala",
+      "socials": {
+        "instagram": "https://www.instagram.com/el_koala_oficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "monica-hoyos": {
-      "name": "Mónica Hoyos"
+      "name": "Mónica Hoyos",
+      "socials": {
+        "instagram": "https://www.instagram.com/monicahoyoss/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "aurah-ruiz": {
       "name": "Aurah Ruiz",
-      "getty": "601175800"
+      "getty": "601175800",
+      "socials": {
+        "instagram": "https://www.instagram.com/aurah.ruiz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "angel-garo": {
-      "name": "Ángel Garó"
+      "name": "Ángel Garó",
+      "socials": {
+        "instagram": "https://www.instagram.com/soyangelgaro/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "verdeliss": {
       "name": "Verdeliss"
@@ -1989,28 +2181,48 @@
       "name": "Mila Ximénez"
     },
     "noemi-salazar": {
-      "name": "Noemí Salazar"
+      "name": "Noemí Salazar",
+      "socials": {
+        "instagram": "https://www.instagram.com/noemisalazar/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "estela-grande": {
-      "name": "Estela Grande"
+      "name": "Estela Grande",
+      "socials": {
+        "instagram": "https://www.instagram.com/estelagrande/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "antonio-david-flores": {
       "name": "Antonio David Flores"
     },
     "hugo-castejon": {
-      "name": "Hugo Castejón"
+      "name": "Hugo Castejón",
+      "socials": {
+        "instagram": "https://www.instagram.com/hugocastejon/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "maestro-joao": {
       "name": "Maestro Joao"
     },
     "pol-badia": {
-      "name": "Pol Badía"
+      "name": "Pol Badía",
+      "socials": {
+        "instagram": "https://www.instagram.com/pol_badia/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "el-cejas": {
       "name": "El Cejas"
     },
     "kiko-jimenez": {
-      "name": "Kiko Jiménez"
+      "name": "Kiko Jiménez",
+      "socials": {
+        "instagram": "https://www.instagram.com/kikojimenez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "irene-junquera": {
       "name": "Irene Junquera"
@@ -2030,7 +2242,11 @@
       "name": "Luitingo"
     },
     "albert-infante": {
-      "name": "Albert Infante"
+      "name": "Albert Infante",
+      "socials": {
+        "instagram": "https://www.instagram.com/lainfantagitana/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "laura-bozzo": {
       "name": "Laura Bozzo"
@@ -2042,16 +2258,28 @@
       "name": "Pilar Llori"
     },
     "zeus-montiel": {
-      "name": "Zeus Montiel"
+      "name": "Zeus Montiel",
+      "socials": {
+        "instagram": "https://www.instagram.com/zeusmontiel_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "susana-bianca": {
-      "name": "Susana Bianca"
+      "name": "Susana Bianca",
+      "socials": {
+        "instagram": "https://www.instagram.com/susanabiancaberry/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "jose-antonio-aviles": {
       "name": "José Antonio Avilés"
     },
     "marta-castro": {
-      "name": "Marta Castro"
+      "name": "Marta Castro",
+      "socials": {
+        "instagram": "https://www.instagram.com/itsmartacastro/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "alex-caniggia": {
       "name": "Álex Caniggia"
@@ -2066,10 +2294,18 @@
       "name": "Karina"
     },
     "sol-macaluso": {
-      "name": "Sol Macaluso"
+      "name": "Sol Macaluso",
+      "socials": {
+        "instagram": "https://www.instagram.com/sol.macaluso/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "luca-dazi": {
-      "name": "Luca Dazi"
+      "name": "Luca Dazi",
+      "socials": {
+        "instagram": "https://www.instagram.com/lucaadazi/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "jonan-wiergo": {
       "name": "Jonan Wiergo"
@@ -2087,7 +2323,11 @@
       "name": "Manuel Cortés Bollo"
     },
     "jaime-nava": {
-      "name": "Jaime Nava"
+      "name": "Jaime Nava",
+      "socials": {
+        "instagram": "https://www.instagram.com/jaimenavadeolano/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "gines-correguela": {
       "name": "Ginés Corregüela"
@@ -2099,13 +2339,25 @@
       "name": "Yaiza Martín"
     },
     "arelys-ramos": {
-      "name": "Arelys Ramos"
+      "name": "Arelys Ramos",
+      "socials": {
+        "instagram": "https://www.instagram.com/arelysramoss/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "katerina-safarova": {
-      "name": "Katerina Safarova"
+      "name": "Katerina Safarova",
+      "socials": {
+        "instagram": "https://www.instagram.com/kat_safarova/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "raquel-mosquera": {
-      "name": "Raquel Mosquera"
+      "name": "Raquel Mosquera",
+      "socials": {
+        "instagram": "https://www.instagram.com/raquelmosqueram/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "gabriela-arrocet": {
       "name": "Gabriela Arrocet"
@@ -2120,13 +2372,21 @@
       "name": "Patricia Donoso"
     },
     "nacho-palau": {
-      "name": "Nacho Palau"
+      "name": "Nacho Palau",
+      "socials": {
+        "instagram": "https://www.instagram.com/nachopalau/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "ana-luque": {
       "name": "Ana Luque"
     },
     "yulen-pereira": {
-      "name": "Yulen Pereira"
+      "name": "Yulen Pereira",
+      "socials": {
+        "instagram": "https://www.instagram.com/yulenpereira/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "kiko-matamoros": {
       "name": "Kiko Matamoros"
@@ -2135,7 +2395,11 @@
       "name": "Mariana Rodríguez"
     },
     "anuar-beno": {
-      "name": "Anuar Beno"
+      "name": "Anuar Beno",
+      "socials": {
+        "instagram": "https://www.instagram.com/anuarbeno/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "tania-medina": {
       "name": "Tania Medina",
@@ -2144,16 +2408,28 @@
       }
     },
     "juan-munoz": {
-      "name": "Juan Muñoz"
+      "name": "Juan Muñoz",
+      "socials": {
+        "instagram": "https://www.instagram.com/juan_munoz_comico_oficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "ainhoa-cantalapiedra": {
       "name": "Ainhoa Cantalapiedra"
     },
     "ruben-sanchez-montesinos": {
-      "name": "Rubén Sánchez-Montesinos"
+      "name": "Rubén Sánchez-Montesinos",
+      "socials": {
+        "instagram": "https://www.instagram.com/rubensanchezmontesinos/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "charo-vega": {
-      "name": "Charo Vega"
+      "name": "Charo Vega",
+      "socials": {
+        "instagram": "https://www.instagram.com/charovegaoficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "lola-mencia": {
       "name": "Lola Mencía"
@@ -2177,38 +2453,70 @@
       "name": "Valeria Marini"
     },
     "agustin-bravo": {
-      "name": "Agustín Bravo"
+      "name": "Agustín Bravo",
+      "socials": {
+        "instagram": "https://www.instagram.com/agustinbravoabreu/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "alexia-rivas": {
-      "name": "Alexia Rivas"
+      "name": "Alexia Rivas",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexiaarivas/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "antonio-canales": {
       "name": "Antonio Canales"
     },
     "ana-maria-aldon": {
-      "name": "Ana María Aldón"
+      "name": "Ana María Aldón",
+      "socials": {
+        "instagram": "https://www.instagram.com/anamariaaldon/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "rocio-flores": {
       "name": "Rocío Flores",
-      "getty": "1371821988"
+      "getty": "1371821988",
+      "socials": {
+        "instagram": "https://www.instagram.com/rotrece/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "elena-rodriguez": {
-      "name": "Elena Rodríguez"
+      "name": "Elena Rodríguez",
+      "socials": {
+        "instagram": "https://www.instagram.com/elenarodriguezpa/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "ivana-icardi": {
-      "name": "Ivana Icardi"
+      "name": "Ivana Icardi",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivannaicardi/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "yiya-del-guillen": {
       "name": "Yiya del Guillén"
     },
     "nyno-vargas": {
-      "name": "Nyno Vargas"
+      "name": "Nyno Vargas",
+      "socials": {
+        "instagram": "https://www.instagram.com/nynovargas/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "ferre": {
       "name": "Ferre"
     },
     "antonio-pavon": {
-      "name": "Antonio Pavón"
+      "name": "Antonio Pavón",
+      "socials": {
+        "instagram": "https://www.instagram.com/antoniopavongalan/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "cristian-suescun": {
       "name": "Cristian Suescun"
@@ -2220,34 +2528,62 @@
       "name": "Alejandro Reyes"
     },
     "albert-alvarez": {
-      "name": "Albert Álvarez"
+      "name": "Albert Álvarez",
+      "socials": {
+        "instagram": "https://www.instagram.com/albert_iceman/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "fabio-colloricchio": {
-      "name": "Fabio Colloricchio"
+      "name": "Fabio Colloricchio",
+      "socials": {
+        "instagram": "https://www.instagram.com/fabbio/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "mahi-masegosa": {
-      "name": "Mahi Masegosa"
+      "name": "Mahi Masegosa",
+      "socials": {
+        "instagram": "https://www.instagram.com/mahimasegosaoficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "isabel-pantoja": {
-      "name": "Isabel Pantoja"
+      "name": "Isabel Pantoja",
+      "socials": {
+        "instagram": "https://www.instagram.com/isabel_pantoja_martin/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "chelo-garcia-cortes": {
       "name": "Chelo García-Cortés"
     },
     "dakota-tarraga": {
-      "name": "Dakota Tárraga"
+      "name": "Dakota Tárraga",
+      "socials": {
+        "instagram": "https://www.instagram.com/dakota_tarraga/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "colate-vallejo-nagera": {
       "name": "Colate Vallejo-Nágera"
     },
     "violeta-mangrinan": {
-      "name": "Violeta Mangriñán"
+      "name": "Violeta Mangriñán",
+      "socials": {
+        "instagram": "https://www.instagram.com/violeta/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "oto-vans": {
       "name": "Oto Vans"
     },
     "lidia-santos": {
-      "name": "Lidia Santos"
+      "name": "Lidia Santos",
+      "socials": {
+        "instagram": "https://www.instagram.com/lidiasantosofficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "jonathan-piqueras": {
       "name": "Jonathan Piqueras"
@@ -2262,7 +2598,11 @@
       "name": "Encarna Salazar"
     },
     "loly-alvarez": {
-      "name": "Loly Álvarez"
+      "name": "Loly Álvarez",
+      "socials": {
+        "instagram": "https://www.instagram.com/loly_alvarez_oficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "logan-sampedro": {
       "name": "Logan Sampedro"
@@ -2286,7 +2626,11 @@
       "name": "Melissa Vargas"
     },
     "isabel-castell": {
-      "name": "Isabel Castell"
+      "name": "Isabel Castell",
+      "socials": {
+        "instagram": "https://www.instagram.com/misscastell1/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "mayte-zaldivar": {
       "name": "Mayte Zaldívar"
@@ -2307,7 +2651,11 @@
       "name": "Arkano"
     },
     "gorka-ibarguren": {
-      "name": "Gorka Ibarguren"
+      "name": "Gorka Ibarguren",
+      "socials": {
+        "instagram": "https://www.instagram.com/gorka_workout/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "blanca-manchon": {
       "name": "Blanca Manchón"
@@ -2343,22 +2691,46 @@
       "name": "Carmen Borrego"
     },
     "rocio-madrid": {
-      "name": "Rocío Madrid"
+      "name": "Rocío Madrid",
+      "socials": {
+        "instagram": "https://www.instagram.com/_rociomadrid/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "zayra-gutierrez": {
-      "name": "Zayra Gutiérrez"
+      "name": "Zayra Gutiérrez",
+      "socials": {
+        "instagram": "https://www.instagram.com/zayragutierrez_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "irene-rosales": {
-      "name": "Irene Rosales"
+      "name": "Irene Rosales",
+      "socials": {
+        "instagram": "https://www.instagram.com/irenerova24/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "carolina-sobe": {
-      "name": "Carolina Sobe"
+      "name": "Carolina Sobe",
+      "socials": {
+        "instagram": "https://www.instagram.com/carolinasobe/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "antonio-tejado": {
-      "name": "Antonio Tejado"
+      "name": "Antonio Tejado",
+      "socials": {
+        "instagram": "https://www.instagram.com/antoniotejadoficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "candela-acevedo": {
-      "name": "Candela Acevedo"
+      "name": "Candela Acevedo",
+      "socials": {
+        "instagram": "https://www.instagram.com/candelaaceruoficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "yoli-saez": {
       "name": "Yoli Sáez"
@@ -2367,7 +2739,11 @@
       "name": "Fortu"
     },
     "julio-ruz": {
-      "name": "Julio Ruz"
+      "name": "Julio Ruz",
+      "socials": {
+        "instagram": "https://www.instagram.com/jrm_cr/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "yurena": {
       "name": "Yurena"
@@ -2376,7 +2752,11 @@
       "name": "Keroseno"
     },
     "efren-reyero": {
-      "name": "Efrén Reyero"
+      "name": "Efrén Reyero",
+      "socials": {
+        "instagram": "https://www.instagram.com/efrenreyero/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "marc-florensa": {
       "name": "Marc Florensa"
@@ -2397,34 +2777,62 @@
       "name": "José María Almoguera"
     },
     "alex-ghita": {
-      "name": "Álex Ghita"
+      "name": "Álex Ghita",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexghita1993/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "miguel-frigenti": {
       "name": "Miguel Frigenti"
     },
     "maria-sanchez": {
-      "name": "María Sánchez"
+      "name": "María Sánchez",
+      "socials": {
+        "instagram": "https://www.instagram.com/maria.sanchezguerrero/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "manuel-cortes": {
       "name": "Manuel Cortés"
     },
     "jeimy-baez": {
-      "name": "Jeimy Báez"
+      "name": "Jeimy Báez",
+      "socials": {
+        "instagram": "https://www.instagram.com/jjeimybaez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "javier-mouzo": {
-      "name": "Javier Mouzo"
+      "name": "Javier Mouzo",
+      "socials": {
+        "instagram": "https://www.instagram.com/javier.mouzo.1/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "ana-herminia-illas": {
       "name": "Ana Herminia Illas"
     },
     "vanessa-bouza": {
-      "name": "Vanessa Bouza"
+      "name": "Vanessa Bouza",
+      "socials": {
+        "instagram": "https://www.instagram.com/vanessa.bouza_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "ivan-gonzalez": {
-      "name": "Iván González"
+      "name": "Iván González",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivangonzalez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "alejandro-caracuel": {
-      "name": "Alejandro Caracuel"
+      "name": "Alejandro Caracuel",
+      "socials": {
+        "instagram": "https://www.instagram.com/alejandrocaracuel/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "paola-caruso": {
       "name": "Paola Caruso"
@@ -2487,7 +2895,11 @@
       "name": "Rafi Camino"
     },
     "lola-ortiz": {
-      "name": "Lola Ortiz"
+      "name": "Lola Ortiz",
+      "socials": {
+        "instagram": "https://www.instagram.com/lolita_ol/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "suhaila-jad": {
       "name": "Suhaila Jad"
@@ -2508,7 +2920,11 @@
       "name": "Arantxa Bustos"
     },
     "jose-labrador": {
-      "name": "José Labrador"
+      "name": "José Labrador",
+      "socials": {
+        "instagram": "https://www.instagram.com/shlabragandia/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "carmen-gahona": {
       "name": "Carmen Gahona"
@@ -2568,7 +2984,11 @@
       "name": "Tatiana Delgado"
     },
     "sonia-monroy": {
-      "name": "Sonia Monroy"
+      "name": "Sonia Monroy",
+      "socials": {
+        "instagram": "https://www.instagram.com/soniamonroyhollywood/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "jeyko-vigil": {
       "name": "Jeyko Vigil"
@@ -2577,7 +2997,11 @@
       "name": "Toni Genil"
     },
     "arturo-requejo": {
-      "name": "Arturo Requejo"
+      "name": "Arturo Requejo",
+      "socials": {
+        "instagram": "https://www.instagram.com/arturoecolife/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "carolina-cordoba": {
       "name": "Carolina Córdoba"
@@ -2694,7 +3118,11 @@
       "name": "Valerio Pino"
     },
     "sofia-cristo": {
-      "name": "Sofía Cristo"
+      "name": "Sofía Cristo",
+      "socials": {
+        "instagram": "https://www.instagram.com/sofiacristo_cristo/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "elizabeth-thompson": {
       "name": "Elizabeth Thompson"
@@ -2706,13 +3134,21 @@
       "name": "Ángela Bustillo"
     },
     "alba-paul": {
-      "name": "Alba Paul"
+      "name": "Alba Paul",
+      "socials": {
+        "instagram": "https://www.instagram.com/albapaulfe/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "alvar-segui": {
       "name": "Alvar Seguí"
     },
     "jose-manuel-soto": {
-      "name": "José Manuel Soto"
+      "name": "José Manuel Soto",
+      "socials": {
+        "instagram": "https://www.instagram.com/josemanuelsoto_oficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "teresa-seco": {
       "name": "Teresa Seco"
@@ -2724,13 +3160,25 @@
       "name": "Toni Elías"
     },
     "aratz-lakuntza": {
-      "name": "Aratz Lakuntza"
+      "name": "Aratz Lakuntza",
+      "socials": {
+        "instagram": "https://www.instagram.com/aratzlakuntza/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "ingrid-betancor": {
-      "name": "Ingrid Betancor"
+      "name": "Ingrid Betancor",
+      "socials": {
+        "instagram": "https://www.instagram.com/ingridbetancor/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "ivonne-reyes": {
-      "name": "Ivonne Reyes"
+      "name": "Ivonne Reyes",
+      "socials": {
+        "instagram": "https://www.instagram.com/ivonnereyest/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "marisa-jara": {
       "name": "Marisa Jara"
@@ -2739,16 +3187,28 @@
       "name": "Gerard Arias"
     },
     "paola-olmedo": {
-      "name": "Paola Olmedo"
+      "name": "Paola Olmedo",
+      "socials": {
+        "instagram": "https://www.instagram.com/paola.olmedo_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "gabriela-guillen": {
       "name": "Gabriela Guillén"
     },
     "alberto-avila": {
-      "name": "Alberto Ávila"
+      "name": "Alberto Ávila",
+      "socials": {
+        "instagram": "https://www.instagram.com/alberto_boniato/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "alex-de-la-croix": {
-      "name": "Álex de la Croix"
+      "name": "Álex de la Croix",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexdelacroix/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @supervivientestv"
     },
     "patry-guimeras": {
       "name": "Patry Guimeras",
@@ -3657,7 +4117,11 @@
       "socialsSource": "Cuenta seguida por el perfil oficial @islatentaciones"
     },
     "carlos-sobera": {
-      "name": "Carlos Sobera"
+      "name": "Carlos Sobera",
+      "socials": {
+        "instagram": "https://www.instagram.com/carlossobera/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "jesus-vazquez": {
       "name": "Jesús Vázquez"
@@ -3675,10 +4139,18 @@
       "name": "Marta Flich"
     },
     "mercedes-mila": {
-      "name": "Mercedes Milá"
+      "name": "Mercedes Milá",
+      "socials": {
+        "instagram": "https://www.instagram.com/mercedesmila/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "monica-naranjo": {
-      "name": "Mónica Naranjo"
+      "name": "Mónica Naranjo",
+      "socials": {
+        "instagram": "https://www.instagram.com/monicanaranjo/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "pepe-navarro": {
       "name": "Pepe Navarro"
@@ -3777,7 +4249,11 @@
       "name": "Rosa López"
     },
     "lorena-gomez": {
-      "name": "Lorena Gómez"
+      "name": "Lorena Gómez",
+      "socials": {
+        "instagram": "https://www.instagram.com/lorenagomez_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "beatriz-luengo": {
       "name": "Beatriz Luengo"
@@ -3927,7 +4403,11 @@
       "name": "Agustín Jiménez"
     },
     "david-bustamante": {
-      "name": "David Bustamante"
+      "name": "David Bustamante",
+      "socials": {
+        "instagram": "https://www.instagram.com/davibusta/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "raoul-vazquez": {
       "name": "Raoul Vázquez"
@@ -4056,10 +4536,18 @@
       "name": "Miguel Nández"
     },
     "hugo-salazar": {
-      "name": "Hugo Salazar"
+      "name": "Hugo Salazar",
+      "socials": {
+        "instagram": "https://www.instagram.com/hugosalazar_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "joan-tena": {
-      "name": "Joan Tena"
+      "name": "Joan Tena",
+      "socials": {
+        "instagram": "https://www.instagram.com/joantena/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "tony-ot-2": {
       "name": "Tony"
@@ -4104,10 +4592,18 @@
       "name": "Jano"
     },
     "vicente-segui": {
-      "name": "Vicente Seguí"
+      "name": "Vicente Seguí",
+      "socials": {
+        "instagram": "https://www.instagram.com/vicenteseguiot3/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "ramon-del-castillo": {
-      "name": "Ramón del Castillo"
+      "name": "Ramón del Castillo",
+      "socials": {
+        "instagram": "https://www.instagram.com/ramondelcastillo_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "miguel-cadenas": {
       "name": "Miguel Cadenas"
@@ -4116,7 +4612,11 @@
       "name": "Davinia Cuevas"
     },
     "mario-martinez": {
-      "name": "Mario Martínez"
+      "name": "Mario Martínez",
+      "socials": {
+        "instagram": "https://www.instagram.com/mariomartinp_/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "leticia-perez": {
       "name": "Leticia Pérez"
@@ -4305,7 +4805,11 @@
       "name": "Juanjo"
     },
     "mario-alvarez": {
-      "name": "Mario Álvarez"
+      "name": "Mario Álvarez",
+      "socials": {
+        "instagram": "https://www.instagram.com/mario_alvarez/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "brenda-mau": {
       "name": "Brenda Mau"
@@ -4320,7 +4824,11 @@
       "name": "Patricia Navarro"
     },
     "sylvia-parejo": {
-      "name": "Sylvia Parejo"
+      "name": "Sylvia Parejo",
+      "socials": {
+        "instagram": "https://www.instagram.com/sylviaparejo/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "cristina-ot-7": {
       "name": "Cristina"
@@ -4368,7 +4876,11 @@
       "name": "Mario Jefferson"
     },
     "alexandra-masangkay": {
-      "name": "Alexandra Masangkay"
+      "name": "Alexandra Masangkay",
+      "socials": {
+        "instagram": "https://www.instagram.com/alexandramasangkay/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "nicco-ot-8": {
       "name": "Niccó"
@@ -4416,7 +4928,11 @@
       "name": "Miguel"
     },
     "amaia-romero": {
-      "name": "Amaia Romero"
+      "name": "Amaia Romero",
+      "socials": {
+        "instagram": "https://www.instagram.com/amaia/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "aitana-ocana": {
       "name": "Aitana Ocaña"
@@ -4440,7 +4956,11 @@
       "name": "Thalía"
     },
     "juan-antonio": {
-      "name": "Juan Antonio"
+      "name": "Juan Antonio",
+      "socials": {
+        "instagram": "https://www.instagram.com/juanantonioficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "joao-ot-9": {
       "name": "João"
@@ -4452,7 +4972,11 @@
       "name": "Famous Oberogo"
     },
     "alba-reche": {
-      "name": "Alba Reche"
+      "name": "Alba Reche",
+      "socials": {
+        "instagram": "https://www.instagram.com/albxreche/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "natalia-lacunza": {
       "name": "Natalia Lacunza"
@@ -4473,7 +4997,11 @@
       "name": "Marilia"
     },
     "carlos-right": {
-      "name": "Carlos Right"
+      "name": "Carlos Right",
+      "socials": {
+        "instagram": "https://www.instagram.com/carlosright/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "noelia-ot-10": {
       "name": "Noelia"
@@ -4611,7 +5139,11 @@
       "name": "Olivia Bay"
     },
     "tinho-vaamonde": {
-      "name": "Tinho Vaamonde"
+      "name": "Tinho Vaamonde",
+      "socials": {
+        "instagram": "https://www.instagram.com/ot2025.tinho/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "guille-toledano": {
       "name": "Guille Toledano"
@@ -4629,13 +5161,21 @@
       "name": "Téyou"
     },
     "lucia-casani": {
-      "name": "Lucía Casani"
+      "name": "Lucía Casani",
+      "socials": {
+        "instagram": "https://www.instagram.com/ot2025.luciacasani/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "maria-cruz": {
       "name": "María Cruz"
     },
     "laura-munoz": {
-      "name": "Laura Muñoz"
+      "name": "Laura Muñoz",
+      "socials": {
+        "instagram": "https://www.instagram.com/lauraxmunoz/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "max-ot-13": {
       "name": "Max"
@@ -5469,7 +6009,11 @@
       "name": "Lara Álvarez"
     },
     "roberto-leal": {
-      "name": "Roberto Leal"
+      "name": "Roberto Leal",
+      "socials": {
+        "instagram": "https://www.instagram.com/robertolealg/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "nagore-robles": {
       "name": "Nagore Robles"
@@ -5604,7 +6148,11 @@
       "name": "Arantxa Sánchez Vicario"
     },
     "abraham-mateo": {
-      "name": "Abraham Mateo"
+      "name": "Abraham Mateo",
+      "socials": {
+        "instagram": "https://www.instagram.com/abrahammateo/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @operaciontriunfo"
     },
     "adriana-ugarte": {
       "name": "Adriana Ugarte"
@@ -5628,7 +6176,11 @@
       "name": "Fernando Verdasco"
     },
     "barbara-rey": {
-      "name": "Bárbara Rey"
+      "name": "Bárbara Rey",
+      "socials": {
+        "instagram": "https://www.instagram.com/barbararey_oficial/"
+      },
+      "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial"
     },
     "david-hasselhoff": {
       "name": "David Hasselhoff"
