@@ -1,4 +1,4 @@
-// Titulares recientes que mencionan a cada persona (Google News RSS) -> data/person-news.json.
+// Titulares recientes que mencionan a cada persona (Bing Noticias RSS) -> data/person-news.json.
 // Solo se guarda titular, medio, fecha y enlace. Para evitar homónimos solo se buscan personas con
 // nombre y apellido, la consulta incluye el nombre de sus realities y el titular debe contener el
 // nombre completo. "newsAuto": false en people.json desactiva la búsqueda para una persona.
@@ -12,7 +12,7 @@ const DATA = join(dirname(fileURLToPath(import.meta.url)), '..', 'data');
 const read = (f, d) => { try { return JSON.parse(readFileSync(join(DATA, f), 'utf8')); } catch { return d; } };
 const { people } = read('people.json');
 const store = read('person-news.json', { checked: {}, people: {} });
-const MAX = Number(process.env.MAX_PEOPLE ?? 150);
+const MAX = Number(process.env.MAX_PEOPLE ?? 100);
 const PER_PERSON = 6;
 const MAX_AGE_DAYS = 180;
 const norm = (t) => t.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9 ]+/g, ' ').replace(/\s+/g, ' ').trim();
@@ -44,21 +44,23 @@ let asked = 0, withNews = 0;
 for (const [id, i] of todo) {
   const name = cleanName(id);
   const shows = [...i.shows].slice(0, 4).map((s) => `"${s}"`).join(' OR ');
-  const q = encodeURIComponent(`"${name}" (${shows}) when:60d`);
+  const q = encodeURIComponent(`"${name}" (${shows})`);
   try {
-    const res = await fetch(`https://news.google.com/rss/search?q=${q}&hl=es&gl=ES&ceid=ES:es`, { headers: { 'User-Agent': 'wiki-reality-news-bot' } });
+    // Bing Noticias (RSS): admite más consultas seguidas que Google News desde los servidores de GitHub
+    const res = await fetch(`https://www.bing.com/news/search?q=${q}&format=rss&setlang=es&cc=ES&mkt=es-ES`, { headers: { 'User-Agent': 'Mozilla/5.0 (compatible; wiki-reality-news-bot)' } });
     asked++;
-    if (res.status === 429 || res.status === 503) { console.warn(`Límite de Google News (HTTP ${res.status}) tras ${asked} consultas`); break; }
+    if (res.status === 429 || res.status === 403 || res.status === 503) { console.warn(`Límite del buscador de noticias (HTTP ${res.status}) tras ${asked} consultas`); break; }
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const xml = await res.text();
+    if (!xml.includes('<rss')) { console.warn(`Respuesta inesperada del buscador tras ${asked} consultas`); break; }
     const key = norm(name);
     const fresh = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, it]) => {
-      const source = tag(it, 'source');
-      let title = tag(it, 'title');
-      if (source && title.endsWith(` - ${source}`)) title = title.slice(0, -(source.length + 3));
+      const raw = tag(it, 'link');
+      let link = raw;
+      try { link = new URL(raw).searchParams.get('url') ?? raw; } catch {}
       const d = new Date(tag(it, 'pubDate'));
-      return { title, source, link: tag(it, 'link'), date: isNaN(d) ? '' : d.toISOString() };
-    }).filter((n) => n.title && n.link && n.date && norm(n.title).includes(key));
+      return { title: tag(it, 'title'), source: tag(it, 'News:Source'), link, date: isNaN(d) ? '' : d.toISOString() };
+    }).filter((n) => n.title && /^https?:\/\//.test(n.link) && n.date && norm(n.title).includes(key));
     const merged = new Map();
     for (const n of [...fresh, ...(store.people[id] ?? [])]) {
       const k = norm(n.title);
@@ -68,7 +70,7 @@ for (const [id, i] of todo) {
     if (list.length) { store.people[id] = list; withNews++; } else delete store.people[id];
     store.checked[id] = new Date().toISOString();
   } catch (e) { console.warn(`Aviso (${id}): ${e.message}`); }
-  await sleep(350);
+  await sleep(900);
 }
 for (const id of Object.keys(store.people)) if (!people[id] || people[id].newsAuto === false) delete store.people[id];
 for (const id of Object.keys(store.checked)) if (!people[id]) delete store.checked[id];
