@@ -15,16 +15,9 @@ const rays = (cx, cy, n, len, color, op = 0.18) => Array.from({ length: n }, (_,
 
 export const designs = {
   isla: {
-    font: 'Bodoni Moda', title: 'font-size:.82rem;font-weight:800;line-height:1',
-    logo: '<span class="isla-logo"><span class="isla-l1">la <b>ISLA</b> de las</span><span class="isla-l2">TENTACIONES</span></span>',
-    bg: '#0b1410', fg: '#fff',
-    // Playa vista desde el aire, de noche: agua oscura, espuma y arena iluminada
-    art: svg(`<defs><linearGradient id="isl-sea" x1="0" y1="0" x2=".5" y2="1"><stop offset="0" stop-color="#0c1712"/><stop offset=".55" stop-color="#1d3a2a"/><stop offset="1" stop-color="#2f5139"/></linearGradient><linearGradient id="isl-sand" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a3966a"/><stop offset=".5" stop-color="#7d7350"/><stop offset="1" stop-color="#2e2b1e"/></linearGradient><radialGradient id="isl-vig" cx=".5" cy=".5" r=".75"><stop offset=".45" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".78"/></radialGradient><filter id="isl-b" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3.2"/></filter><filter id="isl-b2" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="1.1"/></filter></defs>
-<rect width="200" height="267" fill="url(#isl-sand)"/>
-<path d="M0 0H200V118C170 132 150 108 118 126C86 144 60 122 34 138C20 146 8 144 0 150Z" fill="url(#isl-sea)"/>
-<g filter="url(#isl-b)"><path d="M0 150C8 144 20 146 34 138C60 122 86 144 118 126C150 108 170 132 200 118V132C170 146 150 124 118 142C86 160 60 138 34 154C20 162 8 160 0 164Z" fill="#cfd8c4" opacity=".55"/><path d="M0 92C30 84 52 100 84 90C120 78 150 96 200 80V88C150 104 120 88 84 99C52 109 30 94 0 101Z" fill="#6f9479" opacity=".35"/><path d="M0 46C40 38 70 54 110 44C150 34 170 46 200 40V46C170 52 150 42 110 51C70 61 40 46 0 53Z" fill="#4f7560" opacity=".3"/></g>
-<g filter="url(#isl-b2)" fill="none" stroke="#f3f5ea" stroke-linecap="round"><path d="M0 151C8 145 20 147 34 139C60 123 86 145 118 127C150 109 170 133 200 119" stroke-width="1.6" opacity=".85"/><path d="M0 158C10 153 22 155 36 147C62 132 88 153 120 136C152 119 172 141 200 128" stroke-width=".8" opacity=".45"/></g>
-<rect width="200" height="267" fill="url(#isl-vig)"/>`),
+    font: 'Pacifico', title: 'font-size:1.55rem;font-weight:400;line-height:1.15',
+    bg: 'linear-gradient(180deg,#3b1d5e 0%,#c2327a 32%,#ff7a3d 58%,#ffc15e 70%,#0d7c8c 71%,#06414f 100%)', fg: '#fff',
+    art: svg(`<circle cx="100" cy="176" r="46" fill="#ffe08a" opacity=".95"/><rect y="188" width="200" height="80" fill="#0b6877"/><path d="M60 196h80M74 206h52M86 216h28" stroke="#ffd27a" stroke-width="3" stroke-linecap="round" opacity=".7"/>${palm(18, 250, 1.25)}${palm(182, 262, -1.05).replace('scale(-1.05)', 'scale(-1.05 1.05)')}${stars([[30, 24], [70, 14, 0.8], [120, 30], [165, 18, 0.9], [150, 52, 0.7], [44, 58, 0.7]], '#fff', 1.3)}`),
   },
   gh: {
     font: 'Bebas Neue', title: 'font-size:2rem;letter-spacing:.04em;line-height:1',

@@ -106,3 +106,27 @@ document.addEventListener('click', async (e) => {
     if (label) { label.textContent = 'Enlace copiado'; setTimeout(() => { label.textContent = 'Compartir'; }, 2000); }
   } catch {}
 });
+
+// Fotos de Instagram en avatares: se cargan solo al acercarse a la pantalla y de pocas en pocas,
+// para que la página no espere a decenas de visores a la vez. Mientras tanto se ven las iniciales.
+(() => {
+  const waiting = [...document.querySelectorAll('.av-wait iframe[data-src]')];
+  if (!waiting.length) return;
+  const MAX = 6; let running = 0; const queue = [];
+  const next = () => {
+    while (running < MAX && queue.length) {
+      const f = queue.shift(); running++;
+      let done = false;
+      const end = () => { if (done) return; done = true; running--; f.parentElement.classList.add('av-ready'); next(); };
+      f.addEventListener('load', end, { once: true });
+      setTimeout(end, 6000);
+      f.src = f.dataset.src; f.removeAttribute('data-src');
+    }
+  };
+  if (!('IntersectionObserver' in window)) { queue.push(...waiting); next(); return; }
+  const io = new IntersectionObserver((entries) => {
+    for (const e of entries) if (e.isIntersecting) { io.unobserve(e.target); queue.push(e.target); }
+    next();
+  }, { rootMargin: '300px' });
+  waiting.forEach((f) => io.observe(f));
+})();

@@ -25,6 +25,9 @@ try { photos = readJson(join(DATA, 'photos.json')).people ?? {}; } catch {}
 // Fotos aprobadas a mano (campo "photo" en people.json) tienen prioridad sobre las automáticas
 for (const [id, p] of Object.entries(people)) if (p.photo?.src) photos[id] = p.photo;
 let photoCandidates = {};
+let bios = {}, personNews = {};
+try { bios = readJson(join(DATA, 'bios.json')).people ?? {}; } catch {}
+try { personNews = readJson(join(DATA, 'person-news.json')).people ?? {}; } catch {}
 try { photoCandidates = readJson(join(DATA, 'photo-candidates.json')).people ?? {}; } catch {}
 const realityFiles = readdirSync(join(DATA, 'realities')).filter((f) => f.endsWith('.json'));
 const realitiesById = Object.fromEntries(
@@ -138,6 +141,18 @@ function autoDescription(id) {
   return parts.join(' ');
 }
 
+// Datos biográficos básicos de Wikidata: profesión, lugar y año de nacimiento
+const cap = (t) => t.charAt(0).toUpperCase() + t.slice(1);
+function wikiBio(id) {
+  const b = bios[id];
+  if (!b || people[id].socialsAuto === false) return '';
+  const parts = [];
+  if (b.desc) parts.push(`${cap(b.desc.replace(/\.$/, ''))}.`);
+  const year = b.born && /^\d{4}/.test(b.born) ? b.born.slice(0, 4) : '';
+  if (b.place || year) parts.push(`Nació${b.place ? ` en ${b.place}` : ''}${year ? ` en ${year}` : ''}.`);
+  return parts.join(' ');
+}
+
 // ---------- redes sociales ----------
 const ICON = (inner, fill = false) => `<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="${fill ? 'currentColor' : 'none'}" stroke="${fill ? 'none' : 'currentColor'}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${inner}</svg>`;
 const SOCIAL_ICONS = {
@@ -161,8 +176,8 @@ const photoCredit = (ph) => `Foto: ${ph.author} · ${ph.license} · Wikimedia Co
 const avatar = (id, cls = 'avatar', tag = 'span') => {
   const ph = photos[id];
   if (ph) return `<${tag} class="${cls} has-photo"><img src="${esc(ph.src)}" alt="${esc(person(id).name)}" title="${esc(photoCredit(ph))}" loading="lazy" referrerpolicy="no-referrer"></${tag}>`;
-  if (igCode(id)) return `<${tag} class="${cls} has-photo av-ig"><iframe src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></${tag}>`;
-  if (igUser(id)) return `<${tag} class="${cls} has-photo av-igp"><iframe src="https://www.instagram.com/${esc(igUser(id))}/embed/" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></${tag}>`;
+  if (igCode(id)) return `<${tag} class="${cls} has-photo av-ig av-wait" data-i="${esc(initials(person(id).name))}"><iframe data-src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></${tag}>`;
+  if (igUser(id)) return `<${tag} class="${cls} has-photo av-igp av-wait" data-i="${esc(initials(person(id).name))}"><iframe data-src="https://www.instagram.com/${esc(igUser(id))}/embed/" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></${tag}>`;
   if (getty[id]) return `<${tag} class="${cls} has-photo av-getty"><iframe src="${esc(getty[id].src)}" title="${esc(person(id).name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></${tag}>`;
   return `<${tag} class="${cls}" aria-hidden="true">${esc(initials(person(id).name))}</${tag}>`;
 };
@@ -219,8 +234,10 @@ function layout({ title, description, body, theme = 'home', path = '' }) {
 <meta property="og:description" content="${esc(description ?? site.description)}">
 <meta property="og:type" content="website">
 <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://www.instagram.com">
+<link rel="dns-prefetch" href="https://scontent.cdninstagram.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico&family=Raleway:wght@300;500${designFonts.map((f) => `&family=${f.replace(/ /g, '+')}${{ Montserrat: ':wght@800', Oswald: ':wght@700', 'Playfair Display': ':ital,wght@0,800;1,800', 'Bodoni Moda': ':wght@800' }[f] ?? ''}`).join('')}&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;600;700&family=Pacifico${designFonts.map((f) => `&family=${f.replace(/ /g, '+')}${{ Montserrat: ':wght@800', Oswald: ':wght@700', 'Playfair Display': ':ital,wght@0,800;1,800' }[f] ?? ''}`).join('')}&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${url('assets/styles.css')}">
 <link rel="stylesheet" href="${url('assets/designs.css')}">
 </head>
@@ -385,7 +402,9 @@ for (const id of allIds) {
   const firstTheme = realitiesById[apps[0]?.reality]?.theme ?? 'home';
   const socials = Object.entries(socialsOf(id)).filter(([, v]) => v).map(([k, v]) => `<li><a class="social social-${esc(k)}" href="${esc(v)}" rel="noopener nofollow" target="_blank" title="${esc(SOCIAL_LABELS[k] ?? k)}" aria-label="${esc(SOCIAL_LABELS[k] ?? k)} de ${esc(p.name)}">${SOCIAL_ICONS[k] ?? esc(SOCIAL_LABELS[k] ?? k)}</a></li>`).join('');
   const rel = [...(related[id] ?? new Map())];
-  const desc = p.bio ?? autoDescription(id);
+  const desc = p.bio ?? [wikiBio(id), autoDescription(id)].filter(Boolean).join(' ');
+  const bioSrc = !p.bio && wikiBio(id) ? (bios[id].wiki || bios[id].wikidata) : '';
+  const pNews = p.newsAuto === false ? [] : (personNews[id] ?? []);
   page(`personas/${id}/`, layout({
     title: p.name, theme: firstTheme, path: `personas/${id}/`,
     description: desc || `${p.name}: su paso por los realities.`,
@@ -393,7 +412,7 @@ for (const id of allIds) {
 <nav class="crumbs"><a href="${url('personas/')}">Personas</a> › ${esc(p.name)}</nav>
 <section class="profile">
   ${igCode(id) ? `<figure class="profile-photo"><div class="avatar big has-photo ig-circle"><iframe src="https://www.instagram.com/p/${esc(igCode(id))}/embed/" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" loading="lazy"></iframe></div><figcaption>Foto: <a href="https://www.instagram.com/p/${esc(igCode(id))}/" rel="noopener nofollow" target="_blank">su Instagram</a></figcaption></figure>` : !photos[id] && igUser(id) ? `<figure class="profile-photo">${avatar(id, 'avatar big', 'div')}<figcaption>Foto de perfil de <a href="https://www.instagram.com/${esc(igUser(id))}/" rel="noopener nofollow" target="_blank">su Instagram</a></figcaption></figure>` : !photos[id] && getty[id] ? `<figure class="profile-photo"><div class="avatar big has-photo getty-circle"><iframe src="${esc(getty[id].src)}" title="${esc(p.name)}" scrolling="no" frameborder="0" tabindex="-1" style="aspect-ratio:${getty[id].width}/${getty[id].height}"></iframe></div><figcaption>Foto: <a href="https://www.gettyimages.es/detail/${esc(getty[id].id)}" rel="noopener nofollow" target="_blank">Getty Images</a></figcaption></figure>` : `<figure class="profile-photo">${avatar(id, 'avatar big', 'div')}${photos[id] ? `<figcaption>Foto: ${esc(photos[id].author)} · <a href="${esc(photos[id].licenseUrl || photos[id].page)}" rel="noopener nofollow license" target="_blank">${esc(photos[id].license)}</a> · <a href="${esc(photos[id].page)}" rel="noopener nofollow" target="_blank">Wikimedia Commons</a></figcaption>` : ''}</figure>`}
-  <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}
+  <div><h1>${esc(p.name)}</h1>${p.origin ? `<p class="muted">${esc(p.origin)}</p>` : ''}${desc ? `<p class="bio">${esc(desc)}</p>` : ''}${bioSrc ? `<p class="story-source">Datos biográficos: <a href="${esc(bioSrc)}" rel="noopener nofollow" target="_blank">${bioSrc.includes('wikipedia') ? 'Wikipedia' : 'Wikidata'}</a></p>` : ''}
   <ul class="socials">${socials}<li><button class="social share-btn" type="button" data-share="${esc(p.name)}" title="Compartir" aria-label="Compartir la ficha de ${esc(p.name)}">${ICON('<circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><path d="M8.6 10.500l6.800-4M8.600 13.500l6.800 4"/>')}<span class="share-label">Compartir</span></button></li></ul></div>
 </section>
 <section class="block"><h2>Paso por los realities</h2>
@@ -408,6 +427,7 @@ ${igOf(id) ? `<section class="block"><h2>Instagram</h2><div class="ig-embed">
   <script async src="https://www.instagram.com/embed.js"></script>
 </div></section>` : ''}
 ${p.now ? `<section class="block"><h2>En la actualidad</h2><p>${esc(p.now)}</p><p class="muted">Según sus redes públicas.</p></section>` : ''}
+${pNews.length ? `<section class="block"><h2>Noticias</h2>${newsList(pNews)}<p class="muted small">Titulares de medios que mencionan su nombre. Se recogen automáticamente y enlazan a la noticia original.</p></section>` : ''}
 ${rel.length ? `<section class="block"><h2>Personas relacionadas</h2><div class="related">${rel.map(([oid, texts]) => `
   <a class="related-card" href="${url(`personas/${oid}/`)}">${avatar(oid)}
   <span><strong>${esc(people[oid].name)}</strong>${texts.map((t) => `<small>${esc(t)}</small>`).join('')}</span></a>`).join('')}</div></section>` : ''}

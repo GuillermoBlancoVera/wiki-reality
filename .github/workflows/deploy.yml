@@ -33,6 +33,10 @@ jobs:
         if: github.event_name != 'push'
         run: node scripts/update-socials.mjs
 
+      - name: Actualizar noticias por persona
+        if: github.event_name != 'push'
+        run: node scripts/update-person-news.mjs
+
       - name: Buscar fotos candidatas con licencia libre (Openverse)
         if: github.event_name != 'push'
         run: node scripts/update-photo-candidates.mjs
@@ -46,7 +50,7 @@ jobs:
           if ! git diff --quiet data/; then
             git config user.name "wiki-reality-bot"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            for f in news socials photos getty photo-candidates; do [ -f "data/$f.json" ] && git add "data/$f.json"; done
+            for f in news socials photos bios person-news getty photo-candidates; do [ -f "data/$f.json" ] && git add "data/$f.json"; done
             git commit -m "Noticias, redes y fotos: actualización diaria"
             git push
           fi

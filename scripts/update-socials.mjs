@@ -33,12 +33,14 @@ const candidates = Object.entries(people)
 
 const lit = (s) => `"${s.replace(/\\/g, '\\\\').replace(/"/g, '\\"')}"@es`;
 async function query(batch) {
-  const sparql = `SELECT ?name ?item ?desc ?ig ?yt ?tt ?x ?img WHERE {
+  const sparql = `SELECT ?name ?item ?desc ?ig ?yt ?tt ?x ?img ?born ?place ?wiki WHERE {
     VALUES ?name { ${batch.map((c) => lit(c.name)).join(' ')} }
     ?item rdfs:label ?name; wdt:P31 wd:Q5.
     OPTIONAL { ?item schema:description ?desc FILTER(LANG(?desc) = "es") }
     OPTIONAL { ?item wdt:P2003 ?ig } OPTIONAL { ?item wdt:P2397 ?yt }
     OPTIONAL { ?item wdt:P7085 ?tt } OPTIONAL { ?item wdt:P2002 ?x } OPTIONAL { ?item wdt:P18 ?img }
+    OPTIONAL { ?item wdt:P569 ?born } OPTIONAL { ?item wdt:P19 ?pl. ?pl rdfs:label ?place FILTER(LANG(?place) = "es") }
+    OPTIONAL { ?wiki schema:about ?item; schema:isPartOf <https://es.wikipedia.org/> }
   }`;
   const res = await fetch('https://query.wikidata.org/sparql?format=json&query=' + encodeURIComponent(sparql), {
     headers: { 'User-Agent': 'wiki-reality-bot/1.0', Accept: 'application/sparql-results+json' },
@@ -48,6 +50,7 @@ async function query(batch) {
 }
 
 const out = {};
+const bios = {}; // id -> descripción, nacimiento y artículo de Wikipedia de la misma ficha
 const images = {}; // id -> nombre de archivo en Commons (P18 de la misma ficha de Wikidata)
 for (let i = 0; i < candidates.length; i += 60) {
   const batch = candidates.slice(i, i + 60);
@@ -58,6 +61,9 @@ for (let i = 0; i < candidates.length; i += 60) {
     const items = new Map();
     for (const r of mine) {
       const it = items.get(r.item.value) ?? { desc: r.desc?.value ?? '', s: {} };
+      if (r.born && !it.born) it.born = r.born.value.slice(0, 10);
+      if (r.place && !it.place) it.place = r.place.value;
+      if (r.wiki && !it.wiki) it.wiki = r.wiki.value;
       if (r.ig) it.s.instagram = `https://www.instagram.com/${r.ig.value}/`;
       if (r.yt) it.s.youtube = `https://www.youtube.com/channel/${r.yt.value}`;
       if (r.tt) it.s.tiktok = `https://www.tiktok.com/@${r.tt.value}`;
@@ -66,6 +72,7 @@ for (let i = 0; i < candidates.length; i += 60) {
       items.set(r.item.value, it);
     }
     const ok = [...items.values()].filter((it) => (famous.has(c.id) ? MATCH_FAMOUS : MATCH).test(it.desc));
+    if (ok.length === 1 && (ok[0].desc || ok[0].born)) bios[c.id] = { desc: ok[0].desc, born: ok[0].born, place: ok[0].place, wiki: ok[0].wiki, wikidata: [...items.keys()].find((k) => items.get(k) === ok[0]) };
     if (ok.length === 1 && ok[0].img) images[c.id] = { file: ok[0].img, wikidata: [...items.keys()].find((k) => items.get(k) === ok[0]) };
     if (ok.length === 1 && Object.keys(ok[0].s).length) out[c.id] = { ...ok[0].s, source: [...items.keys()].find((k) => items.get(k) === ok[0]) };
   }
@@ -78,6 +85,14 @@ try { old = JSON.parse(readFileSync(path, 'utf8')).people ?? {}; } catch {}
 const merged = Object.fromEntries(Object.entries({ ...old, ...out }).filter(([id]) => people[id] && people[id].socialsAuto !== false));
 writeFileSync(path, JSON.stringify({ _doc: 'Generado por scripts/update-socials.mjs desde Wikidata. No editar a mano: usa socials en people.json.', people: merged }, null, 2) + '\n');
 console.log(`Redes encontradas para ${Object.keys(out).length} de ${candidates.length} personas`);
+
+// ---------- Datos biográficos básicos (Wikidata, licencia CC0) ----------
+const biosPath = join(DATA, 'bios.json');
+let oldBios = {};
+try { oldBios = JSON.parse(readFileSync(biosPath, 'utf8')).people ?? {}; } catch {}
+const mergedBios = Object.fromEntries(Object.entries({ ...oldBios, ...bios }).filter(([id]) => people[id] && people[id].socialsAuto !== false));
+writeFileSync(biosPath, JSON.stringify({ _doc: 'Generado por scripts/update-socials.mjs desde Wikidata (CC0). Para escribir una biografía a mano usa "bio" en people.json.', people: mergedBios }, null, 2) + '\n');
+console.log(`Datos biográficos para ${Object.keys(bios).length} personas`);
 
 // ---------- Fotos con licencia libre (Wikimedia Commons) ----------
 // Solo se aceptan licencias que permiten uso comercial (la web lleva publicidad): CC0, dominio
