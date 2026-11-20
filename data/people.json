@@ -3175,7 +3175,14 @@
         "instagram": "https://www.instagram.com/oficoman/"
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
-      "origin": "Guipúzcoa"
+      "origin": "Guipúzcoa",
+      "photo": {
+        "src": "https://live.staticflickr.com/8743/16647837803_1d99442362_b.jpg",
+        "page": "https://www.flickr.com/photos/132763201@N07/16647837803",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "author": "comanmitogo (Flickr)"
+      }
     },
     "fede-rebecchi": {
       "name": "Fede Rebecchi",
@@ -4372,7 +4379,14 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
       "origin": "Madrid",
-      "job": "Recepcionista"
+      "job": "Recepcionista",
+      "photo": {
+        "src": "https://live.staticflickr.com/508/32658874195_b2c59e7a69_b.jpg",
+        "page": "https://www.flickr.com/photos/67314964@N04/32658874195",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "author": "Diversity Consulting International (Flickr)"
+      }
     },
     "antonio-tejado": {
       "name": "Antonio Tejado",
@@ -6810,7 +6824,14 @@
       },
       "socialsSource": "Cuenta seguida por el perfil oficial @ghoficial",
       "origin": "Huétor Tájar",
-      "job": "Cantante, concursante de OT 2017"
+      "job": "Cantante, concursante de OT 2017",
+      "photo": {
+        "src": "https://live.staticflickr.com/4665/38822495415_2ab26fa7bf_b.jpg",
+        "page": "https://www.flickr.com/photos/99058495@N00/38822495415",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "author": "Mario A. P. (Flickr)"
+      }
     },
     "jordi-coll": {
       "name": "Jordi Coll",
@@ -9044,7 +9065,14 @@
     "charo-reina": {
       "name": "Charo Reina",
       "origin": "Sevilla",
-      "job": "Folclórica"
+      "job": "Folclórica",
+      "photo": {
+        "src": "https://live.staticflickr.com/151/329907871_525b76183e_m.jpg",
+        "page": "https://www.flickr.com/photos/49503148006@N01/329907871",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "author": "hywell (Flickr)"
+      }
     },
     "necko-vidal": {
       "name": "Necko Vidal",
@@ -9742,7 +9770,14 @@
       "socials": {
         "instagram": "https://www.instagram.com/jorgelorenzo99/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3"
+      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
+      "photo": {
+        "src": "https://live.staticflickr.com/8544/8869649676_b152a41429_b.jpg",
+        "page": "https://www.flickr.com/photos/66463488@N06/8869649676",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "author": "Doha Stadium Plus (Flickr)"
+      }
     },
     "al-bano": {
       "name": "Al Bano"
@@ -9786,7 +9821,14 @@
       "socials": {
         "instagram": "https://www.instagram.com/officialmelb/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3"
+      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
+      "photo": {
+        "src": "https://live.staticflickr.com/6049/6228313455_e64b2e86a9.jpg",
+        "page": "https://www.flickr.com/photos/58820009@N05/6228313455",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "author": "Eva Rinaldi Celebrity Photographer (Flickr)"
+      }
     },
     "josep-pedrerol": {
       "name": "Josep Pedrerol"
@@ -9953,7 +9995,14 @@
       "socials": {
         "instagram": "https://www.instagram.com/carl_lewis_official/"
       },
-      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3"
+      "socialsSource": "Cuenta seguida por el perfil oficial @masksingera3",
+      "photo": {
+        "src": "https://live.staticflickr.com/8371/8424517646_0bf0e749b9_b.jpg",
+        "page": "https://www.flickr.com/photos/66463488@N06/8424517646",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "author": "Doha Stadium Plus (Flickr)"
+      }
     },
     "leire-martinez": {
       "name": "Leire Martínez"

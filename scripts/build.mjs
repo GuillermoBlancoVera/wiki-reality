@@ -478,7 +478,7 @@ page('aviso-legal/', layout({
 page('creditos-fotos/', layout({
   title: 'Créditos de las fotos', path: 'creditos-fotos/',
   body: `<section class="block"><h1>Créditos de las fotos</h1>
-<p class="muted">Todas las fotos proceden de Wikimedia Commons, con licencias que permiten su reutilización (dominio público, CC0, CC BY o CC BY-SA). No usamos imágenes de cadenas de televisión ni copiadas de redes sociales. Si apareces en una foto y quieres que la retiremos, <a href="${url('aviso-legal/')}">escríbenos</a>.</p>
+<p class="muted">Todas las fotos proceden de Wikimedia Commons o de Flickr, con licencias que permiten su reutilización (dominio público, CC0, CC BY o CC BY-SA). No usamos imágenes de cadenas de televisión ni copiadas de redes sociales. Si apareces en una foto y quieres que la retiremos, <a href="${url('aviso-legal/')}">escríbenos</a>.</p>
 <ul class="credits">${Object.entries(photos).filter(([id]) => people[id]).sort((a, b) => people[a[0]].name.localeCompare(people[b[0]].name, 'es')).map(([id, ph]) => `<li><a href="${url(`personas/${id}/`)}">${esc(people[id].name)}</a>: ${esc(ph.author)} · <a href="${esc(ph.licenseUrl || ph.page)}" rel="noopener nofollow license" target="_blank">${esc(ph.license)}</a> · <a href="${esc(ph.page)}" rel="noopener nofollow" target="_blank">archivo original</a></li>`).join('') || '<li>Aún no hay fotos.</li>'}</ul></section>`,
 }));
 
