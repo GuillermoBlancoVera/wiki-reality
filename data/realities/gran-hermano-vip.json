@@ -47,7 +47,53 @@
       "year": 2004,
       "days": 69,
       "presenter": "Jesús Vázquez",
-      "winner": "marlene-mourreau"
+      "winner": "marlene-mourreau",
+      "participants": [
+        {
+          "id": "juan-camus",
+          "role": "2.º finalista"
+        },
+        {
+          "id": "rody-aragon",
+          "role": "3.er finalista"
+        },
+        {
+          "id": "rosa-garcia-caro",
+          "role": "4.ª finalista"
+        },
+        {
+          "id": "carlos-orellana",
+          "role": "8.ª expulsión"
+        },
+        {
+          "id": "marta-lopez",
+          "role": "7.ª expulsión"
+        },
+        {
+          "id": "flor-aguilar",
+          "role": "6.ª expulsión"
+        },
+        {
+          "id": "coyote-dax",
+          "role": "5.ª expulsión"
+        },
+        {
+          "id": "inigo-gonzalez",
+          "role": "4.ª expulsión"
+        },
+        {
+          "id": "fabio-testi",
+          "role": "3.ª expulsión"
+        },
+        {
+          "id": "yolanda-mora",
+          "role": "2.ª expulsión"
+        },
+        {
+          "id": "angela-carrasco",
+          "role": "1.ª expulsión"
+        }
+      ]
     },
     {
       "number": 2,
@@ -55,7 +101,57 @@
       "year": 2005,
       "days": 71,
       "presenter": "Jesús Vázquez",
-      "winner": "ivonne-armant"
+      "winner": "ivonne-armant",
+      "participants": [
+        {
+          "id": "brito-arceo",
+          "role": "2.º finalista"
+        },
+        {
+          "id": "tontxu",
+          "role": "3.er finalista"
+        },
+        {
+          "id": "rosario-mohedano",
+          "role": "9.ª expulsión"
+        },
+        {
+          "id": "adans-peres",
+          "role": "8.ª expulsión"
+        },
+        {
+          "id": "isabel-pisano",
+          "role": "7.ª expulsión"
+        },
+        {
+          "id": "jacqueline-aguilera",
+          "role": "6.ª expulsión"
+        },
+        {
+          "id": "lalo-maradona",
+          "role": "5.ª expulsión"
+        },
+        {
+          "id": "king-africa",
+          "role": "4.ª expulsión"
+        },
+        {
+          "id": "martin-pareja-obregon",
+          "role": "3.ª expulsión"
+        },
+        {
+          "id": "adi-villaespesa",
+          "role": "2.ª expulsión"
+        },
+        {
+          "id": "kiko-matamoros",
+          "role": "Abandono"
+        },
+        {
+          "id": "lara-rodriguez",
+          "role": "1.ª expulsión"
+        }
+      ]
     },
     {
       "number": 3,
@@ -228,6 +324,14 @@
           "id": "carmen-lopez",
           "role": "Abandonó (día 9)",
           "eliminatedOrder": 18
+        },
+        {
+          "id": "samira-jalil",
+          "role": "2.ª aspirante menos votada"
+        },
+        {
+          "id": "miguel-frigenti",
+          "role": "1.er aspirante menos votado"
         }
       ]
     },
@@ -307,6 +411,14 @@
           "id": "tono-vip-5",
           "role": "Expulsado/a (día 12)",
           "eliminatedOrder": 15
+        },
+        {
+          "id": "kiko-matamoros",
+          "role": "Entrenador"
+        },
+        {
+          "id": "terelu-campos",
+          "role": "Infiltrada"
         }
       ]
     },
@@ -562,6 +674,14 @@
           "id": "luca-dazi",
           "role": "Expulsado/a (día 15)",
           "eliminatedOrder": 19
+        },
+        {
+          "id": "pedro-garcia-aguado",
+          "role": "Infiltrado / Rechaza concursar"
+        },
+        {
+          "id": "yiya-del-guillen",
+          "role": "Aspirante eliminada"
         }
       ]
     },
@@ -630,6 +750,14 @@
         },
         {
           "id": "arturo-requejo",
+          "role": "Concursante"
+        },
+        {
+          "id": "concursante-robot",
+          "role": "Concursante"
+        },
+        {
+          "id": "nacho-de-borbon-ghv-9",
           "role": "Concursante"
         }
       ]

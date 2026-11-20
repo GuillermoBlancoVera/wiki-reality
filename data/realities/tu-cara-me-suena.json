@@ -62,7 +62,16 @@
         "jose-manuel-soto",
         "angela-carrasco"
       ],
-      "participants": []
+      "participants": [
+        {
+          "id": "jose-salazar",
+          "role": "6.os clasificados (10%)"
+        },
+        {
+          "id": "juan-salazar",
+          "role": "6.os clasificados (10%)"
+        }
+      ]
     },
     {
       "number": 4,
@@ -152,7 +161,16 @@
         "mario-vaquerizo",
         "el-monaguillo"
       ],
-      "participants": []
+      "participants": [
+        {
+          "id": "daniel-oviedo",
+          "role": "4.os finalistas (10%)"
+        },
+        {
+          "id": "jesus-oviedo",
+          "role": "4.os finalistas (10%)"
+        }
+      ]
     },
     {
       "number": 9,
@@ -170,7 +188,16 @@
         "david-fernandez",
         "los-morancos"
       ],
-      "participants": []
+      "participants": [
+        {
+          "id": "cesar-cadaval",
+          "role": "9.os clasificados"
+        },
+        {
+          "id": "jorge-cadaval",
+          "role": "9.os clasificados"
+        }
+      ]
     },
     {
       "number": 10,

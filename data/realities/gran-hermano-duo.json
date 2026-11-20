@@ -276,7 +276,65 @@
       "year": 2026,
       "days": 55,
       "presenter": "Jorge Javier Vázquez",
-      "winner": "carlos-lozano"
+      "winner": "carlos-lozano",
+      "participants": [
+        {
+          "id": "anita-williams",
+          "role": "2.ª finalista (34,9%)"
+        },
+        {
+          "id": "gloria-gonzalez",
+          "role": "3.ª finalista"
+        },
+        {
+          "id": "juanpi-vega",
+          "role": "4.º finalista"
+        },
+        {
+          "id": "sandra-barrios",
+          "role": "10.ª expulsión"
+        },
+        {
+          "id": "manuel-gonzalez",
+          "role": "9.ª expulsión"
+        },
+        {
+          "id": "cristina-piaget",
+          "role": "8.ª expulsión"
+        },
+        {
+          "id": "antonio-canales",
+          "role": "Abandono / 7.ª expulsión"
+        },
+        {
+          "id": "raquel-salazar",
+          "role": "6.ª expulsión"
+        },
+        {
+          "id": "andrea-sabatini",
+          "role": "5.ª expulsión"
+        },
+        {
+          "id": "sonia-madoc",
+          "role": "4.ª expulsión"
+        },
+        {
+          "id": "mario-jefferson",
+          "role": "3.ª expulsión"
+        },
+        {
+          "id": "belen-rodriguez",
+          "role": "2.ª expulsión / Visita"
+        },
+        {
+          "id": "carmen-borrego",
+          "role": "Abandono voluntario"
+        },
+        {
+          "id": "john-guts",
+          "role": "1.ª expulsión"
+        }
+      ]
     }
   ]
 }

@@ -243,6 +243,10 @@
           "id": "andres-gh-3",
           "role": "Expulsado/a",
           "eliminatedOrder": 14
+        },
+        {
+          "id": "sandra",
+          "role": "Eliminada frente a Javier"
         }
       ]
     },
@@ -678,6 +682,18 @@
           "id": "maite-franco",
           "role": "Abandonó (día 4)",
           "eliminatedOrder": 17
+        },
+        {
+          "id": "pamela-de-los-santos",
+          "role": "2.as finalistas"
+        },
+        {
+          "id": "agustin",
+          "role": "Alternativa a la repesca"
+        },
+        {
+          "id": "aramoga-bravo",
+          "role": "Eliminada frente a Lucy"
         }
       ]
     },
@@ -768,6 +784,14 @@
           "id": "german-gh-10",
           "role": "Expulsado/a (día 3)",
           "eliminatedOrder": 18
+        },
+        {
+          "id": "julito-gonzalez",
+          "role": "14.ª expulsión"
+        },
+        {
+          "id": "nani-sanchez",
+          "role": "9.ª expulsión / Intrusa"
         }
       ]
     },
@@ -868,6 +892,14 @@
           "id": "gonzalo-gh-11",
           "role": "Expulsado/a por la organización (día 12)",
           "eliminatedOrder": 20
+        },
+        {
+          "id": "carolina-lavin",
+          "role": "Eliminada / 10.ª expulsión / Reserva"
+        },
+        {
+          "id": "carolina-sobe",
+          "role": "8.ª expulsión / Reserva"
         }
       ]
     },
@@ -1088,6 +1120,18 @@
           "id": "zulema-gh-13",
           "role": "Expulsado/a (día 8)",
           "eliminatedOrder": 22
+        },
+        {
+          "id": "maria-sanchez",
+          "role": "+1 / 7.ª expulsión / 2.ª finalista"
+        },
+        {
+          "id": "jacobo-alvarez",
+          "role": "Eliminado frente a Verónica (prueba)"
+        },
+        {
+          "id": "thaisi",
+          "role": "Eliminada frente a Verónica (prueba)"
         }
       ]
     },
@@ -1218,6 +1262,14 @@
           "id": "giulia-tortella",
           "role": "Expulsado/a (día 8)",
           "eliminatedOrder": 26
+        },
+        {
+          "id": "pilar-ayllon",
+          "role": "Eliminada frente a Leticia por sus compañeros"
+        },
+        {
+          "id": "dobromira-marianova",
+          "role": "Eliminada frente a Miriam por Kristian"
         }
       ]
     },
@@ -1602,6 +1654,10 @@
           "id": "nerea-gh-18",
           "role": "Expulsado/a (día 12)",
           "eliminatedOrder": 21
+        },
+        {
+          "id": "karlos-bernal",
+          "role": "15.ª expulsión"
         }
       ]
     },
@@ -1707,7 +1763,89 @@
       "days": 42,
       "presenter": "Jorge Javier Vázquez",
       "winner": "rocio-gallardo",
-      "notes": "La edición más corta de la historia del formato en Telecinco."
+      "notes": "La edición más corta de la historia del formato en Telecinco.",
+      "participants": [
+        {
+          "id": "cristian-orvich",
+          "role": "2.º finalista"
+        },
+        {
+          "id": "aquilino-jimenez",
+          "role": "3.er finalista"
+        },
+        {
+          "id": "raul-martinez",
+          "role": "4.º finalista"
+        },
+        {
+          "id": "desiree-torrecilla",
+          "role": "5.ª finalista"
+        },
+        {
+          "id": "edurne-gonzalez",
+          "role": "14.ª expulsión"
+        },
+        {
+          "id": "jonay-santana",
+          "role": "13.ª expulsión"
+        },
+        {
+          "id": "aroa-carvajal",
+          "role": "12.ª expulsión"
+        },
+        {
+          "id": "joon-choi",
+          "role": "11.ª expulsión"
+        },
+        {
+          "id": "patricia-gawron",
+          "role": "10.ª expulsión"
+        },
+        {
+          "id": "belen-montes",
+          "role": "9.ª expulsión"
+        },
+        {
+          "id": "paula-paya",
+          "role": "8.ª expulsión"
+        },
+        {
+          "id": "mamadou-sacko",
+          "role": "7.ª expulsión"
+        },
+        {
+          "id": "jose-manuel-cruz",
+          "role": "6.ª expulsión"
+        },
+        {
+          "id": "inigo-tina",
+          "role": "Abandono"
+        },
+        {
+          "id": "almudena-espinosa",
+          "role": "5.ª expulsión"
+        },
+        {
+          "id": "lorena-rodriguez",
+          "role": "4.ª expulsión"
+        },
+        {
+          "id": "diego-blazquez",
+          "role": "3.ª expulsión"
+        },
+        {
+          "id": "sofia-aunon",
+          "role": "2.ª expulsión"
+        },
+        {
+          "id": "noah-diaz",
+          "role": "1.ª expulsión"
+        },
+        {
+          "id": "marcos-blazquez",
+          "role": "Rechaza entrar"
+        }
+      ]
     },
     {
       "number": 0,

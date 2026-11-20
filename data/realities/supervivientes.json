@@ -38,19 +38,197 @@
       "number": 1,
       "title": "1ª edición",
       "year": 2000,
-      "winner": "xavier-monjonell"
+      "winner": "xavier-monjonell",
+      "participants": [
+        {
+          "id": "maria-elena-garcia",
+          "role": "2.ª finalista (2/7)"
+        },
+        {
+          "id": "aketza-sanchez",
+          "role": "3.er finalista (1/1)"
+        },
+        {
+          "id": "ana-maria-fernandez",
+          "role": "3.ª expulsada (4/4) / 4.ª finalista (1/1)"
+        },
+        {
+          "id": "victor-bodas",
+          "role": "12.º expulsado (4/5)"
+        },
+        {
+          "id": "jonathan-garcia",
+          "role": "11.º expulsado (4/6)"
+        },
+        {
+          "id": "carlos-bolopo",
+          "role": "10.º expulsado (4/7)"
+        },
+        {
+          "id": "susana-redondo",
+          "role": "9.ª expulsada (7/8)"
+        },
+        {
+          "id": "jesus-maria-perez",
+          "role": "8.º expulsado (5/9)"
+        },
+        {
+          "id": "iratxe-luengas",
+          "role": "7.ª expulsada (4/10)"
+        },
+        {
+          "id": "sacha-de-ignacio",
+          "role": "6.ª expulsada (4/6)"
+        },
+        {
+          "id": "veronica-valverde",
+          "role": "5.ª expulsada (5/7)"
+        },
+        {
+          "id": "eduard-salas",
+          "role": "4.º expulsado (5/6)"
+        },
+        {
+          "id": "juan-antonio-ruiz",
+          "role": "Abandono forzado"
+        },
+        {
+          "id": "jane-young",
+          "role": "2.ª expulsada (4/7)"
+        },
+        {
+          "id": "maria-elena-alconchel",
+          "role": "1.ª expulsada (6/8)"
+        }
+      ]
     },
     {
       "number": 2,
       "title": "2ª edición",
       "year": 2001,
-      "winner": "alfredo-cortina"
+      "winner": "alfredo-cortina",
+      "participants": [
+        {
+          "id": "freddy-cortina",
+          "role": "Ganador (6/7)"
+        },
+        {
+          "id": "antonio-amate",
+          "role": "2.ª finalista (1/7)"
+        },
+        {
+          "id": "esther-barcena",
+          "role": "3.ª finalista (Pierde duelo)"
+        },
+        {
+          "id": "andres-sanz",
+          "role": "12.º expulsado (3/4)"
+        },
+        {
+          "id": "francesca-caballeria",
+          "role": "11.ª expulsada (4/5)"
+        },
+        {
+          "id": "beatriz-sanchez",
+          "role": "10.ª expulsada (4/6)"
+        },
+        {
+          "id": "amagoia-cano",
+          "role": "9.ª expulsada (4/7)"
+        },
+        {
+          "id": "kaky-lopez",
+          "role": "8.º expulsado (4/8)"
+        },
+        {
+          "id": "maria-penate",
+          "role": "7.ª expulsada (5/9)"
+        },
+        {
+          "id": "adriana-ortemberg",
+          "role": "6.ª expulsada (6/10)"
+        },
+        {
+          "id": "ricardo-agullo",
+          "role": "5.º expulsado (3/5)"
+        },
+        {
+          "id": "domingo-aleman",
+          "role": "4.º expulsado (6/7)"
+        },
+        {
+          "id": "egoitz-lorenzo",
+          "role": "Abandono voluntario"
+        },
+        {
+          "id": "rosy-escobar",
+          "role": "3.ª expulsada (7/8)"
+        },
+        {
+          "id": "coco-pallol",
+          "role": "2.º expulsado (6/7)"
+        },
+        {
+          "id": "mayte-portela",
+          "role": "1.ª expulsada (5/8)"
+        }
+      ]
     },
     {
       "number": 3,
       "title": "Supervivientes 2006",
       "year": 2006,
-      "winner": "carmen-russo"
+      "winner": "carmen-russo",
+      "participants": [
+        {
+          "id": "veronica-romero",
+          "role": "2.ª finalista (44,4 %)"
+        },
+        {
+          "id": "jesus-de-manuel",
+          "role": "3.er finalista"
+        },
+        {
+          "id": "jordi-rosello",
+          "role": "10.º expulsado"
+        },
+        {
+          "id": "aida-yespica",
+          "role": "9.ª expulsada (89,8 %)"
+        },
+        {
+          "id": "veronica-hidalgo",
+          "role": "8.ª expulsada (88 %)"
+        },
+        {
+          "id": "marta-valverde",
+          "role": "7.ª expulsada (86,9 %) / (42 %)"
+        },
+        {
+          "id": "angel-herrero",
+          "role": "6.º expulsado (54,5 %)"
+        },
+        {
+          "id": "pipi-estrada",
+          "role": "5.º expulsado (50,3 %) / (30 %)"
+        },
+        {
+          "id": "jose-luis-luna",
+          "role": "4.º expulsado (55,8 %)"
+        },
+        {
+          "id": "pepe-da-rosa-jr",
+          "role": "3.er expulsado (61,6 %)"
+        },
+        {
+          "id": "esmeralda-marugan",
+          "role": "2.ª expulsada (59,8 %)"
+        },
+        {
+          "id": "marlene-mourreau",
+          "role": "1.ª expulsada (39,5 %)"
+        }
+      ]
     },
     {
       "number": 4,
@@ -255,7 +433,89 @@
       "number": 7,
       "title": "Supervivientes 2010",
       "year": 2010,
-      "winner": "maria-jose-fernandez"
+      "winner": "maria-jose-fernandez",
+      "participants": [
+        {
+          "id": "deborah-arenas",
+          "role": "2.ª finalista (49,6 %)"
+        },
+        {
+          "id": "javier-parrado",
+          "role": "3.er finalista (10,32 %)"
+        },
+        {
+          "id": "malena-gracia",
+          "role": "14.ª expulsada (50,7 %)"
+        },
+        {
+          "id": "beatriz-trapote",
+          "role": "13.ª expulsada (70 %)"
+        },
+        {
+          "id": "sonia-arenas",
+          "role": "12.ª expulsada (82 %)"
+        },
+        {
+          "id": "miguel-angel-perdiguero",
+          "role": "11.º expulsado (70 %)"
+        },
+        {
+          "id": "guillermo-martin",
+          "role": "10.º expulsado (38 %)"
+        },
+        {
+          "id": "rafa-mora",
+          "role": "9.º expulsado (87 %)"
+        },
+        {
+          "id": "roman-irigoyen",
+          "role": "Lesionado"
+        },
+        {
+          "id": "mireia-canalda",
+          "role": "8.ª expulsada (77 %)"
+        },
+        {
+          "id": "oscar-higares",
+          "role": "7.º expulsado (49 %)"
+        },
+        {
+          "id": "jose-manuel-parada",
+          "role": "Invitado"
+        },
+        {
+          "id": "victor-roldan",
+          "role": "6.º expulsado (53 %)"
+        },
+        {
+          "id": "miguel-macias",
+          "role": "Abandono"
+        },
+        {
+          "id": "javier-quinones",
+          "role": "5.º expulsado (35 %)"
+        },
+        {
+          "id": "carla-pereyra",
+          "role": "4.ª expulsada (45 %)"
+        },
+        {
+          "id": "bea-la-legionaria",
+          "role": "3.ª expulsada (80 %)"
+        },
+        {
+          "id": "nerea-echaide",
+          "role": "2.ª expulsada (52 %)"
+        },
+        {
+          "id": "consuelo-berlanga",
+          "role": "1.ª expulsada (75 %)"
+        },
+        {
+          "id": "miriam-blanco",
+          "role": "Aspirante / Eliminada"
+        }
+      ]
     },
     {
       "number": 8,
@@ -1475,6 +1735,26 @@
         {
           "id": "alex-de-la-croix",
           "role": "Concursante"
+        },
+        {
+          "id": "borja-silva",
+          "role": "13.° expulsado (32%)"
+        },
+        {
+          "id": "dario-linero",
+          "role": "12.º expulsado (47,1%)"
+        },
+        {
+          "id": "almudena-porras",
+          "role": "10.ª expulsada (49,7%)"
+        },
+        {
+          "id": "nagore-robles",
+          "role": "9.ª expulsada (47,3%)"
+        },
+        {
+          "id": "alejandra-de-la-croix",
+          "role": "Abandono voluntario"
         }
       ]
     },
