@@ -310,5 +310,5 @@ h1, h2, h3 { font-family: var(--font-display); font-weight: 600; letter-spacing:
 
 .cover-embeds { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 400px)); gap: 1rem; }
 .cover-embeds figure { margin: 0; }
-.cover-embeds iframe { width: 100%; height: 560px; border: 1px solid var(--border); border-radius: 12px; background: #fff; }
+.cover-embeds iframe { width: 100%; height: 500px; border: 1px solid var(--border); border-radius: 12px; background: #fff; }
 .cover-embeds figcaption { font-size: .85rem; color: var(--muted); margin-top: .35rem; }
