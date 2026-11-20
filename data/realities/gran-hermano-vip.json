@@ -572,5 +572,23 @@
       "presenter": "Jorge Javier Vázquez",
       "notes": "Edición en emisión."
     }
-  ]
+  ],
+  "official": {
+    "name": "Mediaset Infinity",
+    "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano-vip/",
+    "links": [
+      {
+        "name": "Concursantes",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano-vip/personajes"
+      },
+      {
+        "name": "Galas",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano-vip/gh-vip-9/galas/"
+      },
+      {
+        "name": "Top vídeos",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano-vip/gh-vip-9/top-videos/"
+      }
+    ]
+  }
 }

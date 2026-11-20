@@ -1533,5 +1533,47 @@
       "group": "All Stars"
     }
   ],
-  "notes": "Finalistas de las ediciones anteriores a 2025 y orden de expulsiones pendientes de completar."
+  "notes": "Finalistas de las ediciones anteriores a 2025 y orden de expulsiones pendientes de completar.",
+  "official": {
+    "name": "Mediaset Infinity",
+    "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/",
+    "links": [
+      {
+        "name": "Concursantes",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/personajes"
+      },
+      {
+        "name": "Galas",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/all-stars-2026/galas/"
+      },
+      {
+        "name": "Conexión Honduras",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/all-stars-2026/conexion-honduras/"
+      },
+      {
+        "name": "Tierra de Nadie",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/all-stars-2026/tierra-de-nadie/"
+      },
+      {
+        "name": "El debate final",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/all-stars-2026/el-debate-final/"
+      },
+      {
+        "name": "Resúmenes diarios",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/all-stars-2026/resumenes-diarios/"
+      },
+      {
+        "name": "Top vídeos",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/all-stars-2026/top-videos/"
+      },
+      {
+        "name": "Noticias",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/noticias"
+      },
+      {
+        "name": "Fotos",
+        "url": "https://www.mediasetinfinity.es/programas-tv/supervivientes/fotos"
+      }
+    ]
+  }
 }

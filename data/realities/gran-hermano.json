@@ -1774,5 +1774,35 @@
       "group": "Especiales"
     }
   ],
-  "notes": "Finalistas de GH 14 en adelante, concursantes y orden de expulsiones pendientes de completar."
+  "notes": "Finalistas de GH 14 en adelante, concursantes y orden de expulsiones pendientes de completar.",
+  "official": {
+    "name": "Mediaset Infinity",
+    "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/",
+    "links": [
+      {
+        "name": "Galas",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/gh20/galas/"
+      },
+      {
+        "name": "Debates",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/gh20/debates/"
+      },
+      {
+        "name": "Resúmenes diarios",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/gh20/resumenes-diarios/"
+      },
+      {
+        "name": "Última hora",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/gh20/ultima-hora/"
+      },
+      {
+        "name": "La vida en directo",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/gh20/la-vida-en-directo/"
+      },
+      {
+        "name": "Top vídeos",
+        "url": "https://www.mediasetinfinity.es/programas-tv/gran-hermano/gh20/top-videos/"
+      }
+    ]
+  }
 }
