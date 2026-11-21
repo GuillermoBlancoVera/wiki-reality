@@ -208,7 +208,27 @@
     "lia-romero": "2026-11-20",
     "cristina-porta": "2026-11-20",
     "katrin-ortega": "2026-11-20",
-    "paloma-gonzalez": "2026-11-20"
+    "paloma-gonzalez": "2026-11-20",
+    "carlos-corbacho": "2026-11-21",
+    "robert-mendoza": "2026-11-21",
+    "concursante-robot": "2026-11-21",
+    "juan-betancourt": "2026-11-21",
+    "nicolas-coronado": "2026-11-21",
+    "laura-sanchez": "2026-11-21",
+    "nico-abad": "2026-11-21",
+    "xavier-deltell": "2026-11-21",
+    "pepe-barroso-silva": "2026-11-21",
+    "nil-ojeda": "2026-11-21",
+    "daniel-illescas": "2026-11-21",
+    "tania-llasera": "2026-11-21",
+    "palito-dominguin-bose": "2026-11-21",
+    "sandra-gago": "2026-11-21",
+    "francis-lorenzo": "2026-11-21",
+    "pocholo-martinez-bordiu": "2026-11-21",
+    "raul-gomez": "2026-11-21",
+    "topacio-fresh": "2026-11-21",
+    "torito": "2026-11-21",
+    "jorge-luengo": "2026-11-21"
   },
   "people": {
     "jesus-vazquez": [
@@ -1400,6 +1420,108 @@
         "author": "Ayuntamiento de Cartagena Periódico LA VERDAD",
         "license": "CC0",
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+        "source": "wikimedia"
+      }
+    ],
+    "juan-betancourt": [
+      {
+        "src": "https://live.staticflickr.com/65535/54402123885_d70cd01bd3_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/f660abc9-d154-4376-b395-f355e058d4d0/thumb/",
+        "page": "https://www.flickr.com/photos/141571345@N02/54402123885",
+        "title": "Missing Vulnerable Adult - Juan Betancourt",
+        "author": "NotifyNYC",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": "flickr"
+      }
+    ],
+    "nicolas-coronado": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Andr%C3%A9s_Nicol%C3%A1s_Coronado.jpg",
+        "thumb": "https://api.openverse.org/v1/images/973abf83-6226-46bf-9f66-4c8e82537163/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=120317575",
+        "title": "Andrés Nicolás Coronado",
+        "author": "Aimdigital",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "laura-sanchez": [
+      {
+        "src": "https://live.staticflickr.com/4010/4530122269_e8b5beb41f_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/a24a1eab-21fd-49d3-aa7f-8152258d9225/thumb/",
+        "page": "https://www.flickr.com/photos/49355527@N05/4530122269",
+        "title": "Laura Sánchez Piñón formaliza a presentación da súa candidatura ao Reitorado da USC",
+        "author": "CreaFuturo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      },
+      {
+        "src": "https://live.staticflickr.com/4043/4530122415_42fa874036_b.jpg",
+        "thumb": "https://api.openverse.org/v1/images/21cc1417-7c40-4c13-8fb4-41be26af15ba/thumb/",
+        "page": "https://www.flickr.com/photos/49355527@N05/4530122415",
+        "title": "Laura Sánchez Piñón formaliza a presentación da súa candidatura ao Reitorado da USC",
+        "author": "CreaFuturo",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": "flickr"
+      }
+    ],
+    "daniel-illescas": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Daniel_Illescas.jpg",
+        "thumb": "https://api.openverse.org/v1/images/177d28b5-67e3-4d47-a3de-e413731b4ed1/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=93980553",
+        "title": "Daniel Illescas",
+        "author": "Daniel Illescas",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "raul-gomez": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ra%C3%BAl_G%C3%B3mez_Pato%2C_Catoira%2C_2020.jpg",
+        "thumb": "https://api.openverse.org/v1/images/93da71f4-e004-4316-bc93-29cf6a39c43b/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=96242381",
+        "title": "Raúl Gómez Pato, Catoira, 2020",
+        "author": "Rgpato",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ra%C3%BAl_G%C3%B3mez_Samperio_2017.jpg",
+        "thumb": "https://api.openverse.org/v1/images/c4260b73-d9f2-4a14-b48a-4f7660d8e041/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=93614441",
+        "title": "Raúl Gómez Samperio 2017",
+        "author": "Diablocojuelo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      },
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ra%C3%BAl_G%C3%B3mez_Jattin.jpg",
+        "thumb": "https://api.openverse.org/v1/images/76e34890-3d37-4b34-8cc0-a073304d0d1c/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=129764978",
+        "title": "Raúl Gómez Jattin",
+        "author": "1234 luis f",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "wikimedia"
+      }
+    ],
+    "topacio-fresh": [
+      {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Topacio_Fresh_en_los_reconocimientos_8_de_Marzo._D%C3%ADa_de_la_Mujer_%282018%29.jpg",
+        "thumb": "https://api.openverse.org/v1/images/505eb6ba-95d5-440f-b978-1f268c493655/thumb/",
+        "page": "https://commons.wikimedia.org/w/index.php?curid=68255324",
+        "title": "Topacio Fresh en los reconocimientos 8 de Marzo. Día de la Mujer (2018)",
+        "author": "Cristina Cifuentes",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
         "source": "wikimedia"
       }
     ]
